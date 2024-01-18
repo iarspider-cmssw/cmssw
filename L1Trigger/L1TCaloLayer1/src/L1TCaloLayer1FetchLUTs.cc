@@ -1,3 +1,4 @@
+// -- test 3 --
 // This function fetches Layer1 ECAL and HCAL LUTs from CMSSW configuration
 // It is provided as a global helper function outside of class structure
 // so that it can be shared by L1CaloLayer1 and L1CaloLayer1Spy

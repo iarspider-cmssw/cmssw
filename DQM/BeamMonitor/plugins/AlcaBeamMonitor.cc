@@ -1,3 +1,5 @@
+// -- test 4 --
+// -- test 6 --
 /*
  * \file AlcaBeamMonitor.cc
  * \author Lorenzo Uplegger/FNAL
