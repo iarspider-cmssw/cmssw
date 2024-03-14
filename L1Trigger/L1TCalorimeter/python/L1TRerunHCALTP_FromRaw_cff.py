@@ -14,3 +14,6 @@ L1TRerunHCALTP_FromRAW = cms.Task(
     hcalDigis
     , simHcalTriggerPrimitiveDigis
 )
+# foo bar baz
+# uoIfo7jtqGmGq
+# bmn1gIgBe11gs

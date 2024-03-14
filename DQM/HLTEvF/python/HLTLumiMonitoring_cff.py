@@ -5,3 +5,6 @@ from DQMOffline.Trigger.DQMOffline_LumiMonitoring_cff import *
 lumiOnlineMonitorHLTsequence = cms.Sequence(
     lumiMonitorHLTsequence
 )
+# foo bar baz
+# ERmnH4D7Yju14
+# AbcPyvYysRc61

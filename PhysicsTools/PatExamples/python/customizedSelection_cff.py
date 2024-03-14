@@ -9,3 +9,6 @@ isolatedPatMuons = selectedPatMuons.clone(src="selectedPatMuons", cut="pt>10 & a
 customSelection = cms.Sequence(
     isolatedPatElectrons *isolatedPatMuons
     )
+# foo bar baz
+# vPK5YBOumQe81
+# 7jVFI5nAQIORy

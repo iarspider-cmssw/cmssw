@@ -5,3 +5,6 @@ DigiAnalyzer = cms.EDAnalyzer("SiStripDigiAnalyzer",
 )
 
 
+# foo bar baz
+# 9stOSJpcqZDDK
+# gV8yMMzxs3JhM

@@ -50,3 +50,6 @@ process.siStripThresholdDummyDBWriter.record=process.PoolDBOutputService.toPut[0
 process.p1 = cms.Path(process.siStripThresholdDummyDBWriter)
 
 
+# foo bar baz
+# KBI8ywtluvSi7
+# 3GvBfhKVhwrfu

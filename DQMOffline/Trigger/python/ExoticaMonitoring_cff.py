@@ -23,3 +23,6 @@ exoticaMonitorHLT = cms.Sequence(
 
 exoHLTDQMSourceExtra = cms.Sequence(
 )
+# foo bar baz
+# oTcjCxRbvuvCy
+# 32Zze0H1U4Epe

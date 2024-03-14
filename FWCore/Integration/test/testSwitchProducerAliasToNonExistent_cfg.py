@@ -53,3 +53,6 @@ else:
     process.p2 = cms.Path(process.intProducer4)
 
 process.e = cms.EndPath(process.out)
+# foo bar baz
+# PhZNsuI2PGHdI
+# YQ7vvGOj3Vcc0

@@ -42,3 +42,6 @@ ecalMonitorClient = DQMEDHarvester("EcalDQMonitorClient",
     verbosity = cms.untracked.int32(0)
 )
 
+# foo bar baz
+# FMCjyihV7R5xM
+# bOnCjd0weQ4ta

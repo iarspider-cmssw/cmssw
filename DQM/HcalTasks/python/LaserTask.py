@@ -39,3 +39,6 @@ laserTask = DQMEDAnalyzer(
 	thresh_timingreflm_HO = cms.untracked.vdouble(-50., 20.),
 	thresh_timingreflm_HF = cms.untracked.vdouble(-50., 20.),
 )
+# foo bar baz
+# tTp2hiXLAcAmt
+# 1wA1Al7i0Ll49

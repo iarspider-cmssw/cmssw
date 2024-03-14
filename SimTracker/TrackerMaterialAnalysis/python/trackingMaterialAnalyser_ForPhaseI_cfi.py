@@ -79,3 +79,6 @@ trackingMaterialAnalyser = cms.EDAnalyzer("TrackingMaterialAnalyser",
 "TrackerRecMaterialTECDisk8",
     )
 )
+# foo bar baz
+# EcoZZ3s8UNkjk
+# vgoZvwgfGbu6W

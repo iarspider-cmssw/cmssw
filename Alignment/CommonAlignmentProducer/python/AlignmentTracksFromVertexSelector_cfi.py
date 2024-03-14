@@ -5,3 +5,6 @@ AlignmentTracksFromVertexSelector = alignmentTrackFromVertexSelectorModule.clone
                                                                                  vertices = cms.InputTag("offlinePrimaryVertices"),
                                                                                  vertexIndex = cms.uint32(0),
                                                                                  filter = cms.bool(False))
+# foo bar baz
+# 0Wm3xbnCxOhdu
+# jOQOMcjFk2KzJ

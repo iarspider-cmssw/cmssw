@@ -9,3 +9,6 @@ InitRootHandlers = cms.Service("InitRootHandlers",
     EnableIMT = cms.untracked.bool(False),
     AbortOnSignal = cms.untracked.bool(True)
 )
+# foo bar baz
+# gJ1U4ejEcbQCN
+# sJm40piuZ3d4O

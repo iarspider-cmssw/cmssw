@@ -15,3 +15,6 @@ hltPhase2L3Muons = cms.EDProducer("MuonIDFilterProducerForHLT",
     requiredTypeMask = cms.uint32(0),
     typeMuon = cms.uint32(0)
 )
+# foo bar baz
+# yjUY657VDr8o7
+# Gi4jTAdIGIYRV

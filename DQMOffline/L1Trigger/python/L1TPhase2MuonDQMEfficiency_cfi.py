@@ -35,3 +35,6 @@ l1tPhase2MuonEfficiency = DQMEDHarvester("DQMGenericClient",
     outputFileName = cms.untracked.string(""),
     verbose = cms.untracked.uint32(4)
 )
+# foo bar baz
+# Tik88ebaNKeTG
+# fvi7IyA1bhsy6

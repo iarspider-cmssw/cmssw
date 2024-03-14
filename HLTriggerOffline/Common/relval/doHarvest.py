@@ -138,3 +138,6 @@ print('\n\nCreated:\n\t %(pwd)s/%(pf)s \n\t %(pwd)s/%(cf)s' \
       % {'pwd' : os.environ["PWD"], 'pf' : pyout_name, 'cf' : crab_name})
 
 print("Done.")
+# foo bar baz
+# Xr4Vp9z7hwGzj
+# ibJFhWmFSCLke

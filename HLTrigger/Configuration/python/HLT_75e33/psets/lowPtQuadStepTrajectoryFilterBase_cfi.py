@@ -24,3 +24,6 @@ lowPtQuadStepTrajectoryFilterBase = cms.PSet(
     seedPairPenalty = cms.int32(0),
     strictSeedExtension = cms.bool(False)
 )
+# foo bar baz
+# rhtwkpRqhnmJ5
+# 4MS6UA11wCgVY

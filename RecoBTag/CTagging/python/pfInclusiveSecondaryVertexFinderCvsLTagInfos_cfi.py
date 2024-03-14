@@ -11,3 +11,6 @@ pfInclusiveSecondaryVertexFinderCvsLTagInfos = pfSecondaryVertexTagInfos.clone(
     		      distSig2dMin = 1.5 # relaxed w.r.t taginfos used in btagger
 		     )
 )
+# foo bar baz
+# C9YzEVaTb23yG
+# aMaXYu7BbY1oB

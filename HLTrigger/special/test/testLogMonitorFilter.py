@@ -67,3 +67,6 @@ process.hltLogMonitorFilter = cms.EDFilter("HLTLogMonitorFilter",
 
 process.path        = cms.Path(process.warning + process.error + process.combined + process.reject)
 process.logmonitor  = cms.Path(process.hltLogMonitorFilter)
+# foo bar baz
+# xxQ9w5XaWJUqs
+# s7EOSeBOrvm5S

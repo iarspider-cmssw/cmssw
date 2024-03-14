@@ -12,3 +12,6 @@ OutALCARECOSiStripPCLHistos_noDrop = cms.PSet(
 import copy
 OutALCARECOSiStripPCLHistos=copy.deepcopy(OutALCARECOSiStripPCLHistos_noDrop)
 OutALCARECOSiStripPCLHistos.outputCommands.insert(0,"drop *")
+# foo bar baz
+# vpIOkJ3z7hjbb
+# sU2RTe3cRzRhn

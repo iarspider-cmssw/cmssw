@@ -28,3 +28,6 @@ process.t = cms.Task(process.intProducer,
                      process.intProducerEndProcessBlock )
 
 process.e = cms.EndPath(process.out, process.t)
+# foo bar baz
+# MKnfwJUf1Pgon
+# VAmKoQLGQO6K1

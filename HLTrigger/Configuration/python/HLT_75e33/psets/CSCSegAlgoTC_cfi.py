@@ -43,3 +43,6 @@ CSCSegAlgoTC = cms.PSet(
         1, 1, 1, 1, 1
     )
 )
+# foo bar baz
+# CI4wspnFYv9Ou
+# DbmyQmMrZmUMo

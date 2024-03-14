@@ -203,3 +203,6 @@ process.looper = cms.Looper(
 
     debug = cms.untracked.int32(0),
 )
+# foo bar baz
+# ePcWYD1jh7qEp
+# 5vRvf351YYhN6

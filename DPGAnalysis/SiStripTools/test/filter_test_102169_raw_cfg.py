@@ -24,3 +24,6 @@ process.p0 = cms.Path(process.sinit +
                       process.PotentialTIBTECHugeEvents +
                       process.eventtimedistribfilter )
 
+# foo bar baz
+# uXF5X5YR15mCJ
+# dy1FZwYtUeNEO

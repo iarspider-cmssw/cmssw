@@ -17,3 +17,6 @@ HLTDiphoton3023IsoCaloIdUnseededTask = cms.Task(
     hltEgammaHcalPFClusterIsoUnseeded,
     hltEgammaHoverEUnseeded
 )
+# foo bar baz
+# Zf8nlgW6gdVtP
+# TRDFyy6yJFatX

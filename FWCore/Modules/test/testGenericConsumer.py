@@ -47,3 +47,6 @@ process.path = cms.Path(process.consumer, process.task)
 # Print the summary of all modules that were run 
 # The content of the summary is tested by testGenericConsumer.sh
 process.options.wantSummary = True
+# foo bar baz
+# iz5kPYRB63kUf
+# u0BHXiKR0C9uJ

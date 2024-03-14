@@ -17,3 +17,6 @@ server = DQMServerSpec (
     DQMBackendSpec('dqm', 'Client', [ '--collector localhost:9090' ], waitFor = 'commands'),
 #    DQMBackendSpec('csc', 'Layout', [ CONFIGDIR + '/csc-layouts.py' ])
   ])
+# foo bar baz
+# Oc8MXLNnstMXw
+# uuPxaWOn3Laxp

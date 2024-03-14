@@ -16,3 +16,6 @@ siStripClustersBottom = cms.EDProducer("StripClusterSelectorTopBottom",
     label = cms.InputTag("siStripClusters"),
     y = cms.double(-1)
 )
+# foo bar baz
+# Tk3i7D4fvLKUq
+# XFtZ8iOXzRPUy

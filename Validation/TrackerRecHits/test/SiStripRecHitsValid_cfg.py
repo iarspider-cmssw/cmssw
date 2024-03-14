@@ -32,3 +32,6 @@ process.source = cms.Source("PoolSource",
 process.p1 = cms.Path(process.mix*process.siStripMatchedRecHits*process.stripRecHitsValid)
 
 
+# foo bar baz
+# ccq2HU47PKt1y
+# vP4NctArlxzk1

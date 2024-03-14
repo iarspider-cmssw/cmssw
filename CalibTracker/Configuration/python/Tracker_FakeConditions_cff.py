@@ -15,3 +15,6 @@ from CalibTracker.Configuration.SiPixel_FakeConditions_cff import *
 #
 from CalibTracker.Configuration.SiStrip_FakeConditions_cff import *
 
+# foo bar baz
+# ZU5nr49ckOG5h
+# XlnRvmxeN4xAr

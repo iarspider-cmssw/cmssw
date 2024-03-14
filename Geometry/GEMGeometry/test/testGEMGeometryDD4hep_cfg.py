@@ -37,3 +37,6 @@ process.MessageLogger.cout = cms.untracked.PSet(
     # GEMGeometryBuilderFromDDD   = cms.untracked.PSet( limit = cms.untracked.int32(-1) ),
     # GEMNumberingScheme            = cms.untracked.PSet( limit = cms.untracked.int32(-1) ),
 )
+# foo bar baz
+# 8vzTi5xRb36iR
+# wPkvOu7PHwJ9N

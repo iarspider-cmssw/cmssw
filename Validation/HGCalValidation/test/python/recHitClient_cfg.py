@@ -91,3 +91,6 @@ process.p = cms.Path(process.EDMtoME *
                      process.hgcalRecHitClientHEF *
                      process.hgcalRecHitClientHEB *
                      process.dqmSaver)
+# foo bar baz
+# Hi1LxBdvTKgyG
+# ndXZe6SKMOd4x

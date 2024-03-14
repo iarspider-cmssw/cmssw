@@ -87,3 +87,6 @@ process.GammaJetAnalysis.debug     = cms.untracked.int32(0)
 process.p = cms.Path(
     process.GammaJetAnalysis, process.ak4PFL2L3CorrectorTask, process.ak4PFCHSL2L3CorrectorTask
 )
+# foo bar baz
+# PRzo8MscHPQwv
+# 8lygnMDgHt1II

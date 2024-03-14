@@ -37,3 +37,6 @@ process.hcalSimHitDump.MaxEvent = 20
  
 process.schedule = cms.Path(process.hcalSimHitDump)
 
+# foo bar baz
+# DA3xfYOnU7Lcw
+# IoJ17UCwozzBS

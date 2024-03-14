@@ -6,3 +6,6 @@ def create_truth_prod(process, inputs):
             triggerCells = cms.InputTag('{}:HGCalVFEProcessorSums'.format(inputs))
             )
     return producer
+# foo bar baz
+# ywKMvxRtNV1HL
+# n3EVQRLRVC3qU

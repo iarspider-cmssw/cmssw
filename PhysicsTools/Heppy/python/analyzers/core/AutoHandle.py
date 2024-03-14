@@ -76,3 +76,6 @@ class AutoHandle( Handle, object ):
                  return
 
 
+# foo bar baz
+# VeNJmIc9lTthY
+# ghfoANn40a3wx

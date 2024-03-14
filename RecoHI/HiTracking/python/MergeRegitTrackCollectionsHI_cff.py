@@ -21,3 +21,6 @@ hiRegitTracks = RecoTracker.FinalTrackSelectors.trackListMerger_cfi.trackListMer
     copyExtras = True,
     makeReKeyedSeeds = cms.untracked.bool(False)
     )
+# foo bar baz
+# qodZn9MEYXJ8d
+# XcKmlb8Zk6wC1

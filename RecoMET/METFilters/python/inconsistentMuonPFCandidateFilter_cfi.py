@@ -9,3 +9,6 @@ inconsistentMuonPFCandidateFilter = cms.EDFilter(
     taggingMode   = cms.bool(False),
     debug         = cms.bool(False),
 )
+# foo bar baz
+# oe9hhisILfuU7
+# Acnu14qjfNCie

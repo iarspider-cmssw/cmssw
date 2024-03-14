@@ -7,4 +7,6 @@ uMNioTable= cms.EDProducer("HcalUMNioTableProducer",
 )
 
 uMNioTableTask = cms.Task(uMNioTable)
-uMNioTableSeq = cms.Sequence(uMNioTable)
+uMNioTableSeq = cms.Sequence(uMNioTable)# foo bar baz
+# O64nWw4oi9B3U
+# ivDIkAXfSxsXt

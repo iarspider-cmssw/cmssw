@@ -34,3 +34,6 @@ process.p = cms.Path(process.intProducerBeginProcessBlock *
 )
 
 process.e = cms.EndPath(process.out)
+# foo bar baz
+# PxPyLciZ0ryJy
+# w4eNo9iH9RUtz

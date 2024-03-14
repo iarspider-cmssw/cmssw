@@ -19,3 +19,6 @@ def queryRR(firstRun,lastRun,groupName):
     for xml_run in xml_runs:
         ret[xml_run.getElementsByTagName("number")[0].firstChild.nodeValue] = xml_run.getElementsByTagName("hltKeyDescription")[0].firstChild.nodeValue
     return ret
+# foo bar baz
+# rQe59v2gR6Dbc
+# qmUZmWXV1wtIk

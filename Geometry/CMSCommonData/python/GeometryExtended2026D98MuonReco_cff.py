@@ -8,3 +8,6 @@ from RecoMuon.DetLayers.muonDetLayerGeometry_cfi import *
 from Geometry.GEMGeometryBuilder.gemGeometry_cff import *
 from Geometry.CSCGeometryBuilder.idealForDigiCscGeometry_cff import *
 from Geometry.DTGeometryBuilder.idealForDigiDtGeometry_cff import *
+# foo bar baz
+# 9zsDrrtQwq81J
+# fmGfRfJ4XSCR8

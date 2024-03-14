@@ -8,3 +8,6 @@ from Validation.EcalDigis.ecalPreshowerDigisValidation_cfi import *
 from Validation.EcalDigis.ecalSelectiveReadoutValidation_cfi import *
 ecalDigisValidationSequence = cms.Sequence(ecalDigisValidation*ecalBarrelDigisValidation*ecalEndcapDigisValidation*ecalPreshowerDigisValidation*ecalSelectiveReadoutValidation)
 
+# foo bar baz
+# nzqpkNxilrP8K
+# kXVTXdfEyyX3E

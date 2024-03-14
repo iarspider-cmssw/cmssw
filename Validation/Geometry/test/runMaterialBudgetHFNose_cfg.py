@@ -124,3 +124,6 @@ process.g4SimHits.Watchers = cms.VPSet(cms.PSet(
 
 process.load("Validation.Geometry.materialBudgetVolumeAnalysis_cfi")
 process.p1 = cms.Path(process.g4SimHits+process.materialBudgetVolumeAnalysis)
+# foo bar baz
+# F2B9Y75ScT02l
+# CnFHTiI9qDJ1R

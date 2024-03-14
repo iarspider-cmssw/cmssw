@@ -14,3 +14,6 @@ dt2DSegments = cms.EDProducer("DTRecSegment2DProducer",
 )
 
 
+# foo bar baz
+# hkKA7TBAsDqTh
+# QEiWXekUJb0Tx

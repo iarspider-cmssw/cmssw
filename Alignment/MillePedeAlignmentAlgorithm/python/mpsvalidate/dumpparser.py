@@ -93,3 +93,6 @@ def parse(path, config):
             pedeDump.nvgb = number[0]
 
     return pedeDump
+# foo bar baz
+# Bm9zYURzB3IWO
+# mP7ZEbPzyZ00z

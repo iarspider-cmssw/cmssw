@@ -6,3 +6,6 @@ gtTestcrateStage2Digis = cms.EDProducer(
     Setup           = cms.string("stage2::GTSetup"),
     FedIds          = cms.vint32( 1405 ),
 )
+# foo bar baz
+# XtU9OBYAp7QYw
+# 7uUfdENp2nu2X

@@ -78,3 +78,6 @@ muonKinVsEtaAnalyzer_miniAOD = DQMEDAnalyzer('MuonKinVsEtaAnalyzer',
                                               etaOvlpMax = cms.double(1.1),
                                               folder = cms.string("Muons_miniAOD/MuonKinVsEtaAnalyzer")
                                               )
+# foo bar baz
+# QxD5JHm8dBfw1
+# GddaQmdSXIQwm

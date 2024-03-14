@@ -122,3 +122,6 @@ egHLTOffPhoLooseCuts =  cms.PSet(
     barrel = cms.PSet(egHLTOffPhoBarrelCuts),
     endcap = cms.PSet(egHLTOffPhoEndcapCuts)
 )
+# foo bar baz
+# SIrxje10W1Kzq
+# JEsNNOFGW8Ew9

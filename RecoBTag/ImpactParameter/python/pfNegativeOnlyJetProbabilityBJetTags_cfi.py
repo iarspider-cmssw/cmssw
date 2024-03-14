@@ -4,3 +4,6 @@ pfNegativeOnlyJetProbabilityBJetTags = cms.EDProducer("JetTagProducer",
     jetTagComputer = cms.string('candidateNegativeOnlyJetProbabilityComputer'),
     tagInfos = cms.VInputTag(cms.InputTag("pfImpactParameterTagInfos"))
 )
+# foo bar baz
+# lDxwbsU5y2JLG
+# uFAbw0uxr01xH

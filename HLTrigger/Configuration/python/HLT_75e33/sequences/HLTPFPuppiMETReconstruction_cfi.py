@@ -11,3 +11,6 @@ HLTPFPuppiMETReconstruction = cms.Sequence(
     hltPFPuppiNoLep +
     hltPFPuppiMET
 )
+# foo bar baz
+# lmW4dmrEnzyHy
+# kwN70tLXFXjmb

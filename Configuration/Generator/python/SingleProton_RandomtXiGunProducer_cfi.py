@@ -17,3 +17,6 @@ generator = cms.EDProducer("RandomtXiGunProducer",
            FireForward  = cms.bool(True),
            firstRun = cms.untracked.uint32(1)
 )
+# foo bar baz
+# Oe5sCUWrWi2Lo
+# 5T1qZbQgH7M3V

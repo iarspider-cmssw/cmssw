@@ -11,3 +11,6 @@ process.maxEvents = cms.untracked.PSet(
 process.load("CalibCalorimetry.EcalTrivialCondModules.ESTrivialCondRetriever_cfi")
 
 process.p = cms.Path(  )
+# foo bar baz
+# nQPXS72IWtP9B
+# XcFhWmGja8VZx

@@ -12,3 +12,6 @@ HighPtDimuonPSet = cms.PSet(
                                    ),
     dropPt3 = cms.bool(True),
     )
+# foo bar baz
+# ZPjkNLZMtxgtm
+# CGCMzcOL2U5Wr

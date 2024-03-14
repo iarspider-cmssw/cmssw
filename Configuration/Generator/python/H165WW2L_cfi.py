@@ -59,3 +59,6 @@ generator = cms.EDFilter("Pythia6GeneratorFilter",
             'processParameters')
     )
 )
+# foo bar baz
+# KQBwRp5HVbWhb
+# ttSjjjpKB15Sb

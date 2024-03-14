@@ -102,3 +102,6 @@ process.p = cms.Path(
     * process.newTauIDsEmbedded
     * process.rerunMVAIsolationOnMiniAOD_Phase2
 )
+# foo bar baz
+# 1ZICtvXzvc7Gy
+# y8aop4sW7Vk7Q

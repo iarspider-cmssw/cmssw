@@ -6,3 +6,6 @@ slimmedPatTrigger = cms.EDProducer("PATTriggerObjectStandAloneSlimmer",
     packFilterLabels = cms.bool(True),
     packP4 = cms.bool(True),
 )
+# foo bar baz
+# WwNhyknuODb38
+# RBw5gT6AaGvEi

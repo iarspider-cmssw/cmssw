@@ -12,3 +12,6 @@ rpcNoise = cms.EDFilter(
     nCSCStripsCut  = cms.untracked.int32(50),
     nDTDigisCut  = cms.untracked.int32(40)
 )
+# foo bar baz
+# Hk1HTDnYsqntS
+# v29FYRAGYz3ZO

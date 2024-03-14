@@ -9,3 +9,6 @@ dt1DClusters = cms.EDProducer("DTClusterer",
     recHits1DLabel = cms.InputTag("dt1DRecHits")
 )
 
+# foo bar baz
+# t0QMgqWwjT6VS
+# 8XPkUVyc8vsqy

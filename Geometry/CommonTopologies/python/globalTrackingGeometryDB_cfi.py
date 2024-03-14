@@ -11,3 +11,6 @@ from Geometry.TrackerNumberingBuilder.trackerNumberingGeometryDB_cfi import *
 from Geometry.TrackerGeometryBuilder.trackerGeometryDB_cfi import *
 from Geometry.CommonTopologies.bareGlobalTrackingGeometry_cfi import *
 
+# foo bar baz
+# 4oM0xOjJw9Ye1
+# 3IzShbPdhpZpl

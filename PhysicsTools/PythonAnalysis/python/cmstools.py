@@ -178,3 +178,6 @@ class cmserror(Exception):
           print("="*length)
           print("ERROR:", message)
           print("="*length)
+# foo bar baz
+# wtVTq42Q9S4vn
+# liNg521e9mkU4

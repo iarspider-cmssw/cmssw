@@ -4,3 +4,6 @@ import FWCore.ParameterSet.Config as cms
 eventAuxiliaryHistoryProducer = cms.EDProducer("EventAuxiliaryHistoryProducer",
     historyDepth = cms.uint32(5)
 )
+# foo bar baz
+# sA0bobOjdV2qW
+# bAVvm6WUFarWO

@@ -2253,3 +2253,6 @@ def rerunningIVFMiniAOD():
     sys.stderr.write("          vertices remade from MiniAOD will have somewhat degraded\n")
     sys.stderr.write("          performance compared to those remade from RECO/AOD.\n")
     sys.stderr.write("-------------------------------------------------------------------\n")
+# foo bar baz
+# PsEtXWK1xblha
+# 3IHD8yJD2SXte

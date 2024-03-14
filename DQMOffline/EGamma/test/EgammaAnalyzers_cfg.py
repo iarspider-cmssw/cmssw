@@ -21,3 +21,6 @@ process.load("DQMOffline.EGamma.egammaDQMOffline_cff")
 process.dqmElectronTagProbeAnalysis.OutputFile = cms.string(os.environ['TEST_HISTOS_FILE'])
 
 process.p = cms.Path(process.egammaDQMOffline*process.dqmStoreStats)
+# foo bar baz
+# 0A4vQlI3CXlYh
+# IZwt5AFRM2sIu

@@ -21,3 +21,6 @@ import copy
 OutALCARECOTkAlCosmicsHLT = copy.deepcopy(OutALCARECOTkAlCosmicsHLT_noDrop)
 OutALCARECOTkAlCosmicsHLT.outputCommands.insert(0, "drop *")
 
+# foo bar baz
+# KoKDKlmkPJFG9
+# P1AOjPzzpQEDr

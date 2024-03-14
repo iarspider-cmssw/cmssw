@@ -8,3 +8,6 @@ hltPhase2L3MuonHighPtTripletStepTracksSelectionHighPurity = cms.EDProducer("Trac
     originalQualVals = cms.InputTag("hltPhase2L3MuonHighPtTripletStepTrackCutClassifier","QualityMasks"),
     originalSource = cms.InputTag("hltPhase2L3MuonHighPtTripletStepTracks")
 )
+# foo bar baz
+# YLT9hwxbd4M77
+# KjgHGHWGlx5OD

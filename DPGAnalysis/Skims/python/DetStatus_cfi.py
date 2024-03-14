@@ -12,3 +12,6 @@ dcsstatus = cms.EDFilter("DetStatus",
            AndOr       = cms.bool(True) # True=And, Flase=Or              
 )
 
+# foo bar baz
+# Y7sSLa3jwJDw9
+# KXfOPBE6hceuW

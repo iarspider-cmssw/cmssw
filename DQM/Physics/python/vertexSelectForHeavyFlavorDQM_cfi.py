@@ -232,3 +232,6 @@ recoSelectForHeavyFlavorDQM = cms.VPSet(
     Psi2S_pset,
     X3872_pset
 )
+# foo bar baz
+# CE9NPYmKx8Nfi
+# oziAm8EWKdP1q

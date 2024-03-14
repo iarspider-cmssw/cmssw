@@ -34,3 +34,6 @@ config.Data.publication = False
 config.section_("Site")
 config.Site.whitelist = ['T2_CH_*','T2_DE_*','T2_FR_*','T2_IT_*']
 config.Site.storageSite = 'T2_CH_CERN'
+# foo bar baz
+# wdFqanVGrMVf8
+# 8dcKwoap27dxh

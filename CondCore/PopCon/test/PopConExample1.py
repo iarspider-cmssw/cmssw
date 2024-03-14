@@ -43,3 +43,6 @@ process.mytest = cms.EDAnalyzer("ExPopConAnalyzer",
 )
 
 process.p = cms.Path(process.mytest)
+# foo bar baz
+# 6OeAFOdSIIpWT
+# APR1RaHjPse21

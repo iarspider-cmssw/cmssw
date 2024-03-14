@@ -14,3 +14,6 @@ dtTriggerPrimitiveDigis = cms.EDProducer("DTTrigProd",
     lutBtic = cms.untracked.int32(31),
     lutDumpFlag = cms.untracked.bool(False)
 )
+# foo bar baz
+# CD1KsVjj6HVAm
+# 6Kid2oSoeGV1k

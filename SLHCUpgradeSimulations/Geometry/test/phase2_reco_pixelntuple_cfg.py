@@ -160,3 +160,6 @@ process = customiseEarlyDelete(process)
 process.TFileService = cms.Service('TFileService', fileName = cms.string("pixelntuple.root")
 )
 
+# foo bar baz
+# Cd84Zph2Kt2TM
+# leJ5b4loBAOlh

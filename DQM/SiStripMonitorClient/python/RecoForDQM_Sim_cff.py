@@ -18,3 +18,6 @@ TrackRefitter.TrajectoryInEvent = True
 RecoModulesForSimData = cms.Sequence(siStripDigis*siStripZeroSuppression*TrackRefitter)
 
 
+# foo bar baz
+# Wud4GaU8qqYQn
+# GP7UEgjR5Kxd7

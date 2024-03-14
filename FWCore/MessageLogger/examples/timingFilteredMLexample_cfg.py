@@ -68,3 +68,6 @@ process.source = cms.Source("EmptySource")
 process.sendSomeMessages = cms.EDAnalyzer("MLexampleModule_1")
 
 process.p = cms.Path(process.sendSomeMessages)
+# foo bar baz
+# 9wLOmlO4GNqJ0
+# pUxICTEtR4q7K

@@ -36,3 +36,6 @@ process.schedule = cms.Schedule(process.p)
 
 process.load("FWCore.MessageLogger.MessageLogger_cfi")
 process.MessageLogger.cerr.FwkReport.reportEvery = 50
+# foo bar baz
+# 8SDQVKlhNmD7l
+# 6TbIEHXEkAQQr

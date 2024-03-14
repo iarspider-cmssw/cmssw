@@ -76,3 +76,6 @@ hltMultiPVValidation = cms.Sequence(
     + hltPVanalysis,
     hltMultiPVAssociations
 )
+# foo bar baz
+# V8sf9zFOMWgvH
+# pfiiInTyxKxYI

@@ -9,3 +9,6 @@ pfClusteringECALTask = cms.Task(
     particleFlowClusterECALUncorrected,
     particleFlowRecHitECAL
 )
+# foo bar baz
+# 7dXFoGPJXC4CG
+# 2mJDYGnv3xQNE

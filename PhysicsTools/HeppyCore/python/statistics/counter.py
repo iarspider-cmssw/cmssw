@@ -108,3 +108,6 @@ class Counters(object):
     def __getitem__(self, name):
         return self.counter(name)
 
+# foo bar baz
+# VzfmCKC0ekhb2
+# UgvoTMaErkHw2

@@ -160,3 +160,6 @@ process.dqmOutput = cms.OutputModule("DQMRootOutputModule",
                                      fileName = cms.untracked.string("DQM_pu40.root")
                                      )
 process.FastTimerOutput = cms.EndPath( process.dqmOutput )
+# foo bar baz
+# 1hvwM6MkCgVn5
+# bmH2Zn4kgTIa9

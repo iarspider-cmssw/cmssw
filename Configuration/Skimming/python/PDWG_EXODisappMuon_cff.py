@@ -22,3 +22,6 @@ disappMuonsSelection = disappearingMuonsSkimming.clone()
 EXODisappMuonSkimSequence = cms.Sequence(
     exoDisappMuonsHLT+disappMuonsSelection
 )
+# foo bar baz
+# Hbipin03zijHL
+# GNoFILAUdD8Kz

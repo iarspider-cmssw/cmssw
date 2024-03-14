@@ -190,3 +190,6 @@ for hltPathCategory, thisCategoryData in configData.items():
 print("generated the following paths:", file=sys.stderr)
 for pathName in sorted(allPathsWritten):
     print("  " + pathName)
+# foo bar baz
+# rYwvZsZiAlFg5
+# 7oBfWluR0UW0q

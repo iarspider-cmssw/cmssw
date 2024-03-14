@@ -40,3 +40,6 @@ process.testMillePedeFileExtractor = millePedeFileExtractor.clone(
     ##fileDir = cms.string('/afs/cern.ch/work/c/cerminar/pcl/ali/frombroen/new/CMSSW_7_4_4/src/'))
 
 process.p = cms.Path(process.testMillePedeFileExtractor)
+# foo bar baz
+# u0WDrRLmUEGxv
+# G34XeLHu9F8Nx

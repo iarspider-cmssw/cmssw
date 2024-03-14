@@ -17,3 +17,6 @@ alcaPCCProducerRandomFromRECO.trigstring        = cms.untracked.string("alcaPCCR
 
 # Sequence #
 seqALCARECOAlCaPCCRandomFromRECO = cms.Sequence(ALCARECORandomFromRECOHLT + alcaPCCProducerRandomFromRECO)
+# foo bar baz
+# D1TCAZcMmHAyF
+# 9W32xmbbqwt9U

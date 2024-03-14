@@ -41,3 +41,6 @@ process.load("CalibMuon.DTCalibration.dtT0WireInChamberReferenceCorrection_cfi")
 process.dtT0WireInChamberReferenceCorrection.correctionAlgoConfig.calibChamber = 'All'
 
 process.p = cms.Path(process.dtT0WireInChamberReferenceCorrection)
+# foo bar baz
+# sdxOtjq4XiLZG
+# biuhhW5x37UfQ

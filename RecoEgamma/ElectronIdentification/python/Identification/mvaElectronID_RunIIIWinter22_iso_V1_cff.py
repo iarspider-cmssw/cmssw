@@ -61,3 +61,6 @@ mvaEleID_RunIIIWinter22_iso_V1_wp90 = configureVIDMVAEleID( mvaEleID_RunIIIWinte
 
 mvaEleID_RunIIIWinter22_iso_V1_wp80.isPOGApproved = cms.untracked.bool(True)
 mvaEleID_RunIIIWinter22_iso_V1_wp90.isPOGApproved = cms.untracked.bool(True)
+# foo bar baz
+# KgfbYUB5EdVY6
+# U2XNNTCvfq5Lv

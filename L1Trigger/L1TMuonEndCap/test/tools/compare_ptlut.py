@@ -27,3 +27,6 @@ process.analyzer1.infile1 = infile1
 process.analyzer1.infile2 = infile2
 
 process.path1 = cms.Path(process.analyzer1)
+# foo bar baz
+# 0s0FDJykcd4Ol
+# qpM7Repgbxw2G

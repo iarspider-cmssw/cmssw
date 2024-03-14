@@ -11,3 +11,6 @@ siPixelDigisRegional.Regions = cms.PSet(
     beamSpot = cms.InputTag( "hltOnlineBeamSpot" )
 )
 
+# foo bar baz
+# shFjzQoTbDIf6
+# 5NB8IYartDEVT

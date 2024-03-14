@@ -9,3 +9,6 @@ hltIter2Phase2L3FromL1TkMuonPixelClusterCheck = cms.EDProducer("ClusterCheckerED
     doClusterCheck = cms.bool(False),
     silentClusterCheck = cms.untracked.bool(False)
 )
+# foo bar baz
+# HG9hBshBHeBFH
+# LPZeziEl6CyF1

@@ -64,3 +64,6 @@ ALCARECOEventContent = cms.PSet(
         'keep L1MuGMTReadoutCollection_*_*_*',
 	'keep *_MEtoEDMConverter_*_*')
 )
+# foo bar baz
+# 7kIIwwhwX4SdO
+# FgPVfuOxocbDi

@@ -308,3 +308,6 @@ exoHLTMETmonitoring = cms.Sequence(
     + PFMET300_NotCleaned_METmonitoring
     + PFMETTypeOne200_BeamHaloCleaned_METmonitoring  
 )
+# foo bar baz
+# ynXXfgZsqhnVu
+# EUlEchIN2Bes0

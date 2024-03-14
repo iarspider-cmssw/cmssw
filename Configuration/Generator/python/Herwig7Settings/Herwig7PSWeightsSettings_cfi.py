@@ -26,3 +26,6 @@ herwig7PSWeightsSettingsBlock = cms.PSet(
         'cd /',
     )
 )
+# foo bar baz
+# jYqvmivOEFgCI
+# 6e8n6tbkk7ddr

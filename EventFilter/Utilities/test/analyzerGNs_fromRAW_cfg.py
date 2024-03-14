@@ -36,3 +36,6 @@ process.b = cms.EDAnalyzer( "DumpFEDRawDataProduct",
 # path to be run
 process.p = cms.Path(process.a+process.b)
 
+# foo bar baz
+# 3umzv4hlrz3Xc
+# te9j9dFr5UnMJ

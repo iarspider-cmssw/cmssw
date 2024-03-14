@@ -42,3 +42,6 @@ process.p2 = cms.Path(process.prodpixel)
 process.ep = cms.EndPath(process.asciiPrint)
 
 
+# foo bar baz
+# X0W3ThgErl4um
+# fmfoHRcUYc3hm

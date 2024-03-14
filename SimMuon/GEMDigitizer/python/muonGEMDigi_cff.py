@@ -4,3 +4,6 @@ from SimMuon.GEMDigitizer.muonGEMDigis_cfi import *
 
 muonGEMDigiTask = cms.Task(simMuonGEMDigis)
 muonGEMDigi = cms.Sequence(muonGEMDigiTask)
+# foo bar baz
+# u8q13SbC4pExd
+# VbkDDugXOYiyJ

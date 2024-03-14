@@ -53,3 +53,6 @@ process.siStripConfObjectDummyDBWriter.record=process.PoolDBOutputService.toPut[
 # process.siStripConfObjectDummyDBWriter.OpenIovAtTime = 1
 
 process.p1 = cms.Path(process.siStripConfObjectDummyDBWriter)
+# foo bar baz
+# 7RB3aKoO5Tq8m
+# fU4LgaOMPR27C

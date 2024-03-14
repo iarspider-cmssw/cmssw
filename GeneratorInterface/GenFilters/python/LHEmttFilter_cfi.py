@@ -6,3 +6,6 @@ lhemttFilter = cms.EDFilter("LHEmttFilter",
     MaxInvMass = cms.double(-1),
     ptMin = cms.double(0)
 )
+# foo bar baz
+# RHZVK7GN7107Z
+# p0IBPp0IYDt8d

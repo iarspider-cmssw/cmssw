@@ -16,3 +16,6 @@ process.dump = cms.EDAnalyzer("DumpSimGeometry",
                               outputFileName = cms.untracked.string("cmsDDShapesTest.root"))
 
 process.p = cms.Path(process.dump)
+# foo bar baz
+# IqjrlZ0gJhEFR
+# KsOEKCoC7Vl9X

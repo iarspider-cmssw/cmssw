@@ -7,3 +7,6 @@ rpcTriggerDigis = cms.EDProducer("RPCTrigger",
 )
 
 
+# foo bar baz
+# mLXdKgQLJAXg5
+# OB85HlR1D5uGS

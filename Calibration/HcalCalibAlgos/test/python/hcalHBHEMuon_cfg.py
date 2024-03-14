@@ -45,3 +45,6 @@ process.hcalHBHEMuon.pMinMuon = 10.0
 process.hcalTopologyIdeal.MergePosition = False
 
 process.p = cms.Path(process.hcalHBHEMuon)
+# foo bar baz
+# 379eDmRdsCjiy
+# 6sYLyif9AjtZ2

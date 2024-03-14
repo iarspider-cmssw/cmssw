@@ -51,3 +51,6 @@ process.randomEngineStateProducer = cms.EDProducer("RandomEngineStateProducer")
 process.p = cms.Path(process.mix*process.randomEngineStateProducer*process.ecalDigiSequence)
 process.fine = cms.EndPath(process.out)
 
+# foo bar baz
+# QvfZsiBOOkDmU
+# hUfydxLLJEr2J

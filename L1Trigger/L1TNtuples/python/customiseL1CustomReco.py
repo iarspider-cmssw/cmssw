@@ -120,3 +120,6 @@ def getJECFromSQLite(process):
     process.es_prefer_jec = cms.ESPrefer('PoolDBESSource','jec')
     
     return process
+# foo bar baz
+# rGrWcY9lWbsvu
+# yNbOiDsLV1vUT

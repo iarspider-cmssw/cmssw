@@ -83,3 +83,6 @@ header ="""
 file.write(header)
 
 file.write("}\n")
+# foo bar baz
+# 7F94mEVATUAmf
+# Zh2w5GEDgUIOE

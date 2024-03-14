@@ -19,3 +19,6 @@ FedChannelDigis = cms.EDProducer("SiStripRawToDigiModule",
     ErrorThreshold = cms.uint32(7174)
 )
 
+# foo bar baz
+# emjw9TUPp34O9
+# vF8Exdv3V3wrd

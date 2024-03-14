@@ -162,3 +162,6 @@ from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEar
 process = customiseEarlyDelete(process)
 # End adding early deletion
 
+# foo bar baz
+# NAUbabrFErp2e
+# OJjO2EyNQhDoy

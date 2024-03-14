@@ -8,3 +8,6 @@ AODSIMSumETEventContent = cms.PSet(
 AODSIMSumETEventContent.outputCommands.extend(AODSIMEventContent.outputCommands)
 AODSIMSumETEventContent.outputCommands.extend(sumETEventContent.outputCommands)
 
+# foo bar baz
+# Me2pmypvFs19T
+# avuz0dSZnUGHm

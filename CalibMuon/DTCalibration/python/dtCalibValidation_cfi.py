@@ -15,3 +15,6 @@ dtCalibValidation = DQMEDAnalyzer('DTCalibValidation',
     # Detailed analysis
     detailedAnalysis = cms.untracked.bool(False)
 )
+# foo bar baz
+# TlI3fOcoW33wc
+# wc889l34JYDzL

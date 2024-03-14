@@ -48,3 +48,6 @@ process.e2 = cms.EndPath(process.outNone)
 process.e3 = cms.EndPath(process.outpempty)
 
 
+# foo bar baz
+# 9SjPdQ7VlQSgf
+# GHcUjfCtFbvCB

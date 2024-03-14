@@ -77,3 +77,6 @@ def autoCondHLT(autoCond):
            autoCond[key] = ( autoCond[val[0]],) + val[1]
 
     return autoCond
+# foo bar baz
+# 2tTsj1oMMEiV3
+# 67dIvOpfRXPiC

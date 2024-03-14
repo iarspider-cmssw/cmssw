@@ -139,3 +139,6 @@ process = customiseLogErrorHarvesterUsingOutputCommands(process)
 from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEarlyDelete
 process = customiseEarlyDelete(process)
 # End adding early deletion
+# foo bar baz
+# GtsQVEcpujfsv
+# gH65zK5v5Km3X

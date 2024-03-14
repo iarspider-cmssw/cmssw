@@ -41,3 +41,6 @@ globalhits = cms.EDProducer("GlobalHitsProducer",
 )
 
 
+# foo bar baz
+# 88BTUfV0S9ONc
+# gHB3IqQPx4KBC

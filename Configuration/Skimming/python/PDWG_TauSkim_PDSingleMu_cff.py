@@ -47,3 +47,6 @@ tauSkimSequence = cms.Sequence(
    TauSkimPFTauSkimmed
    )
 
+# foo bar baz
+# VZ85MA0k2EGYg
+# 9azElxR3f0PTY

@@ -22,3 +22,6 @@ cscConditions.toGet = cms.VPSet(cms.PSet(
         tag = cms.string('CSCDBPedestals_test')
     ))
 
+# foo bar baz
+# 82SY6mRmZLPyd
+# iUve7N68WMhdR

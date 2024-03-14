@@ -4,3 +4,6 @@ import FWCore.ParameterSet.Config as cms
 # the strip digitizer.
 
 import SimGeneral.MixingModule.stripDigitizer_APVModeDec_cff 
+# foo bar baz
+# kBHmnuxF68NXb
+# MWTyJWeUvJVuZ

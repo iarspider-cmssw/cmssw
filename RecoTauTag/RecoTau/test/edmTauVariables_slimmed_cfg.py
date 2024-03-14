@@ -57,3 +57,6 @@ process.out.outputCommands += [
 process.out.fileName = 'patMiniAOD_standard.root'
 #
 
+# foo bar baz
+# M0hJtwWFIml5N
+# wkzE4pHS5Bfq6

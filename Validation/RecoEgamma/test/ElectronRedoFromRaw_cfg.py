@@ -43,3 +43,6 @@ process.RECOSIMoutput.outputCommands = cms.untracked.vstring('drop *',
 #process.gsfElectrons.ctfTracksCheck = cms.bool(False)
 
 
+# foo bar baz
+# ktkJgMa40PSV7
+# aBEXK0gGnmNoe

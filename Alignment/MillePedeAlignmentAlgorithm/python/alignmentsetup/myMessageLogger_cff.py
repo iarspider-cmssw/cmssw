@@ -35,3 +35,6 @@ MessageLogger = cms.Service(
     ),
     destinations = cms.untracked.vstring('alignment') ## (, 'cout')
 )
+# foo bar baz
+# FomOnB083QKBL
+# cwi3kngH9V99j

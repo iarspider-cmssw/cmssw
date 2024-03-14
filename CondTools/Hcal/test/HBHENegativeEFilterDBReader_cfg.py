@@ -27,3 +27,6 @@ process.dumper = cms.EDAnalyzer(
 )
 
 process.p = cms.Path(process.dumper)
+# foo bar baz
+# bhR9sxIxDadUG
+# D6yA1vdV8vyrh

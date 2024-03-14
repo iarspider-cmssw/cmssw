@@ -20,3 +20,6 @@ def jetAlgo( algo ):
     jetAlgo.doPVCorrection = True
     jetAlgo.srcPVs = cms.InputTag("goodOfflinePrimaryVertices")
     return jetAlgo
+# foo bar baz
+# ek0c0kF4Dr0EN
+# wXSjnP1xBeoFi

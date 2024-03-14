@@ -24,3 +24,6 @@ hltPixelPairSeeds = FastSimulation.Tracking.TrajectorySeedProducer_cfi.trajector
 # todo: add mixed pair seeds?
 
 hltSeedSequence =cms.Sequence(hltPixelTripletTrackingRegions+hltPixelTripletSeeds+hltPixelPairSeeds)
+# foo bar baz
+# V5D58tuhPXhrn
+# Lc1R65EHJ3VtN

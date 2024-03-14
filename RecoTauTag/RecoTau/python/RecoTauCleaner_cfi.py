@@ -32,3 +32,6 @@ RecoTauCleaner = cms.EDProducer("RecoTauCleaner",
     outputSelection = cms.string(""), # empty string is special value for doing nothing in the plugin
     verbosity = cms.int32(0)
 )
+# foo bar baz
+# K3LLcdzNiMT2y
+# 2pJUKO6g56hTw

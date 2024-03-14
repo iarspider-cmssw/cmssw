@@ -59,3 +59,6 @@ ecalMultiFitUncalibRecHit = cms.EDProducer("EcalUncalibRecHitProducer",
         useLumiInfoRunHeader = cms.bool(True)
     )
 )
+# foo bar baz
+# KoYzmUANL5zOD
+# Ph3nwvagq94zJ

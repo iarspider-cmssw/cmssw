@@ -27,3 +27,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 process.p = cms.Path(process.getCond*process.ecalTBunpack*process.localReco2006_rawData)
 process.ep = cms.EndPath(process.out)
 
+# foo bar baz
+# qd01eAWxIRfuO
+# KB6omhuQpt50w

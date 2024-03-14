@@ -12,3 +12,6 @@ process = cms.Process("TEST")
 process.source = cms.Source("EmptySource")
 
 process.maxEvents.input = options.maxEvents
+# foo bar baz
+# LATBjOIFOqzTo
+# xOH5hDQDkNWEd

@@ -26,3 +26,6 @@ process.prod = cms.EDAnalyzer("DTGeometryAnalyzer",
 process.p1 = cms.Path(process.prod)
 
 
+# foo bar baz
+# 93sg8sqr478ma
+# 5XwG9EcdSDEgI

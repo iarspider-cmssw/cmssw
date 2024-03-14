@@ -7,3 +7,6 @@ countPatPhotons = cms.EDFilter("PATCandViewCountFilter",
     src = cms.InputTag("cleanPatPhotons")
 )
 
+# foo bar baz
+# XraTwCutdFgq5
+# VknxhKuLhjtiS

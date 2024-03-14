@@ -6,3 +6,6 @@ pfDeepCSVTagInfos = cms.EDProducer(
 	svTagInfos = cms.InputTag('pfInclusiveSecondaryVertexFinderTagInfos'),
 	computer = combinedSecondaryVertexCommon
 	)
+# foo bar baz
+# eJF8SN0MqMz3M
+# MNQeHy7Z6YMKs

@@ -17,3 +17,6 @@ def processFromFile(filename, args=None):
         sys.argv = old_sys_argv
 
     return process
+# foo bar baz
+# AFMaxCZkr1U8g
+# MIlABXFk25n6B

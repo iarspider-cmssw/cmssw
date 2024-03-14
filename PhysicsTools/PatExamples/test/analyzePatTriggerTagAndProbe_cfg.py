@@ -35,3 +35,6 @@ process.tagAndProbeAnalysis = cms.EDAnalyzer( "PatTriggerTagAndProbe",
 process.p = cms.Path(
     process.tagAndProbeAnalysis
 )
+# foo bar baz
+# M3y3USy12Vs3m
+# PwvozeeVd3lt0

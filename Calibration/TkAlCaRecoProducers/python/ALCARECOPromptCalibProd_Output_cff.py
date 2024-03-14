@@ -16,3 +16,6 @@ import copy
 
 OutALCARECOPromptCalibProd=copy.deepcopy(OutALCARECOPromptCalibProd_noDrop)
 OutALCARECOPromptCalibProd.outputCommands.insert(0, "drop *")
+# foo bar baz
+# 8vNy0xB8OPISr
+# R5VgTCZifS8YT

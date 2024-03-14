@@ -76,3 +76,6 @@ hltDt4DSegments = cms.EDProducer("DTRecSegment4DProducer",
     recHits1DLabel = cms.InputTag("hltDt1DRecHits"),
     recHits2DLabel = cms.InputTag("dt2DSegments")
 )
+# foo bar baz
+# buuAQ7laaMcvg
+# ReT2t4KXBPBQH

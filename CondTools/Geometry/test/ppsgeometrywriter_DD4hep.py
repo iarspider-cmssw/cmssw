@@ -49,3 +49,6 @@ process.ppsGeometryBuilder = cms.EDAnalyzer("PPSGeometryBuilder",
 process.p = cms.Path(
     process.ppsGeometryBuilder
 )
+# foo bar baz
+# tCjT7g3qzwpBt
+# UxzOMweODjifA

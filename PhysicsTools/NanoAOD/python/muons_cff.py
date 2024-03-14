@@ -226,3 +226,6 @@ muonTask = cms.Task(slimmedMuonsUpdated,isoForMu,ptRatioRelForMu,slimmedMuonsWit
 muonMCTask = cms.Task(muonsMCMatchForTable,muonMCTable)
 muonTablesTask = cms.Task(muonMVATTH,muonMVALowPt,muonBSConstrain,muonTable,muonMVAID)
 
+# foo bar baz
+# SGPZJR4chHgSZ
+# KJfuY9tKZLXnV

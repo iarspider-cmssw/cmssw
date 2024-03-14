@@ -14,3 +14,6 @@ hltTauQualityTesterForZ = DQMQualityTester(
                                         verboseQT               = cms.untracked.bool(True)
                                     )
 
+# foo bar baz
+# gQJUxn87qO4eM
+# R6TUnyHI7DMJj

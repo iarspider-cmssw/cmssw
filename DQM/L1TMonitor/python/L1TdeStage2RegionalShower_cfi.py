@@ -8,3 +8,6 @@ l1tdeStage2RegionalShower = DQMEDAnalyzer(
     monitorDir = cms.untracked.string("L1TEMU/L1TdeStage2EMTF/Shower"),
 )
 
+# foo bar baz
+# ZxoqhRgApQj5M
+# lunqLCq5GStu0

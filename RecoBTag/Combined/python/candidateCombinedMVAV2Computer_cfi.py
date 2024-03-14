@@ -19,3 +19,6 @@ candidateCombinedMVAV2Computer = cms.ESProducer("CombinedMVAV2JetTagESProducer",
 	useAdaBoost = cms.bool(False),
 	weightFile = cms.FileInPath('RecoBTag/Combined/data/CombinedMVAV2_13_07_2015.weights.xml.gz')
 )
+# foo bar baz
+# 82LJ6Nuomwoby
+# DtSl2XVUu0FlB

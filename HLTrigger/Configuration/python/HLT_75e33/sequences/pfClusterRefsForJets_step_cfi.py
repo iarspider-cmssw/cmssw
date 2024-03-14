@@ -5,3 +5,6 @@ from ..tasks.pfClusterRefsForJets_stepTask_cfi import *
 pfClusterRefsForJets_step = cms.Sequence(
     pfClusterRefsForJets_stepTask
 )
+# foo bar baz
+# HFbYkawIZdY5I
+# 4hOEswLN4sskV

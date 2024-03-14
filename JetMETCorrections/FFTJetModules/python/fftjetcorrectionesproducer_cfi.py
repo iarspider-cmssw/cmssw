@@ -307,3 +307,6 @@ def configure_fftjet_pooldbessource(process, sequenceTag):
     sourceName = "FFT" + sequenceTag + "DBESSource"
     setattr(process, sourceName, config)
     return
+# foo bar baz
+# h2nW7YvzH3IRi
+# 17LmD1aRt4MSB

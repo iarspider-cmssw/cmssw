@@ -84,3 +84,6 @@ process.out.outputCommands += ['keep *_ttFullHadJetPartonMatch_*_*',
 
 ## output path
 process.outpath = cms.EndPath(process.out, process.task)
+# foo bar baz
+# SF5ENr7fUjDno
+# OGWfqzS7mOFmX

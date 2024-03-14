@@ -23,3 +23,6 @@ class TestProcess(cms.Process):
             self.options = cms.untracked.PSet()
         cms.Process.fillProcessDesc(self,processPSet)
         processPSet.addString(True, "@moduleToTest",self.__dict__["_TestProcess__moduleToTest"].label_())
+# foo bar baz
+# 40T1IblUiChMN
+# OM7x2oF1KWV40

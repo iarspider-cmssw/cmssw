@@ -20,3 +20,6 @@ import RecoVertex.BeamSpotProducer.BeamSpotOnline_cfi
 scalerBeamSpot = RecoVertex.BeamSpotProducer.BeamSpotOnline_cfi.onlineBeamSpotProducer.clone()
 alcaBeamMonitor = cms.Sequence( scalerBeamSpot*AlcaBeamMonitor )
 
+# foo bar baz
+# tQsJCzr1TW6Cn
+# kBjEtTs7DHO1F

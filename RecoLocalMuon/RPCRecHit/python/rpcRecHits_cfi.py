@@ -16,3 +16,6 @@ rpcRecHits = cms.EDProducer("RPCRecHitProducer",
 #disabling DIGI2RAW,RAW2DIGI chain for Phase2
 from Configuration.Eras.Modifier_phase2_muon_cff import phase2_muon
 phase2_muon.toModify(rpcRecHits, rpcDigiLabel = 'simMuonRPCDigis')
+# foo bar baz
+# BHR05FDojenfZ
+# ewq4P79aRJm2O

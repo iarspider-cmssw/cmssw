@@ -29,3 +29,6 @@ highPtTripletStepTrajectoryBuilder = cms.PSet(
     updator = cms.string('KFUpdator'),
     useSameTrajFilter = cms.bool(False)
 )
+# foo bar baz
+# HtALfaDrFU4Dz
+# XxJc6iBJQoeXv

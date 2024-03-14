@@ -14,3 +14,6 @@ l1TriggerOccupancyQualityTests = DQMQualityTester(
     reportThreshold=cms.untracked.string(""),
     verboseQT=cms.untracked.bool(True)
 )
+# foo bar baz
+# 9JVYqyN9iRUx4
+# P0o9TVHmmSikE

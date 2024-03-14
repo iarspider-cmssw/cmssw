@@ -71,3 +71,6 @@ l1tStage2uGTEmulatorClient = cms.Sequence(
     l1tStage2uGTEmulatorCompRatioClientBXM2
 )
 
+# foo bar baz
+# cXivQvx0LWkwi
+# I5ewQ03PTJZFX

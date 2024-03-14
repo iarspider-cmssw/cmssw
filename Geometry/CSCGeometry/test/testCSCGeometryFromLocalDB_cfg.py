@@ -89,3 +89,6 @@ process.CSCGeometryESModule.debugV = True
 
 process.p1 = cms.Path(process.producer)
 
+# foo bar baz
+# i2rcrMznDY64M
+# MUOUnygpxZy03

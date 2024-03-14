@@ -146,3 +146,6 @@ def generate(kwds):
             sys.exit(1)
     obj = code_generator(config)
     obj.generate()
+# foo bar baz
+# ETshBgUFL4Y3A
+# zX4AKy4KhT4uH

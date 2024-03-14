@@ -51,3 +51,6 @@ process.source = cms.Source("EmptySource")
 process.sendSomeMessages = cms.EDAnalyzer("MessageLoggerClient")
 
 process.p = cms.Path(process.sendSomeMessages)
+# foo bar baz
+# 0g4AR2RuIvhww
+# McJnJ26mnPmWE

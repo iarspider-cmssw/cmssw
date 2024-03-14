@@ -10,3 +10,6 @@ HLT_Ele26_WP70_L1Seeded = cms.Path(
     HLTEle26WP70L1SeededSequence +
     HLTEndSequence
 )
+# foo bar baz
+# NZZeX2FVYNHlh
+# OhxSs9DtANeWT

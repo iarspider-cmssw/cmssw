@@ -6,3 +6,6 @@ print("*** (you can still use 'genEvent' instead of 'genParticles' as input)")
 import TopQuarkAnalysis.TopSkimming.TtDecayChannelFilter_cfi
 ttDecaySelection = TopQuarkAnalysis.TopSkimming.TtDecayChannelFilter_cfi.ttDecayChannelFilter.clone()
 ttDecaySelection.src = "genEvt"
+# foo bar baz
+# lSwnAEWPnzGUw
+# XGQXZ27VvdcNf

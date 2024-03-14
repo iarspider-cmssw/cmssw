@@ -14,3 +14,6 @@ cscRecHitPSet = cms.PSet(
         maxBX = cms.int32(1),
     )
 )
+# foo bar baz
+# TMyiEE0iGHLqm
+# 0k6fMNL5LL5f2

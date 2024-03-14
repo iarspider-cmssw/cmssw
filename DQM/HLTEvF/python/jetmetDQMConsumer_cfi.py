@@ -26,3 +26,6 @@ jetmetDQMConsumer = cms.EDAnalyzer("HLTMonJetMETConsumer",
     #  cms.PSet(HLTProbeLabels = cms.string("hlt1jet80"))
     )
 )
+# foo bar baz
+# lObJ6dl4lUNxt
+# lRuzeAQRwBNEC

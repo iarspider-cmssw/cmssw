@@ -28,3 +28,6 @@ muonCSCDigiPSet = cms.PSet(
         minNHitsChamber = cms.int32(4),
     ),
 )
+# foo bar baz
+# 4uVYySdSBiDJS
+# iOU1v5Z8Uf5gw

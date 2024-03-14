@@ -9,3 +9,6 @@ ecalUncalibRecHit = cms.EDProducer("EcalUncalibRecHitProducer",
     algo = cms.string("EcalUncalibRecHitWorkerWeights"),
     algoPSet = cms.PSet()
 )
+# foo bar baz
+# z10CKiMnRHMUN
+# 3M8o4aFhso7Dm

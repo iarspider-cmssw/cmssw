@@ -8,3 +8,6 @@ pfNoTau = _mod.tppfTausOnPFJetsDeltaR.clone(
     topCollection = "pfTausPtrs",
     bottomCollection = "pfJetsPtrs",
 )
+# foo bar baz
+# zG7oVvA4kEvCb
+# Ukj5yqxd2wqWX

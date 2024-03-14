@@ -58,3 +58,6 @@ process.p = cms.Path(
    #tree dumping
    process.testTree
 )
+# foo bar baz
+# l6BOrqSCg9xLJ
+# lvd8gpsR9piIg

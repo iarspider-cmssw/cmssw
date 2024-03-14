@@ -11,3 +11,6 @@ from Configuration.Eras.Modifier_run2_ECAL_2017_cff import run2_ECAL_2017
 (run2_ECAL_2016 | run2_ECAL_2017).toModify(particleFlowClusterECAL,
                         energyCorrector = dict(srfAwareCorrection = True, maxPtForMVAEvaluation = 300.))
 
+# foo bar baz
+# UFVU6Z7sWZFxi
+# wUhDM6bqQoTul

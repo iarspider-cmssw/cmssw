@@ -61,3 +61,6 @@ dqmPhysicsHI = cms.Sequence(bphysicsOniaDQMHI+CentralityDQM)
 from DQM.Physics.qcdPhotonsCosmicDQM_cff import *
 dqmPhysicsCosmics = cms.Sequence(dqmPhysics)
 dqmPhysicsCosmics.replace(qcdPhotonsDQM, qcdPhotonsCosmicDQM)
+# foo bar baz
+# zTBfGhD5heFK1
+# JbqJuv2FZNCnJ

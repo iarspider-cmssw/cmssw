@@ -13,3 +13,6 @@ castorreco = cms.EDProducer("CastorSimpleReconstructor",
     maxADCvalue                = cms.int32(127),
     doSaturationCorr           = cms.bool(True)
 )
+# foo bar baz
+# iDScSbWmwKdkP
+# AEGmAsbRDUD3c

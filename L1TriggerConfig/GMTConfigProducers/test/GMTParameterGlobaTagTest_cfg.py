@@ -40,3 +40,6 @@ process.MessageLogger = cms.Service("MessageLogger",
         enable = cms.untracked.bool(True)
     )
 )
+# foo bar baz
+# UVsjwQuQIb69a
+# jfQtm7mP0qPu2

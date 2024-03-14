@@ -14,3 +14,6 @@ me0DigiValidation = DQMEDAnalyzer('ME0DigisValidation',
     RangeGlobalZR = cms.untracked.vdouble(525,555,60,160),
     nBinGlobalXY = cms.untracked.int32(160),
 )
+# foo bar baz
+# 6dL51os2iIfVp
+# ntq7OVMSlR3RC

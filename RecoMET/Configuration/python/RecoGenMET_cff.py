@@ -14,3 +14,6 @@ from RecoMET.METProducers.genMetFromGenJets_cfi import *
 recoGenMETTask = cms.Task(genMetCalo, genMetTrue)
 recoGenMET = cms.Sequence(recoGenMETTask)
 
+# foo bar baz
+# RCS995kIothc7
+# BKvdiGY8f8prT

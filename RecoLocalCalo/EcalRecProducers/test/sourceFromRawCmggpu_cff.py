@@ -47,3 +47,6 @@ source = cms.Source( "FedRawDataInputSource",
         ("file:{}".format(f) for f in glob.glob(os.path.join(prefix,'*raw')))
     ),
 )
+# foo bar baz
+# xOdqPXAZJNXQD
+# wHS3lcvkOClUu

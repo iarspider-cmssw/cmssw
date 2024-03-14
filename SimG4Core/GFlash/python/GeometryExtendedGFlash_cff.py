@@ -27,3 +27,6 @@ from Geometry.TrackerGeometryBuilder.idealForDigiTrackerGeometryDB_cff import *
 from Geometry.CSCGeometryBuilder.idealForDigiCscGeometryDB_cff import *
 from Geometry.DTGeometryBuilder.idealForDigiDtGeometryDB_cff import *
 
+# foo bar baz
+# fD4QoMWSMZctW
+# kLDnqC9gu4xvk

@@ -6,3 +6,6 @@ l1tdeCSCTPGShowerClient = DQMEDHarvester(
     monitorDir = cms.untracked.string("L1TEMU/L1TdeCSCTPGShower"),
 )
 
+# foo bar baz
+# w48HVgwCMPSEh
+# kc49LWHvn8Qxq

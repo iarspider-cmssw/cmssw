@@ -56,3 +56,6 @@ process.PoolDBOutputService = cms.Service( "PoolDBOutputService"
 process.p = cms.Path(
   process.dqmXmlFileTest
 )
+# foo bar baz
+# 4ggm9Z8Pnt7iR
+# 4CfhrZc7zZLlZ

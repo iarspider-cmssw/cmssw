@@ -9,3 +9,6 @@ caloStage1FinalDigis = cms.EDProducer(
     InputHFSumsCollection   = cms.InputTag("caloStage1Digis:HFRingSums"),
     InputHFCountsCollection = cms.InputTag("caloStage1Digis:HFBitCounts"),
 )
+# foo bar baz
+# xhGt6cMyjkgUz
+# GWmaj63dEISO5

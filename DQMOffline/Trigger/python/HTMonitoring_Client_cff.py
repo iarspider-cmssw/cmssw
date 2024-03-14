@@ -27,3 +27,6 @@ htEfficiency = DQMEDHarvester("DQMGenericClient",
 htClient = cms.Sequence(
     htEfficiency
 )
+# foo bar baz
+# fz4oJa1PzWUzk
+# L88K0u2VVBDAT

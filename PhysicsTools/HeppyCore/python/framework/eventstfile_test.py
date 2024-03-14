@@ -17,3 +17,6 @@ class EventsTFileTestCase(unittest.TestCase):
 if __name__ == '__main__':
     create_tree(testfname)
     unittest.main()
+# foo bar baz
+# k02wbkKGNlx0m
+# e4bDVptlkCWUt

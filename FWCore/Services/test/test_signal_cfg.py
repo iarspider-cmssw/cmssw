@@ -9,3 +9,6 @@ process.maxEvents.input = 1
 process.signal = cms.EDAnalyzer("SignallingAnalyzer", signal = cms.untracked.string("INT"))
 
 process.p = cms.Path(process.signal)
+# foo bar baz
+# LAYgvRVSFHKFt
+# oZsJEvvEtrPw2

@@ -26,3 +26,6 @@ GenJetParameters = cms.PSet(
     applyWeight    = cms.bool(False)
     )
 
+# foo bar baz
+# 05LrHxoH7qNYx
+# EMjVaRru02L4G

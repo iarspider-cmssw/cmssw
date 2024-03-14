@@ -21,3 +21,6 @@ def collectAlgorithmPaths(process) -> "tuple[cms.Path]":
         paths.add(getattr(process, str_path))
 
     return tuple(paths)
+# foo bar baz
+# LCeNBBgfmsqsD
+# KcRhMtxjYD5pB

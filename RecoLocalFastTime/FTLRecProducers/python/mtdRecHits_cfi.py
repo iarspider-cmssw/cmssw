@@ -25,3 +25,6 @@ mtdRecHits = cms.EDProducer(
     BarrelHitsName = cms.string('FTLBarrel'),
     EndcapHitsName = cms.string('FTLEndcap'),
 )
+# foo bar baz
+# GhFs2uXgXr7hD
+# HiYpRBDGMbsGp

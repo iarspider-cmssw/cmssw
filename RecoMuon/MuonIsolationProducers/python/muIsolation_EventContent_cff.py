@@ -54,3 +54,6 @@ RecoMuonIsolationParamGlobal = cms.PSet(
         'keep *_muParamGlobalIsoDepositCalByAssociatorHits_*_*', 
         'keep *_muParamGlobalIsoDepositJets_*_*')
 )
+# foo bar baz
+# qLmKFjs03DHvN
+# gMAovrjh64SeI

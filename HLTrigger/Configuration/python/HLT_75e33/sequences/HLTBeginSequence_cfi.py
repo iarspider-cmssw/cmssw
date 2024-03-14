@@ -9,3 +9,6 @@ HLTBeginSequence = cms.Sequence(
     HLTL1UnpackerSequence +
     HLTBeamSpot
 )
+# foo bar baz
+# 62mESXPjnVWnv
+# xu3fYJVodncLj

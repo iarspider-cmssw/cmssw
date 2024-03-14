@@ -26,3 +26,6 @@ from TopQuarkAnalysis.Configuration.patRefSel_eventCleaning_cfi import metFilter
 eventCleaningMiniAOD = cms.Sequence(
   metFiltersMiniAOD
 )
+# foo bar baz
+# RqfJwcdqrbBgk
+# 9VTUts67DIq3V

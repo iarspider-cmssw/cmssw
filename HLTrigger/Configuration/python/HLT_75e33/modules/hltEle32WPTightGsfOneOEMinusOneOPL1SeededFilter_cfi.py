@@ -30,3 +30,6 @@ hltEle32WPTightGsfOneOEMinusOneOPL1SeededFilter = cms.EDFilter("HLTEgammaGeneric
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaGsfTrackVarsL1Seeded","OneOESuperMinusOneOP")
 )
+# foo bar baz
+# k9HxGFWfSWeEl
+# 1W7UU07StUipw

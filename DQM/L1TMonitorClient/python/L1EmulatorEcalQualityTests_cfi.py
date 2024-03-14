@@ -15,3 +15,6 @@ l1EmulatorEcalQualityTests = DQMQualityTester(
     verboseQT=cms.untracked.bool(True)
 )
 
+# foo bar baz
+# bMHNPI3l2doQu
+# tN7szhdCiXzQV

@@ -44,3 +44,6 @@ process.towerMaker.hoInput = 'recalrechit:RecalibHO'
 process.p = cms.Path(process.recalrechit*process.caloTowersRec)
 
 process.e = cms.EndPath(process.MinRecos)
+# foo bar baz
+# S4BvYAunwx5N2
+# ZCdiDMWfE5P5k

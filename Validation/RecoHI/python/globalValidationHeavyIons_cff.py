@@ -51,3 +51,6 @@ globalValidationHI = cms.Sequence(
     + hiRecoMuonValidation      # validation of offline muon reco   
     )
 
+# foo bar baz
+# gf3MSLOeT1kFy
+# 2SxtGnHEqkoHo

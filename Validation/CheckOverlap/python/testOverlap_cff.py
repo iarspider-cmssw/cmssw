@@ -74,3 +74,6 @@ process.g4SimHits.Physics.type = 'SimG4Core/Physics/DummyPhysics'
 process.g4SimHits.Physics.DummyEMPhysics = True
 
 
+# foo bar baz
+# 7tTwU7cwz2b5w
+# 9sWPFEkeT4VhW

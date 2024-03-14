@@ -16,3 +16,6 @@ process.source = cms.Source("PoolSource",
 			    fileNames = cms.untracked.vstring("file:dummy.root"),
                             doesNotExist = cms.bool(True))
 
+# foo bar baz
+# dGvlJiicfsPfx
+# Dj4OpYYnIaKnJ

@@ -90,3 +90,6 @@ process.outputCsTau = cms.OutputModule("PoolOutputModule",
 process.this_is_the_end = cms.EndPath(
 process.outputCsTau
 )
+# foo bar baz
+# lNwiMt8CBQZuE
+# 0tGlsYrTqrFRE

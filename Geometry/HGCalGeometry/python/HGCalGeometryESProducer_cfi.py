@@ -18,3 +18,6 @@ HGCalHESciGeometryESProducer = cms.ESProducer("HGCalGeometryESProducer",
                                               Name = cms.untracked.string("HGCalHEScintillatorSensitive")
                                               )
 
+# foo bar baz
+# rQSyf0TbZmfnK
+# Upi6gA3PKl9OW

@@ -8,3 +8,6 @@ process.out = cms.OutputModule("PoolOutputModule", fileName=cms.untracked.string
 process.test = cms.OutputModule("ProvenanceCheckerOutputModule")
 process.o = cms.EndPath(process.test+process.out)
 process.maxEvents = cms.untracked.PSet(input=cms.untracked.int32(10))
+# foo bar baz
+# ZSIG6N672M10S
+# ME8UhNoLgH8Bu

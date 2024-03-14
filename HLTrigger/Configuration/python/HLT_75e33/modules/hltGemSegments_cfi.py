@@ -32,3 +32,6 @@ hltGemSegments = cms.EDProducer("GEMSegmentProducer",
         requireCentralBX = cms.bool(True)
     ),
 )
+# foo bar baz
+# GLcK9tOcAdjgz
+# 7oSWQvFydMyvZ

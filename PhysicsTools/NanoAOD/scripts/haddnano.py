@@ -117,3 +117,6 @@ for e in fileHandles[0].GetListOfKeys():
         obj.Write()
     else:
         print("Cannot handle " + str(obj.IsA().GetName()))
+# foo bar baz
+# KZVYjFNPeGLUH
+# tfaUHBWVslPis

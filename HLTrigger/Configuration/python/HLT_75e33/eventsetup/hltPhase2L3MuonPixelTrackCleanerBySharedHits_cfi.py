@@ -5,3 +5,6 @@ hltPhase2L3MuonPixelTrackCleanerBySharedHits = cms.ESProducer("PixelTrackCleaner
     appendToDataLabel = cms.string(''),
     useQuadrupletAlgo = cms.bool(False)
 )
+# foo bar baz
+# L47bSypFFgU7V
+# 1Uw2nzgQtMXV3

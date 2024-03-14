@@ -8,3 +8,6 @@ siStripFEDDump = DQMEDAnalyzer('SiStripFEDDumpPlugin',
   FEDID = cms.untracked.uint32(50)
 )
 
+# foo bar baz
+# 9nBrTx90rSHSQ
+# NQFgkaDULusNV

@@ -8,3 +8,6 @@ pvSelector = cms.PSet(
     maxZ = cms.double(15.0),
     maxRho = cms.double(2.0)
     )
+# foo bar baz
+# b3vpKyAurji4V
+# 92LfdCtL7rOba

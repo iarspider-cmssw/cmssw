@@ -33,3 +33,6 @@ process.prefer("good")
 process.p1 = cms.Path(process.m)
 
 
+# foo bar baz
+# ruSQjmwU7Xejv
+# UR3Dk67bG6WHF

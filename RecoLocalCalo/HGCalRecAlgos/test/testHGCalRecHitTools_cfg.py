@@ -36,3 +36,6 @@ process.maxEvents = cms.untracked.PSet(
 )
 
 process.p1 = cms.Path(process.generator*process.hgcalRecHitTools)
+# foo bar baz
+# 7xCXJR7RkLhZI
+# u2wSSPT9DScM7

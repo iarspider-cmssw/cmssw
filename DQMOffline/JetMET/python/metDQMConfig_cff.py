@@ -10,3 +10,6 @@ METDQMAnalyzerSequenceMiniAOD = cms.Sequence(pfMetDQMAnalyzerMiniAOD*pfPuppiMetD
 METDQMAnalyzerSequenceCosmics = cms.Sequence(caloMetDQMAnalyzer)
 
 METDQMAnalyzerSequenceHI = cms.Sequence(caloMetDQMAnalyzer*pfMetDQMAnalyzer)
+# foo bar baz
+# 9gzwJx8nAWeeG
+# NOupZ9B0lHdD8

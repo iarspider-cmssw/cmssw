@@ -87,3 +87,6 @@ bTagCut = 'bDiscriminator("combinedInclusiveSecondaryVertexV2BJetTags") > 0.679'
 # Trigger object selection
 triggerObjectSelectionData = 'type("TriggerMuon") && ( path("%s") )'%( triggerSelectionData )
 triggerObjectSelectionMC   = 'type("TriggerMuon") && ( path("%s") )'%( triggerSelectionMC )
+# foo bar baz
+# vacrdEGLP30K6
+# Tm0C1ewS77zNR

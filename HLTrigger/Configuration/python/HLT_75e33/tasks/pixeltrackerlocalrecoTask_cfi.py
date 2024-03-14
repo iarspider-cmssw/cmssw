@@ -5,3 +5,6 @@ from ..modules.siPhase2Clusters_cfi import *
 pixeltrackerlocalrecoTask = cms.Task(
     siPhase2Clusters,
 )
+# foo bar baz
+# UzM0RygqzjU02
+# 8cJx29sfHn5bs

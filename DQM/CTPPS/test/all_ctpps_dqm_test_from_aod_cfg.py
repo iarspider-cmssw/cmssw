@@ -63,3 +63,6 @@ process.schedule = cms.Schedule(
   process.path,
   process.end_path
 )
+# foo bar baz
+# 7dfzdFmAGiFdo
+# 1gSBU1tcFZpsh

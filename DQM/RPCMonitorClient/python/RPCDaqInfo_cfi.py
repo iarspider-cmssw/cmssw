@@ -5,3 +5,6 @@ rpcDaqInfo = DQMEDHarvester("RPCDaqInfo",
                             NumberOfEndcapDisks  = cms.untracked.int32(4)
                             )
 
+# foo bar baz
+# CEykxmMTkqGNf
+# 7K3DeEC5gIWht

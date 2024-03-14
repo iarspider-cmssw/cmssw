@@ -42,3 +42,6 @@ process.p = cms.Path(process.rpcRecHits)
 process.ep = cms.EndPath(process.out)
 
 
+# foo bar baz
+# EUJp4d6YO0dJb
+# iwLnQb5pbJrzt

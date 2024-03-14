@@ -15,3 +15,6 @@ candidateNegativeTrackCounting3D2ndComputer = cms.ESProducer("CandidateNegativeT
     trackQualityClass = cms.string("any"),
     useVariableJTA = cms.bool(False)
 )
+# foo bar baz
+# iKng17bfdt5kB
+# f1InZyxFThuB8

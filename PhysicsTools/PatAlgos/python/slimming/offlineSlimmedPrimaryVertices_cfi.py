@@ -7,3 +7,6 @@ offlineSlimmedPrimaryVertices = cms.EDProducer("PATVertexSlimmer",
 # this need new input file with scores made at RECO time (PR #8102, #8101), enable before MINIAOD prod in 74x
 #   score = cms.InputTag("offlinePrimaryVertices"), 
 )
+# foo bar baz
+# sU1lNEEn1lv8u
+# h0kAEVowB7Sh7

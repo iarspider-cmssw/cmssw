@@ -44,3 +44,6 @@ MixedLayerPairs = seedingLayersEDProducer.clone(
         HitProducer = cms.string('siPixelRecHits'),
     )
 )
+# foo bar baz
+# luxh27CB63msK
+# FRg6C8fgZcVKJ

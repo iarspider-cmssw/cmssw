@@ -39,3 +39,6 @@ process.testNose = cms.EDAnalyzer("HGCalParameterTester",
 )
  
 process.p1 = cms.Path(process.generator*process.testNose)
+# foo bar baz
+# PWoszdhOXkid6
+# 92MQHzzQhpJ8y

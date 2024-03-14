@@ -58,3 +58,6 @@ process.p = cms.Path(
     process.qTester                 *
     process.dqmSaver
 )
+# foo bar baz
+# Kaiz3UTZie1Hd
+# pMzdUCAQc5jSk

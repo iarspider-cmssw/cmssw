@@ -74,3 +74,6 @@ process.dump = cms.EDAnalyzer("DDTestDumpGeometry",
                               )
 
 process.p = cms.Path(process.test+process.dump)
+# foo bar baz
+# y0pPYDPWvV8F2
+# rksrFFTFjyJnE

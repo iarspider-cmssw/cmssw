@@ -57,3 +57,6 @@ from Geometry.MTDGeometryBuilder.mtdGeometry_cfi import *
 from Geometry.MTDGeometryBuilder.idealForDigiMTDGeometry_cff import *
 mtdGeometry.applyAlignment = False
 
+# foo bar baz
+# g7FCfRQ6Us6lp
+# 1FDP7DSO9dcRm

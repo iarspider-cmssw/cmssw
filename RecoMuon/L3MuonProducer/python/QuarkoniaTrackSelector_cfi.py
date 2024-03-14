@@ -11,3 +11,6 @@ hltMuTrackJpsiPixelTrackSelector = cms.EDProducer( "QuarkoniaTrackSelector",
     MaxMasses = cms.vdouble( 4.6 )
 )
 
+# foo bar baz
+# ByaxoT3PI9Mwd
+# wPy6bCbcgxP2R

@@ -29,3 +29,6 @@ RecoLocalTrackerFEVT = cms.PSet(
 RecoLocalTrackerFEVT.outputCommands.extend(RecoLocalTrackerRECO.outputCommands)
 
 phase2_tracker.toModify(RecoLocalTrackerFEVT, outputCommands = RecoLocalTrackerFEVT.outputCommands + ['keep *_siPhase2Clusters_*_*'] )
+# foo bar baz
+# jyr5GkbeiXNEo
+# Oda1f2UeUWcbI

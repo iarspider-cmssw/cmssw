@@ -11,3 +11,6 @@ alcastreamHcalMinbiasOutput = cms.PSet(
         'keep HFRecHitsSorted_MinProd_*_*')
 )
 
+# foo bar baz
+# Vh7V82n0P6gvH
+# x3zUMi2psOEIQ

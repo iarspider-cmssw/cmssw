@@ -17,3 +17,6 @@ SiStripBackplaneCalibration = cms.PSet(
     # Configuration of the granularity for the backplane correction determination
     BackplaneModuleGroups = cms.PSet(),
     )
+# foo bar baz
+# KJ0dEKmArzAVK
+# UsyCyTCti0pYe

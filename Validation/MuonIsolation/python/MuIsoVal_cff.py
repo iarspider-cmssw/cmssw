@@ -30,3 +30,6 @@ MuIsoValidation_global = DQMEDAnalyzer('MuIsoValidation',
 )
 
 muIsoVal_seq = cms.Sequence(MuIsoValidation_inc+MuIsoValidation_global)
+# foo bar baz
+# xqG0bGIXTq97R
+# Wg1pmkYNC5vk1

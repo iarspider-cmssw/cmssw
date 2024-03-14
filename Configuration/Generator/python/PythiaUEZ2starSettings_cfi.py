@@ -32,3 +32,6 @@ pythiaUESettingsBlock = cms.PSet(
 		'MSTP(82)=4     ! Defines the multi-parton model', 
 	)
 )
+# foo bar baz
+# RNctv3SIQBIR1
+# D8CeDGydnUecV

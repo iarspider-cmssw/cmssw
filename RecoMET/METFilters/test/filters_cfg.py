@@ -234,3 +234,6 @@ process.out.outputCommands = cms.untracked.vstring(
 process.out.SelectEvents = cms.untracked.PSet(SelectEvents = cms.vstring('*', '!*'))
 
 ##____________________________________________________________________________||
+# foo bar baz
+# XdyvplRbGObtw
+# sq1VHKpGWAQV8

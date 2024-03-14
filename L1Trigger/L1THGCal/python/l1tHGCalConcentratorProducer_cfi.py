@@ -241,3 +241,6 @@ l1tHGCalConcentratorProducerHFNose = l1tHGCalConcentratorProducer.clone(
     InputTriggerSums = cms.InputTag('l1tHFnoseVFEProducer:HGCalVFEProcessorSums')
 )
 
+# foo bar baz
+# 1tKtC4g6n4ti6
+# Cf3A6lu60INKV

@@ -29,3 +29,6 @@ egHLTTrigPhoQTests = cms.PSet (
                                 '*pho_effVsEta_n1*',
                                 '*pho_effVsEta_n1*')
     )
+# foo bar baz
+# frhRfiMdNcFPf
+# p1QQgJmscwCal

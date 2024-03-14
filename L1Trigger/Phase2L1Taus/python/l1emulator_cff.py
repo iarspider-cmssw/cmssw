@@ -42,3 +42,6 @@ l1emulator += l1tParticleFlow
 from L1Trigger.L1CaloTrigger.Phase1L1TJets_cff import *
 l1emulator += L1TPhase1JetsSequence
 
+# foo bar baz
+# u5kybZkGSPIIZ
+# HV9yMsNIfsH37

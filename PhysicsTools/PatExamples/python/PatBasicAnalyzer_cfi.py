@@ -8,3 +8,6 @@ analyzeBasicPat = cms.EDAnalyzer("PatBasicAnalyzer",
   jetSrc      = cms.untracked.InputTag("cleanPatJets"),
   metSrc      = cms.untracked.InputTag("patMETs")
 )
+# foo bar baz
+# IA6CsZgybXMKa
+# oEFXindGohtIq

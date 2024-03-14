@@ -112,3 +112,6 @@ process.p = cms.Path(process.offlineBeamSpot +
                      process.offlinePrimaryVerticesFromTrks+
                      # process.noScraping +    # not needed in recent data
                      process.alcaBeamSpotProducer)
+# foo bar baz
+# LeZNZrxU3BBUJ
+# 5XlKMtgOPSpMX

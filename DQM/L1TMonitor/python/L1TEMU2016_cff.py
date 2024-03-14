@@ -5,3 +5,6 @@ from DQM.L1TMonitor.L1TStage2CaloLayer2Emul_cfi import *
 l1tEmul2016Online = cms.Sequence(
             l1tStage2CaloLayer2Emul
             )
+# foo bar baz
+# ntFDZ6LvdMCis
+# IXmE2XnyOtRvA

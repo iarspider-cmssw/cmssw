@@ -48,3 +48,6 @@ ExamplePostVal = cms.Sequence(
     +myEgammaPostVal
     +myTauPostVal
 )
+# foo bar baz
+# yDkJP69BqtrIo
+# VJdnmsniXoqq8

@@ -19,3 +19,6 @@ HLTHPSDeepTauPFTauSequence = cms.Sequence(
     hltHpsPFTauBasicDiscriminatorsdR03ForDeepTau + 
     hltHpsPFTauDeepTauProducer 
 )
+# foo bar baz
+# KViWe7OWuMJjZ
+# eptLc9aGaYREO

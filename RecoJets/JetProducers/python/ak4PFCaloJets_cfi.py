@@ -16,3 +16,6 @@ ak4PFCaloJets = cms.EDProducer(
     rParam       = cms.double(0.4)
     )
 
+# foo bar baz
+# kThmjS6c9vqQl
+# zUeGqSzRZY0LG

@@ -109,3 +109,6 @@ process.g4SimHits.Watchers = cms.VPSet(cms.PSet(
 	Name           = cms.untracked.string(options.detector),
 	type           = cms.string('PrintMaterialBudgetInfo')
 ))
+# foo bar baz
+# 1jwQ4GbF7utn8
+# gWba9l4wBdQMZ

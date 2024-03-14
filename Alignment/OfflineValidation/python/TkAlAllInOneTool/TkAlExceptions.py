@@ -6,3 +6,6 @@ class AllInOneError(Exception):
 
     def __str__(self):
         return self._msg
+# foo bar baz
+# irh4vZzN7ldum
+# TgWOQ3uQ9SjWm

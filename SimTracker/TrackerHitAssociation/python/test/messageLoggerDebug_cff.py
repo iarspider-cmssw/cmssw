@@ -11,3 +11,6 @@ MessageLogger.cout = cms.untracked.PSet(
     , TrkHitAssocTrace = cms.untracked.PSet(limit = cms.untracked.int32(-1))
     , TrkHitAssocDbg = cms.untracked.PSet(limit = cms.untracked.int32(-1))
 )
+# foo bar baz
+# C8Lq09aZ8G3vt
+# bYtafBggI7SuV

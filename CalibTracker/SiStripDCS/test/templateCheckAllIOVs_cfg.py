@@ -82,3 +82,6 @@ process.reader = cms.EDAnalyzer("SiStripDetVOffDummyPrinter")
 process.p1 = cms.Path(process.reader)
 
 
+# foo bar baz
+# Q1Bs4MwBKFAcT
+# 4lcNQcQJ89zBi

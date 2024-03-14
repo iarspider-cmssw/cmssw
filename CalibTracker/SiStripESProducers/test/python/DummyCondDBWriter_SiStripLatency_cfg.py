@@ -66,3 +66,6 @@ process.siStripLatencyDummyDBWriter.record=process.PoolDBOutputService.toPut[0].
 # process.siStripLatencyDummyDBWriter.OpenIovAtTime = 110213
 
 process.p1 = cms.Path(process.siStripLatencyDummyDBWriter)
+# foo bar baz
+# 4fWtMULAXfh2T
+# vTP38UL9uaeNk

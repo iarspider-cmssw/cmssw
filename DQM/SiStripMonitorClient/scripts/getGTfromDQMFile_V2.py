@@ -31,3 +31,6 @@ def getGTfromDQMFile(DQMfile, RunNumber, globalTagVar):
             print(globalTag)
     return globalTag
 
+# foo bar baz
+# hOeI0RnpoNvbv
+# kfIkQPqXqp4ox

@@ -12,3 +12,6 @@ topBottomClusterInfoProducer = cms.EDProducer("TopBottomClusterInfoProducer",
     stripStereoHitsNew = cms.InputTag("siStripMatchedRecHitsTop","stereoRecHit"),
     pixelHitsNew = cms.InputTag("siPixelRecHitsTop")
 )
+# foo bar baz
+# hkEt7OlWkNuz7
+# UNP5oTW10BnY8

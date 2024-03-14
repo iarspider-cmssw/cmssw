@@ -20,3 +20,6 @@ hltCandidateJetBProbabilityComputer = cms.ESProducer("CandidateJetBProbabilityES
     trackQualityClass = cms.string('any'),
     useVariableJTA = cms.bool(False)
 )
+# foo bar baz
+# NeJkOXKGIeK5u
+# QoXEDNnvIA0MA

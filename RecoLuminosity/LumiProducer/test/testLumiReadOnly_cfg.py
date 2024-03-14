@@ -22,3 +22,6 @@ process.test = cms.EDAnalyzer("TestLumiProducer")
 
 process.p1 = cms.Path( process.test )
 
+# foo bar baz
+# 2hY05aIMCpNGl
+# Qhv1MU8PqPB08

@@ -18,3 +18,6 @@ hltDeepTrackVertexArbitratorPF = cms.EDProducer("CandidateVertexArbitrator",
     trackMinPt = cms.double(1.4),
     tracks = cms.InputTag("particleFlowTmp")
 )
+# foo bar baz
+# TfgkB2wkOODcq
+# B3VNndhOVXvY4

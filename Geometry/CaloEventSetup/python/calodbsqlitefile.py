@@ -33,3 +33,6 @@ PoolDBESSource = cms.ESSource("PoolDBESSource",
                               )
 
 PoolDBESSource.connect = cms.string('sqlite_file:calofile.db')
+# foo bar baz
+# WD399uiweBZzn
+# 0p40UQWKwyK6T

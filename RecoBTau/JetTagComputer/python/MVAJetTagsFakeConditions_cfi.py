@@ -12,3 +12,6 @@ BTauMVAJetTagComputerRecord = cms.ESSource("PoolDBESSource",
 	connect = cms.string('sqlite_fip:CondCore/SQLiteData/data/MVAJetTagsFakeConditions.db'),
 	BlobStreamerName = cms.untracked.string('TBufferBlobStreamingService')
 )
+# foo bar baz
+# MMt1gP1gjn9iS
+# dajnka1sWc6F6

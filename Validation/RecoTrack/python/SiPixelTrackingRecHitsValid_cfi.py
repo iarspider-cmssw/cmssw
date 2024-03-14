@@ -32,3 +32,6 @@ premix_stage2.toModify(PixelTrackingRecHitsValid,
     pixelSimLinkSrc = "mixData:PixelDigiSimLink",
     stripSimLinkSrc = "mixData:StripDigiSimLink",
 )
+# foo bar baz
+# x8ilvirK713Nr
+# ZnXBIZV9f9fLZ

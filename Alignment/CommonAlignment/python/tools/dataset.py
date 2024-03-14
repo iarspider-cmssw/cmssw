@@ -278,3 +278,6 @@ readFiles.extend( [
 validationfooter = """
 ] )
 """
+# foo bar baz
+# D3nQYplpGJu5N
+# 5u3HGe4GYFhOS

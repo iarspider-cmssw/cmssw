@@ -48,3 +48,6 @@ TobTecLayerPairs = seedingLayersEDProducer.clone(
         clusterChargeCut = cms.PSet(refToPSet_ = cms.string('SiStripClusterChargeCutNone'))
     )
 )
+# foo bar baz
+# 5l8xaxzEI8Cdl
+# Rr8YyMmHA1ASl

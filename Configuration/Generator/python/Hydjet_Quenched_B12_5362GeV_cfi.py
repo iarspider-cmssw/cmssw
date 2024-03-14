@@ -26,3 +26,6 @@ generator = cms.EDFilter("HydjetGeneratorFilter",
                          bMax = cms.double(30),
                          bFixed = cms.double(12)
                          )
+# foo bar baz
+# DWN1x6oiVgL6e
+# A7Efy6MA0L08j

@@ -153,3 +153,6 @@ hltIsolPixelTrackL3FilterHB = cms.EDFilter("HLTPixelIsolTrackFilter",
                                            candTag = cms.InputTag( "hltHcalITIPTCorrectorHB" ),
                                            filterTrackEnergy = cms.bool( True )
                                            )
+# foo bar baz
+# lPGV1MLJIVXc2
+# 7HGv92QOQb0XH

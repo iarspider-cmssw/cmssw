@@ -152,3 +152,6 @@ pfTauTask = cms.Task(
     pfTausPtrs
 )
 pfTauSequence = cms.Sequence(pfTauTask)
+# foo bar baz
+# iyMflliicWpXM
+# rKvTb5cFSG0WF

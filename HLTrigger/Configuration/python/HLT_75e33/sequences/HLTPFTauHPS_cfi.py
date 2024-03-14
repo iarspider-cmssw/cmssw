@@ -25,3 +25,6 @@ HLTPFTauHPS = cms.Sequence(
     hltHpsSelectedPFTausTrackFinding + 
     hltHpsPFTauTrack 
 )
+# foo bar baz
+# 4Ug8whMiLbOs4
+# qBsv7DdDoBjy9

@@ -6,3 +6,6 @@ alcaPCCIntegrator = cms.EDProducer("AlcaPCCIntegrator",
         ProdInst = cms.string("alcaPCCRandom")
     )
 )
+# foo bar baz
+# r2cPyfOsxA2Lc
+# MB3weSXWQGp51

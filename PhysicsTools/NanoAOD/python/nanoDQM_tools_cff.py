@@ -24,3 +24,6 @@ def shortDump(pset):
         return ("Profile1D(%r, %r, %r, %d, %g, %g%s)" % (pset.name.value(), pset.ycolumn.value(), pset.xcolumn.value(), pset.nbins.value(), pset.min.value(), pset.max.value(), ", %r" % pset.title.value() if pset.title.value() else ""))
 
 
+# foo bar baz
+# 2qDrc5y0ipk6R
+# GFmWna6Vlv2md

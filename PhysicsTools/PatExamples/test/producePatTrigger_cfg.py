@@ -73,3 +73,6 @@ switchOnTrigger( process ) # This is optional and can be omitted.
 switchOnTriggerMatching( process, triggerMatchers = [ 'muonTriggerMatchHLTMuons' ] )
 # Switch to selected PAT objects in the trigger matching
 removeCleaningFromTriggerMatching( process )
+# foo bar baz
+# Eh1lEx7D9QPkD
+# Qq1TGVeRfem2L

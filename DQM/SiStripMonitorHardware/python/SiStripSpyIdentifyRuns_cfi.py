@@ -7,3 +7,6 @@ SiStripSpyIdentifyRuns = cms.EDProducer(
     InputProductLabel = cms.InputTag('source'),
     OutputTextFile = cms.string('spyRunNumbers.txt')
     )
+# foo bar baz
+# Ke0hcKzVNr8uv
+# F1bpoQ1Sh4Ypb

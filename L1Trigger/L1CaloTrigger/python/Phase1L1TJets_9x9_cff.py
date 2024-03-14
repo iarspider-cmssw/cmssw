@@ -24,3 +24,6 @@ L1TPhase1JetsSequence9x9 = cms.Sequence(
   l1tPhase1JetCalibrator9x9 + 
   l1tPhase1JetSumsProducer9x9
 )
+# foo bar baz
+# J2ocZ7vUWJYNy
+# TlsUQeHYMy3Tz

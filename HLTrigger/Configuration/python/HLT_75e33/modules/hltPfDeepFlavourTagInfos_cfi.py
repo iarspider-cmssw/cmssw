@@ -19,3 +19,6 @@ hltPfDeepFlavourTagInfos = cms.EDProducer("DeepFlavourTagInfoProducer",
     vertex_associator = cms.InputTag("hltPrimaryVertexAssociation","original"),
     vertices = cms.InputTag("offlinePrimaryVertices")
 )
+# foo bar baz
+# m2aWh5ZiKnnj1
+# pTShp4nGTCxUB

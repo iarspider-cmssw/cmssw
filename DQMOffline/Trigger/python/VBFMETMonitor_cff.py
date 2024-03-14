@@ -21,3 +21,6 @@ higgsinvHLTJetMETmonitoring = cms.Sequence(
     DiJetVBFmonitoring
     *TripleJetVBFmonitoring
 )
+# foo bar baz
+# ZwkFzXSRtWedk
+# 4EQ8RBl21hVKJ

@@ -84,3 +84,6 @@ process.dump = _trackerGeometryIntoNtuples.clone(
 process.p = cms.Path(process.dump)  
 
 
+# foo bar baz
+# rnpw3wuKIsNJh
+# jRA26PXTqo3OU

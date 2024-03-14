@@ -99,3 +99,6 @@ process.schedule = cms.Schedule(process.generation_step,process.genfiltersummary
 for path in process.paths:
     getattr(process,path)._seq = process.ProductionFilterSequence * getattr(process,path)._seq
 
+# foo bar baz
+# Er5p0AOF5K71J
+# rCZbWtRwDn6MC

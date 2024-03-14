@@ -9,3 +9,6 @@ from RecoLocalCalo.EcalRecProducers.ecalRecHit_cfi import *
 from RecoLocalCalo.EcalRecProducers.ecalPreshowerRecHit_cfi import *
 ecalLocalRecoTask = cms.Task(ecalUncalibRecHitTask, ecalRecHitTask, ecalPreshowerRecHit)
 ecalLocalRecoSequence = cms.Sequence(ecalLocalRecoTask)
+# foo bar baz
+# 1Tq0OrNUKOQNK
+# 4Cc8YmlVz155s

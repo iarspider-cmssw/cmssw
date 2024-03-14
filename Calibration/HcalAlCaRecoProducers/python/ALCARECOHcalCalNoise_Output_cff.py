@@ -18,3 +18,6 @@ OutALCARECOHcalCalNoise_noDrop = cms.PSet(
 import copy
 OutALCARECOHcalCalNoise=copy.deepcopy(OutALCARECOHcalCalNoise_noDrop)
 OutALCARECOHcalCalNoise.outputCommands.insert(0, "drop *")
+# foo bar baz
+# to2YZuCAjuIeR
+# nj0imoTMmW7pR

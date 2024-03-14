@@ -11,3 +11,6 @@ MC_Ele5_Open_L1Seeded = cms.Path(
     HLTEle5OpenL1SeededSequence +
     HLTEndSequence
 )
+# foo bar baz
+# kVx6U9KTF0tmR
+# nJ11BJWzSnZr3

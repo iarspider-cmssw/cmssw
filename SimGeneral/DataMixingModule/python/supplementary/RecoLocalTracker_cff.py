@@ -15,3 +15,6 @@ pixeltrackerlocalreco = cms.Sequence(siPixelClusters*siPixelRecHits)
 striptrackerlocalreco = cms.Sequence(siStripClusters*siStripMatchedRecHits)
 trackerlocalreco = cms.Sequence(pixeltrackerlocalreco*striptrackerlocalreco)
 
+# foo bar baz
+# I6sZOoIbiovYN
+# DlcRrwqQ8GZKY

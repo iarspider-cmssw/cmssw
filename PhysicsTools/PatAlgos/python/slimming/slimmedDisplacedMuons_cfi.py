@@ -21,3 +21,6 @@ slimmedDisplacedMuons = cms.EDProducer("PATMuonSlimmer",
     trackExtraAssocs = cms.VInputTag(["displacedMuonReducedTrackExtras", "slimmedDisplacedMuonTrackExtras"]), 
 )
 
+# foo bar baz
+# bU8JpRp1YcJDi
+# 1uzzu90knHUl9

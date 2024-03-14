@@ -16,3 +16,6 @@ triggerLutTest = DQMEDHarvester("DTLocalTriggerLutTest",
     folderRoot = cms.untracked.string('')
 )
 
+# foo bar baz
+# pMI9uFMtUxdyp
+# QX9mPmGwb09rx

@@ -92,3 +92,6 @@ process.g4SimHits.Physics.DefaultCutValue = 0.1
 process.g4SimHits.HFShower.ApplyFiducialCut = cms.bool(False)
 
 
+# foo bar baz
+# CgcGbq7VGeioQ
+# aXBeP8VvwNBbC

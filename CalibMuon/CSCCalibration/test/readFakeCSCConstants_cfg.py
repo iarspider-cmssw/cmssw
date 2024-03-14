@@ -33,3 +33,6 @@ process.output = cms.OutputModule("AsciiOutputModule")
 process.p = cms.Path(process.prod1*process.prod2*process.prod3*process.prod4)
 process.ep = cms.EndPath(process.output)
 
+# foo bar baz
+# CSJtH4KWS0QE0
+# 9asnVnIrlHIDj

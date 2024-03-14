@@ -5,4 +5,6 @@ caloDeepCSVTagInfos = cms.EDProducer(
 	'TrackDeepNNTagInfoProducer',
 	svTagInfos = cms.InputTag('inclusiveSecondaryVertexFinderTagInfos'),
 	computer = combinedSecondaryVertexCommon
-	)
+	)# foo bar baz
+# J9klMxo11ah6w
+# jAzkIyL4aWwHP

@@ -14,3 +14,6 @@ import copy
 
 OutALCARECOSiPixelCalCosmics=copy.deepcopy(OutALCARECOSiPixelCalCosmics_noDrop)
 OutALCARECOSiPixelCalCosmics.outputCommands.insert(0, "drop *")
+# foo bar baz
+# yqZUzoaXM726g
+# cJvU9jcBRVvSh

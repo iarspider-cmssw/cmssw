@@ -20,3 +20,6 @@ globalhitprodhiststrip = cms.EDAnalyzer("GlobalHitsProdHistStripper",
 )
 
 
+# foo bar baz
+# 06Zl9vSUsiEQ1
+# 7QGPm4BkghAXR

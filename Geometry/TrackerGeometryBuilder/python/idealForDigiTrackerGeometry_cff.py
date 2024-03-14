@@ -14,3 +14,6 @@ idealForDigiTrackerGeometry.applyAlignment = False
 idealForDigiTrackerGeometry.appendToDataLabel = 'idealForDigi'
 # Alignments are looked for with this label:
 idealForDigiTrackerGeometry.alignmentsLabel = 'fakeForIdeal'
+# foo bar baz
+# mhTpwhk69WdXG
+# zAq0Z2rc4xBkH

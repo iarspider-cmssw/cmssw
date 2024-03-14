@@ -65,3 +65,6 @@ MessageLogger = cms.Service("MessageLogger",
     ),
     suppressError = cms.untracked.vstring()
 )
+# foo bar baz
+# NSg1MsoElQpz2
+# HAXLcTM92BWNq

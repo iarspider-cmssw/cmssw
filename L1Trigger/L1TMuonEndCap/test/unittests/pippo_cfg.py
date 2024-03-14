@@ -56,3 +56,6 @@ process.p = cms.Path(process.simEmtfDigisData)
 process.e = cms.EndPath(process.out)
 process.schedule = cms.Schedule(process.p, process.e)
 
+# foo bar baz
+# ZJeR2el2mV7VP
+# TGotU0KRkNfgR

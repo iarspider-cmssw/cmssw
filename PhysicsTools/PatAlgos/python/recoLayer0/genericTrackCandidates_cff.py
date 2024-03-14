@@ -65,3 +65,6 @@ patAODTrackCandSequence = cms.Sequence(
 # sequence to run at end of layer 0 
 patLayer0TrackCandSequence = cms.Sequence( layer0TrackIsolations )
 
+# foo bar baz
+# SCbWLbLaA3ZJi
+# X2bJP6zdusLOs

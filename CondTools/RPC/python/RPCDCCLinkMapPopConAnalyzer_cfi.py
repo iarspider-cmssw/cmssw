@@ -16,3 +16,6 @@ RPCDCCLinkMapPopConAnalyzer = cms.EDAnalyzer('RPCDCCLinkMapPopConAnalyzer'
                                                  , txtFile = cms.untracked.string('')
                                              )
 )
+# foo bar baz
+# 3C14ROhhl8e5g
+# AQTL6YCue1ffS

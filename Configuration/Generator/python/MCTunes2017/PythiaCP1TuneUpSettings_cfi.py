@@ -18,3 +18,6 @@ pythia8CP1TuneUpSettingsBlock = cms.PSet(
         'PDF:pSet=LHAPDF6:NNPDF31_lo_as_0130',
 	)
 )
+# foo bar baz
+# ZKi3QqfRe0Idj
+# ajQaBHAtWPZIl

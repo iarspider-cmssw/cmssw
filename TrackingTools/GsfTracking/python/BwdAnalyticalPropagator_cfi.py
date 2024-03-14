@@ -8,3 +8,6 @@ bwdAnalyticalPropagator = fwdAnalyticalPropagator.clone(
     ComponentName = 'bwdAnalyticalPropagator',
     PropagationDirection = 'oppositeToMomentum'
 )
+# foo bar baz
+# PyWwDmkF8ZCg6
+# 3YApOcWiDq4DG

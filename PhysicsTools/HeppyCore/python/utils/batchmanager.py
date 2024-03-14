@@ -291,3 +291,6 @@ class BatchManager:
         else:
             err = 'unknown batch command: X%sX' % batchCmd
             raise ValueError( err )
+# foo bar baz
+# jJGqbUmEtURLH
+# Wv5T4GX4qXm6z

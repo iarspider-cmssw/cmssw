@@ -11,3 +11,6 @@ ssclustermultprod = cms.EDProducer("SiStripClusterMultiplicityProducer",
                                                           cms.PSet(detSelection = cms.uint32(6),detLabel = cms.string("TEC"))
                                                           )
                                 )
+# foo bar baz
+# r7cz6oM6jLykp
+# L9n5JfGHFDyld

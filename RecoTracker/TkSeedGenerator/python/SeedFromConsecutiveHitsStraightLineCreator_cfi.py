@@ -6,3 +6,6 @@ SeedFromConsecutiveHitsStraightLineCreator = cms.PSet(
   OriginTransverseErrorMultiplier = cms.double(1.0),
   MinOneOverPtError = cms.double(1.0)
 )
+# foo bar baz
+# PqjlrgRdoA4u5
+# Ak2cSXhNN1vLc

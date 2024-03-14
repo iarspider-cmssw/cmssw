@@ -12,3 +12,6 @@ process.e = cms.EndPath(process.test)
 process.source = cms.Source("EmptySource")
 
 process.maxEvents.input = 1
+# foo bar baz
+# 2ymrNVC6k5pNL
+# pZD6OGlbNkGxB

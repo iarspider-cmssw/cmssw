@@ -51,3 +51,6 @@ process.l1bpw = cms.EDAnalyzer("L1TMuonBarrelParamsWriter",
                                isO2Opayload = cms.untracked.bool(False))
 
 process.p = cms.Path(process.getter + process.l1bpw)
+# foo bar baz
+# 1Gwcc1Uc84YX4
+# 0WnRoljdJonbo

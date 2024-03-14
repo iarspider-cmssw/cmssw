@@ -77,3 +77,6 @@ SimpleMemoryCheck = cms.Service("SimpleMemoryCheck",ignoreTotal = cms.untracked.
 
 process.p = cms.Path(process.hgcalRecHitStudyEE+process.hgcalRecHitStudyFH+process.hgcalRecHitStudyBH)
 
+# foo bar baz
+# cbxDuJiZBAisC
+# M0nO84KTLLLnG

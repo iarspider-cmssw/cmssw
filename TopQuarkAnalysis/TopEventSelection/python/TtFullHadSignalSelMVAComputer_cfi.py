@@ -7,3 +7,6 @@ findTtFullHadSignalSelMVA = cms.EDProducer("TtFullHadSignalSelMVAComputer",
     ## jet input
     jets  = cms.InputTag("selectedPatJets")
 )
+# foo bar baz
+# 236fHFwqeQa1F
+# yTddIUWnOQKWc

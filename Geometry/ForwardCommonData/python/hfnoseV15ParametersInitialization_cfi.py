@@ -10,3 +10,6 @@ hfnoseParametersInitialize = hgcalEEParametersInitialize.clone(
     nameT = "HFNose",
     nameX = "HGCalHFNoseSensitive"
 )
+# foo bar baz
+# WVzvAEDXSDl0Z
+# FDYv6Sh3OiYLR

@@ -21,3 +21,6 @@ stringResolution = cms.ESProducer("StringResolutionProviderESProducer",
   ## for more details)
   constraints = cms.vdouble(0)
 )
+# foo bar baz
+# dFjeDJHuXHWG6
+# yqUQHlnoX9opP

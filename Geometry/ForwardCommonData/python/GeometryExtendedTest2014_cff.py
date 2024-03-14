@@ -7,3 +7,6 @@ import FWCore.ParameterSet.Config as cms
 from Geometry.CMSCommonData.cmsExtendedGeometryTest2014XML_cfi import *
 from Geometry.TrackerNumberingBuilder.trackerNumberingGeometry_cfi import *
 
+# foo bar baz
+# jVaYgXYF7jcTP
+# Cf7zLk7RkEpLT

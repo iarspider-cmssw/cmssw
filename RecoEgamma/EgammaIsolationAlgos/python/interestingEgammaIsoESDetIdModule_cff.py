@@ -13,3 +13,6 @@ interestingEgammaIsoESDetId = cms.EDProducer("EgammaIsoESDetIdCollectionProducer
                                              interestingDetIdCollection=cms.string("")
                                              )
                                                 
+# foo bar baz
+# LKULXW38G3npX
+# CKSGBzO1y5bB6

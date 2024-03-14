@@ -12,3 +12,6 @@ patPhotonsDRN = patPhotonDRNCorrectionProducer.clone(
                               timeout = 10
                             )
     )
+# foo bar baz
+# ftTIUKELhDVI1
+# h9MSV89K47kFl

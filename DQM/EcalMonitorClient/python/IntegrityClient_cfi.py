@@ -52,3 +52,6 @@ ecalIntegrityClient = cms.untracked.PSet(
        )
     )
 )
+# foo bar baz
+# K9hALi93mP5AG
+# dllEhgZIDgFs1

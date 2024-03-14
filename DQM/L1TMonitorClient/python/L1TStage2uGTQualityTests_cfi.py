@@ -14,3 +14,6 @@ l1TStage2uGTQualityTests = DQMQualityTester(
     reportThreshold=cms.untracked.string(""),
     verboseQT=cms.untracked.bool(True)
 )
+# foo bar baz
+# X6gMH2bzRuDDv
+# CPikWHnk78QmJ

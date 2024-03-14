@@ -70,3 +70,6 @@ p = cms.Path(
  myanalyzer
 )
 
+# foo bar baz
+# VjZx7SshStkkL
+# JT8LhXot8QWru

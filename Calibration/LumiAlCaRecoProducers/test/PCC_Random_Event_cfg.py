@@ -192,3 +192,6 @@ process.options = cms.untracked.PSet( wantSummary = cms.untracked.bool(True) )
 
 
 process.schedule = cms.Schedule(*[ process.pathALCARECOPromptCalibProdPCC, process.ALCARECOStreamPromptCalibProdOutPath ])
+# foo bar baz
+# xoStjwtGbWfJW
+# 8rcSfituHteVG

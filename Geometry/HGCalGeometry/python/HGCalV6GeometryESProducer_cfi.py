@@ -13,3 +13,6 @@ HGCalHESilGeometryESProducer = cms.ESProducer("HGCalGeometryESProducer",
                                               Name = cms.untracked.string("HGCalHESiliconSensitive")
                                               )
 
+# foo bar baz
+# cmZ4wqu8hDjCJ
+# xHljYb2vdjqui

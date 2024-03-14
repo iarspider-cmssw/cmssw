@@ -44,3 +44,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 process.p = cms.Path(process.MuScleFitMuonProducer)
 
 process.e = cms.EndPath(process.out)
+# foo bar baz
+# DTw5FvBCCuaF1
+# 6GToAbppAF0qb

@@ -15,3 +15,6 @@ process.MVADemoFileSource = cms.ESSource("MVADemoFileSource",
 process.testMVAComputerEvaluate = cms.EDAnalyzer("testMVAComputerEvaluate")
 
 process.p = cms.Path(process.testMVAComputerEvaluate)
+# foo bar baz
+# NFrQ1Utkt5q3z
+# 4Of1PtCwftTf8

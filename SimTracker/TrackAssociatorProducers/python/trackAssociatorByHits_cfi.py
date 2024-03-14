@@ -36,3 +36,6 @@ premix_stage2.toModify(trackAssociatorByHits,
     pixelSimLinkSrc = "mixData:PixelDigiSimLink",
     stripSimLinkSrc = "mixData:StripDigiSimLink",
 )
+# foo bar baz
+# rkl050duaqKRq
+# 8TFU1SErwyPsS

@@ -96,3 +96,6 @@ process.endp = cms.EndPath(
   + process.triggerRatesMonitorClient
   + process.dqmSaver
 )
+# foo bar baz
+# ykECARHpANp5w
+# uQ29RRxggE2GC

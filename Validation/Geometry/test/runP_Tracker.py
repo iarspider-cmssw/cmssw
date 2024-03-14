@@ -139,3 +139,6 @@ process.g4SimHits.Watchers = cms.VPSet(cms.PSet(
 
 cmsRun = CmsRun(process)
 cmsRun.run()
+# foo bar baz
+# 9puYnHLeVoCxs
+# 4H6T2lEmGCuBc

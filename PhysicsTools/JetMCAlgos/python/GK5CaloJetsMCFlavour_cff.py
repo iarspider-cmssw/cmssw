@@ -20,3 +20,6 @@ GK5byValAlgo = cms.EDProducer("JetFlavourIdentifier",
     physicsDefinition = cms.bool(False),
     leptonInfo = cms.bool(True)
 )
+# foo bar baz
+# Uua3eaLaiAKzT
+# Zlj0qmt9RXCXq

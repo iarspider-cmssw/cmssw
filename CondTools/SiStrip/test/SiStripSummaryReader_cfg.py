@@ -47,3 +47,6 @@ process.summaryReader = cms.EDAnalyzer("SiStripSummaryReader")
 process.p1 = cms.Path(process.summaryReader)
 
 
+# foo bar baz
+# U8A3adVYbIYMn
+# qCkNQpC4hEZ6w

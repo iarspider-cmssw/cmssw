@@ -236,3 +236,6 @@ hiHighPtTripletStepTask = cms.Task(hiHighPtTripletStepClusters,
                                      hiHighPtTripletStepQual)
 hiHighPtTripletStep = cms.Sequence(hiHighPtTripletStepTask)
 
+# foo bar baz
+# inlgEcZi1uMyF
+# HatJ3KF5tlvYw

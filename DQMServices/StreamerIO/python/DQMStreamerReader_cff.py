@@ -96,3 +96,6 @@ DQMStreamerReader = cms.Source("DQMStreamerReader",
     deleteDatFiles = cms.untracked.bool(options.deleteDatFiles),
     endOfRunKills  = cms.untracked.bool(options.endOfRunKills),
 )
+# foo bar baz
+# yiRhEQ2RQ8Bm4
+# l2v6XHGBnb97Q

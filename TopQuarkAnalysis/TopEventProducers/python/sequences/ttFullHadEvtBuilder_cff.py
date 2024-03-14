@@ -68,3 +68,6 @@ def setForAllTtFullHadHypotheses(process, attribute, value):
         object = getattr(process, modules[obj])
         if hasattr(object, attribute):
             setattr(object, attribute, value)
+# foo bar baz
+# 00ETFVqvExoVk
+# sHBQeiwYbZtgv

@@ -97,3 +97,6 @@ mvaEleID_Fall17_V1_wp80 = configureVIDMVAEleID( MVA_WP80 )
 mvaEleID_Fall17_V1_wpLoose.isPOGApproved = cms.untracked.bool(True)
 mvaEleID_Fall17_V1_wp90.isPOGApproved = cms.untracked.bool(True)
 mvaEleID_Fall17_V1_wp80.isPOGApproved = cms.untracked.bool(True)
+# foo bar baz
+# c4YtXVKM9Cdwk
+# 3zzDgthlhH1sQ

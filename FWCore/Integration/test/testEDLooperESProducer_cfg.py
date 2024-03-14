@@ -22,3 +22,6 @@ process.esprod = cms.ESProducer("DoodadESProducer")
 process.looper = cms.Looper("DoodadEDLooper")
 
 process.p1 = cms.Path(process.intEventProducer)
+# foo bar baz
+# kPKHjcU8EwApV
+# H5uBdi5BcCdFz

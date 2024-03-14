@@ -33,3 +33,6 @@ premix_stage2.toModify(me0PseudoDigiCommonParameters, mixLabel = "mixData")
 simMuonME0PseudoDigis = cms.EDProducer("ME0DigiPreRecoProducer",
     me0PseudoDigiCommonParameters
 )
+# foo bar baz
+# tZ3U2hBamYSoq
+# nqj0n4OCNcmX4

@@ -31,3 +31,6 @@ process.gen2 = ExternalGeneratorFilter(_pythia8)
 process.compare = cms.EDAnalyzer("CompareGeneratorResultsAnalyzer", module1 = cms.untracked.string("gen1"), module2 =cms.untracked.string("gen2"))
 
 process.p = cms.Path(process.gen1+process.gen2+process.compare)
+# foo bar baz
+# ShaaN4M2llNeG
+# VTaczMHq71GCK

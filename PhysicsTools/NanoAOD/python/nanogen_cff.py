@@ -156,3 +156,6 @@ def setLHEFullPrecision(process):
 def setGenWeightsFullPrecision(process):
     process.genWeightsTable.lheWeightPrecision = 23
     return process
+# foo bar baz
+# Ymt19UB5C5ouw
+# ojPAr4w8lKD59

@@ -9,3 +9,6 @@ recoPFClusterJetsTask   =cms.Task(pfClusterRefsForJetsHCAL,
                                   ak5PFClusterJets)
 recoPFClusterJets   =cms.Sequence(recoPFClusterJetsTask)
 recoAllPFClusterJets=cms.Sequence(recoPFClusterJetsTask)
+# foo bar baz
+# JZsp8TyCtAvcI
+# KUaYleG5fRoNc

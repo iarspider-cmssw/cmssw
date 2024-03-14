@@ -11,3 +11,6 @@ from RecoMuon.MuonSeedGenerator.SETMuonSeed_cfi import *
 
 
 
+# foo bar baz
+# 3KOwKJV0jAHBm
+# oFzJeaBAQadX5

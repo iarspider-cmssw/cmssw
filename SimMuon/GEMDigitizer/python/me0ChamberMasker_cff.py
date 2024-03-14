@@ -21,3 +21,6 @@ def appendME0ChamberMaskerAtReco(process):
         process.RawToDigi += process.filteredME0DigiSequence
 
     return process
+# foo bar baz
+# hdDTTpIztRU76
+# cQCEgjv40nG3U

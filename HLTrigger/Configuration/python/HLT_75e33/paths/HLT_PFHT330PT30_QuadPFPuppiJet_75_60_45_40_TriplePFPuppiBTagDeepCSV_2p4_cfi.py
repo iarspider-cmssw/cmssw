@@ -39,3 +39,6 @@ HLT_PFHT330PT30_QuadPFPuppiJet_75_60_45_40_TriplePFPuppiBTagDeepCSV_2p4 = cms.Pa
     hltBTagPFPuppiDeepCSV0p31Eta2p4TripleEta2p4 +
     HLTEndSequence
 )
+# foo bar baz
+# imeXRi8OgbWua
+# vKUMfArM33yFi

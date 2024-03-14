@@ -7,3 +7,6 @@ from FWCore.Services.InitRootHandlers_cfi import *
 AdaptorConfig = cms.Service("AdaptorConfig",
     stats = cms.untracked.bool(False)
 )
+# foo bar baz
+# USKqYNmV4ul0R
+# fRIz4Hzs5WmWY

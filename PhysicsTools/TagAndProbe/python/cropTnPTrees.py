@@ -32,3 +32,6 @@ for k in input.GetListOfKeys():
                 print("    copied ",i.GetClassName(),i.GetName())
 
 
+# foo bar baz
+# ZFjGbtOYpsFB8
+# 5cc93q8U5dLpZ

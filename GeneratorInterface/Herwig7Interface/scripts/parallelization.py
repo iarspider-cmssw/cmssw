@@ -310,3 +310,6 @@ if args.run != 0:
 
 if not args.keepfiles:
     cleanupandexit(cleanupfiles)
+# foo bar baz
+# vSuIWnFrhqQuK
+# 6Z4dkgVSAbgQd

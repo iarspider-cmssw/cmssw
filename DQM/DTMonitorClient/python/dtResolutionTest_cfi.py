@@ -25,3 +25,6 @@ resolutionTest = DQMEDHarvester("DTResolutionTest",
     sigmaTest =  cms.untracked.bool(False),
     slopeTest =  cms.untracked.bool(False)
 )
+# foo bar baz
+# 3vL2n0p7geAiX
+# XZAc7HZ2LjdK9

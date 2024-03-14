@@ -72,3 +72,6 @@ seqALCARECOSiStripCalZeroBiasHI = cms.Sequence(ALCARECOSiStripCalZeroBiasHLT*HLT
 (pp_on_XeXe_2017 | pp_on_AA).toReplaceWith(seqALCARECOSiStripCalZeroBias,
                                            seqALCARECOSiStripCalZeroBiasHI
 )
+# foo bar baz
+# 09TXCqI14cM8y
+# dKmrwUXgzBVAO

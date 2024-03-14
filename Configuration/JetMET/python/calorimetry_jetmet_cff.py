@@ -4,3 +4,6 @@ from RecoJets.Configuration.RecoJets_cff import *
 from RecoMET.Configuration.RecoMET_cff import *
 caloJetMet = cms.Sequence(recoJets)
 
+# foo bar baz
+# VBhcvgdD5WcKn
+# pToTfHqshzrRS

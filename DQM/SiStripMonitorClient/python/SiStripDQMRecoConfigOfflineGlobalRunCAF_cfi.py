@@ -40,3 +40,6 @@ SiStripDQMRecoGlobalRunCAF = cms.Sequence(
     ctfWithMaterialTracksP5Refitter +
     rsWithMaterialTracksP5Refitter
 )
+# foo bar baz
+# j9mIhMT1vgLiP
+# 55jNTYDbUg2nj

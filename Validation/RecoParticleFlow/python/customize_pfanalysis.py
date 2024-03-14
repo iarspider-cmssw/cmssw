@@ -60,3 +60,6 @@ def customize_step3(process):
     process.FEVTDEBUGHLToutput.outputCommands.append('keep recoPFBlocks_*_*_*')
 
     return process
+# foo bar baz
+# t3CAQUlc5H2sn
+# nXSBmF43roI2d

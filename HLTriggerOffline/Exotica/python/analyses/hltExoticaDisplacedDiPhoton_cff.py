@@ -15,3 +15,6 @@ DisplacedDiPhotonPSet = cms.PSet(
     parametersDxy      = cms.vdouble(50, -50, 50),
     dropPt3 = cms.bool(True),
     )
+# foo bar baz
+# GfU1oOzW3HfWn
+# tsUqJgIVWbfQb

@@ -6,3 +6,6 @@ DoubleElectron.electronPtMin = cms.double(10)
 DoubleElectron.electronN = cms.int32(2)
 DoubleElectron.filterName = cms.string("DoubleElectron")
 
+# foo bar baz
+# KHXFrYUJJRAvj
+# MK8fzNer60NaF

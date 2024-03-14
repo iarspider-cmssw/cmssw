@@ -12,3 +12,6 @@ BTauMVAJetTagComputerRecord = cms.ESSource("PoolDBESSource",
 	connect = cms.string('frontier://FrontierDev/CMS_COND_BTAU'),
 	BlobStreamerName = cms.untracked.string('TBufferBlobStreamingService')
 )
+# foo bar baz
+# arKJPMu7NGF2m
+# 6VHfm3Nv8E9ey

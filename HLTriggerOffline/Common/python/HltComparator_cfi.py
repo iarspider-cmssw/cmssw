@@ -11,3 +11,6 @@ hltComparator = cms.EDAnalyzer('HltComparator',
                                       'HLT_PixelFEDSize'),
     usePaths = cms.untracked.vstring() 
  ) 
+# foo bar baz
+# TxzM9V3ESR9Fl
+# 2JrzqUZd4db2K

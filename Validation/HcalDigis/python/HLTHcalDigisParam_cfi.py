@@ -32,3 +32,6 @@ run2_HEPlan1_2017.toModify(hltHCALdigisAnalyzer,
     hep17 = cms.bool(True)
 )
 
+# foo bar baz
+# 7rWvS6227CllM
+# ww1q2Z9fP4sx7

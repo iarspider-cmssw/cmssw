@@ -80,3 +80,6 @@ type0PFMEtCorrectionTask = cms.Task(
 type0PFMEtCorrection = cms.Sequence(
     type0PFMEtCorrectionTask
 )
+# foo bar baz
+# V7Z0d7twzaFiw
+# TABA2ghvbu3m9

@@ -30,3 +30,6 @@ hltEle32WPTightGsfDphiUnseededFilter = cms.EDFilter("HLTEgammaGenericQuadraticEt
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaGsfTrackVarsUnseeded","Dphi")
 )
+# foo bar baz
+# OUfjV2dzx8cVP
+# 12ShyWOn6juLL

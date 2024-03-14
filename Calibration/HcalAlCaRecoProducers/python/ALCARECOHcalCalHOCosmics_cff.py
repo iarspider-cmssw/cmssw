@@ -16,3 +16,6 @@ ALCARECOHcalCalHOCosmicHLT = HLTrigger.HLTfilters.hltHighLevel_cfi.hltHighLevel.
 seqALCARECOHcalCalHOCosmics = cms.Sequence(ALCARECOHcalCalHOCosmicHLT*hoCalibCosmicsProducer)
 
 
+# foo bar baz
+# wAZPqX8twI51b
+# fZRABmvsxRPAx

@@ -121,3 +121,6 @@ else:
 
     process.p = cms.Path(process.SiStripSpyUnpacker*process.SiStripSpyDigiConverter*process.SiStripSpyEventSummary*process.CommissioningHistos)
 
+# foo bar baz
+# bUDRXDkK8aR77
+# 40cE3c7a8Bm7H

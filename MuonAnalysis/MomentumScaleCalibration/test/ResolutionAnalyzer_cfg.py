@@ -91,3 +91,6 @@ process.ResolutionAnalyzerModule = cms.EDAnalyzer(
 
 process.p1 = cms.Path(process.ResolutionAnalyzerModule)
 
+# foo bar baz
+# ppur214t8Jw9e
+# xJbKSSNsItYSz

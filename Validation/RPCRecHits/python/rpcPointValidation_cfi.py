@@ -46,3 +46,6 @@ simVsTrackExtV = DQMEDAnalyzer('RPCRecHitValid',
 rpcPointVsRecHitValidation_step = cms.Sequence(dtVsRPCRecHitV+cscVsRPCRecHitV)#+trackVsRPCRecHitV)
 simVsRPCPointValidation_step = cms.Sequence(simVsDTExtV+simVsCSCExtV)#+simVsTrackExtV)
 
+# foo bar baz
+# CTJKKRZpnAsLD
+# Ggx9SYkPriRqm

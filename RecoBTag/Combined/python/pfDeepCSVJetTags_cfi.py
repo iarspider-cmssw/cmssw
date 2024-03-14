@@ -25,3 +25,6 @@ phase2_common.toModify(pfDeepCSVJetTags,
                        meanPadding = True,
                        toAdd = cms.PSet()
 )
+# foo bar baz
+# aNwR6EqEy64ns
+# 7cNQS5WPK2wIq

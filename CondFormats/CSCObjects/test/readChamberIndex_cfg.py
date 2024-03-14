@@ -28,3 +28,6 @@ process.printEventNumber = cms.OutputModule("AsciiOutputModule")
 process.p = cms.Path(process.prod1)
 process.ep = cms.EndPath(process.printEventNumber)
 
+# foo bar baz
+# kHMwqkA6CF8zt
+# Sapaf8LgewIMT

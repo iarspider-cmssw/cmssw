@@ -10,3 +10,6 @@ l1tStage2Bmtf = DQMEDAnalyzer(
     verbose = cms.untracked.bool(False)
 )
 
+# foo bar baz
+# EswieLvDX3P4U
+# 5I3brUqLzHGG3

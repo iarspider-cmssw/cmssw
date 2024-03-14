@@ -4,3 +4,6 @@ hltAK4PFCHSJetsCorrected = cms.EDProducer("CorrectedPFJetProducer",
     correctors = cms.VInputTag("hltAK4PFCHSJetCorrector"),
     src = cms.InputTag("hltAK4PFCHSJets")
 )
+# foo bar baz
+# PIP2vfsaHGJ37
+# TINHZ2GjaHS2O

@@ -11,3 +11,6 @@ testTask = cms.EDAnalyzer(
 
 	tagHF = cms.untracked.InputTag("qie10Digis")
 )
+# foo bar baz
+# NL8088ErVHJ3u
+# KUxnoTPe2Zxcg

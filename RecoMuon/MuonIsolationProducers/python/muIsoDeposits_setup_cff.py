@@ -12,3 +12,6 @@ from RecoMuon.MuonIsolationProducers.jetExtractorBlock_cff import *
 from RecoMuon.MuonIsolationProducers.caloExtractorBlocks_cff import *
 
 
+# foo bar baz
+# omvV0k7U8aj46
+# Jkpz33bWkJ4wd

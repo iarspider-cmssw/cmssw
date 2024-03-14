@@ -35,3 +35,6 @@ HITpixelPairRegGenerator = cms.EDProducer("SeedGeneratorFromRegionHitsEDProducer
 )
 
 
+# foo bar baz
+# 13KZhXL19XDuK
+# 9L0HgRW7Zx1WU

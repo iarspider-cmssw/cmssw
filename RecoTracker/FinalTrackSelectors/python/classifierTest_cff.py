@@ -41,3 +41,6 @@ testTrackMerger2 = TrackCollectionMerger.clone(
 
 testTrackCloning = cms.Sequence(testTrackClassifier1*testTrackClassifier2*testTrackClassifier3*
                                 testMergedClassifier*testTrackMerger*testTrackMerger2)
+# foo bar baz
+# X1kcM4dZcdULA
+# 2aaVyO90aFQwj

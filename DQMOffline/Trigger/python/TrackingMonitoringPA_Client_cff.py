@@ -19,3 +19,6 @@ PAtrackingEffFromHitPatternHLT = trackingEffFromHitPattern.clone(
 PAtrackingMonitorClientHLT = cms.Sequence(
     PAtrackingEffFromHitPatternHLT
 )
+# foo bar baz
+# 1WHw6dLUy9ke7
+# Sv9sOz6uh6hIJ

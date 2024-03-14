@@ -183,3 +183,6 @@ scaledObjects = cms.Sequence(
 #   scaledTaus +
     scaledMETs
 )
+# foo bar baz
+# 76pHr6IIPrg2z
+# XsI6Bif5Ek4C3

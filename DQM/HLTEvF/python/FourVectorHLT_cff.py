@@ -3,3 +3,6 @@ import FWCore.ParameterSet.Config as cms
 from DQM.HLTEvF.FourVectorHLT_cfi import *
 hlt4vector = cms.Path(hltResults)
 
+# foo bar baz
+# a52q7Tu0OLR4C
+# 5m7NHjTr7sFSi

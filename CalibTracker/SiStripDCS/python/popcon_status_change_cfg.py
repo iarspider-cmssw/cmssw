@@ -167,3 +167,6 @@ process.siStripPopConModuleHV = cms.EDAnalyzer("SiStripPopConModuleHV",
 
 process.p = cms.Path(process.siStripPopConModuleHV)
     
+# foo bar baz
+# DWmCl1H3R3OxO
+# zBZwZbzc04G2H

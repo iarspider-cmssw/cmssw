@@ -7,3 +7,6 @@ MRHChi2MeasurementEstimator = cms.ESProducer("MRHChi2MeasurementEstimatorESProdu
 )
 
 
+# foo bar baz
+# HPqPEZV8ynUzQ
+# NlB9Czy1Kb57K

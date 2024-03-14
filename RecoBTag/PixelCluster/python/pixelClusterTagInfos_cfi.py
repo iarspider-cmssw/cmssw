@@ -26,3 +26,6 @@ run2_miniAOD_80XLegacy.toModify(pixelClusterTagInfos, minJetPtCut = 1.e+9 )
 from Configuration.Eras.Modifier_run2_miniAOD_94XFall17_cff import run2_miniAOD_94XFall17
 run2_miniAOD_94XFall17.toModify(pixelClusterTagInfos, minJetPtCut = 1.e+9 )
 
+# foo bar baz
+# RgzQGjMSpLDv8
+# itbSaS9m2Sqi8

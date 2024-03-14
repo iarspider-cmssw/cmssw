@@ -115,3 +115,6 @@ process.p = cms.Path(process.jetMETDQMOfflineSource
 process.outpath = cms.EndPath(process.FEVT)
 process.DQM.collectorHost = ''
 
+# foo bar baz
+# cToIlgQIFOK0r
+# LlOQA9rr1BB6R

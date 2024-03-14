@@ -6,3 +6,6 @@ simpleSingletonCandidateFlatTableProducer = default.clone(
   singleton = cms.bool(True),
 )
 del simpleSingletonCandidateFlatTableProducer.cut
+# foo bar baz
+# Ufwu6MYig0IU1
+# ZMjCmDlmWbsuz

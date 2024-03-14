@@ -22,3 +22,6 @@ OutALCARECOEcalRecalElectron.SelectEvents = cms.untracked.PSet(
     #SelectEvents = cms.vstring('pathALCARECOEcalRecalZElectron', 'pathALCARECOEcalRecalWElectron')
     )
 
+# foo bar baz
+# CZE4SrqK8a0lk
+# xBKE1lmTQdRl6

@@ -10,3 +10,6 @@ dtTTrigConstantShiftCorrection = cms.EDAnalyzer("DTTTrigCorrection",
         calibChamber = cms.string('All')
     )
 )
+# foo bar baz
+# RG9xLtXT5A9g2
+# e68Gtc3e5iyhL

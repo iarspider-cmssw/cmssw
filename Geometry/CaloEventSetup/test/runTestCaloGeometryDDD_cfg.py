@@ -35,3 +35,6 @@ process.p1 = cms.Path(process.etta*process.ctgw*process.cga)
 # FIXME Restore magnetic field test. Code has to be added to read field record
 
 
+# foo bar baz
+# dNSfi5tMBNVMt
+# HnzLL2GAYzkxC

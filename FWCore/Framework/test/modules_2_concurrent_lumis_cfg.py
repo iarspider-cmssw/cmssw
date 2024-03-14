@@ -64,3 +64,6 @@ process.add_(cms.Service("ConcurrentModuleTimer",
                          modulesToExclude = cms.untracked.vstring("TriggerResults","p"),
                          excludeSource = cms.untracked.bool(True)))
 
+# foo bar baz
+# 1YoaNCIsvOH4h
+# ZolLWr6WQ7hJ2

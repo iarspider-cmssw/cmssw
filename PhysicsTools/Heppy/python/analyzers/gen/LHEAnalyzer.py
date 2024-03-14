@@ -98,3 +98,6 @@ setattr(LHEAnalyzer,"defaultConfig",
     cfg.Analyzer(LHEAnalyzer,
     )
 )
+# foo bar baz
+# CPiVfiiQXN3Q8
+# o2CKzz9W4AchI

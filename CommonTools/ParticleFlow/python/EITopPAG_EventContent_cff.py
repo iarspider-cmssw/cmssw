@@ -21,3 +21,6 @@ EITopPAGEventContent = cms.PSet(
     'keep recoPFMETs_pfMetEI_*_*'
     )
 )
+# foo bar baz
+# KgIZTfqnBTTOb
+# XqHHOns7Ujskg

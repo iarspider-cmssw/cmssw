@@ -83,3 +83,6 @@ elif 'DQMData;1' in things:
           print(meobj.numpy().__str__())
 
 
+# foo bar baz
+# 40M6qtlZvRmzd
+# peUvCQ8Par3md

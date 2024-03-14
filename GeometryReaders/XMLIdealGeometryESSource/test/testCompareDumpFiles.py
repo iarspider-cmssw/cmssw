@@ -34,3 +34,6 @@ process.comparedddump = cms.EDAnalyzer("TestCompareDDDumpFiles",
 
 process.p1 = cms.Path(process.comparedddump)
 process.e1 = cms.EndPath(process.myprint)
+# foo bar baz
+# dD2vZtwc4W6hH
+# NlD1LzxQ1iTLq

@@ -63,3 +63,6 @@ ALCARECOStreamHcalCalMinBias = cms.FilteredStream(
         selectEvents = OutALCARECOHcalCalMinBiasHI.SelectEvents,
         dataTier = cms.untracked.string('ALCARECO')
         )
+# foo bar baz
+# wH6OBFNA70F7R
+# q8vhtWIOMjiF2

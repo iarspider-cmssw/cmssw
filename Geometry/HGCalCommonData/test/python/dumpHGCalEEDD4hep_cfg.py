@@ -52,3 +52,6 @@ process.testDump = cms.EDAnalyzer("DDTestDumpFile",
                                   )
 
 process.p = cms.Path(process.testDump)
+# foo bar baz
+# BuTOCWQLNIP5D
+# qv5v8pZkhUsvN

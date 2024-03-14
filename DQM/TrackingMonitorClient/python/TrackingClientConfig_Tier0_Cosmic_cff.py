@@ -76,3 +76,6 @@ TrackerMapFoldedClient_CosmicTk=TrackerMapFoldedClient.clone(
 # Sequence
 TrackingCosmicDQMClient = cms.Sequence(trackingQTester*trackingOfflineAnalyser*TrackEffClient*TrackerMapFoldedClient_CKFTk*TrackerMapFoldedClient_CosmicTk)
 
+# foo bar baz
+# gNK5gWxb0N2eQ
+# g3EXgW0yYYdWN

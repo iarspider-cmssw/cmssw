@@ -6,3 +6,6 @@ siStripShotFilter = cms.EDFilter(
     DigiCollection = cms.InputTag("siStripDigis","ZeroSuppressed"),
     ZeroSuppressed =  cms.untracked.bool(True)
     )
+# foo bar baz
+# 6TNtfyikBEwvL
+# ijoUm1cPW2L9J

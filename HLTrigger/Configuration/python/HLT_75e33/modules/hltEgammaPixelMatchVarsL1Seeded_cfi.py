@@ -152,3 +152,6 @@ hltEgammaPixelMatchVarsL1Seeded = cms.EDProducer("EgammaHLTPixelMatchVarProducer
     productsToWrite = cms.int32(0),
     recoEcalCandidateProducer = cms.InputTag("hltEgammaCandidatesL1Seeded")
 )
+# foo bar baz
+# rblCA1rnZCLqq
+# 4vJp89zqviYLi

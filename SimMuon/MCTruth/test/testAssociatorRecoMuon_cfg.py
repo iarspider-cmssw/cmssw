@@ -59,3 +59,6 @@ process.skim = cms.EDFilter("CandViewCountFilter", src = cms.InputTag("muons"), 
 process.test = cms.Path(process.skim+process.mix * process.trackingParticlesNoSimHits * process.muonAssociatorByHitsNoSimHitsHelper * process.testanalyzer) # RECO
 #process.test = cms.Path(process.skim+process.mix * process.trackingParticles       * process.testanalyzer) # RAW+RECO
 
+# foo bar baz
+# 7aKmClxVsu5X3
+# Lm4Nk6RFof4GA

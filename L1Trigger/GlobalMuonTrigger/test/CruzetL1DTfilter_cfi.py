@@ -8,3 +8,6 @@ CruzetL1DTfilter = cms.EDFilter("CruzetL1DTfilter",
   mode = cms.int32(3), 
   GMTInputTag = cms.InputTag("gtDigis")
 )
+# foo bar baz
+# ByRmjLq0WYZBr
+# b3yAQ2t7NocuT

@@ -59,3 +59,6 @@ b2gClient = cms.Sequence(
   + hltDQMonitorB2G_Client_MuEle
   + hltDQMonitorB2G_Client_MuTkMu
 )
+# foo bar baz
+# PZ3jNOaJeH1IE
+# 97jctk0KvnmuJ

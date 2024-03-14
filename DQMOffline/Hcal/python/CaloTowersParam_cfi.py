@@ -8,3 +8,6 @@ calotowersAnalyzer = DQMEDAnalyzer('CaloTowersAnalyzer',
     useAllHistos             = cms.untracked.bool(False)
 )
 
+# foo bar baz
+# IVDT07ODyJeaI
+# zES58CUSr719E

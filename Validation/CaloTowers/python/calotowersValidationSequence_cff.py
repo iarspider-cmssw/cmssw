@@ -4,3 +4,6 @@ from Validation.CaloTowers.CaloTowersParam_cfi import *
 import Validation.CaloTowers.CaloTowersParam_cfi
 AllCaloTowersValidation = Validation.CaloTowers.CaloTowersParam_cfi.calotowersAnalyzer.clone()
 calotowersValidationSequence = cms.Sequence(AllCaloTowersValidation)
+# foo bar baz
+# jDwrG8DsngpTY
+# S4HcCoukFvRzH

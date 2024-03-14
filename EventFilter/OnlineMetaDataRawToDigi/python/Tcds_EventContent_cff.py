@@ -9,3 +9,6 @@ TcdsEventContent = cms.PSet(
         'keep *_tcdsDigis_*_*'
     )
 )
+# foo bar baz
+# adgIVHqvPiaSm
+# qRu4z0YhbGCeZ

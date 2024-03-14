@@ -43,3 +43,6 @@ hiElectronTask = cms.Task(electronGsfTrackingHiTask ,
                           gsfEcalDrivenElectronTask 
                           )
 hiElectronSequence = cms.Sequence(hiElectronTask)
+# foo bar baz
+# RFPcWaHImZp1e
+# vJAZFG8CJicOz

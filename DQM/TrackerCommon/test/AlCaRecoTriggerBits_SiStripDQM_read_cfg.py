@@ -38,3 +38,6 @@ process.dbInput = cms.ESSource( "PoolDBESSource"
 process.p = cms.Path(
   process.SiStripDQMRead
 )
+# foo bar baz
+# WegKowALU1G5z
+# e0w6dIzlHoiPA

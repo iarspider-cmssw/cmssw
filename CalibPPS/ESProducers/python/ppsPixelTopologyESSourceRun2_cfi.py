@@ -15,3 +15,6 @@ ppsPixelTopologyESSource = cms.ESSource('PPSPixelTopologyESSource',
   physActiveEdgeDist = cms.double(0.15),
   appendToDataLabel = cms.string('')
 )
+# foo bar baz
+# qADXsiotu0QIb
+# NuiogFf3pts9D

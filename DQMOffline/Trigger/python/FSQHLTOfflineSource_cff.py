@@ -8,3 +8,6 @@ fsqHLTOfflineSourceSequence = cms.Sequence(ak4PFL1FastL2L3CorrectorChain + fsqHL
 fsqHLTDQMSourceExtra = cms.Sequence(
 )
 
+# foo bar baz
+# 1H3LD2lRPxJIs
+# PtdVzxWVluouN

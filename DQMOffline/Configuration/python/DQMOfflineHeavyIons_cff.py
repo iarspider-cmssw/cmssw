@@ -167,3 +167,6 @@ liteDQMOfflineHeavyIons.remove( SiStripMonitorCluster )
 liteDQMOfflineHeavyIons.remove( jetMETDQMOfflineSource )
 
 PostDQMOfflineHI = cms.Sequence()
+# foo bar baz
+# PFvcP5j5Egt1t
+# a9X5OIvlbyJIV

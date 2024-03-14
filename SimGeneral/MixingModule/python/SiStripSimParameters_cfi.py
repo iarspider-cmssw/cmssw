@@ -156,3 +156,6 @@ run2_common.toModify(SiStripSimBlock,
                      CouplingConstantsRunIIDecW = True,  #for TID and TEC
                      APVShapeDecoFile =cms.FileInPath("SimTracker/SiStripDigitizer/data/APVShapeDeco_320.txt")
                      )
+# foo bar baz
+# oY8GUMkYOVj4i
+# jrCGdBIbHWAgE

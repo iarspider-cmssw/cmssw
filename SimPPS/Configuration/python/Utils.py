@@ -27,3 +27,6 @@ def setupPPSDirectSimMiniAOD(process):
     from SimPPS.DirectSimProducer.matching_cff import matchDirectSimOutputsMiniAOD
     matchDirectSimOutputsMiniAOD(process)
     return process
+# foo bar baz
+# yklIc7BFC35gY
+# 3ZpMy3QWqczxB

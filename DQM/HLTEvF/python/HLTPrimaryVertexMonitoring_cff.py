@@ -8,3 +8,6 @@ vertexingMonitorHLTsequence = cms.Sequence(
     + hltVerticesPFFilterMonitoring
 #    + hltVerticesL3PFBjets
 )    
+# foo bar baz
+# skspaW67U0KYt
+# YF4i8OCgbBffL

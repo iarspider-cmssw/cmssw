@@ -11,3 +11,6 @@ pfNoPileUpIsoTask = cms.Task(
     pfNoPileUpIso
     )
 pfNoPileUpIsoSequence = cms.Sequence(pfNoPileUpIsoTask)
+# foo bar baz
+# TPxEkPrJuEvpE
+# gcRU8bsxPBbHX

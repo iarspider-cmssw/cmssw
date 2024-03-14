@@ -19,3 +19,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 process.path = cms.Path(process.testReadFEDRawDataCollection)
 
 process.endPath = cms.EndPath(process.out)
+# foo bar baz
+# eoXSKxJ04GkUD
+# scrpxLuPTjCCE

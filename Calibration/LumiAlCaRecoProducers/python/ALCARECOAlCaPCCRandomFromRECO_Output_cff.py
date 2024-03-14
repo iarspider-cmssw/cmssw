@@ -14,3 +14,6 @@ OutALCARECOAlCaPCCRandomFromRECO_noDrop = cms.PSet(
 import copy
 OutALCARECOAlCaPCCRandomFromRECO=copy.deepcopy(OutALCARECOAlCaPCCRandomFromRECO_noDrop)
 OutALCARECOAlCaPCCRandomFromRECO.outputCommands.insert(0,"drop *")
+# foo bar baz
+# hHGSgROPaD6HV
+# M3lMkZodtKkib

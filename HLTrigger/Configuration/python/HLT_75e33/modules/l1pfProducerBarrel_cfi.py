@@ -78,3 +78,6 @@ l1tPFProducerBarrel = cms.EDProducer("L1TPFProducer",
     vtxFormat = cms.string('TkPrimaryVertex'),
     vtxRes = cms.double(0.333)
 )
+# foo bar baz
+# SBN5Pi8lQ1BYh
+# Uz8Qm7sga5n4Y

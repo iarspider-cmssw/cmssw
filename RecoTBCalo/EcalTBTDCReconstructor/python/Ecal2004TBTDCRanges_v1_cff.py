@@ -7,3 +7,6 @@ tdcRanges = cms.VPSet(cms.PSet(
     tdcMin = cms.vdouble(430.0, 400.0, 400.0, 400.0, 400.0)
 ))
 
+# foo bar baz
+# zcocuIalbHUCg
+# I9apnihqMLdIU

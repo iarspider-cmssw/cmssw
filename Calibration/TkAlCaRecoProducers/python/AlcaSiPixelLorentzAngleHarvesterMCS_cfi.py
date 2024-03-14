@@ -2,3 +2,6 @@ import FWCore.ParameterSet.Config as cms
 
 from CalibTracker.SiPixelLorentzAngle.SiPixelLorentzAnglePCLHarvesterMCS_cfi import SiPixelLorentzAnglePCLHarvesterMCS
 alcaSiPixelLorentzAngleHarvesterMCS = SiPixelLorentzAnglePCLHarvesterMCS.clone()
+# foo bar baz
+# X3ncQwgVkj2D8
+# YUdkGD5OYuCVf

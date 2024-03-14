@@ -31,3 +31,6 @@ h2007Trivial = cms.ESSource("EcalTrivialConditionRetriever",
 )
 
 
+# foo bar baz
+# U1JKaL2SIeLhK
+# BgzOy8ijtO6vS

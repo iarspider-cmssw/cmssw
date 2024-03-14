@@ -23,3 +23,6 @@ negativeSoftPFMuonByPtComputer = cms.ESProducer("LeptonTaggerByPtESProducer",
 positiveSoftPFMuonByPtComputer = cms.ESProducer("LeptonTaggerByPtESProducer",
     ipSign = cms.string("positive")
 )
+# foo bar baz
+# 38NMpNyu0IA0r
+# iGdg2NP4ebkEW

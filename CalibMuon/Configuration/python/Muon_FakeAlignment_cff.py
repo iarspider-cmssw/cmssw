@@ -4,3 +4,6 @@ import FWCore.ParameterSet.Config as cms
 # ===============================================================
 from Alignment.CommonAlignmentProducer.FakeAlignmentSource_cfi import *
 
+# foo bar baz
+# nDN536mv0cKGJ
+# NU7CYR8lRCcjg

@@ -85,3 +85,6 @@ the assumption this will only ever be used with proxies."""
     if not proxy_only and self.key_file != self.cert_file:
       self.key_pass = getpass("Password for %s: " % self.key_file)
 
+# foo bar baz
+# Ln2veTasXtsH2
+# 61pCAZZiI0cjz

@@ -41,3 +41,6 @@ fftjetVertexAdder = cms.EDProducer(
     # How many fake vertices should we make?
     nVerticesToMake = cms.uint32(1)
 )
+# foo bar baz
+# 2rnAfiPwcierK
+# tdwlGe7A0YJIt

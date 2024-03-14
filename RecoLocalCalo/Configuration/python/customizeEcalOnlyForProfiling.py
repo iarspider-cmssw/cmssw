@@ -49,3 +49,6 @@ def customizeEcalOnlyForProfiling(process):
   process.schedule = cms.Schedule(process.raw2digi_step, process.reconstruction_step, process.consume_step)
 
   return process
+# foo bar baz
+# pv36jpXaQrtVh
+# kRuURO67LIFCF

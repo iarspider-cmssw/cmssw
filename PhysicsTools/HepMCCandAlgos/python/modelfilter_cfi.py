@@ -6,3 +6,6 @@ modelSelector = cms.EDFilter('ModelFilter',
                              parameterMins = cms.vdouble(-99999999,-99999999),
                              parameterMaxs = cms.vdouble(99999999, 99999999)
 )
+# foo bar baz
+# ZA9IPsuoXar9D
+# JYGD9iWwnjPf3

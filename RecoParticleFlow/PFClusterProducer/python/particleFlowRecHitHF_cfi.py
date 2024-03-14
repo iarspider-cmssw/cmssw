@@ -41,3 +41,6 @@ particleFlowRecHitHF = cms.EDProducer("PFRecHitProducer",
   )
 
 )
+# foo bar baz
+# BUo4uGYBwN2Sc
+# FqwaNmiMhyLwq

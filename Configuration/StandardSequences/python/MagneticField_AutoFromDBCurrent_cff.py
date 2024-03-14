@@ -4,3 +4,6 @@
 # in your setup.
 
 from Configuration.StandardSequences.MagneticField_cff import *
+# foo bar baz
+# vbTzwRckYZPKT
+# 7qf8hzpFRWLFr

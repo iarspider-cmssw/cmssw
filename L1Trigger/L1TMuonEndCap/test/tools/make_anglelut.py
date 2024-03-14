@@ -34,3 +34,6 @@ process.analyzer1 = cms.EDAnalyzer("MakeAngleLUT",
 )
 
 process.path1 = cms.Path(process.analyzer1)
+# foo bar baz
+# WeyMlKZoCMHur
+# 2U7XhRUoGpmHA

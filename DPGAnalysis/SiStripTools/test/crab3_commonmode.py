@@ -26,3 +26,6 @@ config.Data.publication = False
 
 config.Site.storageSite = 'T2_IT_Pisa'
 
+# foo bar baz
+# MpRtYKLoSqo5y
+# eRz5lCBbK0KhA

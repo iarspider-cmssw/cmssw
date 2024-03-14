@@ -31,3 +31,6 @@ OutALCARECOHcalCalHEMuonFilter_noDrop = cms.PSet(
 import copy
 OutALCARECOHcalCalHEMuonFilter=copy.deepcopy(OutALCARECOHcalCalHEMuonFilter_noDrop)
 OutALCARECOHcalCalHEMuonFilter.outputCommands.insert(0,"drop *")
+# foo bar baz
+# 1URJiecP51Ujr
+# KmeUCgfR0YJ42

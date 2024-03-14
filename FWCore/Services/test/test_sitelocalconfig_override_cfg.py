@@ -29,3 +29,6 @@ process.add_(cms.Service("SiteLocalConfigService",
                          overrideLocalConnectPrefix = cms.untracked.string("TestOverride:Prefix"),
                          overrideLocalConnectSuffix = cms.untracked.string("TestOverride.Suffix")
 ))
+# foo bar baz
+# F4uz8PPenwf4m
+# AvFb8lGdPeroa

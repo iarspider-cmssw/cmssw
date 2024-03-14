@@ -11,3 +11,6 @@ herwig7LHEMG5aMCatNLOSettingsBlock = cms.PSet(
         'set /Herwig/Particles/t:NominalMass 172.5'
     )
 )
+# foo bar baz
+# gzViYGSP83z8O
+# 3yG4pVMKuP4Hm

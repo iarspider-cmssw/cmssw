@@ -33,3 +33,6 @@ dtNoiseCalibration = cms.EDAnalyzer("DTNoiseCalibration",
         '1 3 3 1 4 30'
     )
 )
+# foo bar baz
+# S8gi3rAtuqhCE
+# NoB3WBso8aTW8

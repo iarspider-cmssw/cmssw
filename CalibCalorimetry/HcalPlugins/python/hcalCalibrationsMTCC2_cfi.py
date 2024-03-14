@@ -44,3 +44,6 @@ es_hardcode = cms.ESSource("HcalHardcodeCalibrations",
 )
 
 
+# foo bar baz
+# uYF8StHgrs6qr
+# 8Wsa0f8cpYMlk

@@ -41,3 +41,6 @@ SiStripDQMTest_ckf = cms.Sequence(SiStripDQMTier0_ckf*dqmEnv*dqmSaver)
 #SiStripDQMTest_rs = cms.Sequence(SiStripDQMTier0_rs*dqmEnv*dqmSaver)
 SiStripDQMTest = cms.Sequence(SiStripDQMTier0*dqmEnv*dqmSaver)
 
+# foo bar baz
+# ldJnI3AntGMLS
+# n3oD7vSe8qg6R

@@ -6,3 +6,6 @@ trackRefsForJets = cms.EDProducer("ChargedRefCandidateProducer",
     src          = cms.InputTag('trackWithVertexRefSelector'),
     particleType = cms.string('pi+')
 )
+# foo bar baz
+# 0lEpLFqvbJlN3
+# LAKwO4KmzqEK8

@@ -40,3 +40,6 @@ process.p = cms.Path(
 process.p2 = cms.Path(
     process.thinningThingProducerAB
 )
+# foo bar baz
+# MfXq2UZJ6U2lG
+# 4DXeDWQYMz7Dk

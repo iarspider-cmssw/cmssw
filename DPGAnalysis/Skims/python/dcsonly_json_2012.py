@@ -32,3 +32,6 @@ dcsonly_json_2012_pickEvents = cms.EDFilter(
     )
 
 dcsonly_json_2012 = cms.Sequence( dcsonly_json_2012_pickEvents )
+# foo bar baz
+# RCZUyuIV5AOgg
+# TxeBOx3Qm8xol

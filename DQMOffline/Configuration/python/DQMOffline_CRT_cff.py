@@ -25,3 +25,6 @@ crt_dqmoffline = cms.Sequence( siStripCertificationInfo *
                                dqmOfflineTriggerCert )
 
 
+# foo bar baz
+# on1RPIuAF4oJh
+# 6GuUAGnnm4JlG

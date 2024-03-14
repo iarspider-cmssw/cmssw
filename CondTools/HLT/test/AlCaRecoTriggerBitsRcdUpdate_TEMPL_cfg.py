@@ -135,3 +135,6 @@ process.PoolDBOutputService = cms.Service("PoolDBOutputService",
 process.p = cms.Path(process.AlCaRecoTriggerBitsRcdUpdate)
 
 
+# foo bar baz
+# wEsrByIWXgD8b
+# J5qljhpl8CuN8

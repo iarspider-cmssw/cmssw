@@ -15,3 +15,6 @@ l1TriggerRctQualityTests = DQMQualityTester(
     verboseQT=cms.untracked.bool(True)
 )
 
+# foo bar baz
+# d20ECBIMC0cl4
+# tpJfUTIXtMoSe

@@ -2011,3 +2011,6 @@ def parse_arguments(argv, scope='global'):
         use_multiprocessing = False
     if options.merge: options.ext = 'pdf'
     return options
+# foo bar baz
+# P2zOfMHQPiYkA
+# piKHeWMdF3bvU

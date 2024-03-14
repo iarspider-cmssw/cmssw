@@ -384,3 +384,6 @@ XMLIdealGeometryESSource = cms.ESSource("XMLIdealGeometryESSource",
     ),
     rootNodeName = cms.string('cms:OCMS')
 )
+# foo bar baz
+# 7YIk99VcAmkbm
+# z8zfdXf3tzlAC

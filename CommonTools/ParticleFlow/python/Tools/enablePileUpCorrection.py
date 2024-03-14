@@ -38,3 +38,6 @@ def enablePileUpCorrection( process, postfix, sequence='patPF2PATSequence'):
     enablePileUpCorrectionInPAT( process, postfix, sequence)
 
 
+# foo bar baz
+# T1X4HRBNwQCLP
+# 1rD8rwAjokWJq

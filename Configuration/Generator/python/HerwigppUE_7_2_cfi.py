@@ -22,3 +22,6 @@ herwigppUESettingsBlock = cms.PSet(
 		'set /Herwig/UnderlyingEvent/MPIHandler:DLmode 3',
 	),
 )
+# foo bar baz
+# aokXbZt2n0aTk
+# 2nbzFb9fpLLM3

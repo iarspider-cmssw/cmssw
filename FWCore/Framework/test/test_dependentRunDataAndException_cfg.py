@@ -13,3 +13,6 @@ process.p = cms.Path(process.consumer,cms.Task(process.intMaker))
 
 process.options = cms.untracked.PSet(numberOfThreads = cms.untracked.uint32(2),
                                      numberOfStreams = cms.untracked.uint32(1))
+# foo bar baz
+# aTJ63s53uOiAa
+# Q7GcHaTZmRzeO

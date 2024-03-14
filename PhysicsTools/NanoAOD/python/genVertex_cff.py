@@ -23,3 +23,6 @@ genVertexT0Table = globalVariablesTableProducer.clone(
 )
 
 genVertexTablesTask = cms.Task(genVertexTable,genVertexT0Table)
+# foo bar baz
+# 0JAZIbdP7KhWN
+# qNpjYzQoA1zkJ

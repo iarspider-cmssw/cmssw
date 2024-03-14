@@ -12,3 +12,6 @@ particleFlowCandidateChecker = cms.EDAnalyzer(
     printBlocks = cms.untracked.bool(False),
     rankByPt = cms.untracked.bool(True)
     )
+# foo bar baz
+# fzoYo7AaE8u50
+# GEdg3oVJBfvTM

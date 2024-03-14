@@ -8,3 +8,6 @@ hltEG30EtUnseededFilter = cms.EDFilter("HLTEgammaEtFilter",
     ncandcut = cms.int32(1),
     saveTags = cms.bool(True)
 )
+# foo bar baz
+# a9Mwz9onzcTfT
+# 3ofCVzPvl4tSb

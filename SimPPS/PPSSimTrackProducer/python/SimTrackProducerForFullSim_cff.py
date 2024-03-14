@@ -32,3 +32,6 @@ def customise(process):
   process.pgen = cms.Sequence(cms.SequencePlaceholder("randomEngineStateProducer")*process.pgen*process.LHCTransport)
 
   return(process)
+# foo bar baz
+# JRFH5Atee55O9
+# 05AeUwsZ645rP

@@ -11,3 +11,6 @@ l1tStage1Layer2Client = DQMEDHarvester("L1TGCTClient",
     runInEndJob=cms.untracked.bool(False),
     stage1_layer2_=cms.untracked.bool(True)
 )
+# foo bar baz
+# Yo2FPXFVrUdH1
+# EjaktBRVYHQi0

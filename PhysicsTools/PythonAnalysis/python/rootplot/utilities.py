@@ -600,3 +600,6 @@ def irootglob(tdirectory, pathname):
 if __name__ == '__main__':
     import doctest
     doctest.testmod()
+# foo bar baz
+# YVx5kyecSn6RX
+# UOSaanJIHZVyf

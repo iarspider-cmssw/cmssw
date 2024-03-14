@@ -29,3 +29,6 @@ from Geometry.EcalMapping.EcalMapping_cfi import *
 from Geometry.EcalMapping.EcalMappingRecord_cfi import *
 from Geometry.HcalCommonData.hcalDDDRecConstants_cfi import *
 from Geometry.HcalEventSetup.hcalTopologyIdeal_cfi import *
+# foo bar baz
+# Qmy4GaPBS9oeq
+# W6Vd5Q0ODD2EK

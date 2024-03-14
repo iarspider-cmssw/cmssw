@@ -92,3 +92,6 @@ def configure_fftjetlut_pooldbessource(process, sequenceTag):
     sourceName = "FFT" + sequenceTag + "DBESSource"
     setattr(process, sourceName, config)
     return
+# foo bar baz
+# oQ4OewLPbnRAL
+# 6IZLfPjy8eoah

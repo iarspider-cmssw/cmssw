@@ -36,3 +36,6 @@ def neutronBG(process):
     process.g4SimHits.HFShower.UseShowerLibrary = cms.bool(False)
 
     return(process)
+# foo bar baz
+# xBM3mJoz814ML
+# dPZ6ELfs13GJL

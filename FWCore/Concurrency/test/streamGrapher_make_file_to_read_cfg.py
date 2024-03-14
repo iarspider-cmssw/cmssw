@@ -14,3 +14,6 @@ process.t = cms.Task(process.a, process.b)
 process.ep = cms.EndPath(process.o, process.t)
 
 process.maxEvents = cms.untracked.PSet(input = cms.untracked.int32(20))
+# foo bar baz
+# 8WDjX8rrSfY1u
+# VVdBJMKvMPgUi

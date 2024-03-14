@@ -41,3 +41,6 @@ CSCMaskedHW = cms.untracked.vstring(
   # ==  mask all ME-4/2 chambers
   #'2,4,2,*,*,*,*',
 )
+# foo bar baz
+# 0spp9A5fHKWoE
+# TxWhnTC86orhh

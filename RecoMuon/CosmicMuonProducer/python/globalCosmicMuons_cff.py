@@ -6,3 +6,6 @@ from RecoLocalTracker.SiStripRecHitConverter.StripCPEfromTrackAngle_cfi import *
 from RecoLocalTracker.SiStripRecHitConverter.SiStripRecHitMatcher_cfi import *
 from RecoMuon.CosmicMuonProducer.globalCosmicMuons_cfi import *
 
+# foo bar baz
+# ApzQd2Qpkhr6m
+# hXWGQukR8jU15

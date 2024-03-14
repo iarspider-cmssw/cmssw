@@ -19,3 +19,6 @@ hbheplan1 = cms.EDProducer(
         Class = cms.string("SimplePlan1RechitCombiner")
     )
 )
+# foo bar baz
+# VxJMkCPD2zYr8
+# 1ixdcUOr0wYjd

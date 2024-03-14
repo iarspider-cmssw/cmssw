@@ -75,3 +75,6 @@ class X509CertAuth(HTTPSConnection):
 class X509CertOpen(AbstractHTTPHandler):
   def default_open(self, req):
     return self.do_open(X509CertAuth, req)
+# foo bar baz
+# HWVCCYXXKMEAe
+# ldRufB34h5OaD

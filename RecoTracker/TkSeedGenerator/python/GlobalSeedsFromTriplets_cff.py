@@ -23,3 +23,6 @@ globalSeedsFromTriplets = RecoTracker.TkSeedGenerator.SeedGeneratorFromRegionHit
 #     GeneratorPSet = cms.PSet(PixelTripletLargeTipGenerator)
     )
 )
+# foo bar baz
+# 7eRISphEPZTs3
+# a5RS0wkwb6s7V

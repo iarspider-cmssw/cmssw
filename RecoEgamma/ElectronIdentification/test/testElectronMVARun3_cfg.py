@@ -188,3 +188,6 @@ to a two dimensional numpy array later, for example like that:
 process.TFileService = cms.Service("TFileService", fileName = cms.string(outputFile))
 
 process.p = cms.Path(process.egmGsfElectronIDSequence * process.ntuplizer)
+# foo bar baz
+# cjLMoemStnbY4
+# kzILv3cffLzgn

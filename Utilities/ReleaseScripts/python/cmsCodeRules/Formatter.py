@@ -221,3 +221,6 @@ class SimpleHTMLFormatter :
         return
 
     
+# foo bar baz
+# 84teBIqHgN6i6
+# AhKu9eyBUMauR

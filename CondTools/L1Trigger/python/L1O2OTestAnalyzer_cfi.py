@@ -16,3 +16,6 @@ L1O2OTestAnalyzer = cms.EDAnalyzer("L1O2OTestAnalyzer",
     'L1GtTriggerMaskTechTrigRcd',
     'L1GtTriggerMaskVetoTechTrigRcd' ) # Run Settings records
                                   )
+# foo bar baz
+# o1O2C4TvhDYvl
+# meTZoDOq2sdtu

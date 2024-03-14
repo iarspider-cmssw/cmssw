@@ -13,3 +13,6 @@ hoCalibCosmicsProducer = Calibration.HcalAlCaRecoProducers.alcaHOCalibProducer_c
     muons = cms.untracked.InputTag("cosmicMuons")
 )
 
+# foo bar baz
+# ciC0uzXItMGDq
+# 8AQrcBN8lyEU3

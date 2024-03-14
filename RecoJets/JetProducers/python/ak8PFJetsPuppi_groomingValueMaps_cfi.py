@@ -10,3 +10,6 @@ ak8PFJetsPuppiSoftDropMass = cms.EDProducer("RecoJetDeltaRValueMapProducer",
                                          value = cms.string('mass')  
                         )
 
+# foo bar baz
+# NlZcktLHsFf3t
+# oKQ8JU6f5nhCV

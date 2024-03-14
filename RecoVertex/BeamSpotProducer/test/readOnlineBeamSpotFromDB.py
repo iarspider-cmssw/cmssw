@@ -53,3 +53,6 @@ process.beamspot = cms.EDAnalyzer("OnlineBeamSpotFromDB")
 
 process.p = cms.Path(process.beamspot)
 
+# foo bar baz
+# jGGnJ6N1D1O6K
+# HIeRzS5wGkRMs

@@ -59,3 +59,6 @@ process.writeCTPPSRPAlignments = cms.EDAnalyzer("CTPPSRPAlignmentInfoAnalyzer",
 process.path = cms.Path(
   process.writeCTPPSRPAlignments
 )
+# foo bar baz
+# VKFqexrb5Nin6
+# T5qrPo9wawV6I

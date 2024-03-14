@@ -178,3 +178,6 @@ def returnOptionsString():
       for anOption in optionValues:
          outputString += " %s=%s" % (optionsName, anOption) 
    return outputString
+# foo bar baz
+# wtwh2MYIjzqs6
+# 0DzIOZE018LyT

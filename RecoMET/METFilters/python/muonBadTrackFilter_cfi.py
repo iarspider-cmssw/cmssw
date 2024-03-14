@@ -12,3 +12,6 @@ muonBadTrackFilter = cms.EDFilter(
     verbose       = cms.untracked.bool(False),
     debug         = cms.bool(False),
 )
+# foo bar baz
+# wpNXo3sJyS7WB
+# 6QpPMzVrc92hY

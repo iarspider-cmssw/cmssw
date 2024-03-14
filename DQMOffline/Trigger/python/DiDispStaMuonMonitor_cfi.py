@@ -56,3 +56,6 @@ hltDiDispStaMuonMonitoring.denGenericTriggerEventPSet.dcsPartitions = cms.vint32
 hltDiDispStaMuonMonitoring.denGenericTriggerEventPSet.andOrDcs      = cms.bool( False )
 hltDiDispStaMuonMonitoring.denGenericTriggerEventPSet.errorReplyDcs = cms.bool( True )
 hltDiDispStaMuonMonitoring.denGenericTriggerEventPSet.verbosityLevel = cms.uint32(1)
+# foo bar baz
+# Khzb6nQWHMAgA
+# mwnMmw6tSb7UL

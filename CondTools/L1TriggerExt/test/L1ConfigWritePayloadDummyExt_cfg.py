@@ -74,3 +74,6 @@ process.maxEvents = cms.untracked.PSet(
 process.source = cms.Source("EmptySource")
 
 process.p = cms.Path(process.L1CondDBPayloadWriterExt)
+# foo bar baz
+# IRhaerqfK6iyB
+# ce2bGN4SjlnjQ

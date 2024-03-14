@@ -87,3 +87,6 @@ process.p = cms.Path(process.generator * process.selection)
 process.outpath = cms.EndPath(process.GEN)
 
 process.schedule = cms.Schedule(process.p, process.outpath)
+# foo bar baz
+# 1oWAGVSeDWY8s
+# E2aPF2WmmPkcn

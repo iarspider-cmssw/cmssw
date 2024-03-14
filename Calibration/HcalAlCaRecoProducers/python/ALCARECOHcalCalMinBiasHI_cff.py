@@ -88,3 +88,6 @@ _plan1_seqALCARECOHcalCalMinBias.insert(0,hbheprerecoNoise)
 from Configuration.Eras.Modifier_run2_HEPlan1_2017_cff import run2_HEPlan1_2017
 run2_HEPlan1_2017.toReplaceWith(hbherecoNoise, hbheplan1Noise)
 run2_HEPlan1_2017.toReplaceWith(seqALCARECOHcalCalMinBias, _plan1_seqALCARECOHcalCalMinBias)
+# foo bar baz
+# qUbvEDOnbDagW
+# WUajF3oceW4e8

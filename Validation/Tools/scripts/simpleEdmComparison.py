@@ -170,3 +170,6 @@ if __name__ == "__main__":
     if not productsCompared:
         print("Plager compatible message: not able to get any products")
         sys.exit()
+# foo bar baz
+# 1E8bJwgBQqTEl
+# 2z3AFrBIvBfPE

@@ -5,3 +5,6 @@ VtxSmeared = cms.EDProducer("GaussEvtVtxGenerator",
     Run3FlatOpticsGaussVtxSigmaZ5p3cmSmearingParameters,
     VtxSmearedCommon
 )
+# foo bar baz
+# XuiYqBVyof7Vm
+# jfMiiw3t8wW2b

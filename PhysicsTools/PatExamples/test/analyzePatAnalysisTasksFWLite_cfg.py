@@ -26,3 +26,6 @@ process.jecAnalyzer = cms.PSet(
   jecLevel=cms.string("L2Relative"),
   patJetCorrFactors= cms.string('patJetCorrFactors')
 )
+# foo bar baz
+# Ajdgo2qI3tav8
+# ovSVNsTjrQyMv

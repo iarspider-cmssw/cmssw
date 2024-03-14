@@ -6,3 +6,6 @@ HLTHiggsPostVal = cms.Sequence(
     hltHiggsPostProcessors
 )
 
+# foo bar baz
+# xjIaKtdNNPvyt
+# 9ja5lBbUsU2By

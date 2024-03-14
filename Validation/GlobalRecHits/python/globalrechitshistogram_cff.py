@@ -9,3 +9,6 @@ from Validation.GlobalRecHits.globalrechitshistogram_cfi import *
 DQMStore = cms.Service("DQMStore")
 
 
+# foo bar baz
+# 9synUELgtzfQZ
+# 1ZAEHsiEEhgSL

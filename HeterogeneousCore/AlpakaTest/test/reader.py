@@ -36,3 +36,6 @@ process.device_path = cms.Path(process.testAnalyzer + process.testObjectAnalyzer
 process.serial_path = cms.Path(process.testAnalyzerSerial + process.testObjectAnalyzerSerial)
 
 process.maxEvents.input = 10
+# foo bar baz
+# wIUvxHsQ8sc9G
+# aTqtboGUnKP4i

@@ -7,3 +7,6 @@ bmesonFilter = cms.EDFilter("MCSingleParticleYPt",
     MinY = cms.untracked.vdouble(-3.,-3.,-3.,-3.),
     MaxY = cms.untracked.vdouble(3.,3.,3.,3.)
 )
+# foo bar baz
+# GkcVJDsx1eG0N
+# 2dm5ohyPuTFHy

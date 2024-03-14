@@ -50,3 +50,6 @@ ticlTrackstersMerge = cms.EDProducer('TrackstersMergeProducer',
   mightGet = cms.optional.untracked.vstring,
   useMTDTiming = cms.bool(False)
 )
+# foo bar baz
+# OBhfXOCqhKZjf
+# ItEV8Ot8ck6wL

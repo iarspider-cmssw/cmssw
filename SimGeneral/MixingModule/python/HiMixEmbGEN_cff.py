@@ -102,3 +102,6 @@ mix.mixObjects.mixHepMC.makeCrossingFrame = True
 '''
 
 mixGen = cms.Sequence(mix)
+# foo bar baz
+# 8WXHR4uKBzRuk
+# Cx5E4KiRG7cSE

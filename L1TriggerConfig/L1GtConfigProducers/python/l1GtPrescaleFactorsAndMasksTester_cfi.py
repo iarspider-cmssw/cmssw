@@ -18,3 +18,6 @@ l1GtPrescaleFactorsAndMasksTester = cms.EDAnalyzer("L1GtPrescaleFactorsAndMasksT
                                                    PrintOutput=cms.untracked.int32(3)
 )
 
+# foo bar baz
+# OujrVrYWYsDuU
+# iHSxeSQC77ICm

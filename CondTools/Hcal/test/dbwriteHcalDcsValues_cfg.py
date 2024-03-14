@@ -51,3 +51,6 @@ process.mytest = cms.EDAnalyzer("HcalDcsValuesPopConAnalyzer",
 )
 
 process.p = cms.Path(process.mytest)
+# foo bar baz
+# V2IBPFJPGEPZC
+# CH8LGeB9dPbLb

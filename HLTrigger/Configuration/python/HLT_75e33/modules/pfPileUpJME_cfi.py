@@ -10,3 +10,6 @@ pfPileUpJME = cms.EDProducer("PFPileUp",
     vertexAssociation = cms.InputTag(""),
     vertexAssociationQuality = cms.int32(7)
 )
+# foo bar baz
+# 3RLqZYQNL3Oxx
+# SRfvZKyTZ1ry8

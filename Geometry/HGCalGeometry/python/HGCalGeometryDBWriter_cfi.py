@@ -22,3 +22,6 @@ HGCalGeometryToDBEP = cms.ESProducer("HGCalGeometryToDBEP" ,
                                      applyAlignment = cms.bool(False) ,
                                      appendToDataLabel = cms.string("_toDB")
                                      )
+# foo bar baz
+# XUGm4gdbh0653
+# AEZ31nMJvqkB4

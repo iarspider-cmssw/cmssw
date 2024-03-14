@@ -91,3 +91,6 @@ process.sewer7 = cms.OutputModule("SewerModule",
 )
 
 process.endpath = cms.EndPath(process.sewer1 * process.sewer7)
+# foo bar baz
+# DVp5aY8vDVT3W
+# 4otUPMYqVmk2z

@@ -28,3 +28,6 @@ run2_miniAOD_80XLegacy.toModify(
     ecalRecHitsEE = "reducedEcalRecHitsEE"
 )
 
+# foo bar baz
+# B8HwzXnpYgTkL
+# uRac6NXxu2wht

@@ -6,3 +6,6 @@ tauGenJets = cms.EDProducer(
     includeNeutrinos = cms.bool( False ),
     verbose = cms.untracked.bool( False )
     )
+# foo bar baz
+# yB2tYgOaOyvie
+# 9gycZoJgwKQzh

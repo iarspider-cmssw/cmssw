@@ -40,3 +40,6 @@ if l1tCaloTruthCellsProducer.makeCellsCollection:
         l1tHGCalTruthTowerMapProducer *
         l1tHGCalTruthTowerProducer
     )
+# foo bar baz
+# 9A44W8AfNoyyL
+# 3HqLFb9tyAttT

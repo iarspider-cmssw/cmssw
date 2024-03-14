@@ -14,3 +14,6 @@ hltHpsSelectedPFTausTrackPt1MediumChargedIsolation = cms.EDFilter( "PFTauSelecto
     discriminatorContainers = cms.VPSet( 
    )
 )
+# foo bar baz
+# 7t9V4dpGEHUxM
+# EgW8NKSjnGYZK

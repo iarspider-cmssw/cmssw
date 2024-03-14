@@ -30,3 +30,6 @@ hltDiEG3023IsoCaloIdHgcalHEL1SeededFilter = cms.EDFilter("HLTEgammaGenericQuadra
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaHGCALIDVarsL1Seeded","hForHOverE")
 )
+# foo bar baz
+# wzIUP1TXWdiW6
+# 7OAcYMCTWcLYa

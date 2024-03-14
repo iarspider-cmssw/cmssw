@@ -18,3 +18,6 @@ l1tdeCSCTPGShower = DQMEDAnalyzer(
     monitorDir = cms.untracked.string("L1TEMU/L1TdeCSCTPGShower"),
 )
 
+# foo bar baz
+# KoxYrtSTAmdq7
+# rR9kR61ri0oLJ

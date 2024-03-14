@@ -415,3 +415,6 @@ hltObjectsMonitor = cms.Sequence(
     + hltObjectsMonitor4exo
     + hltObjectsMonitor4exoDisplaced
 )
+# foo bar baz
+# HHe8SpUZWMyUL
+# 81Hkxs7fzASvv

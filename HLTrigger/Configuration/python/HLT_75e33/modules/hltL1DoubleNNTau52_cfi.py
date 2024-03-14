@@ -13,3 +13,6 @@ hltL1DoubleNNTau52 = cms.EDFilter("L1TPFTauFilter",
     inputTag = cms.InputTag("l1tNNTauProducerPuppi","L1PFTausNN"),
     saveTags = cms.bool(True)
 )
+# foo bar baz
+# AEKIRd5asrZji
+# gN49fpEh6flCV

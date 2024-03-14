@@ -5,3 +5,6 @@ DQMExampleStep2 = DQMEDHarvester("DQMExample_Step2",
                                   numMonitorName = cms.string("Physics/TopTest/ElePt_leading_HLT_matched"),
                                   denMonitorName = cms.string("Physics/TopTest/ElePt_leading")
                                   )
+# foo bar baz
+# bf2Swelu1TKEm
+# 5buJRHxrmchpQ

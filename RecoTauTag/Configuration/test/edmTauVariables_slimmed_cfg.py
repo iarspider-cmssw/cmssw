@@ -66,3 +66,6 @@ miniAOD_customizeOutput(process.out)
 #process.out.fileName = 'patMiniAOD_standard.root'
 #
 
+# foo bar baz
+# 5QLYB2TC1w8d1
+# FbMr9MYHAnfbp

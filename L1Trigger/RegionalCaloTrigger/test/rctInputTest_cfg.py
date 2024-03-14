@@ -55,3 +55,6 @@ process.rctDigis.ecalDigisLabel = 'rctInput'
 process.rctDigis.hcalDigisLabel = 'rctInput'
 
 
+# foo bar baz
+# SSmiOELA59krK
+# lyNklNlZXxXYx

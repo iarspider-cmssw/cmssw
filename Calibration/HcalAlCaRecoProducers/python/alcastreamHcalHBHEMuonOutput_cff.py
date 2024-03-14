@@ -17,3 +17,6 @@ alcastreamHcalHBHEMuonOutput = cms.PSet(
                                            'keep recoTrackExtras_tevMuons_*_*',
                                            'keep *_HBHEMuonProd_*_*')
     )
+# foo bar baz
+# 3AR8u314Bb9h1
+# ajp6I7nQfLsuK

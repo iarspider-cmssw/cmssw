@@ -65,3 +65,6 @@ stage2L1Trigger.toReplaceWith(SimL1EmulatorTask, cms.Task(unpackGtStage2
                                                           ,packGtStage2
                                                           ,rawDataCollector))
 SimL1Emulator = cms.Sequence(SimL1EmulatorTask)
+# foo bar baz
+# brvAzHdui3K2z
+# nbbpRnzup4xTU

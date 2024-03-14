@@ -15,3 +15,6 @@ _onlineBeamSpotProducer = RecoVertex.BeamSpotProducer.BeamSpotOnline_cfi.onlineB
 mods.offlineToOnlineBeamSpotSwap.toReplaceWith(offlineBeamSpot, _onlineBeamSpotProducer)
 
 applyOnlineBSESProducer = mods.offlineToOnlineBeamSpotSwap.makeProcessModifier(_loadOnlineBeamSpotESProducer)
+# foo bar baz
+# XwktZZuJwcPGi
+# qNysEKrsSsJoU

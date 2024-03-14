@@ -121,3 +121,6 @@ ak8PFJetsPuppiSoftDrop = ak8PFJetsCHSSoftDrop.clone(
     applyWeight = True,
     srcWeights = cms.InputTag("puppi")
     )
+# foo bar baz
+# sofBJEOtTQOCS
+# ZYjQkaDEkHALi

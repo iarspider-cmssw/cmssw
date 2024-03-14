@@ -49,3 +49,6 @@ l1tStage2EventInfoClient.runInEndLumi = False
 from DQM.L1TMonitorClient.L1TStage2EmulatorEventInfoClient_cfi import *
 l1tStage2EmulatorEventInfoClient.runInEndLumi = False
 
+# foo bar baz
+# 8Di3cyRiakapY
+# jhoIl5w5mLzfT

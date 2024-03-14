@@ -24,3 +24,6 @@ process.e = cms.EndPath(process.out)
 process.PixelSLinkDataInputSource.fileNames = ['rfio:/castor/cern.ch/cms/store/TAC/PIXEL/FPIX/HC+Z1/SCurve_565.dmp']
 
 
+# foo bar baz
+# Phtd0zIISYwkl
+# oh92y10FyiBro

@@ -36,3 +36,6 @@ ecalMonitorTask.collectionTags.EBBasicCluster = 'islandBasicClusters:islandBarre
 ecalMonitorTask.collectionTags.EEBasicCluster = 'islandBasicClusters:islandEndcapBasicClusters'
 ecalMonitorTask.collectionTags.EBSuperCluster = 'correctedIslandBarrelSuperClusters'
 ecalMonitorTask.collectionTags.EESuperCluster = 'correctedIslandEndcapSuperClusters'
+# foo bar baz
+# LKzfCequ5klWq
+# OfLUNzI7mhMzN

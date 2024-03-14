@@ -22,3 +22,6 @@ generator = cms.EDProducer("FlatRandomPtAndDxyGunProducer",
     AddAntiParticle = cms.bool(True),
     firstRun = cms.untracked.uint32(1)
 )
+# foo bar baz
+# Vl70c47q9ie5R
+# WAKHTUBWwUuha

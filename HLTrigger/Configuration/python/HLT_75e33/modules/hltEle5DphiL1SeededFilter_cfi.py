@@ -22,3 +22,6 @@ hltEle5DphiL1SeededFilter = cms.EDFilter("HLTEgammaGenericFilter",
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaGsfTrackVarsL1Seeded","Dphi")
 )
+# foo bar baz
+# r2i7U9wPNyw5u
+# UeM3zmPaHmoGK

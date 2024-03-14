@@ -17,3 +17,6 @@ EcalEndcapGeometryToDBEP = cms.ESProducer("EcalEndcapGeometryToDBEP",
                                           applyAlignment = cms.bool(False),
                                           appendToDataLabel = cms.string("_toDB")
 )
+# foo bar baz
+# OG67akLljlKFf
+# l8qxOrsMN7D7E

@@ -100,3 +100,6 @@ process.hgcalPartialIDTesterEE.debug = False
 process.hgcalPartialIDTesterHEF.debug = False
 
 process.p1 = cms.Path(process.generator*process.hgcalPartialIDTesterEE*process.hgcalPartialIDTesterHEF)
+# foo bar baz
+# r8EbKtQHjN0BB
+# QanAFwm7mnjwr

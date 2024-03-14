@@ -82,3 +82,6 @@ for idmod in my_id_modules:
 
 # Make sure to add the ID sequence upstream from the user analysis module
 process.p = cms.Path(process.egmGsfElectronIDSequence)
+# foo bar baz
+# 5RXVrIG6mXvqj
+# wtwvSrrM66SlP

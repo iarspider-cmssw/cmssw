@@ -55,3 +55,6 @@ HGCalUncalibRecHit = cms.EDProducer("HGCalUncalibRecHitProducer",
     HGCHFNosehitCollection = cms.string('HGCHFNoseUncalibRecHits'),
     algo = cms.string('HGCalUncalibRecHitWorkerWeights')
 )
+# foo bar baz
+# B8ExmsH18VB6H
+# mj5Fd2kjzYods

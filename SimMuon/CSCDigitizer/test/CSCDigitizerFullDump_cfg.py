@@ -82,3 +82,6 @@ process.schedule = cms.Schedule(process.digi_step,process.csc_digi,process.endjo
 # Replace the above by the following to add dump of the sim digis produced
 ## process.schedule = cms.Schedule(process.digi_step,process.csc_digi,process.csc_digi_dump,process.endjob_step)
 
+# foo bar baz
+# A3dwTog2Flc0Y
+# bTmLDwS7ac08L

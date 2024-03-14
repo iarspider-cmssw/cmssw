@@ -91,3 +91,6 @@ process.beamspotonlineshifter = cms.EDAnalyzer("BeamSpotOnlineShifter",
                                    
 # Put module in path:
 process.p = cms.Path(process.beamspotonlineshifter)
+# foo bar baz
+# qqCSY7NKJakgk
+# IvhOtEn8FdvKA

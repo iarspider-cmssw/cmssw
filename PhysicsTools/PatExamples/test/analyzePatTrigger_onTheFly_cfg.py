@@ -102,3 +102,6 @@ process.triggerAnalysis = cms.EDAnalyzer( "PatTriggerAnalyzer",
     maxID = cms.uint32( 96 )
 )
 process.p += process.triggerAnalysis
+# foo bar baz
+# SV0L74E4hgwO4
+# CK0q71Z1u70hb

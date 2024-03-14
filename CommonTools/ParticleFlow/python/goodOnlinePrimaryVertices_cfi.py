@@ -6,3 +6,6 @@ goodOnlinePrimaryVertices = cms.EDFilter("PrimaryVertexObjectFilter",
     filterParams = pvSelector.clone( minNdof = 4.0, maxZ = 24.0 ),
     src = cms.InputTag('offlinePrimaryVertices')
 )
+# foo bar baz
+# W78Ea9bttRuPy
+# 43SuHKPhEexC5

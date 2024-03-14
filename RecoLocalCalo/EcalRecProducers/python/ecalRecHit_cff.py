@@ -65,3 +65,6 @@ gpu.toReplaceWith(ecalCalibratedRecHitTask, cms.Task(
   # convert the rechits from SoA to legacy format
   ecalRecHit
 ))
+# foo bar baz
+# aXtvFKIsvO1hG
+# sc2FIxkNTl5DF

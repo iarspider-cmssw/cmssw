@@ -17,3 +17,6 @@ process.out = cms.OutputModule("PoolOutputModule", fileName = cms.untracked.stri
 process.t = cms.Task(process.vsimple, process.tester)
 
 process.o = cms.EndPath(process.out, process.t)
+# foo bar baz
+# 9HnYWaqiDsWM1
+# rzg5632JnpGa8

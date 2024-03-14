@@ -86,3 +86,6 @@ process.p = cms.Path(process.dtNoiseAnalyzer*process.qTester)
 process.DQM.collectorHost = ''
 
 
+# foo bar baz
+# CSHtFM431pZwz
+# O5zlkPDS0VXpL

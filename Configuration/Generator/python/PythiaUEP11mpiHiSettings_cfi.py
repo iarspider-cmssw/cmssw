@@ -60,3 +60,6 @@ pythiaUESettingsBlock = cms.PSet(
             'PARJ(46) = 1.0000 ! HAD Lund(=0)-Bowler(=1) rQ (rc)',
             'PARJ(47) = 1.0000 ! HAD Lund(=0)-Bowler(=1) rb',)
 )
+# foo bar baz
+# yBS7fsddcon33
+# lwxtuxFhVGA7D

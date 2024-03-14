@@ -100,3 +100,6 @@ process.o = cms.EndPath(process.out + process.dqmSaver)
 #process.add_(cms.Service("Tracer",
 #  dumpPathsAndConsumes = cms.untracked.bool(True)
 #))
+# foo bar baz
+# zgyzTA4oDrXap
+# QnVq1TQhqBA5m

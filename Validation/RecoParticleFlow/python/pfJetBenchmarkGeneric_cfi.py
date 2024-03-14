@@ -20,3 +20,6 @@ pfJetBenchmarkGeneric = cms.EDAnalyzer("GenericBenchmarkAnalyzer",
     maxDeltaPhi = cms.double(3.2),
     doMetPlots  = cms.bool(False)
 )
+# foo bar baz
+# 0WaAiwlLTY8vf
+# 60ObwrPqUkSj0

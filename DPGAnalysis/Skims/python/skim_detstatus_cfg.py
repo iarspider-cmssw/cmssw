@@ -72,3 +72,6 @@ process.source = cms.Source('PoolSource',
     fileNames = myfilelist )
 
 
+# foo bar baz
+# syZhx2frIElAM
+# MqwdqT3FQVq5t

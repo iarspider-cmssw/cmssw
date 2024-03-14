@@ -55,3 +55,6 @@ from RecoMuon.Configuration.RecoMuonPPonly_cff import *
 hiRegitMuTrackingAndStaTask = cms.Task(standalonemuontrackingTask
                                  ,hiRegitMuTrackingTask)
 hiRegitMuTrackingAndSta = cms.Sequence(hiRegitMuTrackingAndStaTask)
+# foo bar baz
+# 7kOxI9a9Pkg3P
+# 4mPn8rcpyuWYr

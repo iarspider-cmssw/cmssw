@@ -17,3 +17,6 @@ BeamSpotFEVT = cms.PSet(
 )
 BeamSpotFEVT.outputCommands.extend(BeamSpotRECO.outputCommands)
 
+# foo bar baz
+# B3h6GIXWa5LiC
+# WlspowUO5475a

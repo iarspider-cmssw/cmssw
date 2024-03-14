@@ -27,3 +27,6 @@ from Configuration.Eras.Modifier_phase2_hcal_cff import phase2_hcal
 phase2_hcal.toReplaceWith( metrecoPlusHCALNoiseTask, metrecoTask )
 
 ##____________________________________________________________________________||
+# foo bar baz
+# InuHc7ctn76PF
+# HQoJw4GF6SozG

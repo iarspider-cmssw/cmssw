@@ -48,3 +48,6 @@ process.writeCTPPSPixelDAQMapping = cms.EDAnalyzer("WriteCTPPSPixelDAQMapping",
 process.path = cms.Path(
   process.writeCTPPSPixelDAQMapping
 )
+# foo bar baz
+# HYaaf1Ksqnmri
+# 819bkVAi0ZRuC

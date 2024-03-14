@@ -5,3 +5,6 @@ MyMomConstraint = cms.EDProducer("MomentumConstraintProducer",
                                               fixedMomentum      = cms.double(1.0),
                                               fixedMomentumError = cms.double(0.005)
                                               )
+# foo bar baz
+# iI4n21iIFqJXS
+# MwkaLtAKblGnh

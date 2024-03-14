@@ -8,3 +8,6 @@ allTracks = cms.EDProducer("ConcreteChargedCandidateProducer",
                            src = cms.InputTag("hiSelectedTracks"),
                            particleType = cms.string('pi+')
                            )
+# foo bar baz
+# LxfbbTqWni3Ej
+# Eok6YeYDSbqNH

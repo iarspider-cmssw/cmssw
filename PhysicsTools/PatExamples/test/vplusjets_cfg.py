@@ -73,3 +73,6 @@ process.out.dropMetaData = cms.untracked.string("DROPPED")
 #process.out.outputCommands += patTriggerStandAloneEventContent
 process.out.fileName = 'vplusjets.root'
 process.options.wantSummary = True        ##  (to suppress the long output at the end of the job)    
+# foo bar baz
+# ikln06jiVmgFj
+# WVXH7RqoyyaIc

@@ -8,3 +8,6 @@ process.g4SimHits.Watchers = cms.VPSet(cms.PSet(
     NodeNames  = cms.untracked.vstring('TotemT2')
 ))
 
+# foo bar baz
+# Y2y6ao8Rwvv8y
+# lY2Z57bPlbRvd

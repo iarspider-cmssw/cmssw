@@ -13,3 +13,6 @@ def pipe(cmdline, input = None):
     command = _subprocess.Popen(args, stdin = None, stdout = _subprocess.PIPE, stderr = None)
   (out, err) = command.communicate(input)
   return out
+# foo bar baz
+# skO2AJLp5cr6n
+# OnZxUeo2gFg37

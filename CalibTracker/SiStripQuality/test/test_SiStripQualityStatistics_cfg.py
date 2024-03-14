@@ -104,3 +104,6 @@ process.stat = siStripQualityStatistics.clone(
         )
 
 process.p = cms.Path(process.stat)
+# foo bar baz
+# AtqO48wvf7aeL
+# 8cDPG8ciRtbKS

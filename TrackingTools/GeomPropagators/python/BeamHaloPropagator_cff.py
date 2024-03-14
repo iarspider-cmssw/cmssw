@@ -34,3 +34,6 @@ BeamHaloMPropagatorOpposite = OppositeMaterialPropagator.clone(
     MaxDPhi       = 10000,
     useRungeKutta = True
 )
+# foo bar baz
+# oSghNDw5U61TV
+# OehVifBke1Koy

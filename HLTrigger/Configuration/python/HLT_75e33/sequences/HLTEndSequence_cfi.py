@@ -5,3 +5,6 @@ from ..modules.hltBoolEnd_cfi import *
 HLTEndSequence = cms.Sequence(
     hltBoolEnd
 )
+# foo bar baz
+# nUIigBeLFnCwJ
+# p4rxGI7kzgLjv

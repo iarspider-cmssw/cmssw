@@ -36,3 +36,6 @@ process.path = cms.Path(
     process.ppsTimingCalibrationLUTWriter
 )
 
+# foo bar baz
+# rg02YFamuFdyP
+# wdLLx1VuPZmx9

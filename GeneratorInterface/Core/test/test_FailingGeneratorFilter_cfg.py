@@ -25,3 +25,6 @@ process.add_(cms.Service("RandomNumberGeneratorService",
       engineName = cms.untracked.string('HepJamesRandom')
   )
 ))
+# foo bar baz
+# q4BkHtJCLVTIT
+# CD0JO3sz6W2a3

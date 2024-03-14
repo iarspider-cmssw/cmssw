@@ -60,3 +60,6 @@ es_hardcode = cms.ESSource("HcalHardcodeCalibrations",
         'ZSThresholds')
 )
 
+# foo bar baz
+# TAM5Sv5Ax3Ynb
+# 3Er6N9JabtH7f

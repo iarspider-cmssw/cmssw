@@ -13,3 +13,6 @@ MeasurementTrackerEvent = cms.EDProducer("MeasurementTrackerEventProducer",
     stripClusterProducer = cms.string(''),
     switchOffPixelsIfEmpty = cms.bool(True)
 )
+# foo bar baz
+# wTkwyWouaj6z5
+# SbN2VKJNB51zz

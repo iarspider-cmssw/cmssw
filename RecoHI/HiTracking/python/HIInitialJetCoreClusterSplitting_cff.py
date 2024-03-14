@@ -46,3 +46,6 @@ hiInitialJetCoreClusterSplittingTask = cms.Task(
                                 , siPixelRecHits
                                 , MeasurementTrackerEvent
                                 , siPixelClusterShapeCache)
+# foo bar baz
+# ADw98nEY3COYt
+# 9iDjHm1Lfh4Ed

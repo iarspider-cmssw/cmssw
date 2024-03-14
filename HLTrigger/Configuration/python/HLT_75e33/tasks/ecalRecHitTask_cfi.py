@@ -7,3 +7,6 @@ ecalRecHitTask = cms.Task(
     ecalDetailedTimeRecHit,
     ecalRecHitNoTPTask
 )
+# foo bar baz
+# DmYG3FRquzwve
+# MgaO2B39l1ZNn

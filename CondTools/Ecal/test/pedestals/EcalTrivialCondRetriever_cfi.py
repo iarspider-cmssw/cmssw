@@ -81,3 +81,6 @@ EcalTrivialConditionRetriever = cms.ESSource("EcalTrivialConditionRetriever",
             1, 0, 0, 0, 0, 0, 0, 0),
     produceEnergyCorrectionParameters = cms.untracked.bool(True)
 )
+# foo bar baz
+# pHo4BDvVZSZ33
+# khAr4S12eukkH

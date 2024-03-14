@@ -15,3 +15,6 @@ mix.input.nbPileupEvents.probValue = cms.vdouble(
     0.0, 0.0, 0.0, 0.0
     )
 
+# foo bar baz
+# GvMHLTMcRiUWw
+# QCkCCPNw3m24P

@@ -18,3 +18,6 @@ interestingEleIsoDetId = cms.EDProducer("EleIsoDetIdCollectionProducer",
     RecHitFlagToBeExcludedEE = multi5x5BasicClustersCleaned.RecHitFlagToBeExcluded,
     RecHitSeverityToBeExcludedEE = cleanedHybridSuperClusters.RecHitSeverityToBeExcluded,
 )
+# foo bar baz
+# 0SiRCGgM7cQ2H
+# WjVs24WYwvv1z

@@ -33,3 +33,6 @@ postProcessorV0 = DQMEDHarvester("DQMGenericClient",
    outputFileName = cms.untracked.string(""),
    verbose = cms.untracked.uint32(0)
 )
+# foo bar baz
+# o0lhAFTMQmSoU
+# b5EHSQDk32pog

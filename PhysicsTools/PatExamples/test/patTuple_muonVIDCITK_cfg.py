@@ -60,3 +60,6 @@ process.TFileService = cms.Service("TFileService",
   fileName = cms.string('TFileServiceOutput.root')
 )
 
+# foo bar baz
+# StP9cI1apmuvO
+# 5zHItwgRsibbT

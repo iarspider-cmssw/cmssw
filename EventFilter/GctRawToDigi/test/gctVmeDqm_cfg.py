@@ -42,3 +42,6 @@ process.l1trct.rctSource = cms.InputTag("l1GctHwDigis","")
 
 process.p = cms.Path ( process.gctRaw * process.l1GctHwDigis * process.l1trct * process.l1tgct )
 
+# foo bar baz
+# kOO1AsoNMBEiY
+# UqZfRSVBa6mo0

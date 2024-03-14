@@ -23,3 +23,6 @@ hltEle115NonIsoPixelMatchL1SeededFilter = cms.EDFilter("HLTElectronPixelMatchFil
     tanhSO10InterThres = cms.double(1.0),
     useS = cms.bool(False)
 )
+# foo bar baz
+# dNKqyZK9lxJGH
+# DhPxXWDQwFt0V

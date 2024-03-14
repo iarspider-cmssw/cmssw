@@ -15,3 +15,6 @@ generator = cms.EDProducer("RandomXiThetaGunProducer",
   nParticlesSector45 = cms.uint32(1),
   nParticlesSector56 = cms.uint32(1),
 )
+# foo bar baz
+# 6Yo40V7xJgy9A
+# IjHGHB0Q30Ca2

@@ -33,3 +33,6 @@ HLTPhoton108EBTightIDTightIsoUnseededSequence = cms.Sequence(
     hltPhoton108EBTightIDTightIsoHcalIsoUnseededFilter,
     HLTPhoton108EBTightIDTightIsoUnseededTask
 )
+# foo bar baz
+# LEQT37r66XjeU
+# tSvTQjuDCwrSn

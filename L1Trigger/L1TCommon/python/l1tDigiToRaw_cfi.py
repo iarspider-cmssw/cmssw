@@ -16,3 +16,6 @@ l1tDigiToRaw = cms.EDProducer(
     lenSlinkTrailer = cms.untracked.int32(8)
 )
 
+# foo bar baz
+# 3CKXEKTGNArtD
+# 6teKUAndAX4Bh

@@ -12,3 +12,6 @@ pfCTaggingTask = cms.Task(
     pfCombinedCvsBJetTags
 )
 pfCTagging = cms.Sequence(pfCTaggingTask)
+# foo bar baz
+# L4DX6DNfVxc0u
+# 1vzBGzM45OTRw

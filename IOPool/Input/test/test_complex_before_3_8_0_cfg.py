@@ -148,3 +148,6 @@ process.test.expectedRunLumiEvents.extend([
 process.path1 = cms.Path(process.test)
 
 process.ep = cms.EndPath(process.output)
+# foo bar baz
+# uxYYHb2Ugoizt
+# EivlKERJQ4FPi

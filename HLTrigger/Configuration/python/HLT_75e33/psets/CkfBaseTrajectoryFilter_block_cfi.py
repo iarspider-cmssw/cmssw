@@ -24,3 +24,6 @@ CkfBaseTrajectoryFilter_block = cms.PSet(
     seedPairPenalty = cms.int32(0),
     strictSeedExtension = cms.bool(False)
 )
+# foo bar baz
+# OuAnnt5QRrwsX
+# XkbCc7ctvNlCf

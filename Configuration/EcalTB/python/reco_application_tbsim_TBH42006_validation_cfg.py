@@ -61,3 +61,6 @@ process.ecalBarrelRecHitsValidation.EBdigiCollection = 'simEcalUnsuppressedDigis
 process.ecalBarrelRecHitsValidation.EBuncalibrechitCollection = cms.InputTag("ecalTBSimWeightUncalibRecHit","EcalUncalibRecHitsEB")
 
 
+# foo bar baz
+# LYDqlMcEyYENv
+# Jmx6O7MRzXWkl

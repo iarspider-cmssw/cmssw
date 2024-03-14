@@ -78,3 +78,6 @@ class data_sources_tests(unittest.TestCase):
 
 	def tearDown(self):
 		self.connection.tear_down()
+# foo bar baz
+# aGmXJLj6gG7QW
+# FEYZ4STGBKutE

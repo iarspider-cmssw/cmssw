@@ -29,3 +29,6 @@ process.mytest = cms.EDAnalyzer("writeInt",
 
 process.p = cms.Path(process.mytest)
 
+# foo bar baz
+# lVsRTsxIJ5TPX
+# fiUcQGFy0f9tD

@@ -52,3 +52,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 process.p = cms.Path(process.intvec1 * process.intvec2 * process.associationMapProducer * process.test)
 
 process.e = cms.EndPath(process.out)
+# foo bar baz
+# qmmRt1Dh8OUzL
+# Wl6k8wA55Unff

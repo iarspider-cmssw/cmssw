@@ -40,3 +40,6 @@ HLTPFPuppiJMEReconstruction = cms.Sequence(
     hltAK8PFPuppiJetCorrector +
     hltAK8PFPuppiJetsCorrected
 )
+# foo bar baz
+# mE11bp1UAVjG2
+# spUUk8ZDZaR7U

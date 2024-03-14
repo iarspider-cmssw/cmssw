@@ -6,3 +6,6 @@ lheGenericFilter = cms.EDFilter("LHEGenericFilter",
     ParticleID = cms.vint32(5),
     AcceptLogic = cms.string("LT") # LT meaning < NumRequired, GT >, EQ =, NE !=
 )                                
+# foo bar baz
+# 1pKR1I2fTA86c
+# CaxlJF3Wv4H5M

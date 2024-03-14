@@ -8,3 +8,6 @@ process.g4SimHits.Watchers = cms.VPSet(cms.PSet(
     NodeNames  = cms.untracked.vstring('PixelBarrel')
 ))
 
+# foo bar baz
+# pfN94A2cItqMw
+# fF4KC0ZpJXxyR

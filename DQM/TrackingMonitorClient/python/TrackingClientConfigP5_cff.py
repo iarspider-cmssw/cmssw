@@ -61,3 +61,6 @@ from DQM.TrackingMonitor.TrackEfficiencyClient_cfi import *
 TrackEffClient.FolderName = 'Tracking/TrackParameters/TrackEfficiency'
 TrackEffClient.AlgoName   = 'CKFTk'
 
+# foo bar baz
+# z9asaOOYXj23I
+# dFxMwpZzkAL4G

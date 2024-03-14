@@ -7,3 +7,6 @@ simHcalTTPRecord = cms.EDProducer("HcalTTPTriggerRecord",
                                      'L1Tech_HCAL_HF_coincidence_PM.v1',
                                      'L1Tech_HCAL_HF_MMP_or_MPP.v0' )
 )
+# foo bar baz
+# 83qEXOzbwmF3I
+# s15l5QJ3iqC7S

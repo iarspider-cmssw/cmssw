@@ -4,3 +4,6 @@ import FWCore.ParameterSet.Config as cms
 simMuonME0PadDigis = cms.EDProducer("ME0PadDigiProducer",
     InputCollection = cms.InputTag('simMuonME0Digis'),
 )
+# foo bar baz
+# xeDpI9TUvuxUr
+# qEunGK0fLLIWV

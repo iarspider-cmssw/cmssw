@@ -149,3 +149,6 @@ process.this_is_the_end = cms.EndPath(
 process.outputCsDiJet +
 process.outputCsTau
 )
+# foo bar baz
+# Xri00d0zVmne0
+# 0hFXfWEPR7ORB

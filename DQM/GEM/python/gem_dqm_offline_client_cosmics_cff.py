@@ -8,3 +8,6 @@ gemClientsCosmics = cms.Sequence(
     gemEfficiencyHarvesterCosmicsGlb *
     gemEfficiencyHarvesterCosmicsSta
 )
+# foo bar baz
+# is7fBsgbnfUil
+# WKh5uSkjQJmZK

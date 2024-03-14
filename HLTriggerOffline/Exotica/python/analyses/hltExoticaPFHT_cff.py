@@ -20,3 +20,6 @@ PFHTPSet = cms.PSet(
                                          1000, 1100, 1200, 1300, 1400, 1600, 1800, 2000
                                        )
 )
+# foo bar baz
+# 1QLNXzR4Jcxbr
+# rFFo5tSZCHsg7

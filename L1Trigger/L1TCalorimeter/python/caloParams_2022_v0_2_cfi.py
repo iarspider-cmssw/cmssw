@@ -160,3 +160,6 @@ caloStage2Params = L1Trigger.L1TCalorimeter.caloParams_cfi.caloParams.clone(
     ])
 )
 
+# foo bar baz
+# pwIqgtAjzQe18
+# g99u167aktyUQ

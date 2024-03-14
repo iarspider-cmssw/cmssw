@@ -44,3 +44,6 @@ process.outpath = cms.EndPath(process.out)
 process.GlobalTag.globaltag = 'MC_311_V2::All'
 
 
+# foo bar baz
+# OxVXCgX50QQFx
+# bWtyFdDP4meib

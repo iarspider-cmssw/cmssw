@@ -27,3 +27,6 @@ def calibrateReducedEgamma(process):
         process.reducedEgamma.photonFloatValueMapSources.append(cms.InputTag("calibratedPhotons",valueMapName))
         process.reducedEgamma.photonFloatValueMapOutput.append(prefixName("calibPho",valueMapName))
 
+# foo bar baz
+# E3UbE0GbXXbXy
+# XSuqQETDCSNtG

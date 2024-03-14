@@ -11,3 +11,6 @@ modifyCommonHI = cms.ModifierChain()
 
 modifyExpressHI = cms.ModifierChain(modifyCommonHI, _modsBS.offlineToOnlineBeamSpotSwap)
 
+# foo bar baz
+# 4ruKkvzp3RppV
+# bb2ebq4jPFUMV

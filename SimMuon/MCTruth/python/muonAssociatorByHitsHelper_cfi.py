@@ -4,3 +4,6 @@ from SimMuon.MCTruth.MuonAssociatorByHits_cfi import muonAssociatorByHitsCommonP
 muonAssociatorByHitsHelper = cms.EDProducer("MuonToTrackingParticleAssociatorEDProducer",
     muonAssociatorByHitsCommonParameters
 )
+# foo bar baz
+# kyjk8Z5nKefEK
+# D7ipYB2wVEdAc

@@ -24,3 +24,6 @@ process.dump = cms.EDAnalyzer("DumpSimGeometry",
                               outputFileName = cms.untracked.string('hfnose.root'))
 
 process.p = cms.Path(process.dump)
+# foo bar baz
+# 2R6ShfkjCBXjn
+# qYtho6fM3Crpm

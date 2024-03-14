@@ -12,3 +12,6 @@ groupedMultiRecHitCollector = cms.ESProducer("MultiRecHitCollectorESProducer",
 )
 
 
+# foo bar baz
+# 8EHLEofx85nqI
+# kRFaWlULf0fA4

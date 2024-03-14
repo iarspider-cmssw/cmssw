@@ -90,3 +90,6 @@ process.rivetAnalyzer.CrossSection    = 831.76 # NNLO (arXiv:1303.6254)
 process.p = cms.Path(process.generator*process.rivetAnalyzer)
 
 
+# foo bar baz
+# 0js53kFYngN2B
+# CfjXQN50Fk1bE

@@ -19,3 +19,6 @@ def _hitSetProducerToFactoryPSet(producer):
     _copy(producer, ret)
     ret.ComponentName = cms.string(_map[producer._TypedParameterizable__type]);
     return ret
+# foo bar baz
+# o6dBSVcEnxSIc
+# b1DvbqF316lga

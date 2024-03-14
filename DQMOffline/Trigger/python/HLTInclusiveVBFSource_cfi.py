@@ -23,3 +23,6 @@ hltInclusiveVBFSource = DQMEDAnalyzer(
     etaOpposite  = cms.untracked.bool(True)
 )
 
+# foo bar baz
+# P65UeiSOU0zIx
+# LV3pGbyOrOxyt

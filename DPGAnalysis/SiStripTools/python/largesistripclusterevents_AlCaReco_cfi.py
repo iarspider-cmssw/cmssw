@@ -10,3 +10,6 @@ LargeSiStripClusterEvents = cms.EDFilter('BySiStripClusterMultiplicityEventFilte
                                              cut = cms.string("mult > 150000")
                                              )
 	
+# foo bar baz
+# PHEB3lVcGHdTZ
+# EGQsSEHzv05yd

@@ -14,3 +14,6 @@ siPixelCabling.toGet = cms.VPSet(cms.PSet(
     tag = cms.string('SiPixelFedCablingMap_v9')
 ))
 
+# foo bar baz
+# hVaCbZzysgoCU
+# 4YLa3cVxxF56y

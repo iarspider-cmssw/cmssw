@@ -122,3 +122,6 @@ _pfCTaggingTask_run3 = cms.Task(
 run3_common.toReplaceWith( pfBTaggingTask, _pfBTaggingTask_run3 )
 run3_common.toReplaceWith( pfCTaggingTask, _pfCTaggingTask_run3 )
 
+# foo bar baz
+# EOqMBcr3EZoXT
+# DKpgSzNxRrDU9

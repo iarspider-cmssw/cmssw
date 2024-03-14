@@ -8,3 +8,6 @@ hfprereco = cms.EDProducer("HFPreReconstructor",
     sumAllTimeSlices = cms.bool(False),
     tsFromDB = cms.bool(False)
 )
+# foo bar baz
+# SJZV0lwTUhswV
+# VFMRgTGNCRxwF

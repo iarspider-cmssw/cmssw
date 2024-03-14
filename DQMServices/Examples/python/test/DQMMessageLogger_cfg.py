@@ -42,3 +42,6 @@ process.source = cms.Source("PoolSource",
 
 process.p = cms.Path(process.RawToDigi*process.reconstruction*process.logErrorHarvester*process.DQMMessageLogger*process.DQMMessageLoggerClient + process.dqmSaver)
 
+# foo bar baz
+# 4ky4j5JKFjYmh
+# 4xRdydOU0TbaS

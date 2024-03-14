@@ -29,3 +29,6 @@ process.demo = cms.EDAnalyzer('RPCCSC'
 
 
 process.p = cms.Path(process.demo)
+# foo bar baz
+# fL483ebCTCkqW
+# 8qF3CHFSXDxlk

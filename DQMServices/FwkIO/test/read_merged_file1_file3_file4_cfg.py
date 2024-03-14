@@ -66,3 +66,6 @@ process.e = cms.EndPath(process.check+process.reader)
 process.add_(cms.Service("DQMStore"))
 #process.add_(cms.Service("Tracer"))
 
+# foo bar baz
+# yQ6DIDfai57DB
+# lwm0395P3pfOc

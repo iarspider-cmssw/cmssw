@@ -162,3 +162,6 @@ process.schedule = cms.Schedule(process.generation_step,process.genfiltersummary
 for path in process.paths:
         getattr(process,path)._seq = process.generator * getattr(process,path)._seq
 	
+# foo bar baz
+# b79woMITsgVwQ
+# vVj8CGfinPJm9

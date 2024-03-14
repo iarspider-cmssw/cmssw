@@ -14,3 +14,6 @@ hcalQualityTests = DQMQualityTester(
     reportThreshold=cms.untracked.string(""),
     verboseQT=cms.untracked.bool(True)
 )
+# foo bar baz
+# 3VYehZVGQNhb6
+# 7pQSaP6RB1WZi

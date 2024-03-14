@@ -7,3 +7,6 @@ L1T_SingleNNTau150 = cms.Path(
     HLTL1Sequence +
     hltL1SingleNNTau150
 )
+# foo bar baz
+# gStNYxz4hr9j8
+# o1OuZOt8R7x0k

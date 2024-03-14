@@ -29,3 +29,6 @@ CTPPSFastRecHits = cms.EDProducer('CTPPSRecHitProducer',
 from IOMC.RandomEngine.IOMC_cff import RandomNumberGeneratorService
 RandomNumberGeneratorService.CTPPSFastRecHits.engineName   = cms.untracked.string('TRandom3')
 
+# foo bar baz
+# aMagBSFEfKQpK
+# CI54PsnjhDaao

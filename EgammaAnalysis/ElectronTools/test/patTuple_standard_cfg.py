@@ -39,3 +39,6 @@ process.out.fileName = 'patTuple_standard.root'
 #                                         ##
 #   process.options.wantSummary = False   ##  (to suppress the long output at the end of the job)
 
+# foo bar baz
+# wwTNi7YYTrmaI
+# HghsM7r2oEBlb

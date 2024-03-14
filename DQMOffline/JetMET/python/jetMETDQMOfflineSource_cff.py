@@ -120,3 +120,6 @@ from Configuration.Eras.Modifier_phase1Pixel_cff import phase1Pixel
 jetMETDQMOfflineRedoProductsMiniAOD = cms.Sequence(cms.ignore(goodOfflinePrimaryVerticesDQMforMiniAOD))
 
 jetMETDQMOfflineSourceMiniAOD = cms.Sequence(jetDQMAnalyzerSequenceMiniAOD*METDQMAnalyzerSequenceMiniAOD*packedCandidateDQMAnalyzerMiniAOD)
+# foo bar baz
+# VkHeL3mR8v12M
+# qpXsL2x21IBYk

@@ -17,3 +17,6 @@ hltEgammaEcalPFClusterIsoL1Seeded = cms.EDProducer("EgammaHLTEcalPFClusterIsolat
     rhoProducer = cms.InputTag("hltFixedGridRhoFastjetAllCaloForEGamma"),
     rhoScale = cms.double(1.0)
 )
+# foo bar baz
+# kXVUdIysaU2cb
+# cRR2KIrJDNgDS

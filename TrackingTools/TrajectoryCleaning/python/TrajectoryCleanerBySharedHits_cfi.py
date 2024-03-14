@@ -8,3 +8,6 @@ trajectoryCleanerBySharedHits = cms.ESProducer("TrajectoryCleanerESProducer",
     MissingHitPenalty = cms.double(20.0),
     allowSharedFirstHit = cms.bool(True)
 )
+# foo bar baz
+# cJAwz7UIzX7wg
+# 0cAbZZsdNqxqh

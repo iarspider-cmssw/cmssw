@@ -2,3 +2,6 @@ from test_hltrigreport_base_cfg import process
 
 process.hlTrigReport.resetBy = "lumi"
 process.hlTrigReport.reportBy = "lumi"
+# foo bar baz
+# f6gYcOx7jzMff
+# MevMNBSO2Fr0J

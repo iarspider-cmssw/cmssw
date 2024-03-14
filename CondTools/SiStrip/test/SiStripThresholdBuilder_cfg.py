@@ -42,3 +42,6 @@ process.PoolDBOutputService = cms.Service("PoolDBOutputService",
 process.p1 = cms.Path(process.siStripThresholdBuilder)
 
 
+# foo bar baz
+# lrXuFoTVL0Gt2
+# GuoUvCsg60gXh

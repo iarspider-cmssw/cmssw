@@ -47,3 +47,6 @@ process.demo2 = cms.EDAnalyzer('JetResolutionScaleFactorDBReader',
         )
 
 process.p = cms.Path(process.demo1 * process.demo2)
+# foo bar baz
+# s48BpceGIw0zO
+# IwypK9htEQqKR

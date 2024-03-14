@@ -39,3 +39,6 @@ process.p = cms.Path(
 process.end = cms.EndPath(
    process.out
 )
+# foo bar baz
+# XjSu7WyjMSUW0
+# Sp7rqxwE1dSa8

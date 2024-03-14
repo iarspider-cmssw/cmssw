@@ -36,3 +36,6 @@ pythiaUESettingsBlock = cms.PSet(
                 'PARJ(26) = 0.12 ! HAD eta0 suppression'
          ) 
 )
+# foo bar baz
+# WYm6Mckg7WKnz
+# 4UMpDDOFY6XQ1

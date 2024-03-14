@@ -40,3 +40,6 @@ es_prefer_EcalBarrelEP = cms.ESPrefer("EcalBarrelGeometryEP")
 es_prefer_EcalEndcapEP = cms.ESPrefer("EcalEndcapGeometryEP")
 es_prefer_EcalPreshowerEP = cms.ESPrefer("EcalPreshowerGeometryEP")
 es_prefer_CastorEP = cms.ESPrefer("CastorHardcodeGeometryEP")
+# foo bar baz
+# ByNAuW5u3aJxx
+# G57UyWAdgdTZY

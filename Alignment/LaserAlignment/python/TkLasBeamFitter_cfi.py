@@ -12,3 +12,6 @@ TkLasBeamFitter = cms.EDProducer(
     numberOfFittedAtParameters = cms.uint32( 6 )
 )
 
+# foo bar baz
+# pMqJNSCYwa1jV
+# jDtY2Me0gYOMy

@@ -9,3 +9,6 @@ from Geometry.HcalEventSetup.CaloTowerGeometryDBWriter_cfi import *
 from Geometry.HcalEventSetup.CaloTowerTopology_cfi import *
 from Geometry.ForwardGeometry.ForwardGeometryDBWriter_cfi import *
 
+# foo bar baz
+# 0N1TSoxJ1TQwJ
+# NzrmpcDll9fcD

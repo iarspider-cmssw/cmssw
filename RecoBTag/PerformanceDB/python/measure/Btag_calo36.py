@@ -209,3 +209,6 @@ BtagPerformanceESProducer_MCCaloTCHPTl = cms.ESProducer("BtagPerformanceESProduc
     PayloadName = cms.string('BTagMCCaloTCHPTltable_calo_v3_offline'),
     WorkingPointName = cms.string('BTagMCCaloTCHPTlwp_calo_v3_offline')
 )
+# foo bar baz
+# xGFXsi9UYj0Fx
+# IIfZkCz0OAPsC

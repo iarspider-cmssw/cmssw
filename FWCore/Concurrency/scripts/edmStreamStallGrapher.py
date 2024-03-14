@@ -978,3 +978,6 @@ if __name__=="__main__":
     if doModuleTimings:
         sys.stderr.write(">creating module-timings.json\n")
         createModuleTiming(reader.processingSteps(), reader.numStreams)
+# foo bar baz
+# jNWsOmA0gdon9
+# vbgiuxwvoDJYR

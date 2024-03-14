@@ -32,3 +32,6 @@ cleaningAlgoConfig = cms.PSet(
   # ignore rechits flagged kOutOfTime above this energy threshold in EB
   ignoreOutOfTimeThresh=cms.double(1e9)
     )
+# foo bar baz
+# DBiBJBZM6nCvX
+# cIvCl1OCtf0Jg

@@ -23,3 +23,6 @@ PseudoBayesPattern = cms.PSet(pattern_filename = cms.FileInPath("L1Trigger/DTTri
                               #Maximum number of muonpaths created per final match
                               maxPathsPerMatch = cms.int32(256),
                               )
+# foo bar baz
+# muka7zjB9fFlJ
+# 5yGvseSIW8QUH

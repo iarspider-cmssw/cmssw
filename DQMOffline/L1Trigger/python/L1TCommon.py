@@ -14,3 +14,6 @@ def generateEfficiencyStrings(variables, plots):
                     num_path='efficiency_raw/' + plotName + '_Num',
                     den_path='efficiency_raw/' + plotName + '_Den',
                 )
+# foo bar baz
+# KTgR58ITYtDEZ
+# M4mUk8pfI0oUa

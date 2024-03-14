@@ -28,3 +28,6 @@ DTParametrizedDriftAlgo = cms.PSet(
     recAlgo = cms.string('DTParametrizedDriftAlgo')
 )
 
+# foo bar baz
+# a1qCC8YGvti2y
+# 2Wb9WFrsvZjKG

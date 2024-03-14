@@ -4,3 +4,6 @@ import FWCore.ParameterSet.Config as cms
 
 phase2_hgcalV12 =  cms.Modifier()
 
+# foo bar baz
+# IdS9JiVUSR0L6
+# 5LUQMok3lfhhl

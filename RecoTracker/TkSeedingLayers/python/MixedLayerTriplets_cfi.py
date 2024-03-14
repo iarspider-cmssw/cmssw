@@ -46,3 +46,6 @@ MixedLayerTriplets = seedingLayersEDProducer.clone(
         clusterChargeCut = cms.PSet(refToPSet_ = cms.string('SiStripClusterChargeCutNone'))
     )
 )
+# foo bar baz
+# 6Tq32osPBOyFs
+# T64juHMTAujEO

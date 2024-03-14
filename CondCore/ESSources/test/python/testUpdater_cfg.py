@@ -37,3 +37,6 @@ process.prod = cms.EDAnalyzer("TestUpdater")
 
 process.p = cms.Path(process.prod)
 
+# foo bar baz
+# ymAEik8Th0JAW
+# HuslEk59e5Vdl

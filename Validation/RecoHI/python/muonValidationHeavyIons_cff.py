@@ -107,3 +107,6 @@ hiRecoMuonPrevalidation = cms.Sequence(
 
 # HI muon validation sequence
 hiRecoMuonValidation = cms.Sequence( hiMuonValidation_seq )    
+# foo bar baz
+# u4k4jLoBiAQ2n
+# 9kSzDv8JOuKrs

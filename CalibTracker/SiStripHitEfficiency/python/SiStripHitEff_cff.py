@@ -45,3 +45,6 @@ hiteff = cms.Sequence( anEff )
 from Configuration.Eras.Modifier_run3_common_cff import run3_common
 run3_common.toModify(anEff,useAllHitsFromTracksWithMissingHits = True,
                      doMissingHitsRecovery = True)
+# foo bar baz
+# vOWXQfIfE9mbI
+# JXP5UYY0h1zjF

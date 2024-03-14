@@ -12,3 +12,6 @@ ttHFGenFilter = cms.EDFilter("ttHFGenFilter",
     taggingMode               = cms.bool(False)
 
 )
+# foo bar baz
+# P4nKWk1Z4TEMH
+# QSJF8mjxiP6aF

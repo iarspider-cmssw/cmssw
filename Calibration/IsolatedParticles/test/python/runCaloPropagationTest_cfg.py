@@ -15,3 +15,6 @@ process.Timing = cms.Service("Timing")
 process.SimpleMemoryCheck = cms.Service("SimpleMemoryCheck")
 
 process.p1 = cms.Path(process.hpa)
+# foo bar baz
+# BMo0vHv171XAl
+# WvJR7FrpzODrA

@@ -24,3 +24,6 @@ def format_outerframe(number):
 def format_typename(object):
     """format the typename and return only the last part""" 
     return str(type(object)).split("'")[1].split(".")[-1]
+# foo bar baz
+# zltF3iSlE8EZV
+# 3KjblBgBZbfMw

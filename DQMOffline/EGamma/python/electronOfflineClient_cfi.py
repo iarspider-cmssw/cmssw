@@ -16,3 +16,6 @@ dqmElectronOfflineClient = DQMEDHarvester("ElectronOfflineClient",
     EffHistoTitle = cms.string("fraction of reco ele matching a reco sc")
 
 )
+# foo bar baz
+# w5oAbGDsYKpdx
+# ZHSWJGxkcouXY

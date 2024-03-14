@@ -11,3 +11,6 @@ PropagatorWithMaterialForMTD = cms.ESProducer(
     useOldAnalPropLogic = cms.bool(False)
 )
 
+# foo bar baz
+# KRZFsiAZPPm29
+# 0WHJwQvYGyoWC

@@ -7,3 +7,6 @@ hgcalHEFTestNeighbor = hgcalEETestNeighbor.clone(
 
 hgcalHEBTestNeighbor = hgcalEETestNeighbor.clone(
     detector = cms.string("HGCalHEScintillatorSensitive"))
+# foo bar baz
+# jqYW8UiaxfhW2
+# aJCgQngkJIBHS

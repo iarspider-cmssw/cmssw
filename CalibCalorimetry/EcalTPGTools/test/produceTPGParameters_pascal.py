@@ -147,3 +147,6 @@ process.TPGParamProducer = cms.EDFilter("EcalTPGParamBuilder",
 
 process.p = cms.Path(process.TPGParamProducer)
 
+# foo bar baz
+# ZPYRdxsJnANrp
+# 1xdI9oZA8MXAq

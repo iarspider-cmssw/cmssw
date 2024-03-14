@@ -26,3 +26,6 @@ PFJetParameters = cms.PSet(
     minSeed             = cms.uint32( 14327 ),
     applyWeight         = cms.bool( False )
 )
+# foo bar baz
+# KtsEvVj1cO4uh
+# i4HSak3OY3hoX

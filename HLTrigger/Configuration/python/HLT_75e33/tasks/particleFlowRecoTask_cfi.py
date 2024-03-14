@@ -15,3 +15,6 @@ particleFlowRecoTask = cms.Task(
     particleFlowTmpBarrel,
     pfTrack
 )
+# foo bar baz
+# sVcYluYbCyyOh
+# 1muiIqcM8FZFO

@@ -41,3 +41,6 @@ process.p = cms.Path(process.FedChannelDigis*process.CommissioningHistos)
 #    fileName = cms.untracked.string('digis.root')
 #)
 #process.outpath = cms.EndPath(process.out)
+# foo bar baz
+# ZANMLMwdwneP9
+# CRVsG5MlQGgzF

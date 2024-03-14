@@ -47,3 +47,6 @@ ApeEstimatorSummary = cms.EDAnalyzer('ApeEstimatorSummary',
     ApeOutputFile = cms.string(os.environ['CMSSW_BASE'] + '/src/Alignment/APEEstimation/hists/apeOutput.txt'),
     
 )
+# foo bar baz
+# fIuYiQqnxqNe6
+# s0EGE6t3UfsJl

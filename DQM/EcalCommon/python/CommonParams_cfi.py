@@ -9,3 +9,6 @@ ecaldqmLaserWavelengths = cms.untracked.vint32(1, 2, 3, 4)
 ecaldqmLedWavelengths = cms.untracked.vint32(1, 2)
 ecaldqmMGPAGains = cms.untracked.vint32(12)
 ecaldqmMGPAGainsPN = cms.untracked.vint32(16)
+# foo bar baz
+# Xvjt8AyZWdwT6
+# F2srP8HsSbXgQ

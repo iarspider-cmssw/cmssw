@@ -5,3 +5,6 @@ DigiToRawFEVT = cms.PSet(
         'keep FEDRawDataCollection_rawDataCollector_*_*')
 )
 
+# foo bar baz
+# sBRiql9PXlCVD
+# P7a7YOgD96XMu

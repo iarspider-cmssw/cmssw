@@ -17,3 +17,6 @@ PythiaMSSMmhmax = cms.vstring(
     'RMSS(16)= 2449.         ! At', 
     'RMSS(17)= 2449.         ! Atau'
 )
+# foo bar baz
+# K6DQA15CWwgPy
+# S7E57ZcDFsmCb

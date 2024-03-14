@@ -41,3 +41,6 @@ _timeResolutionHCALMaxSample = cms.PSet(
     threshHighE = cms.double(15.0)
   )
 
+# foo bar baz
+# XmzQ9Upx0MdaS
+# 0zlmtVBQQdMVD

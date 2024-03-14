@@ -56,3 +56,6 @@ process.maxEvents = cms.untracked.PSet(
 process.Timing = cms.Service("Timing")
 
 process.p1 = cms.Path(process.hgcalGeometryDump)
+# foo bar baz
+# JDL6uvWdGLd5B
+# HbWnVArmAfB6c

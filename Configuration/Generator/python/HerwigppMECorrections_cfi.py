@@ -38,3 +38,6 @@ herwigppMECorrectionsSettingsBlock = cms.PSet(
 	),
 )
 
+# foo bar baz
+# EkgHrSjsHmCwb
+# L6SRd7ncWhuTA

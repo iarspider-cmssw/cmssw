@@ -15,3 +15,6 @@ countPatCandidates = cms.Sequence(
     countPatPhotons   +
     countPatJets 
 )
+# foo bar baz
+# jCUVMgmECkShu
+# jwR5RNDGlAXUl

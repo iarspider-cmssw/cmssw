@@ -112,3 +112,6 @@ process.outpath = cms.EndPath(process.GEN)
 process.p1 = cms.Path(process.randomEngineStateProducer*process.TauSpinnerGen)
 process.schedule = cms.Schedule(process.p, process.p1, process.outpath)
 
+# foo bar baz
+# Wogv98GVAeGBU
+# G52EJIDT3Y78u

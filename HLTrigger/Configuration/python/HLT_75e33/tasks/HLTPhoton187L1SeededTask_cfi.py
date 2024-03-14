@@ -9,3 +9,6 @@ HLTPhoton187L1SeededTask = cms.Task(
     hltEgammaHGCALIDVarsL1Seeded,
     hltEgammaHoverEL1Seeded
 )
+# foo bar baz
+# GZn82DrZq45jE
+# vNpSiM2sUnxIz

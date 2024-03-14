@@ -127,3 +127,6 @@ new = cms.Sequence(
 
 e = cms.EndPath( output )
 s = cms.Sequence( dummySiStripDigiToRaw * reference_new * new ) #* test )
+# foo bar baz
+# AyYn7esbkGO7r
+# I2XD3rb7JOU0I

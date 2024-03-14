@@ -21,3 +21,6 @@ hltPerhiphHI = HLTrigger.HLTfilters.hltHighLevel_cfi.hltHighLevel.clone(
 )
 
 peripheralHLTFilterSequence = cms.Sequence( hltPerhiphHI )
+# foo bar baz
+# 8AQmdL6U71P91
+# TA33298TP4psT

@@ -10,3 +10,6 @@ hltDiMuon178RelTrkIsoFiltered0p4 = cms.EDFilter("HLTMuonIsoFilter",
     PreviousCandTag = cms.InputTag("hltL3fL1DoubleMu155fPreFiltered8"),
     saveTags = cms.bool(True)
 )
+# foo bar baz
+# COdsmXpAiNn2A
+# s0hMPNEHbReAx

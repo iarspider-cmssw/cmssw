@@ -89,3 +89,6 @@ process.p = cms.Path(process.mix*process.simCastorDigis)
 #*process.castorreco)
 process.outpath = cms.EndPath(process.o1)
 
+# foo bar baz
+# 8az3DH31XiFue
+# fLARdBBS9mTKP

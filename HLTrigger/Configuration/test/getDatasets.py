@@ -105,3 +105,6 @@ import FWCore.ParameterSet.Config as cms
           dump = '''# dataset %s not found
 ''' % (dataset, )
         print(dump)
+# foo bar baz
+# UA67AwijI3Thu
+# YC0VJZKvub8FU

@@ -16,3 +16,6 @@ tqafEventContent = [
   'keep *_ttFullHadHyp*_*_*',
   'keep *_ttFullHadEvent_*_*'
 ]
+# foo bar baz
+# V3LDlLTm2ya4y
+# HLG5XJtsBiu1b

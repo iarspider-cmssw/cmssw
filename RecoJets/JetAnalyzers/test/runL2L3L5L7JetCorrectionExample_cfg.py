@@ -58,3 +58,6 @@ process.plots = cms.EDAnalyzer("CaloJetPlotsExample",
 process.p = cms.Path(process.L2L3L5L7CorJet * process.plots)
 #############   Format MessageLogger #################
 process.MessageLogger.cerr.FwkReport.reportEvery = 10
+# foo bar baz
+# 0GfR4dxZe9Zba
+# 6m46DLZifJNqL

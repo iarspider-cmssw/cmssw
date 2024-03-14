@@ -21,3 +21,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 process.path = cms.Path(process.testReadTriggerResults)
 
 process.endPath = cms.EndPath(process.out)
+# foo bar baz
+# BbHCKPLpiTHmj
+# V74AXmF1aG6uR

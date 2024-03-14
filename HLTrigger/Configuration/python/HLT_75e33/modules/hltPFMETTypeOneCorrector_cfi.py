@@ -12,3 +12,6 @@ hltPFMETTypeOneCorrector = cms.EDProducer("PFJetMETcorrInputProducer",
     src = cms.InputTag("hltAK4PFCHSJets"),
     type1JetPtThreshold = cms.double(30.0)
 )
+# foo bar baz
+# KkdnAn6J1T2rg
+# HM4Yi1oAbt25R

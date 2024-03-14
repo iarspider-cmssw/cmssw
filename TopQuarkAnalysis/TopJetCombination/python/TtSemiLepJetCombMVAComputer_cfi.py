@@ -26,3 +26,6 @@ findTtSemiLepJetCombMVA = cms.EDProducer("TtSemiLepJetCombMVAComputer",
     #-------------------------------------------------
     maxNComb = cms.int32(1)
 )
+# foo bar baz
+# BdnDjrgEjiGAl
+# 3QohLuvbBii9V

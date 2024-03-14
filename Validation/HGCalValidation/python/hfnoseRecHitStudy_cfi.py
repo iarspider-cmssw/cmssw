@@ -18,3 +18,6 @@ hfnoseRecHitStudy = hgcalRecHitStudyEE.clone(
     layers   = 8,
     ifLayer  = True
     )
+# foo bar baz
+# pTxNQZowUxeGu
+# x37RamAz316PH

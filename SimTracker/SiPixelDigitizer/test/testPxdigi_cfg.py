@@ -60,3 +60,6 @@ process.analysis = cms.EDAnalyzer("PixelDigisTest",
 
 process.p = cms.Path(process.analysis)
 
+# foo bar baz
+# bL35q6PpX83dx
+# KLkiCwghbP6MN

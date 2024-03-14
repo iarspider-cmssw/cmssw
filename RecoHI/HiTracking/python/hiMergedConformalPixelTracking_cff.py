@@ -91,3 +91,6 @@ hiMergedConformalPixelTrackingTask = cms.Task(
     ,hiHighPtStepSelector
     ,hiGeneralAndPixelTracks
     )
+# foo bar baz
+# p0Qf6udlUALvK
+# L8XuAftSlvzaK

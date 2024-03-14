@@ -23,3 +23,6 @@ process.test = cms.EDAnalyzer("PerfectGeometryAnalyzer",
 process.Timing = cms.Service("Timing")
 
 process.p = cms.Path(process.test)
+# foo bar baz
+# CKtYRgvGHVk5U
+# U4y02AJpXkppl

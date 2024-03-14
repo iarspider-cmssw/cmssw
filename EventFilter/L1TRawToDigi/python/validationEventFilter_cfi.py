@@ -6,3 +6,6 @@ validationEventFilter = cms.EDFilter(
     tcsdRecord = cms.InputTag("tcdsDigis","tcsdRecord"),
     period     = cms.int32(107)
 )
+# foo bar baz
+# Lnayml2KI3fHj
+# LQK3C43UOo9Mx

@@ -107,3 +107,6 @@ singleElectronPt1RecoQualitySeq = cms.Sequence(
 #singleElectronSCRecoQualitySeq = cms.Sequence(
 #    singleRecoElectronPt5Filter
 #    )
+# foo bar baz
+# 3gIgT6SEVVWx9
+# SoQr885Px7L49

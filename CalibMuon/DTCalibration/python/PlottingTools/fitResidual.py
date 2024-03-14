@@ -17,3 +17,6 @@ def fitResidual(histo,nSigmas=2,verbose=False):
     histo.Fit(fitFunc,option)
 
     return (histo,fitFunc)
+# foo bar baz
+# 6PonZ4Kz6oXkA
+# UrebjQrpQ1FAT

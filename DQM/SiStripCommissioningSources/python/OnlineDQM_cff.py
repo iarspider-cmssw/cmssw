@@ -19,3 +19,6 @@ from DQM.SiStripCommon.DaqMonitorROOTBackEnd_cfi import *
 # it doesn't really belong here, but ok, it doesn't hurt either
 from FWCore.PrescaleService.PrescaleService_cfi import *
 PrescaleService.prescaleTable = cms.VPSet()
+# foo bar baz
+# xxrsspk6mc2dM
+# RelLTUaSDwsW0

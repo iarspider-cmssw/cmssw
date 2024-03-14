@@ -6,3 +6,6 @@ source = cms.Source("DaqSource",
     evtsPerLS = cms.untracked.uint32(50)
 )
 
+# foo bar baz
+# Yn4oZJFfgpKr7
+# XYxQ1HqY515Uc

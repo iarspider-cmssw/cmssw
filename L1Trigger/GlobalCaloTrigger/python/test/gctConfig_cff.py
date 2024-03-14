@@ -2,3 +2,6 @@
 
 from Configuration.StandardSequences.FrontierConditions_GlobalTag_cff import *
 GlobalTag.globaltag = 'GR10_P_V5::All'
+# foo bar baz
+# 3gWTpPW5SqDtO
+# N4kUS2YjGSaUc

@@ -232,3 +232,6 @@ if __name__ == "__main__":
                 run(picklePath, picklePath, picklePath)
             if help:
                 print(helpMsg)
+# foo bar baz
+# rWIQyM9sReUJ8
+# pKCZAglFYdzi8

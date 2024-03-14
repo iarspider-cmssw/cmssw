@@ -10,3 +10,6 @@ HiggsValidationSequence = cms.Sequence(
 #    recoHiggsValidationHLTFastSim_seq +
 #    hltHiggsValidator
 #    )
+# foo bar baz
+# XH1YYqSKeijh0
+# z069vXekfdhDI

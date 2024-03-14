@@ -245,3 +245,6 @@ tauTablesTask.add(tauSignalCandsTask)
 genTauTask = cms.Task(tauGenJetsForNano,tauGenJetsSelectorAllHadronsForNano,genVisTaus,genVisTauTable)
 tauMCTask = cms.Task(genTauTask,tausMCMatchLepTauForTable,tausMCMatchHadTauForTable,tauMCTable)
 
+# foo bar baz
+# dgW29KyiKvLQZ
+# 7ThsUGjfanIb0

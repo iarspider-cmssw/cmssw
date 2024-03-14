@@ -11,3 +11,6 @@ filteredLayerClustersTrk = cms.EDProducer("FilteredLayerClustersProducer",
     min_cluster_size = cms.int32(3),
     min_layerId = cms.int32(0)
 )
+# foo bar baz
+# lgIQNjUGafYgK
+# QuHP7kAXyvNTD

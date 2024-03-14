@@ -13,3 +13,6 @@ alcaPCCIntegratorZeroBias = alcaPCCIntegrator.clone()
 alcaPCCIntegratorZeroBias.AlcaPCCIntegratorParameters.ProdInst = "alcaPCCZeroBias"
 
 seqALCARECOAlCaPCCZeroBias = cms.Sequence(ALCARECOZeroBiasHLT + alcaPCCIntegratorZeroBias)
+# foo bar baz
+# sDk8LQ0ccosTi
+# 1V2ekfNmvHoIE

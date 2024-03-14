@@ -25,3 +25,6 @@ def custom_clustering_standalone(process):
 def custom_tower_standalone(process):
     process.l1tHGCalTowerProducer.ProcessorParameters.ProcessorName = cms.string('HGCalTowerProcessorSA')
     return process
+# foo bar baz
+# JA7cL1sJeNxLf
+# u9pxEOZLiNVDZ

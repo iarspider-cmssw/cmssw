@@ -4,3 +4,6 @@ import SimTracker.TrackAssociatorProducers.trackAssociatorByHits_cfi as tabh
 TrackAssociatorByHitsCompact = tabh.trackAssociatorByHits.clone(
     useCompactStripLinks = cms.bool(True)
 )
+# foo bar baz
+# vtRMWZx6WlvJa
+# bFEACp9eq0GpF

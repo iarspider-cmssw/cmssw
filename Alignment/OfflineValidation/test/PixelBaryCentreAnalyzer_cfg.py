@@ -140,3 +140,6 @@ process.TFileService = cms.Service("TFileService",
 
 # Put module in path:
 process.p = cms.Path(process.PixelBaryCentreAnalyzer*process.PixelBaryCentreAnalyzerWithPixelQuality)
+# foo bar baz
+# 48adBqFFEF9OI
+# dhFDHd7JFU4tD

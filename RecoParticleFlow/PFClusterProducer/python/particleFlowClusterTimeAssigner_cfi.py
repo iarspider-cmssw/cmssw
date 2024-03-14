@@ -7,3 +7,6 @@ particleFlowTimeAssignerECAL = particleFlowClusterTimeAssignerDefault.clone(
     timeResoSrc = 'ecalBarrelClusterFastTimer:PerfectResolutionModelResolution'
 )
 
+# foo bar baz
+# lmrMGGZsr3Had
+# 1NU7qY85cD94l

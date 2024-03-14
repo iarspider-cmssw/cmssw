@@ -59,3 +59,6 @@ hgcalLayerClustersEEL1Seeded = cms.EDProducer('HGCalLayerClusterProducer',
   nHitsTime = cms.uint32(3),
   mightGet = cms.optional.untracked.vstring
 )
+# foo bar baz
+# x40UIohOw0l9E
+# 4Q2jFe7c4TyOX

@@ -14,3 +14,6 @@ TrajectoryFilterForConversions = TrackingTools.TrajectoryFiltering.TrajectoryFil
     maxCCCLostHits      = 9999,
     minGoodStripCharge  = dict(refToPSet_ = 'SiStripClusterChargeCutNone')
 )
+# foo bar baz
+# ntTGhSZA8PCzo
+# okwGLa5qBRXYY

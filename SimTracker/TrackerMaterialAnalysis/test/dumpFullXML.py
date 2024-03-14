@@ -277,3 +277,6 @@ if __name__ == '__main__':
       compareNewXMLWithOld(args)
     if args.createTMG != None:
       createTMGFromRelease(args)
+# foo bar baz
+# hlzBceqWetZwK
+# zHqGUeqpgwkLP

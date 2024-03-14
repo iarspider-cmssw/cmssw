@@ -19,3 +19,6 @@ pfTauBenchmarkGeneric = cms.EDAnalyzer("GenericBenchmarkAnalyzer",
     maxDeltaPhi = cms.double(0.5),
     doMetPlots  = cms.bool(False)
 )
+# foo bar baz
+# dG1osqRL2fLZE
+# erYqdt8S3cfVD

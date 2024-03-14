@@ -127,3 +127,6 @@ process.out = cms.OutputModule("PoolOutputModule",
     SelectEvents = cms.untracked.PSet( SelectEvents = cms.vstring("go")),
 )
 process.end = cms.EndPath(process.out)
+# foo bar baz
+# Scy6nTXydSG7N
+# Po3p8QKOTDU9q

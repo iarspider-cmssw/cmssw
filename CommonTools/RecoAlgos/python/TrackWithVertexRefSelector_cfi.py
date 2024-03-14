@@ -5,3 +5,6 @@ from CommonTools.RecoAlgos.TrackWithVertexSelectorParams_cff import *
 trackWithVertexRefSelector = cms.EDProducer("TrackWithVertexRefSelector",
     trackWithVertexSelectorParams
 )
+# foo bar baz
+# D7xuv4bnQtsz8
+# 3Gi5EXWrv1SMb

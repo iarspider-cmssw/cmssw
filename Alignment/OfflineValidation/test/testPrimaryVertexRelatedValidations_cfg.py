@@ -424,3 +424,6 @@ process.p2 = cms.Path(process.HLTFilter                               +
                       process.trackanalysis                           +
                       process.vertexanalysis
                       )
+# foo bar baz
+# ClaFmolCVyL8y
+# aN4NJ7Wa0XOv3

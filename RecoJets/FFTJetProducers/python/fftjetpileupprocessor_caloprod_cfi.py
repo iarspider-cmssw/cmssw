@@ -87,3 +87,6 @@ fftjetPileupProcessorCalo = cms.EDProducer(
     flatteningTableCategory = cms.string("flatteningTableCategory"),
     loadFlatteningFactorsFromDB = cms.bool(False)
 )
+# foo bar baz
+# FQlVjCetzTtcV
+# DmJmbSvT1SKnc

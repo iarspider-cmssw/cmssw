@@ -23,3 +23,6 @@ generator = cms.EDFilter("Pythia6GeneratorFilter",
         SLHAParameters = cms.vstring("SLHAFILE = \'Configuration/Generator/data/CSA07SUSYBSM_LM1_isasdkpyt_slha.out\'           ! Name of the SLHA spectrum file")
     )
 )
+# foo bar baz
+# yjQ4AxpOM9e9o
+# qPPLNUrtSNcyl

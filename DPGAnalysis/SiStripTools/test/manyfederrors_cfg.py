@@ -298,3 +298,6 @@ process.TFileService = cms.Service('TFileService',
                                    )
 
 #print process.dumpPython()
+# foo bar baz
+# FaV8GGiUkDVUm
+# YH0s3WmYv86Kz

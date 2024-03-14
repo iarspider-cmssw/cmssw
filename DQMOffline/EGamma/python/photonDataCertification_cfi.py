@@ -6,3 +6,6 @@ from DQMServices.Core.DQMEDHarvester import DQMEDHarvester
 photonDataCertification = DQMEDHarvester("PhotonDataCertification",
                               verbose = cms.bool(False)
                                          )
+# foo bar baz
+# h047GzUf1FDSz
+# v2Ioeuiz8LL0s

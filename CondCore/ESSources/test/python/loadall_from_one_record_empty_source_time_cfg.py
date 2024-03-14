@@ -186,3 +186,6 @@ for name, module in process.es_sources_().items():
     print("ESModules> provider:%s '%s'" % ( name, module.type_() ))
 for name, module in process.es_producers_().items():
     print("ESModules> provider:%s '%s'" % ( name, module.type_() ))
+# foo bar baz
+# 66TK5wIGWhfFC
+# phi84hn5mKLAL

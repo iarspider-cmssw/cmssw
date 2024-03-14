@@ -11,3 +11,6 @@ FSQDQM= DQMEDAnalyzer('FSQDQM',
                       #                      LabelVertex      = cms.string("offlinePrimaryVertices"),
                       pvs = cms.InputTag('offlinePrimaryVertices'),                      
                       )
+# foo bar baz
+# OS7UnIWsY5wBK
+# inwKtP8ZXTFzZ

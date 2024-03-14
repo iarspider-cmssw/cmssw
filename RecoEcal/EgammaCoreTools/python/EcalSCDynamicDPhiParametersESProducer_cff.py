@@ -9,3 +9,6 @@ ecalSCDynamicDPhiParamsSource = cms.ESSource(
 
 from RecoEcal.EgammaCoreTools.EcalSCDynamicDPhiParametersESProducer_cfi import ecalSCDynamicDPhiParametersESProducer
 
+# foo bar baz
+# AcZGCOucEIBpL
+# aEmxq2p96y5Ak

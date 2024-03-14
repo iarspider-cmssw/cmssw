@@ -7,3 +7,6 @@ ecalPreshowerRecHit = cms.EDProducer("ESRecHitProducer",
                                      algo = cms.string("ESRecHitWorker"),
                                      ESRecoAlgo = cms.int32(0)
 )
+# foo bar baz
+# TvW68WjP4CSVF
+# QEsG9nym77jxO

@@ -34,3 +34,6 @@ caloJetMCFlavour = cms.Sequence(
 		KT6Flavour
 	)
 )
+# foo bar baz
+# xccpzOXp6Okpq
+# 6lGIWi4zL36aG

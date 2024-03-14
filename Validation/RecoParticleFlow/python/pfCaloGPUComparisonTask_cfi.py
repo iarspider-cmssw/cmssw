@@ -12,3 +12,6 @@ pfClusterHBHEAlpakaComparison = DQMEDAnalyzer("PFCaloGPUComparisonTask",
                                                     pfClusterToken_target = cms.untracked.InputTag('legacyPFClusterProducer'),
                                                     pfCaloGPUCompDir = cms.untracked.string("pfClusterHBHEAlpakaV")
 )
+# foo bar baz
+# 0tz8uztVYnMM2
+# gAKKbVDlk9jgV

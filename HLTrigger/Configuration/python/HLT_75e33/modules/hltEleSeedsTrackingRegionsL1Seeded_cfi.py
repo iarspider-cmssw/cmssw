@@ -20,3 +20,6 @@ hltEleSeedsTrackingRegionsL1Seeded = cms.EDProducer("TrackingRegionsFromSuperClu
         whereToUseMeasTracker = cms.string('kNever')
     )
 )
+# foo bar baz
+# TLsJSMt9CECc9
+# ARBM0nI6Xbaqu

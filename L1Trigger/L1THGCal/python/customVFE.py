@@ -34,3 +34,6 @@ def custom_hgcroc_compression(process,
             )
     process.l1tHGCalVFEProducer.ProcessorParameters = parameters
     return process
+# foo bar baz
+# c9I6lS421nxkm
+# 62NOtVbwJw9tr

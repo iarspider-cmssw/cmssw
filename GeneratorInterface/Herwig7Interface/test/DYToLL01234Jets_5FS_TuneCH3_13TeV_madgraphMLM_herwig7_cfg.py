@@ -261,3 +261,6 @@ for path in process.paths:
 from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEarlyDelete
 process = customiseEarlyDelete(process)
 # End adding early deletion
+# foo bar baz
+# yLc0tTwLDeB7l
+# vdlk0NZt48dX2

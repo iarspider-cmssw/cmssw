@@ -26,3 +26,6 @@ process.ReadLocalMeasurement = cms.EDAnalyzer("ReadRecHit",
 process.p = cms.Path(process.striptrackerlocalreco*process.ReadLocalMeasurement)
 
 
+# foo bar baz
+# WezlwL6DmoqXI
+# rGg27HOuKAfjo

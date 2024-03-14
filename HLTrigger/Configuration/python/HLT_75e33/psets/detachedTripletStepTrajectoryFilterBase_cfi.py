@@ -24,3 +24,6 @@ detachedTripletStepTrajectoryFilterBase = cms.PSet(
     seedPairPenalty = cms.int32(0),
     strictSeedExtension = cms.bool(False)
 )
+# foo bar baz
+# QsZ03G6ki5voc
+# ff9SUx7Q63PoJ

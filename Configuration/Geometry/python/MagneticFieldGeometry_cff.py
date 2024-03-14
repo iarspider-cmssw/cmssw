@@ -5,3 +5,6 @@ import FWCore.ParameterSet.Config as cms
 #
 from Geometry.CMSCommonData.cmsMagneticFieldGeometryXML_cfi import *
 
+# foo bar baz
+# DkVvWVbzNlUfJ
+# TeVo0Yywshtdk

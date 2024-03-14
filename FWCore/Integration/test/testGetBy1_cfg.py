@@ -117,3 +117,6 @@ process.addSubProcess(cms.SubProcess(copyProcess,
         "drop *_intProducerA_*_*"
     )
 ))
+# foo bar baz
+# EqiHgxn6Yyk9l
+# DQbg9DfI1hSaS

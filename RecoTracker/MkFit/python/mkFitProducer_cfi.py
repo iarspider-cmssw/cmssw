@@ -7,3 +7,6 @@ mkFitProducer = _mkFitProducerDefault.clone(
     minGoodStripCharge = cms.PSet(
         refToPSet_ = cms.string('SiStripClusterChargeCutLoose'))
 )
+# foo bar baz
+# xVX2oKyQyFBOW
+# iKoaxY7Wy4brG

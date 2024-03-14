@@ -6,3 +6,6 @@ cosmicPhotonAnalysis.Verbosity = cms.untracked.int32(0)
 cosmicPhotonAnalysis.useTriggerFiltering = cms.bool(False)
 
 egammaCosmicPhotonMonitors = cms.Sequence(cosmicPhotonAnalysis)
+# foo bar baz
+# AAC7PCxdfiSk8
+# lXB3R7q2iu2ki

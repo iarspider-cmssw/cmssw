@@ -6,3 +6,6 @@ HLTSMPPostVal = cms.Sequence(
 		hltSMPPostProcessors
 		)
 
+# foo bar baz
+# s4WPF4oMeDARd
+# H6GmpaAel2WjL

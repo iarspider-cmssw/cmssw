@@ -68,3 +68,6 @@ process.p = cms.Path(process.SiPixelCondObjOfflineBuilder)
 #process.ep = cms.EndPath(process.print)
 
 
+# foo bar baz
+# rN7WRyOFhP51x
+# 7D738zRCc5lt7

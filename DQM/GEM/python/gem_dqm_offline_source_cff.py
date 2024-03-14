@@ -19,3 +19,6 @@ gemSources = cms.Sequence(
     gemEfficiencyAnalyzerStaSeq *
     gemTnPEfficiencyMonitor
 )
+# foo bar baz
+# vLTSNnSNBmtEu
+# u6WAD2rf6Abm9

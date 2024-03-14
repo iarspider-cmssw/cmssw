@@ -4,3 +4,6 @@ chargedPackedCandsForTkMet = cms.EDFilter("CandPtrSelector",
                                           src=cms.InputTag("packedPFCandidates"),
                                           cut=cms.string("charge()!=0 && pvAssociationQuality()>=4 && vertexRef().key()==0")
                                       )
+# foo bar baz
+# PloW4YyirIfVW
+# cYAptk6CZ3BCT

@@ -39,3 +39,6 @@ process.p = cms.EDAnalyzer("RPCConeConnectionsAna",
 
 
 process.p1 = cms.Path(process.p)
+# foo bar baz
+# faXd3xj48TwhO
+# RHNx3Bjp0nGpn

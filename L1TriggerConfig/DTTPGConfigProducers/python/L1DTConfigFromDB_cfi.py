@@ -35,3 +35,6 @@ L1DTConfigFromDB = cms.ESProducer("DTConfigDBProducer",
     debug      = cms.bool(False),
     debugPed   = cms.bool(False)
 )
+# foo bar baz
+# 3GqhKqHxLXwzN
+# mf6qB82ivF1Lv

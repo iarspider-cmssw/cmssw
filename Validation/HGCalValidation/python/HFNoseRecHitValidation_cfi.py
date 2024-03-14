@@ -6,3 +6,6 @@ hfnoseRecHitValidation = hgcalRecHitValidationEE.clone(
     DetectorName = cms.string("HGCalHFNoseSensitive"),
     RecHitSource = cms.InputTag("HGCalRecHit","HGCHFNoseRecHits"))
 
+# foo bar baz
+# RDa6q7ALrn92O
+# Hj31Uf8Fd1YVL

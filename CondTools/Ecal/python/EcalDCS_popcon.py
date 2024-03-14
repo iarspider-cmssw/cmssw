@@ -40,3 +40,6 @@ process.conf_o2o = cms.EDAnalyzer("ExTestEcalDCSAnalyzer",
 
 process.p = cms.Path(process.conf_o2o)
 
+# foo bar baz
+# hzyDTvE8bPyJI
+# EcTyOqhanH8sk

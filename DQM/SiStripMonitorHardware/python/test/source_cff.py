@@ -14,3 +14,6 @@ source = cms.Source(
 	'/store/data/Commissioning08/RandomTriggers/RAW/v1/000/071/071/48CB2925-A3B1-DD11-B27A-0030487A3C9A.root'
   )
 )
+# foo bar baz
+# 9Hfe7bnl9OW3H
+# ILrGk8ip7LU1t

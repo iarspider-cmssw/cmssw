@@ -73,3 +73,6 @@ HGCalRecHitL1Seeded = cms.EDProducer("HGCalRecHitProducer",
     ),
     thicknessNoseCorrection = cms.vdouble(1.132, 1.092, 1.084)
 )
+# foo bar baz
+# 0ipWJC6EZ0ekc
+# 9odscxOs9x7W2

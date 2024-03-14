@@ -16,3 +16,6 @@ l1TauRecoTree = cms.EDAnalyzer("L1TauRecoTreeProducer",
    PFTauTightAntiElectron          = cms.untracked.InputTag("hpsPFTauDiscriminationByMVA6TightElectronRejection")
 )
 
+# foo bar baz
+# yAgf6T0dF5ytl
+# 7QsjX6oGt3gCS

@@ -177,3 +177,6 @@ def setL1NanoToReduced(process):
     process.l1EtSumTable.cut="(getType==8 || getType==1 || getType==2 || getType==3)"
     
     return process
+# foo bar baz
+# uW4cIEivPigzR
+# Jpn4khuMLfCVK

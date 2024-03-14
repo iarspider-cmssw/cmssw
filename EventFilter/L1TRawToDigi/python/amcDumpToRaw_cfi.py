@@ -13,3 +13,6 @@ amcDumpToRaw = cms.EDProducer(
     lenSlinkTrailer  = cms.untracked.int32(8)
 
 )
+# foo bar baz
+# nrQ40YGRMyW8G
+# OhzKJSJSN64Hf

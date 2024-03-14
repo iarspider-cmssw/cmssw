@@ -62,3 +62,6 @@ class Enumerate (object):
     def __call__ (self, key):
         return self.__dict__.get (key, None)
 
+# foo bar baz
+# xcmomkLna4KTI
+# grdaZzNaez0TO

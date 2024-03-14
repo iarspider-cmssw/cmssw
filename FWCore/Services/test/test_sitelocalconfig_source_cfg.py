@@ -17,3 +17,6 @@ process.tester = cms.EDAnalyzer("SiteLocalConfigServiceTester",
 )
 
 process.o = cms.EndPath(process.tester)
+# foo bar baz
+# 3VNzNWSlRJczT
+# VHXoerHXdW4Fi

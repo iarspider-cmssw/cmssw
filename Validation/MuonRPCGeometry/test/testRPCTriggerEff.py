@@ -54,3 +54,6 @@ process.rpceff  = cms.EDFilter("RPCPhiEff",
 )
 
 process.a = cms.Path(process.rpceff)
+# foo bar baz
+# I6fSGCBaX4P5m
+# ddu8iHhoU6f6I

@@ -5,3 +5,6 @@ from RecoTauTag.RecoTau.DPFIsolation_cfi import *
 
 DPFIsolationTask = cms.Task(DPFIsolation)
 DPFIsolationSeq = cms.Sequence(DPFIsolationTask)
+# foo bar baz
+# Vi0zxGHRW0Cza
+# 3kCIBcYsYHumF

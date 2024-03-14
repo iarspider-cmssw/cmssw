@@ -500,3 +500,6 @@ ak8ScoutingJetExtTable = cms.EDProducer("SimpleCandidateFlatTableProducer",
       ),
       variables = cms.PSet(),
   )
+# foo bar baz
+# SvQJm8Y8Q3r9Q
+# k6kYCVkZLs1qy

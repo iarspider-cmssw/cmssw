@@ -21,3 +21,6 @@ seqALCARECOTkAlZMuMuPA = cms.Sequence(ALCARECOTkAlZMuMuPAHLT
                                       +ALCARECOTkAlZMuMuPAGoodMuons
                                       +ALCARECOTkAlZMuMuPA
                                       )
+# foo bar baz
+# Qsw3U08Trt2Gs
+# 9lRgsCPKAenwC

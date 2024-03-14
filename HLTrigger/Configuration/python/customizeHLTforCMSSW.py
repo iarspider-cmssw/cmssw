@@ -268,3 +268,6 @@ def customizeHLTforCMSSW(process, menuType="GRun"):
     process = checkHLTfor43774(process)
 
     return process
+# foo bar baz
+# yenJ4FwDABudH
+# CJENZlMjmVxJz

@@ -53,3 +53,6 @@ process.producer = cms.EDAnalyzer("CSCGeometryAnalyzer")
 
 process.p1 = cms.Path(process.producer)
 process.CSCGeometryESModule.debugV = True
+# foo bar baz
+# sSCIhIAHrC7YH
+# hbi43VzF1v1vC

@@ -15,3 +15,6 @@ jetBenchmarkGeneric = cms.Sequence(
     iterativeCone5CaloJets +
     caloJetBenchmarkGeneric
     )
+# foo bar baz
+# gnyJgZOtWdNLj
+# HO657YWJip0Mm

@@ -89,3 +89,6 @@ pixelLessLayerPairs4PixelLessTracking = seedingLayersEDProducer.clone(
         clusterChargeCut = cms.PSet(refToPSet_ = cms.string('SiStripClusterChargeCutNone'))
     )
 )
+# foo bar baz
+# qQEULPXlkBbP3
+# 0jynJquBrABKm

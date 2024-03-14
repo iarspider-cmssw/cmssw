@@ -7,3 +7,6 @@ hgcalRecHitClientHEF = hgcalRecHitClientEE.clone(
 
 hgcalRecHitClientHEB = hgcalRecHitClientEE.clone(
     DetectorName  = cms.string("HGCalHEScintillatorSensitive"))
+# foo bar baz
+# 7IfKP39YHS4Xr
+# 1En71O0R4Kikz

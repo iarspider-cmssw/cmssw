@@ -19,3 +19,6 @@ BXlumiSetup = cms.PSet(
     BXlumiMax = cms.double(6000)    
 )
 
+# foo bar baz
+# YhfdOPSRYgdOG
+# Az8lA5O1FWk8p

@@ -72,3 +72,6 @@ process.hgcalWaferTesterHEF = process.hgcalWaferTesterEE.clone(
  
  
 process.p1 = cms.Path(process.generator*process.hgcalWaferTesterEE*process.hgcalWaferTesterHEF)
+# foo bar baz
+# GbN9VIHeD7jq1
+# kNEeiyqFVXdjL

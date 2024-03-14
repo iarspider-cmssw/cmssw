@@ -17,3 +17,6 @@ FastjetWithPU = cms.PSet(
     UE_Subtraction = cms.string('yes')
 )
 
+# foo bar baz
+# IrsYgIqZsKDxG
+# Z17Z61tI3bbJw

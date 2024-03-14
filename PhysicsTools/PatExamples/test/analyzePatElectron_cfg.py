@@ -53,3 +53,6 @@ process.p = cms.Path(
     process.analyzePatElectron *
     process.tagAndProbeAnalysis
 )
+# foo bar baz
+# ifXCAlWk1atkX
+# PyHlOaB8Sm3M1

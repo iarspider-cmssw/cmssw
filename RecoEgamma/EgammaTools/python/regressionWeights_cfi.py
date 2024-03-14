@@ -27,3 +27,6 @@ GBRWrapperRcd  =  cms.ESSource("PoolDBESSource",
      connect = cms.string('sqlite_file:GBRWrapper.db')
 )
 
+# foo bar baz
+# ujDAVKj9sfGbc
+# rUihd2pKV8bCT

@@ -19,3 +19,6 @@ import copy
 
 OutALCARECOPromptCalibProdSiStripGainsAAG=copy.deepcopy(OutALCARECOPromptCalibProdSiStripGainsAAG_noDrop)
 OutALCARECOPromptCalibProdSiStripGainsAAG.outputCommands.insert(0, "drop *")
+# foo bar baz
+# qvuYKRd3vEOE7
+# cKuK0ijni8yvy

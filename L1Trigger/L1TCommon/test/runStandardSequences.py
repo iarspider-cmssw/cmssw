@@ -135,3 +135,6 @@ print(process.SimL1Emulator)
 #print process.L1Reco
 print("DigiToRaw is:  ")
 print(process.DigiToRaw)
+# foo bar baz
+# gRN9cMjZ87UHZ
+# 80JvfDafe6aw9

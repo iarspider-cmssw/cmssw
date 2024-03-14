@@ -4,3 +4,6 @@ CSCTFAlignmentOnline = cms.ESProducer("CSCTFAlignmentOnlineProd",
     forceGeneration = cms.bool(True),
     onlineDB = cms.string('oracle://CMS_OMDS_LB/CMS_TRG_R')
 )
+# foo bar baz
+# wq0oDvtj7jGWv
+# Tbac1C1nO1GGj

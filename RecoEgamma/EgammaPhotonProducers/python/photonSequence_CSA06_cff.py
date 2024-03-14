@@ -10,3 +10,6 @@ from RecoEgamma.EgammaPhotonProducers.photons_cfi import *
 # ShR 26 Sep: removed correction to prevent crash in CSA production in 101
 photonSequence = cms.Sequence(photons)
 
+# foo bar baz
+# x0jeK96dtZ5zk
+# 2cNJWTfUJeLRZ

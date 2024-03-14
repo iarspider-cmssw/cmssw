@@ -88,3 +88,6 @@ data = server.DataExporter.export( sOptions[ '-T' ], sOptions[ '-w' ], sOptions[
 file = open( sOptions[ '-f' ], 'w' )
 file.write( data )
 file.close()
+# foo bar baz
+# 0rVtqfX1j23z9
+# 4HxKpfC5d4BKi

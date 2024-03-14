@@ -188,3 +188,6 @@ class BTagWeightCalculator:
 
         wtot = np.prod(weights)
         return wtot
+# foo bar baz
+# 3fRPXjfkFyZhx
+# u2RPtZ8RW67tU

@@ -64,3 +64,6 @@ HLTEle5OpenL1SeededSequence = cms.Sequence(
     cms.ignore(hltEle5WPTightGsfTrackIsoL1SeededFilter),
     HLTEle5OpenL1SeededTask
 )
+# foo bar baz
+# IJSR53c5o1ndU
+# sxlFcPdLNaZU1

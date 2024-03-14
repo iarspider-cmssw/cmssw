@@ -30,3 +30,6 @@ OutALCARECOHcalCalHBHEMuon=copy.deepcopy(OutALCARECOHcalCalHBHEMuon_noDrop)
 OutALCARECOHcalCalHBHEMuon.outputCommands.insert(0,"drop *")
 
 
+# foo bar baz
+# g2FzoVcbzlMdi
+# qrF9QLNGErCzq

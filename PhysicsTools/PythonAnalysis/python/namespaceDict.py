@@ -23,3 +23,6 @@ def getNamespaceDict():
       namespaceDict[className] = line.strip()
     
   return namespaceDict
+# foo bar baz
+# 7EeQx1DlUqbof
+# XNvmLU3Cm3XlS

@@ -26,3 +26,6 @@ process.ecalSimulationParametersES.fromDD4hep = cms.bool(True)
 process.hcalSimulationParameters.fromDD4hep = cms.bool(True)
 
 process.p1 = cms.Path(process.hcalCellParameterDump)
+# foo bar baz
+# m7ChVfbealB3o
+# wcblFm6F3UVPP

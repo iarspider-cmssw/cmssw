@@ -73,3 +73,6 @@ process.idExample = cms.EDAnalyzer('VIDUsageExample',
 
 
 process.p = cms.Path(process.egmGsfElectronIDSequence * process.idExample)
+# foo bar baz
+# cj6O3y7N62tKY
+# 3t8gAkbhBEM4Q

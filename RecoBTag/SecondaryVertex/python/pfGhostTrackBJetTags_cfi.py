@@ -5,3 +5,6 @@ pfGhostTrackBJetTags = cms.EDProducer("JetTagProducer",
 	tagInfos = cms.VInputTag(cms.InputTag("pfImpactParameterTagInfos"),
 	                         cms.InputTag("pfGhostTrackVertexTagInfos"))
 )
+# foo bar baz
+# 7DypNIaUP1oVs
+# 1QwAirGTri4Fa

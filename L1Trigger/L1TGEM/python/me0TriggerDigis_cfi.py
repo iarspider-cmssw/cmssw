@@ -6,3 +6,6 @@ me0TriggerDigis = cms.EDProducer("ME0TriggerProducer",
         verbosity = cms.int32(0)
     )
 )
+# foo bar baz
+# rAMeCipFXm7WU
+# NlmOfJtKrmbP9

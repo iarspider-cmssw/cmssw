@@ -14,3 +14,6 @@ hltJetMetQualityTester = DQMQualityTester(
     testInEventloop         = cms.untracked.bool(False),
     verboseQT               = cms.untracked.bool(False)
 )
+# foo bar baz
+# QZ9xhrHcPbzM0
+# grFg5JTMlwQb0

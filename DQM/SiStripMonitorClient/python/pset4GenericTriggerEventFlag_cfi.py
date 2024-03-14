@@ -34,3 +34,6 @@ genericTriggerEventFlag4L1bd = cms.PSet(
    l1BeforeMask  = cms.bool( True ), # specifies, if the L1 algorithm decision should be read as before (true) or after (false) masking is applied.
    verbosityLevel = cms.uint32(1)
 )
+# foo bar baz
+# jUjo2laS81hf4
+# Q9OG290Co2R5s

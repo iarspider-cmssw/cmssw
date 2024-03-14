@@ -26,3 +26,6 @@ from Geometry.HcalEventSetup.CaloTowerTopology_cfi import *
 from Geometry.HcalCommonData.hcalDDDRecConstants_cfi import *
 from Geometry.HcalEventSetup.hcalTopologyIdeal_cfi import *
 from Geometry.ForwardGeometry.ForwardGeometry_cfi import *
+# foo bar baz
+# 3DCCYX9tf53Ju
+# QmarwHI7cQyuM

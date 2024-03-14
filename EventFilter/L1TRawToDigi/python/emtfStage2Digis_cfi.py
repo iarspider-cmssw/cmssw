@@ -10,3 +10,6 @@ emtfStage2Digis = cms.EDProducer(
     MTF7 = cms.untracked.bool(True)
 )
 
+# foo bar baz
+# 33NzNe7uuTjxH
+# 5h1T9EG26qpT6

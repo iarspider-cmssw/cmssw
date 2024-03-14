@@ -67,3 +67,6 @@ process.g4SimHits.UseMagneticField = False
 for path in process.paths:
         getattr(process,path)._seq = process.generator * getattr(process,path)._seq
 
+# foo bar baz
+# VHa9UqaIM8ugk
+# 8EeNmMpeH9j2U

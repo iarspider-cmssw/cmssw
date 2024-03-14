@@ -306,3 +306,6 @@ process.outputL1GlobalTrigger = cms.OutputModule("PoolOutputModule",
 )
 
 process.outpath = cms.EndPath(process.outputL1GlobalTrigger)
+# foo bar baz
+# YwyBvK6Kb22mk
+# 5eUcNnn2JQhGl

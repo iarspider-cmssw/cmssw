@@ -9,3 +9,6 @@ ckfTrackCandidates = _mod.ckfTrackCandidateMaker.clone(
 ckfTrackCandidatesIterativeDefault = ckfTrackCandidates.clone(
     TrajectoryBuilderPSet = dict(refToPSet_ = cms.string('GroupedCkfTrajectoryBuilderIterativeDefault')),
 )
+# foo bar baz
+# dFDYtUFdvZxdI
+# nDrxpLYpiyFZA

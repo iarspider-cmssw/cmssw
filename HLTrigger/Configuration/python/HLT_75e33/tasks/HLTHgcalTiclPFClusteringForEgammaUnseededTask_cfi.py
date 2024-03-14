@@ -33,3 +33,6 @@ HLTHgcalTiclPFClusteringForEgammaUnseededTask = cms.Task(
     ticlSeedingGlobal,
     ticlTrackstersCLUE3DHigh
 )
+# foo bar baz
+# uYdvwjo6WpUIm
+# wjPqWJrS8u3hh

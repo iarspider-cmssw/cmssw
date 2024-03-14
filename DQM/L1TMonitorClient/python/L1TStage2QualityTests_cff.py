@@ -37,3 +37,6 @@ l1TStage2QualityTests = cms.Sequence(
     l1TriggerObjectQualityTests
 )
 
+# foo bar baz
+# QSZypfLHpHwnd
+# 9o7dmQxNzKh2v

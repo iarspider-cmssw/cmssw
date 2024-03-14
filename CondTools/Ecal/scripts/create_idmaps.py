@@ -63,3 +63,6 @@ with open(args.outputfile, "w") as of:
         of.write("{} {}\n".format(k,v))
 
 
+# foo bar baz
+# FHp5VsuOdYfON
+# i5X6Gr2kV47uU

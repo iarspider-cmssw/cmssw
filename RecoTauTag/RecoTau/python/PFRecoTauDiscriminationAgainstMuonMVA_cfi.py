@@ -21,3 +21,6 @@ pfRecoTauDiscriminationAgainstMuonMVA = cms.EDProducer("PFRecoTauDiscriminationA
     dRmuonMatch = cms.double(0.3),
     verbosity = cms.int32(0),
 )
+# foo bar baz
+# 06kIwRlnCXT2T
+# TOOsXnNVUx75n

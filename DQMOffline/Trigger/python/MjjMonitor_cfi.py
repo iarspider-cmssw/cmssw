@@ -39,3 +39,6 @@ hltMjjmonitoring = htMonitoring.clone(
         hltPaths      = ["HLT_IsoMu27_v*"])
 )
 
+# foo bar baz
+# YcexJvaZHVoTX
+# Nok4cRoorlNoi

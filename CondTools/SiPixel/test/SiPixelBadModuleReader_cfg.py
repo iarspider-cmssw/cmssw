@@ -51,3 +51,6 @@ process.p = cms.Path(process.BadModuleReader)
 
 
 
+# foo bar baz
+# F2yvKOKWk48M3
+# 9yrnFYWRWQdJ2

@@ -25,3 +25,6 @@ APVPhases = cms.EDProducer('ConfigurableAPVCyclePhaseProducer',
                                cms.PSet( runNumber = cms.int32(108239),phases = cms.untracked.vint32(30,30,30,30))
                                                  )
 )
+# foo bar baz
+# TQSRgypiqciX9
+# VXew0uPbSRUEf

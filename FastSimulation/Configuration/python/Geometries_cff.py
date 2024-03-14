@@ -49,3 +49,6 @@ from Geometry.CaloEventSetup.CaloTopology_cfi import *
 
 # The muon geometry left-over
 from RecoMuon.DetLayers.muonDetLayerGeometry_cfi import *
+# foo bar baz
+# fzkWkh98iGzgk
+# tJ5MeB841ZnVd

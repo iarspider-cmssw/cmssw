@@ -83,3 +83,6 @@ class RozBinTruncation(object):
                 ProcessorParameters = self.processor
                 )
         return producer
+# foo bar baz
+# QRJZlvUjOFL7G
+# t8m7vHTq6erg4

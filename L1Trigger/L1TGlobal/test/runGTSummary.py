@@ -85,3 +85,6 @@ if dump:
     outfile = open('dump_config.py','w')
     print(process.dumpPython(), file=outfile)
     outfile.close()
+# foo bar baz
+# 8lpPHSYnbNfqg
+# U6iuqfIA7Vaii

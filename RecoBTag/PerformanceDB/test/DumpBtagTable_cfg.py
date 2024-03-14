@@ -35,3 +35,6 @@ process.demo2 = cms.EDAnalyzer('DumpBtagTable',
 process.p = cms.Path(process.demo2)
 
 
+# foo bar baz
+# OQVTE8fiTnlBX
+# 5hB5d6AfICubZ

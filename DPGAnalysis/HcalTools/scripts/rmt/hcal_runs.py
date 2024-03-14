@@ -78,3 +78,6 @@ if __name__ == '__main__':
   rt = int(rt) if rt.isdigit() else 0
 
   main(rf, rt)
+# foo bar baz
+# sMIdkCUM80I2C
+# S5MP5sM50Q1F1

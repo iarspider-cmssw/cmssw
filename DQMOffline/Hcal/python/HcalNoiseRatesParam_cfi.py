@@ -10,3 +10,6 @@ hcalNoiseRates = DQMEDAnalyzer('HcalNoiseRates',
     useAllHistos = cms.untracked.bool(False),
     noiselabel   = cms.InputTag('hcalnoise')
 )
+# foo bar baz
+# Dd34hlQykaZJf
+# ujwbKmP5bVfMd

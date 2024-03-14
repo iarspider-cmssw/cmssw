@@ -18,3 +18,6 @@ process.source = cms.Source("EmptySource")
 process.GEMCSCLUTAnalyzer = cms.EDAnalyzer("GEMCSCLUTAnalyzer")
 
 process.p = cms.Path(process.GEMCSCLUTAnalyzer)
+# foo bar baz
+# kzvFt9RPQ9CKG
+# QB0q3SW5FWEaM

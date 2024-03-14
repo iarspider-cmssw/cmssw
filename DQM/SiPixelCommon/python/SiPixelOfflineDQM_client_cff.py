@@ -62,3 +62,6 @@ phase1Pixel.toReplaceWith(PixelOfflineDQMClientNoDataCertification, siPixelPhase
 phase1Pixel.toReplaceWith(PixelOfflineDQMClientNoDataCertification_cosmics, siPixelPhase1OfflineDQM_harvesting_cosmics)
 phase1Pixel.toReplaceWith(PixelOfflineDQMClientWithDataCertification, siPixelPhase1OfflineDQM_harvesting)
 phase1Pixel.toReplaceWith(PixelOfflineDQMClientWithDataCertificationHI, siPixelPhase1OfflineDQM_harvesting_hi)
+# foo bar baz
+# uc3mZ3N3UvCbw
+# MDxWgnQaqhyCt

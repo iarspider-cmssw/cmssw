@@ -153,3 +153,6 @@ pfPuppiMetAnalyzerMiniAOD = DQMEDAnalyzer(
    METType = cms.untracked.string("miniaod"),
    PrimaryVertices = cms.InputTag("offlineSlimmedPrimaryVertices")
    )
+# foo bar baz
+# HMtddCA771tqD
+# Qr2GAGzlwkfSr

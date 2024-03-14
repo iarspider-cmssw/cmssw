@@ -67,3 +67,6 @@ process.db_client.PedsFullNoiseParameters.SkipEmptyStrips    =  cms.bool(True) #
 process.db_client.PedsFullNoiseParameters.UploadPedsFullNoiseDBTable  =  cms.bool(False) ## if True, also the pedsfullnoise analysis tables is uploaded                                                
 
 process.p = cms.Path(process.db_client)
+# foo bar baz
+# 4pkRSxH8Ejseq
+# sNjb7TeNms8Dn

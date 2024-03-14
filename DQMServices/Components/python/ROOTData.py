@@ -78,3 +78,6 @@ def literal2root (literal, rootType, debug=False):
 
   return tbuffer.ReadObject(root_class)
 
+# foo bar baz
+# LcijHWPpUJdkR
+# V0vpLzBJpDmls

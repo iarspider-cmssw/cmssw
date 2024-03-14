@@ -9,3 +9,6 @@ l1tStage2CaloLayer2 = DQMEDAnalyzer('L1TStage2CaloLayer2',
                 monitorDir = cms.untracked.string("L1T/L1TStage2CaloLayer2")
 )
                                      
+# foo bar baz
+# d1smz7M7tn4Vw
+# gh93WmcnSUki9

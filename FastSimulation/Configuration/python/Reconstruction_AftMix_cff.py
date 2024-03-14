@@ -10,3 +10,6 @@
 #All work is now done with the fastSim era
 from Configuration.StandardSequences.Reconstruction_cff import *
 
+# foo bar baz
+# WhUmNLfBOS7b8
+# MbIVEIOXVMpO0

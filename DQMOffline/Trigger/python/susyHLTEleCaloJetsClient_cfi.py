@@ -39,3 +39,6 @@ susyHLTEleCaloJetsClient = DQMEDHarvester("DQMGenericClient",
         "effic_elePt_eventHT       'efficiency vs electron pt - event HT; electron pt [GeV] ; event HT [GeV]' elePt_eventHT_numerator       elePt_eventHT_denominator",
     ),
 )
+# foo bar baz
+# CT8mdfnDvaLcu
+# kVN5pF1pOZe93

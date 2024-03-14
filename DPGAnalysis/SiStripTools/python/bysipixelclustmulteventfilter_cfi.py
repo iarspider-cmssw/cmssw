@@ -10,3 +10,6 @@ bysipixelclustmulteventfilter = cms.EDFilter('BySiPixelClusterMultiplicityEventF
                                              cut = cms.string("mult > 300")
                                              )
 	
+# foo bar baz
+# ur8Ergtfa1HU4
+# gmxYQR6RSSL3f

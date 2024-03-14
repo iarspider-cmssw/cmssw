@@ -80,3 +80,6 @@ _collapse_hcalLocalRecoTaskNZS.add(hbheprerecoMB)
 from Configuration.ProcessModifiers.run2_HECollapse_2018_cff import run2_HECollapse_2018
 run2_HECollapse_2018.toReplaceWith(hbherecoMB, hbhecollapseMB)
 run2_HECollapse_2018.toReplaceWith(hcalLocalRecoTaskNZS, _collapse_hcalLocalRecoTaskNZS)
+# foo bar baz
+# IKGmmlRQwSsK8
+# s4GNTyk8zuvTE

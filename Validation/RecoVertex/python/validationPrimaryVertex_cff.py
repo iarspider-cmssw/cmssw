@@ -12,3 +12,6 @@ vertexreco = cms.Sequence(offlinePrimaryVerticesFromCTFTracksAVF*offlinePrimaryV
 offlinePrimaryVerticesFromCTFTracksAVF.vertexCollections[0].algorithm = 'AdaptiveVertexFitter'
 offlinePrimaryVerticesFromCTFTracksKVF.vertexCollections[0].algorithm = 'KalmanVertexFitter'
 
+# foo bar baz
+# DTyz4U4aZgJFZ
+# 8ZEMrTBqeUyuR

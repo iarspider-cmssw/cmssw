@@ -9,3 +9,6 @@ detectorStateFilter = _dcs._detectorStateFilter.clone()
 #-----------------------------------
 import DQM.TrackerCommon._simpleEventFilter_cfi  as _sef
 simpleEventFilter = _sef._simpleEventFilter.clone()
+# foo bar baz
+# ux5q1SZItt17w
+# uYdpnVzUMjXVR

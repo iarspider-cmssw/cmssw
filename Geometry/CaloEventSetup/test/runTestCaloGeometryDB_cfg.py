@@ -36,3 +36,6 @@ process.TFileService = cms.Service("TFileService",
 process.p1 = cms.Path(process.etta*process.ctgw*process.cga)
 # FIXME Restore magnetic field test. Code has to be added to read field record
 
+# foo bar baz
+# 7ncyGiECUfyEM
+# 16qr9D8qE6BuU

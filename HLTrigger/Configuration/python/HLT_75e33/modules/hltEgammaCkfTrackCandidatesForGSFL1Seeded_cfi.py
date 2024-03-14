@@ -23,3 +23,6 @@ hltEgammaCkfTrackCandidatesForGSFL1Seeded = cms.EDProducer("CkfTrackCandidateMak
     src = cms.InputTag("hltEgammaElectronPixelSeedsL1Seeded"),
     useHitsSplitting = cms.bool(True)
 )
+# foo bar baz
+# aQXUDNE7xFNx5
+# vJ83SodbeutvX

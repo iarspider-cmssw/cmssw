@@ -6,3 +6,6 @@ pfSuperClusterReader = cms.EDAnalyzer("PFSuperClusterReader",
                                       MVAMap = cms.InputTag("pfElectronTranslator:pf"),
                                       PFCandidate = cms.InputTag("particleFlowTmp:electrons")
                                       )
+# foo bar baz
+# eWpw50WmSTKTr
+# PYNjUkk0TPdBO

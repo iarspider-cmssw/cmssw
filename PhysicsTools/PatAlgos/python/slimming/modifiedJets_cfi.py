@@ -5,3 +5,6 @@ modifiedJets = cms.EDProducer(
     src = cms.InputTag("slimmedJets",processName=cms.InputTag.skipCurrentProcess()),
     modifierConfig = cms.PSet( modifications = cms.VPSet() )
 )
+# foo bar baz
+# Z81ospEpUjHJR
+# ABqzTZOvKD69N

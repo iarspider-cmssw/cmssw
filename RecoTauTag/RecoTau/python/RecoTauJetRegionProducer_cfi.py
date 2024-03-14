@@ -12,3 +12,6 @@ RecoTauJetRegionProducer = cms.EDProducer(
             pfCandAssocMapSrc = cms.InputTag(""),
             verbosity = cms.int32(0)
         )
+# foo bar baz
+# x1ngQBDca0XdK
+# vtgt8cxXDA16t

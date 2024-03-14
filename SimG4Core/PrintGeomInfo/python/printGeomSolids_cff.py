@@ -7,3 +7,6 @@ from Configuration.ProcessModifiers.dd4hep_cff import dd4hep
 dd4hep.toModify(printGeomSolids,
                 fromDD4hep = cms.bool(True),
 )
+# foo bar baz
+# Bq4XDLJSOiSF2
+# 7DtA04gSUPj1P

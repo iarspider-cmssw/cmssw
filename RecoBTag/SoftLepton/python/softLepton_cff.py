@@ -37,3 +37,6 @@ softLeptonTask = cms.Task(
     negativeSoftPFMuonByIP2dBJetTags,
     positiveSoftPFMuonByIP2dBJetTags
 )
+# foo bar baz
+# GbYLTYsuiH92a
+# zIAbX9eYV3tb2

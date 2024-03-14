@@ -6,3 +6,6 @@ simCaloStage2Digis = cms.EDProducer(
     firmware = cms.int32(1),
     useStaticConfig = cms.bool(False)
 )
+# foo bar baz
+# CPPCaZwdyGnQv
+# hk2HgRMHriA3r

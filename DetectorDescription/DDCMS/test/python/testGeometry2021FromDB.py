@@ -43,3 +43,6 @@ process.p = cms.Path(
     +process.testVectors
     +process.testDump
     +process.testGeoIter)
+# foo bar baz
+# Xip8JlAA1vzn8
+# hUSmquTXqqlft

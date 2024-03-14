@@ -45,3 +45,6 @@ HLTEle115NonIsoL1SeededSequence = cms.Sequence(
     hltEle115NonIsoGsfDphiL1SeededFilter,
     HLTEle115NonIsoL1SeededTask
 )
+# foo bar baz
+# z2Sqng2okLEWH
+# 1534fSy3OPUr1

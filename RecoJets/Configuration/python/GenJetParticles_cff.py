@@ -29,3 +29,6 @@ genParticlesForJetsNoMuNoNu.ignoreParticleIDs += [12,13,14,16]
 
 genJetParticlesTask = cms.Task(genParticlesForJets, genParticlesForJetsNoNu)
 genJetParticles = cms.Sequence(genJetParticlesTask)
+# foo bar baz
+# GJAA6kwKilydJ
+# kjmjRx4FnrATh

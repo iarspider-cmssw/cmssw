@@ -32,3 +32,6 @@ process.maxEvents = cms.untracked.PSet(
 process.p = cms.Path(process.egammaBasicClusterAnalyzer+process.egammaSuperClusterAnalyzer+process.endOfProcess+process.USER)
 process.DQM.collectorHost = ''
 
+# foo bar baz
+# AEwoCn72ZF58H
+# uavGw4FuqMXTX

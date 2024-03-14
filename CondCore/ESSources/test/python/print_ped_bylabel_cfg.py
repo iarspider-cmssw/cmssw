@@ -34,3 +34,6 @@ process.prod = cms.EDAnalyzer("PedestalsByLabelAnalyzer")
 process.p = cms.Path(process.prod)
 
 
+# foo bar baz
+# rcJVpPg4OBd13
+# GsFT1etJHOcOK

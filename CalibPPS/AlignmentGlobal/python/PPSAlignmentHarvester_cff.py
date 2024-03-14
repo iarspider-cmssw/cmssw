@@ -22,3 +22,6 @@ ALCAHARVESTPPSAlignment = cms.Task(
     DQMInfoPPSAlignment,
     ppsAlignmentHarvester
 )
+# foo bar baz
+# D6vv8DQZBO5eU
+# y8wzwvV6Vd6Bk

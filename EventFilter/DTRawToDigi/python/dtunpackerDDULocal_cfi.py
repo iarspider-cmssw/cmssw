@@ -23,3 +23,6 @@ dtunpacker.readOutParameters = cms.PSet(
     performDataIntegrityMonitor = cms.untracked.bool(False)
 )
 
+# foo bar baz
+# 6cI9j10HR7C1A
+# 8BWBQCXb7qOmK

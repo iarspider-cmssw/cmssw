@@ -23,3 +23,6 @@ hltEle32WPTightPixelMatchUnseededFilter = cms.EDFilter("HLTElectronPixelMatchFil
     tanhSO10InterThres = cms.double(1.0),
     useS = cms.bool(False)
 )
+# foo bar baz
+# 4NQf38zSEiaDC
+# CSIhyKmjb6m9Z

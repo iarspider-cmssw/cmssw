@@ -18,3 +18,6 @@ bscTrigger=cms.EDProducer("BSCTrigger",
 			  theHits=cms.InputTag('mix','g4SimHitsBSCHits')
 			  )		  
 
+# foo bar baz
+# vruGTr502ybMh
+# u3WhGo0R3AYYP

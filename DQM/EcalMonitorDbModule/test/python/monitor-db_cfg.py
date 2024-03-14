@@ -27,3 +27,6 @@ process.p = cms.Path(process.ecalDbMonitor)
 
 process.DQM.collectorHost = 'localhost'
 
+# foo bar baz
+# KNzJ69M6VVr9E
+# Qspys8WKy4rdo

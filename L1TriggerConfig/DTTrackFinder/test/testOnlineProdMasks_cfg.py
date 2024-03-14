@@ -39,3 +39,6 @@ process.L1TriggerKeyDummy.objectKeys = cms.VPSet(cms.PSet(
 
 
 process.p = cms.Path(process.get)
+# foo bar baz
+# arCS0Ec3p1x7V
+# 1DAwNiSZKlzbX

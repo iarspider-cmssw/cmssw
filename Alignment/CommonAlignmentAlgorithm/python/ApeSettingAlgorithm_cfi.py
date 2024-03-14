@@ -31,3 +31,6 @@ ApeSettingAlgorithm = cms.PSet(
 # Also note:
 #    process.AlignmentProducer.saveApeToDB -- to save as an sqlite file
 # and associated entries in _cfg.py
+# foo bar baz
+# 0Ux4GIT2nVDYX
+# YTBICniSW7VH4

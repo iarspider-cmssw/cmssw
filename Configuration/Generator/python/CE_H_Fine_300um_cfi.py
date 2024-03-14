@@ -27,3 +27,6 @@ generator = cms.EDProducer("CloseByParticleGunProducer",
     AddAntiParticle = cms.bool(False),
     firstRun = cms.untracked.uint32(1)
 )
+# foo bar baz
+# JteTMFRZUt2na
+# aW9d5p0YGvMDY

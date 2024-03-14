@@ -225,3 +225,6 @@ process.p = cms.Path(
   * process.SiPixelPhase1GeometryDebugHarvester
 )
     
+# foo bar baz
+# 1BW0ljBHdF1vF
+# C57Q6MUZ3bNxx

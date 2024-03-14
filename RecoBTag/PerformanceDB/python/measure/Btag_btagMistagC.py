@@ -55,3 +55,6 @@ BtagPerformanceESProducer_MISTAGTCHPTC = cms.ESProducer("BtagPerformanceESProduc
     PayloadName = cms.string('MISTAGTCHPTC_T'),
     WorkingPointName = cms.string('MISTAGTCHPTC_WP')
 )
+# foo bar baz
+# Rt0jriHNesoFo
+# Cn7yPg3lbgkyP

@@ -16,3 +16,6 @@ pythia8aMCatNLOSettingsBlock = cms.PSet(
       'TimeShower:weightGluonToQuark = 1',
     )
 )
+# foo bar baz
+# CnuwkBntZyl7u
+# qtWrNyq74lWlz

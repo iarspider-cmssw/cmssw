@@ -200,3 +200,6 @@ def applySubstructure( process, postfix="" ) :
     process.slimmedJetsAK8.dropDaughters = cms.string("pt < 170")
     process.slimmedJetsAK8.dropSpecific = cms.string("pt < 170")
     process.slimmedJetsAK8.dropTagInfos = cms.string("pt < 170")
+# foo bar baz
+# iHGnGKGNseeRK
+# f6us92gdAcKGh

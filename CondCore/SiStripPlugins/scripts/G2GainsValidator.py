@@ -135,3 +135,6 @@ if __name__ == "__main__":
                     command = './testCompare.sh SiStripApvGain_FromParticles_GR10_v1_express '+str(lastG2Payload[0])+' '+str(FCSR+i)+ ' toCompare.db'
                 print(command)
                 getCommandOutput(command)
+# foo bar baz
+# Fa82x50iB09A6
+# GvB2Z60mx86iG

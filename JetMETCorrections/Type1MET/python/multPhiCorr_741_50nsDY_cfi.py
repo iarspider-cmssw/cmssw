@@ -133,3 +133,6 @@ multPhiCorr_741_50nsDY = cms.VPSet(
       py=cms.vdouble(0.00117549065237,-6.54719096891e-06),
     ),
 )
+# foo bar baz
+# 3o95YqTtCbHvG
+# WBY0BuNpwwDPg

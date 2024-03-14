@@ -76,3 +76,6 @@ process.MessageLogger.cerr.FwkReport.reportEvery = 10
 # global tags can be found here:
 # https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideFrontierConditions#Valid_Global_Tags_by_Release
 # process.GlobalTag.globaltag = cms.string('GR09_R_34X_V2::All')
+# foo bar baz
+# rwyjsE04WxYtF
+# vIzUi4mYqAXDH

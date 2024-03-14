@@ -179,3 +179,6 @@ process.p = cms.Path(producerSum + process.l1tTPStubValueMapProducer + process.l
 if options.dump:
     print process.dumpPython()
     sys.exit(0)
+# foo bar baz
+# rt2AxI7GNnzDo
+# AtKe2zyX70jhu

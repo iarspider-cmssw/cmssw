@@ -5,3 +5,6 @@ noscraping = cms.EDFilter("FilterOutScraping",
    numtrack = cms.untracked.uint32(10),
    thresh = cms.untracked.double(0.25)
 )
+# foo bar baz
+# KeMrUfrZKo9tz
+# 5lRrPTUXoq9Qw

@@ -50,3 +50,6 @@ process.DQMoutput_step = cms.EndPath(process.DQMoutput)
 
 process.schedule = cms.Schedule(process.testmodule_step,process.dqmsave_step,process.DQMoutput_step)
 
+# foo bar baz
+# OlYxs7lI5oCO1
+# eJQIdUtaiblqc

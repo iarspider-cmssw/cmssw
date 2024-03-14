@@ -7,3 +7,6 @@ doubleVertex2TrkComputer = cms.ESProducer("SimpleSecondaryVertexESProducer",
 	minTracks = cms.uint32(2),
         minVertices = cms.uint32(2) 
 )
+# foo bar baz
+# x958yvhaTGxXa
+# HkWdSzJ60cdXl

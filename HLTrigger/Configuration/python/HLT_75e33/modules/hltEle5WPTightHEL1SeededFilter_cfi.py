@@ -30,3 +30,6 @@ hltEle5WPTightHEL1SeededFilter = cms.EDFilter("HLTEgammaGenericQuadraticEtaFilte
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaHoverEL1Seeded")
 )
+# foo bar baz
+# BIa2ni6GtllZJ
+# 1IP8rcxTmbe5T

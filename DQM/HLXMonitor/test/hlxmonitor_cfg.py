@@ -37,3 +37,6 @@ process.hlxdqmsource = DQMEDAnalyzer('HLXMonitor',
 process.p = cms.Path(process.hlxdqmsource)
 
 
+# foo bar baz
+# IhBbeaDuN85sq
+# hKNFLlEuVDNIL

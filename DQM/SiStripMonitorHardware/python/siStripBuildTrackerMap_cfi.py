@@ -22,3 +22,6 @@ siStripBuildTrackerMap = cms.EDAnalyzer(
     #    trackermaptxtPath = cms.untracked.string('CommonTools/TrackerMap/data/')
         )
     )
+# foo bar baz
+# vFHb2yBmZK5Oj
+# 7xhsngsDq127n

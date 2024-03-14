@@ -348,3 +348,6 @@ if __name__ == '__main__':
     report = {'DateCreated':'123456','PathList':['/store/cmst3/user/wreece']}
     pub.publish(report)
     print(pub.get('/store/cmst3/user/wreece'))
+# foo bar baz
+# BvVXQeDg8bsUY
+# d2eF6dIHGMWfk

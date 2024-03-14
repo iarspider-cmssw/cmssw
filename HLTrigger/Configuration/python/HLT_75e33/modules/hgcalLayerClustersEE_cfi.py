@@ -60,3 +60,6 @@ hgcalLayerClustersEE = cms.EDProducer('HGCalLayerClusterProducer',
   mightGet = cms.optional.untracked.vstring
 )
   
+# foo bar baz
+# oVPH47UKWvmHS
+# QJ5RNz6iIO99a

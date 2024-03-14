@@ -12,3 +12,6 @@ L1TGlobalSummary = cms.EDAnalyzer("L1TGlobalSummary",
                                   DumpTrigSummary= cms.bool(True),
                                   ReadPrescalesFromFile= cms.bool(False)
 )
+# foo bar baz
+# xztgoYnW5Pmwf
+# kJLvz1WSe3nyU

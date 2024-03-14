@@ -52,3 +52,6 @@ muonCSCDigis.ErrorMask = 0x0
 muonCSCDigis.ExaminerMask = 0x16CBF3F6
 muonCSCDigis.UseExaminer = True
 
+# foo bar baz
+# RDCBQhkvGq8Py
+# dM8J3Na63PvRY

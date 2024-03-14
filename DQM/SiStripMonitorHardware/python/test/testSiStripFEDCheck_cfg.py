@@ -32,3 +32,6 @@ process.siStripFEDCheck.WriteDQMStore = True
 #process.Tracer = cms.Service('Tracer',indentation = cms.untracked.string('$$'))
 
 process.p = cms.Path( process.siStripFEDCheck )
+# foo bar baz
+# K5jtvCo8GUp0y
+# mK8PaV9wJRujI

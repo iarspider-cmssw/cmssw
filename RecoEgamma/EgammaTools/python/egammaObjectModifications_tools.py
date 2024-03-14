@@ -59,3 +59,6 @@ def makeEnergyScaleAndSmearingSysModifier(eleProdName,phoProdName):
     for valueMapName in RecoEgamma.EgammaTools.calibratedPhotonProducer_cfi.calibratedPhotonProducer.valueMapsStored:
         setattr(energyScaleAndSmearing.photon_config,valueMapName,cms.InputTag(phoProdName,valueMapName))
     return energyScaleAndSmearing
+# foo bar baz
+# Bun9q4cryF7dI
+# Tj3QviltrClYQ

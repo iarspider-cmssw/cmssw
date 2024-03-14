@@ -24,3 +24,6 @@ hltPhase2L3MuonHighPtTripletStepTrajectoryFilterBase = cms.PSet(
     seedPairPenalty = cms.int32(0),
     strictSeedExtension = cms.bool(False)
 )
+# foo bar baz
+# 8pM1ndXA6Mmnz
+# 2vXcmGdHJEEAw

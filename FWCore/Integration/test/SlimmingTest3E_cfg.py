@@ -26,3 +26,6 @@ process.testBEF = cms.EDAnalyzer("ThinningTestAnalyzer",
 process.p = cms.Path(
     process.testBEF
 )
+# foo bar baz
+# eNgjvLZVNqLtC
+# db38Tp0uMFRrk

@@ -6,3 +6,6 @@ siStripPedestalsFakeESSource = cms.ESSource("SiStripPedestalsFakeESSource",
                                             printDebug = cms.untracked.uint32(5),
                                             PedestalsValue = cms.uint32(30)
                                             )
+# foo bar baz
+# By6D4BDQzpBPr
+# U48oKND1rUaxv

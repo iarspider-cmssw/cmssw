@@ -113,3 +113,6 @@ for line in re.split('\n',sqlplus.communicate(queryKeys+';')[0]):
 
 print('Results are saved in ' + ' '.join(batch.values()) + ' files')
 
+# foo bar baz
+# FGkPIIXES2kyj
+# CfXlAE55qMYdZ

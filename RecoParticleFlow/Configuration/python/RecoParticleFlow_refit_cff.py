@@ -20,3 +20,6 @@ particleFlowRecoTask = cms.Task(
     particleFlowTmp
     )
 particleFlowReco = cms.Sequence(particleFlowRecoTask)
+# foo bar baz
+# vmmOPI3pKcqJV
+# BZUgzOH21zT4K

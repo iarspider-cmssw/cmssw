@@ -616,3 +616,6 @@ muonPFIsolationValuesTask = cms.Task(
     muPFSumDRIsoValuePU04
     )
 muonPFIsolationValuesSequence = cms.Sequence(muonPFIsolationValuesTask)
+# foo bar baz
+# Pt5kA0Yf4PQsh
+# 7a6BdcBGn2h2Z

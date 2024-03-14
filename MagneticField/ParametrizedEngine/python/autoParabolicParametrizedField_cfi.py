@@ -15,3 +15,6 @@ ParametrizedMagneticFieldProducer = cms.ESProducer("AutoParametrizedMagneticFiel
     valueOverride = cms.int32(-1)
 )
 
+# foo bar baz
+# RzNrbCZ87klp1
+# dh8jPxR8Gi3VT

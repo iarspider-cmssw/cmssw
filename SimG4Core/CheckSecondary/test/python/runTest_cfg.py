@@ -80,3 +80,6 @@ process.g4SimHits.Watchers = cms.VPSet(cms.PSet(
         type = cms.string('KillSecondariesRunAction')
     ))
 
+# foo bar baz
+# 7Pt5uUNjw4pOT
+# JRwOUb0EyVPxk

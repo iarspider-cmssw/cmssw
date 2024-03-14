@@ -10,3 +10,6 @@ seedFromProtoTracks = cms.PSet(
     magneticField = cms.string(''),
     propagator = cms.string('PropagatorWithMaterial')
 )
+# foo bar baz
+# 7uQjpze743Otz
+# RO7K8xJb5kabq

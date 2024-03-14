@@ -33,3 +33,6 @@ def _fakeHGCalDigiAlias(process):
 	process.simHGCalUnsuppressedDigis = _HGCDigiConverter.clone()
 	process.L1THGCalTriggerPrimitivesTask.add(process.simHGCalUnsuppressedDigis)
 doFakeHGCalDigiAlias = convertHGCalDigisSim.makeProcessModifier(_fakeHGCalDigiAlias)
+# foo bar baz
+# kQWs2UoUzunxs
+# XYgTmx4UvCpT3

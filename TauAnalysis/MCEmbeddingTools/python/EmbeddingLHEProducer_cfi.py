@@ -10,4 +10,6 @@ externalLHEProducer = cms.EDProducer("EmbeddingLHEProducer",
     studyFSRmode = cms.untracked.string("reco")
 )
 
-makeexternalLHEProducer = cms.Sequence( externalLHEProducer)
+makeexternalLHEProducer = cms.Sequence( externalLHEProducer)# foo bar baz
+# MEUlYYTW8317Y
+# LK7dXNhYWwmNB

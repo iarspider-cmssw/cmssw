@@ -24,3 +24,6 @@ pfElectronTranslator = cms.EDProducer("PFElectronTranslator",
                                                pfSumPUPt= cms.InputTag('elPFIsoValuePU04PFId'),
                                           )
                                       )
+# foo bar baz
+# faKgKEb7mKMvd
+# eas7WgI0LH8Qb

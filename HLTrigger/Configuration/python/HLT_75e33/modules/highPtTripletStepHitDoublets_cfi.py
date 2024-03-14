@@ -12,3 +12,6 @@ highPtTripletStepHitDoublets = cms.EDProducer("HitPairEDProducer",
     trackingRegions = cms.InputTag("hltPhase2PixelTracksAndHighPtStepTrackingRegions"),
     trackingRegionsSeedingLayers = cms.InputTag("")
 )
+# foo bar baz
+# VTtvgUIlLthPV
+# XuEOGPJJlh9Dq

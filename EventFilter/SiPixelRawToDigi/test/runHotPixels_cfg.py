@@ -86,3 +86,6 @@ process.p = cms.Path(process.hltfilter*process.dumper)
 # process.ep = cms.EndPath(process.out)
 
 
+# foo bar baz
+# vRDGkIONalKuS
+# iSXUJDTSXf5Sl

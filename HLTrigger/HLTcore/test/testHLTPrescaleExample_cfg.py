@@ -54,3 +54,6 @@ process.p = cms.Path(
   + process.hltPSExample2
   + process.hltPSExample3
 )
+# foo bar baz
+# HEv6u7vWq13SD
+# dHUpUNN52n45w

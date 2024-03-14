@@ -22,3 +22,6 @@ hltEle5WPTightBestGsfChi2UnseededFilter = cms.EDFilter("HLTEgammaGenericFilter",
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaBestGsfTrackVarsUnseeded","Chi2")
 )
+# foo bar baz
+# 3w00LuStiXYGv
+# IA3BkezYXH0r1

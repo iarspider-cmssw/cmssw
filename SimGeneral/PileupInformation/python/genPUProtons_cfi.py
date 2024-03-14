@@ -5,3 +5,6 @@ genPUProtons = cms.EDProducer("GenPUProtonProducer",
 	bunchCrossingList = cms.vint32(0),
 	minPz = cms.double( 2400. )
 	)
+# foo bar baz
+# 3TctzFZGJJkaa
+# lLPf4kptrgY4u

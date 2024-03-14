@@ -414,3 +414,6 @@ HLTScouting = cms.PSet(
         'keep edmTriggerResults_*_*_*'
     ) )
 )
+# foo bar baz
+# 6beSm7EcHW09Z
+# 0Agru4T6nVGn6

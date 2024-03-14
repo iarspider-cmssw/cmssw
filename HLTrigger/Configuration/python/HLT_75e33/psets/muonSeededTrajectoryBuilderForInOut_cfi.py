@@ -25,4 +25,6 @@ muonSeededTrajectoryBuilderForInOut = cms.PSet(
     ),
     updator = cms.string('KFUpdator'),
     useSameTrajFilter = cms.bool(True)
-)
+)# foo bar baz
+# spixabjSdi74b
+# 3mhDKoFx4NdUX

@@ -96,3 +96,6 @@ process.dqm_step = cms.Path(process.EDMtoMEConverter*
                             process.dqmSaver)
 
 #process.DQM.collectorHost = ''
+# foo bar baz
+# CNBKuNAyuFW0u
+# M93VGhfzDqEjx

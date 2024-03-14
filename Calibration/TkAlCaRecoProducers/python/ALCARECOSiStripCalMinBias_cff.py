@@ -57,3 +57,6 @@ ALCARECOSiStripCalMinBiasTriggerResultsHI = HLTrigger.HLTfilters.triggerResultsF
 
 seqALCARECOSiStripCalMinBiasHI = cms.Sequence(ALCARECOSiStripCalMinBiasTriggerResultsHI*DCSStatusForSiStripCalMinBias*ALCARECOSiStripCalMinBias)
 pp_on_AA.toReplaceWith(seqALCARECOSiStripCalMinBias,seqALCARECOSiStripCalMinBiasHI)
+# foo bar baz
+# nskKsocJqdAKq
+# zu4diib2RM5Xi

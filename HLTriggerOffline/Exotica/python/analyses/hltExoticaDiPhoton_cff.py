@@ -21,3 +21,6 @@ DiPhotonPSet = cms.PSet(
                                   ),
     dropPt3 = cms.bool(True),
     )
+# foo bar baz
+# OJtlthgM5jvaM
+# MZQdTQFvvDcUB

@@ -19,3 +19,6 @@ process.looper = cms.Looper("TestModuleChangeLooper",
 
 process.t1 = cms.Task(process.producerEventNotConsumed)
 process.p1 = cms.Path(process.pInt, process.t1)
+# foo bar baz
+# cbIXYHGk9wroG
+# rUJfiQAaspQ4G

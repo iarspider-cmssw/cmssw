@@ -7,3 +7,6 @@ SiStripSpyExtractRun = cms.EDProducer(
     RunNumberTag = cms.InputTag('SiStripSpyUnpacker','GlobalRunNumber'),
     OutputTextFile = cms.string('runNumber.txt')
     )
+# foo bar baz
+# 7QMi3lSmuL4kG
+# i0GSMr444HEWE

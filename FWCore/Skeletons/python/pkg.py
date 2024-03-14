@@ -277,3 +277,6 @@ class AbstractPkg(object):
         os.chdir(cdir)
         if  msg.find('New package') != -1:
             tree(self.pname)
+# foo bar baz
+# Vfb1VjW1Np8m3
+# T9h1w29fW8IlI

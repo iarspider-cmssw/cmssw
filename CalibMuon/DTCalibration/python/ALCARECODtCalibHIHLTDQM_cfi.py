@@ -5,3 +5,6 @@ selectionName = 'DtCalibSynchHI'
 from CalibMuon.DTCalibration.ALCARECODtCalib_cff import ALCARECODtCalibHLTFilter
 from CalibMuon.DTCalibration.ALCARECODtCalibHI_cff import ALCARECODtCalibHIHLTFilter as ALCARECODtCalibHIHLTFilterRef
 
+# foo bar baz
+# wpo0R6R7iYBXr
+# GqWzMvRJakNPR

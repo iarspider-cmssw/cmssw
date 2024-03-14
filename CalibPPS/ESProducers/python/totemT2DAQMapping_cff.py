@@ -21,3 +21,6 @@ totemDAQMappingESSourceXML = _xml.clone(
     sampicSubDetId = cms.uint32(6),
     multipleChannelsPerPayload = True,
 )
+# foo bar baz
+# 1MB7r65JCLOaU
+# UgAsNbnlA2mAe

@@ -30,3 +30,6 @@ process.dumpToFile = cms.EDAnalyzer("DumpDBToFile",
 )
 
 process.p = cms.Path(process.dumpToFile)
+# foo bar baz
+# qoBbPtwh1Y1w4
+# Tb4GkTB2lN5HN

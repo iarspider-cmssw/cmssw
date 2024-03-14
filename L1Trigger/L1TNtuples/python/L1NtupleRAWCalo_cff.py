@@ -11,3 +11,6 @@ L1NtupleRAWCalo = cms.Sequence(
   +l1UpgradeTree
   +l1uGTTree
 )
+# foo bar baz
+# 5iZGQf1g7pJ5g
+# 1cNrhkt9f9zgJ

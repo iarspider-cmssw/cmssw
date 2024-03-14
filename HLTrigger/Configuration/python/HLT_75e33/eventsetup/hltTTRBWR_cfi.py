@@ -8,3 +8,6 @@ hltTTRBWR = cms.ESProducer("TkTransientTrackingRecHitBuilderESProducer",
     PixelCPE = cms.string('PixelCPEGeneric'),
     StripCPE = cms.string('FakeStripCPE')
 )
+# foo bar baz
+# WyIGOqmOSpcbV
+# ZbSDQJ2Tz2UMX

@@ -84,3 +84,6 @@ associatePatAlgosToolsTask(process)
 # Add early deletion of temporary data products to reduce peak memory need
 from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEarlyDelete
 process = customiseEarlyDelete(process)
+# foo bar baz
+# 2X9o81aVkR5FJ
+# mAHu822BmGsbj

@@ -59,3 +59,6 @@ ecalTPConditions = cms.ESSource("PoolDBESSource",
     authenticationMethod = cms.untracked.uint32(1),
     loadBlobStreamer = cms.untracked.bool(True)
 )
+# foo bar baz
+# GSbsZNk0SPWIA
+# btlDxp3uAlKhn

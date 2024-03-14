@@ -32,3 +32,6 @@ DTCombinatorialPatternReco2DAlgo_LinearDriftFromDB_CosmicData = cms.PSet(
     Reco2DAlgoName = cms.string('DTCombinatorialPatternReco')
 )
 
+# foo bar baz
+# qUZDHmLOJNLlc
+# lEmGJjGuznhZo

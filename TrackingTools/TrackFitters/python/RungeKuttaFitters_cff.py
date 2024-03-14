@@ -25,3 +25,6 @@ KFFittingSmootherWithOutliersRejectionAndRK = RKFittingSmoother.clone(
     EstimateCut     = 20.0,
     MinNumberOfHits = 3
 )
+# foo bar baz
+# oG1AmiUk0Yr7V
+# 1T3fETEdaePIE

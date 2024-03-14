@@ -5,3 +5,6 @@ packedPFCandidateRefMixer = cms.EDProducer("PackedPFCandidateRefMixer",
     pf2pf = cms.InputTag("FILLME"),
     pf2packed = cms.VInputTag(cms.InputTag("packedPFCandidates")),
 )
+# foo bar baz
+# T8apfD72PYr8t
+# E9VrD9LVdSqPf

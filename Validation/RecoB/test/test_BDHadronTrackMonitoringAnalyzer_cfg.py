@@ -137,3 +137,6 @@ process.schedule = cms.Schedule(
 #    process.dqmsave_step,
     tasks=[patAlgosToolsTask]
     )
+# foo bar baz
+# yBkCDnYnNje5D
+# ypdd8wUIXxT7d

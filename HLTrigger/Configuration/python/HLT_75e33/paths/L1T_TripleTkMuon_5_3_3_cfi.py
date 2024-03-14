@@ -15,3 +15,6 @@ L1T_TripleTkMuon_5_3_3 = cms.Path(
     hltTripleMuon3DR0 +
     HLTEndSequence
 )
+# foo bar baz
+# hFPqxJX3YdEr4
+# zwxBxBtXVio54

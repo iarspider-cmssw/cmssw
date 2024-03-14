@@ -7,3 +7,6 @@ sys.stderr.write("WARNING:  please use L1Trigger/L1TCalorimeter/python/caloStage
 from L1Trigger.L1TCalorimeter.caloStage1LegacyFormatDigis_cfi import caloStage1LegacyFormatDigis
 
 
+# foo bar baz
+# mbZIV4tvAI0pI
+# dQtY5qwfSJDOH

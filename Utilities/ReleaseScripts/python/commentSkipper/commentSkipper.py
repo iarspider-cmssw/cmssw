@@ -19,4 +19,6 @@ def filter(fileList):
         fileList = buildFileCommentSkipper.filterFiles(fileList)
     elif (ext.lower() in cppCommentFiles):
         fileList = cppCommentSkipper.filterFiles(fileList)
-    return fileList
+    return fileList# foo bar baz
+# pj7eMn1SIzsLW
+# bl6i0QETiia9b

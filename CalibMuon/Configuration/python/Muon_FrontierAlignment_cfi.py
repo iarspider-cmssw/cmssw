@@ -29,3 +29,6 @@ muonAlignment = cms.ESSource("PoolDBESSource",
    #connect = cms.string("oracle://cms_orcoff_prod/CMS_COND_21X_ALIGNMENT")
 
 )
+# foo bar baz
+# zWOWzmRkQtu1o
+# oSIjb3tygNRQZ

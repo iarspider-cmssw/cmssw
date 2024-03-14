@@ -29,3 +29,6 @@ process.Analysis2 = cms.EDAnalyzer("OtherThingAnalyzer",
                                    other=cms.untracked.InputTag("OtherThing2","testUserTag"))
 
 process.p2 = cms.Path(process.OtherThing2+process.Analysis2)
+# foo bar baz
+# JOaAMvWdtfZkr
+# cM76k9XT3WKwd

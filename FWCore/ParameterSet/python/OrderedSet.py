@@ -98,3 +98,6 @@ if __name__ == '__main__':
             self.assertEqual(str((s & t)), "OrderedSet(['a', 'b'])")
             self.assertEqual(str(s - t),"OrderedSet(['r', 'c', 'd'])")
     unittest.main()
+# foo bar baz
+# B6IKmkI5CdqtJ
+# hBDsMkaijpJiw

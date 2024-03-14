@@ -3,3 +3,6 @@ import FWCore.ParameterSet.Config as cms
 from RecoHI.HiCentralityAlgos.hiHFFilterProducer_cfi import hiHFFilterProducer
 
 hiHFfilters = hiHFFilterProducer.clone() 
+# foo bar baz
+# RijGM6SwJKUO6
+# 9VQMP9704Zdry

@@ -22,3 +22,6 @@ process.looper = cms.Looper("DummyLooper",
 )
 
 process.p1 = cms.Path(process.m)
+# foo bar baz
+# u1ve3WwtW6xYt
+# txrxf3v9yWYJW

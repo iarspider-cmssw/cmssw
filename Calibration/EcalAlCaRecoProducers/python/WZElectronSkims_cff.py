@@ -275,3 +275,6 @@ checkMCZSeq = cms.Sequence(genEleFromZ * combZ * ZFilterMC) #sequence to check Z
 checkMCWSeq = cms.Sequence(genEleFromW * genNuFromW * combW * WFilterMC) #sequence to check Wskim efficiency respect to the MC
 
 #FilterMuSeq = cms.Sequence(muSelSeq * (ZeeSelector + WenuSelector + EleSCSelector) * WZSelector)
+# foo bar baz
+# 6IGn8iTM9ddCm
+# Lhtn6VGaRPj2U

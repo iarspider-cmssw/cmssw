@@ -34,3 +34,6 @@ ALCARECOHltFilterForBSHP = HLTrigger.HLTfilters.hltHighLevel_cfi.hltHighLevel.cl
 seqALCARECOPromptCalibProdBeamSpotHP = cms.Sequence(ALCARECOTkAlMinBiasFilterForBSHP *
                                                     ALCARECOHltFilterForBSHP *
                                                     alcaBeamSpotProducerHP)
+# foo bar baz
+# QLdgEd3exXMs5
+# YhxQtjHGuFR12

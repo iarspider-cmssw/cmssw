@@ -7,3 +7,6 @@ siPixelStatusProducer = cms.EDProducer("SiPixelStatusProducer",
     )
 )
 
+# foo bar baz
+# W6KqMtjbOWSkx
+# fRiETOONpoWWC

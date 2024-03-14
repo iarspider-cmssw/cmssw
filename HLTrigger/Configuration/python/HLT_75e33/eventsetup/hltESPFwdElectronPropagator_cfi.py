@@ -9,3 +9,6 @@ hltESPFwdElectronPropagator = cms.ESProducer("PropagatorWithMaterialESProducer",
     ptMin = cms.double(-1.0),
     useRungeKutta = cms.bool(False)
 )
+# foo bar baz
+# Jzs1Df7w2kqcm
+# uMeUtda8f8Ycx

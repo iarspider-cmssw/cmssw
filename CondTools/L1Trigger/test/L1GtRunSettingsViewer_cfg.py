@@ -90,3 +90,6 @@ process.L1GtRunSettingsViewer.maskVetoAlgoKey = options.maskVetoAlgoKey
 process.L1GtRunSettingsViewer.maskVetoTechKey = options.maskVetoTechKey
 
 process.p = cms.Path(process.L1GtRunSettingsViewer)
+# foo bar baz
+# eeJgo0Ku55fE5
+# V56NGfPa50VQU

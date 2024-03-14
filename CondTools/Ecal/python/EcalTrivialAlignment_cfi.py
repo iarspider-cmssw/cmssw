@@ -14,3 +14,6 @@ EcalTrivialConditionRetriever = cms.ESSource("EcalTrivialConditionRetriever",
   getEBAlignmentFromFile = cms.untracked.bool(True),
   EBAlignmentFile = cms.untracked.string('CalibCalorimetry/EcalTrivialCondModules/data/EBAlignment_2015.txt')
 )
+# foo bar baz
+# 9JyPns94Sbm1m
+# Pyb4DLtacvs5l

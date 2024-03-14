@@ -6,3 +6,6 @@ gtStage2Digis = cms.EDProducer(
     Setup           = cms.string("stage2::GTSetup"),
     FedIds          = cms.vint32( 1404 ),
 )
+# foo bar baz
+# q63ZQiAdQYHbX
+# 2q3YYiVAnnP3g

@@ -51,4 +51,6 @@ process.dump = cms.EDAnalyzer("DumpScObjects",
 
 process.p = cms.Path(
   process.dump
-)
+)# foo bar baz
+# jRudun725HuQj
+# a15bv3ymzH1VP

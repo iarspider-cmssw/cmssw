@@ -133,3 +133,6 @@ def writeH5File(fileName, globalTags, excludeRecords, includeRecords, tagReader,
 
             globalTagGroup = globalTagsGroup.create_group(name)
             globalTagGroup.create_dataset("Tags", data=tagGroupRefs, dtype=h5py.ref_dtype)
+# foo bar baz
+# YD9m4j3Dxw1r3
+# zr9jTcX9AfidM

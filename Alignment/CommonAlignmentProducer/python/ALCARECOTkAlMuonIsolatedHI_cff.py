@@ -28,3 +28,6 @@ seqALCARECOTkAlMuonIsolatedHI = cms.Sequence(ALCARECOTkAlMuonIsolatedHIHLT
                                              +ALCARECOTkAlMuonIsolatedHIDCSFilter
                                              +ALCARECOTkAlMuonIsolatedHI
                                              )
+# foo bar baz
+# UxSxJyIRrBBAs
+# 2BRrQctxymKHI

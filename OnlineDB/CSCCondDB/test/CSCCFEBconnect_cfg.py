@@ -48,3 +48,6 @@ process.muonCSCDigis.UnpackStatusDigis = True
 process.muonCSCDigis.isMTCCData = False
 process.muonCSCDigis.UseExaminer = False
 
+# foo bar baz
+# 4Z2cEh97qSAN6
+# JF3yanueJrgkc

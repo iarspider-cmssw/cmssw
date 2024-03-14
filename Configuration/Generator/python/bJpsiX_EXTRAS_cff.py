@@ -3,3 +3,6 @@ from Configuration.Generator.bJpsiX_cfi import *
 from Configuration.Generator.bJpsiX_filt_cfi import *
 
 ProductionFilterSequence = cms.Sequence(bfilter+jpsifilter+mumufilter)
+# foo bar baz
+# oktLjOlCZ5wo4
+# FLfCFW9g28Wvy

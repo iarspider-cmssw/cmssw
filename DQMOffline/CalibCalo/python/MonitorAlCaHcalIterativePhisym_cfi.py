@@ -15,3 +15,6 @@ HcalIterativePhiSymMon = DQMEDAnalyzer('DQMHcalIterativePhiSymAlCaReco',
   hiDistr_x_max = cms.untracked.double(41.5),
   mightGet = cms.optional.untracked.vstring
 )
+# foo bar baz
+# KNqhue7mFwK8n
+# wO0tq8bEVDkvg

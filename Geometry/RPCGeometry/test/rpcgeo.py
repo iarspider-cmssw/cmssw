@@ -13,3 +13,6 @@ process.MessageLogger = cms.Service("MessageLogger")
 process.demo          = cms.EDAnalyzer("RPCGEO")
 process.p             = cms.Path(process.demo)
 
+# foo bar baz
+# Cdcg7OWXvaeB1
+# e3wcjpxxxmyEq

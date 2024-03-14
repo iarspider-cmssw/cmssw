@@ -66,3 +66,6 @@ HLTDoubleEle2312IsoL1SeededSequence = cms.Sequence(
     hltDiEle2312IsoGsfTrackIsoL1SeededFilter,
     HLTDoubleEle2312IsoL1SeededTask
 )
+# foo bar baz
+# GPHVu8crG4Hf7
+# X51Vgr1n1ZD8B

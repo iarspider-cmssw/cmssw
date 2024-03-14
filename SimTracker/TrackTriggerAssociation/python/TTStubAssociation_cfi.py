@@ -12,3 +12,6 @@ TTStubAssociatorFromPixelDigis = cms.EDProducer("TTStubAssociator_Phase2TrackerD
       # so "StubAccepted" needs the "ClusterAccepted" MC truth, and "StubRejected" the "ClusterRejected" MC truth
 )
 
+# foo bar baz
+# qCai9yVsiaUMV
+# ZDQfVsAqaW18x

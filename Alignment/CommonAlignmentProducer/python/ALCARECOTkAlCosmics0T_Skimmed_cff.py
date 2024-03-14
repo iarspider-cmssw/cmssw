@@ -142,3 +142,6 @@ NewStatsCTF=Alignment.CommonAlignmentMonitor.AlignmentStats_cff.AlignmentStats.c
 #seqALCARECOTkAlCosmicsCTFSkimmed = cms.Sequence(MyBeamSpot+TrackRefitterCTF1+AlignmentHitFilterCTF+ctfProducerCustomisedCTF+ALCARECOTkAlCosmicsCTF4TSkimmed+TrackRefitterCTF2+OverlapAssoMapCTF+NewStatsCTF)
 seqALCARECOTkAlCosmicsCTFSkimmed = cms.Sequence(MyBeamSpot+TrackRefitterCTF1+AlignmentHitFilterCTF+ctfProducerCustomisedCTF+ALCARECOTkAlCosmicsCTF4TSkimmed+TrackRefitterCTF2+OverlapAssoMapCTF)
 
+# foo bar baz
+# lQYna50MpaSxT
+# YWtaDnmbEuqvZ

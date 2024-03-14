@@ -15,3 +15,6 @@ l1TriggerObjHfBitCountsQualityTests = DQMQualityTester(
     verboseQT=cms.untracked.bool(True)
 )
 
+# foo bar baz
+# 6AV6vCuabwXgC
+# RWC9HbGzjdgHs

@@ -9,3 +9,6 @@ process.load("FWCore.ParameterSet.test.MessWithPreshower_cff")
 #check that both changes got merged
 print(process.geometry.dumpPython())
 
+# foo bar baz
+# Fvd1bLBMEC0FK
+# bRZOmYe3fzO1L

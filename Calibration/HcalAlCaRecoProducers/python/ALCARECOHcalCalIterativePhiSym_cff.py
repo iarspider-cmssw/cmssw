@@ -16,3 +16,6 @@ hcalphisymHLT =  HLTrigger.HLTfilters.hltHighLevel_cfi.hltHighLevel.clone(
 
 seqALCARECOHcalCalIterativePhiSym = cms.Sequence(hcalphisymHLT*IterativePhiSymProd)
 
+# foo bar baz
+# yyCCT44B49mdt
+# 4Tlz3zgdR6dWZ

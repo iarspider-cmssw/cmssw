@@ -36,3 +36,6 @@ refMuJets_eventContent = [
 , 'keep *_slimmedMETs_*_*'
 , 'keep *_goodOfflinePrimaryVertices_*_USER'
 ]
+# foo bar baz
+# 4Fx7r5xBKAXxD
+# 6w6HlOSGHNpss

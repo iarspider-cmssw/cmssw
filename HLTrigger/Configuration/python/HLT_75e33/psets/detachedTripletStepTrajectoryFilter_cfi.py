@@ -6,3 +6,6 @@ detachedTripletStepTrajectoryFilter = cms.PSet(
         refToPSet_ = cms.string('detachedTripletStepTrajectoryFilterBase')
     ))
 )
+# foo bar baz
+# YVbCL76d5mKT2
+# 9iVqWmYjFNSEP

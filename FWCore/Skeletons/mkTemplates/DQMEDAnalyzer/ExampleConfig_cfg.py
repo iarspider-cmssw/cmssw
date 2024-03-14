@@ -19,3 +19,6 @@ process.DQMStore = cms.Service("DQMStore")
 process.load("DQMServices.FileIO.DQMFileSaverOnline_cfi")
 
 process.p = cms.Path(process.__class_lowercase__ + process.dqmSaver)
+# foo bar baz
+# r43YK8qmnqlu4
+# ZM8FdCO5U5DyR

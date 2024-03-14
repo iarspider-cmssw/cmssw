@@ -15,3 +15,6 @@ l1EmulatorObjHfRingEtSumsQualityTests = DQMQualityTester(
     verboseQT=cms.untracked.bool(True)
 )
 
+# foo bar baz
+# oIatoYBZyaAsT
+# e0CvP86sEluIT

@@ -156,3 +156,6 @@ for path in process.paths:
 # Add early deletion of temporary data products to reduce peak memory need
 from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEarlyDelete
 process = customiseEarlyDelete(process)
+# foo bar baz
+# Z89EbGAm4P133
+# HZx4AnQ2ioaJP

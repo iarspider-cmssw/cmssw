@@ -16,3 +16,6 @@ pfTauDecayModeIndexProducer = cms.EDProducer("PFRecoTauDecayModeIndexProducer",
       # empty, or has no lead track.  No prediscriminants are needed.
       Prediscriminants = noPrediscriminants,
 )
+# foo bar baz
+# Me2YHTAPeMvrF
+# AcLMRHDf8HqDp

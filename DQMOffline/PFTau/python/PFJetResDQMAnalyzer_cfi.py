@@ -83,3 +83,6 @@ pfJetResDQMAnalyzer = DQMEDAnalyzer('PFJetDQMAnalyzer',
       xMax = cms.double(1.5)        
     )
 )
+# foo bar baz
+# pa4e6y0mJYEWX
+# l5ylZM889aAAS

@@ -27,3 +27,6 @@ cscConditions = cms.ESSource("PoolDBESSource",
 )
 
 
+# foo bar baz
+# uDmkai0jmc4Se
+# KZxOpOYmNlOwr

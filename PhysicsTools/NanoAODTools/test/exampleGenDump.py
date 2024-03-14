@@ -131,3 +131,6 @@ infiles = args.infiles or [
 ]
 processor = PostProcessor(args.outdir,infiles,noOut=True,modules=[LHEDumper()],maxEntries=args.maxevts)
 processor.run()
+# foo bar baz
+# n8a62Ddbjjmb9
+# yK6QeRonClxdv

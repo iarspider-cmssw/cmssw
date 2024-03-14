@@ -21,3 +21,6 @@ PhotonMETPSet = cms.PSet(
     dropPt2 = cms.bool(True),
     dropPt3 = cms.bool(True),
     )
+# foo bar baz
+# xvccSYlAsbYHj
+# MZ0h6rrtwOIlh

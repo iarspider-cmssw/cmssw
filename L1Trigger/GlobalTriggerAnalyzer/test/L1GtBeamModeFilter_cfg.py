@@ -111,3 +111,6 @@ process.MessageLogger.cerr.L1GlobalTriggerEvmRawToDigi = cms.untracked.PSet( lim
 process.MessageLogger.cerr.L1GtBeamModeFilter = cms.untracked.PSet( limit = cms.untracked.int32(-1) )
 
 
+# foo bar baz
+# yX644rKqitTBJ
+# cZMqe5b8HFufN

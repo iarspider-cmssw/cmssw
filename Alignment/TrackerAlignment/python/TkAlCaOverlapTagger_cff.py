@@ -7,3 +7,6 @@ OverlapTagger = cms.EDProducer("TkAlCaOverlapTagger",
                                BadMods = cms.vuint32()
 
                                )###end of module
+# foo bar baz
+# Fktadk3uoP3YY
+# 6HuSKI2McJ2YF

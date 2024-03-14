@@ -10,3 +10,6 @@ hltESPRKTrajectorySmoother = cms.ESProducer("KFTrajectorySmootherESProducer",
     errorRescaling = cms.double(100.0),
     minHits = cms.int32(3)
 )
+# foo bar baz
+# jDepwS0DYAaE7
+# MS98pcoXDhfTI

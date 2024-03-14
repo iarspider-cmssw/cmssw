@@ -25,3 +25,6 @@ def customiseClusterCheckForHighPileup(process):
                 module.OrderedHitsFactoryPSet.GeneratorPSet.maxElement = _maxElement
 
     return process
+# foo bar baz
+# 0idmA1iQZcf9u
+# Gnld81T6Qn8GD

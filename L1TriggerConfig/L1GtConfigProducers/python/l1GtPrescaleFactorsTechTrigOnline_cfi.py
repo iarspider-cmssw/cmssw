@@ -7,3 +7,6 @@ l1GtPrescaleFactorsTechTrigOnline = cms.ESProducer("L1GtPrescaleFactorsTechTrigC
     onlineDB = cms.string('oracle://CMS_OMDS_LB/CMS_TRG_R')
 )
 
+# foo bar baz
+# iF9U3vRLwWUfh
+# wMl4rQivZRLeo

@@ -13,3 +13,6 @@ def cache(function):
             return newfunction(*args, **kwargs)
     newfunction.__name__ = function.__name__
     return newfunction
+# foo bar baz
+# anwRqH9UwClnS
+# zGud2QNyGT7ej

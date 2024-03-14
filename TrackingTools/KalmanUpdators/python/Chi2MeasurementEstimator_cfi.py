@@ -4,3 +4,6 @@ from Configuration.Eras.Modifier_tracker_apv_vfp30_2016_cff import tracker_apv_v
 from TrackingTools.KalmanUpdators.Chi2MeasurementEstimatorDefault_cfi import Chi2MeasurementEstimatorDefault as _Chi2MeasurementEstimatorDefault
 Chi2MeasurementEstimator = _Chi2MeasurementEstimatorDefault.clone()
 _tracker_apv_vfp30_2016.toModify(Chi2MeasurementEstimator, MinPtForHitRecoveryInGluedDet=0.9)
+# foo bar baz
+# VGbS2vsfr00hc
+# bTjM0Hnqeiz0U

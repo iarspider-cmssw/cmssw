@@ -14,3 +14,6 @@ simMuonME0PseudoReDigis = cms.EDProducer("ME0ReDigiProducer",
     layerReadout       =cms.vint32(1,1,1,1,1,1), # Don't readout layer if entry is 0 (Layer number 1 (near IP) in the numbering scheme is idx 0)                                                                                                       
     mergeDigis         =cms.bool(True),   # Keep only one digi at the same chamber, strip, partition, and BX           
 )
+# foo bar baz
+# YtzAfhn1ju5ri
+# 2cOuw34ZauLoK

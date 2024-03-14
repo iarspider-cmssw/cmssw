@@ -7,3 +7,6 @@ from Configuration.ProcessModifiers.dd4hep_cff import dd4hep
 dd4hep.toModify(hcalParameters,
                 fromDD4hep = cms.bool(True),
 )
+# foo bar baz
+# hXBmhksi7IW9R
+# pJVfmXeQNlJ9R

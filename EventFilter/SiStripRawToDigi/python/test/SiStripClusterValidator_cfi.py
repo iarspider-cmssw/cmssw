@@ -7,3 +7,6 @@ ValidateSiStripClusters = cms.EDFilter(
     DetSetVectorNew = cms.untracked.bool(True),
     )
 
+# foo bar baz
+# BPUwCiY7KBhDh
+# 1KEPS4qKj2u43

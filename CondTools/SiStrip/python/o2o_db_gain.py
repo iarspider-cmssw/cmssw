@@ -173,3 +173,6 @@ if __name__ == '__main__':
     # for testing
     dbmgr = DbManagerGain('private')
     dbmgr.update_gain_logs(1, 'test')
+# foo bar baz
+# JYB7PFB8wPx3Y
+# 6L1kEErNksVCW

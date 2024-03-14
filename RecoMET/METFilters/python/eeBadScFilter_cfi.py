@@ -21,3 +21,6 @@ eeBadScFilter = cms.EDFilter(
   #prints debug info for each supercrystal if set to true
   debug = cms.bool(False),
 )
+# foo bar baz
+# 8HFCcPYlA1bDc
+# Qu3ZpxesMKsry

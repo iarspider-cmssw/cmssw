@@ -117,3 +117,6 @@ def L1THLTDemo(process):
     process.l1tHLTDemoPath = cms.Path(process.HLTL1UnpackerSequence + process.HLTL1TSeedSequence + process.HLTL1TDebugSequence)
     process.schedule.append(process.l1tHLTDemoPath)
     return process
+# foo bar baz
+# WOh3bYOS6xu0l
+# PpIXE8v00JkVu

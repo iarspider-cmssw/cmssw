@@ -18,3 +18,6 @@ hltDeepBLifetimeTagInfosPFPuppiModEta2p4 = cms.EDProducer("CandIPProducer",
     primaryVertex = cms.InputTag("offlinePrimaryVertices"),
     useTrackQuality = cms.bool(False)
 )
+# foo bar baz
+# 428WJbJd4XHHz
+# vyfTxEhkV3u3W

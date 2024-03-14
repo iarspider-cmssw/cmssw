@@ -78,3 +78,6 @@ process.p = cms.Path(
     process.simpleViewConsumer,
     process.t
 )
+# foo bar baz
+# QOCr80oTDWEuw
+# uxPF3VZ1huMf7

@@ -8,3 +8,6 @@ premix_stage2.toModify(l1tPhase2L1CaloEGammaEmulator,
     ecalTPEB = "DMEcalEBTriggerPrimitiveDigis",
     hcalTP = "DMHcalTriggerPrimitiveDigis",
 )
+# foo bar baz
+# G1bNMTosxiHyZ
+# vqh1sUEXKbhex

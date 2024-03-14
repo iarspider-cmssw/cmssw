@@ -4,3 +4,6 @@ import FWCore.ParameterSet.Config as cms
 from SimMuon.DTDigitizer.muonDTDigis_cfi import *
 
 
+# foo bar baz
+# JeEAMjHiFiIzI
+# yxrrH17i4fBX1

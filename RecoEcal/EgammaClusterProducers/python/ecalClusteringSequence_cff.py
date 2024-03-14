@@ -29,3 +29,6 @@ ecalClusteringTask = cms.Task(islandClusteringTask,
                               seldigisTask)
 ecalClusteringSequence = cms.Sequence(ecalClusteringTask)
 
+# foo bar baz
+# G9lug7jhifYjr
+# MQD7ApbsgPwXm

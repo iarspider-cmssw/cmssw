@@ -52,3 +52,6 @@ options.register('ESHighGainTag',
                 VarParsing.VarParsing.varType.string,
                 "the tag name used to retrieve the reference payload for preshower in High Gain.")
 options.parseArguments()
+# foo bar baz
+# vmN9Np46ULgad
+# SaF7EzfumezqV

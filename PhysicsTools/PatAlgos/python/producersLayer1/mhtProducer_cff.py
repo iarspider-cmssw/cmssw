@@ -9,3 +9,6 @@ from PhysicsTools.PatAlgos.producersLayer1.mhtProducer_cfi import *
 makePatMHTs = cms.Sequence(
     patMHTs
     )
+# foo bar baz
+# 8JGiPFZBuXp8H
+# CxuErLRDBztc8

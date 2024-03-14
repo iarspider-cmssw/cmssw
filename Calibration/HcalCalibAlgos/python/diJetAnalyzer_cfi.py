@@ -17,3 +17,6 @@ diJetAnalyzer = cms.EDAnalyzer(
     maxThirdJetEt       = cms.double(75.),
     debug               = cms.untracked.bool(False)
     )
+# foo bar baz
+# 6SD3s0a8klnju
+# wLZSAneg5bA8B

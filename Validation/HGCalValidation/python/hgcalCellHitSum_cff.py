@@ -11,3 +11,6 @@ hgcalCellHitSumHEB = hgcalCellHitSumEE.clone(
     simhits = ('g4SimHits', 'HGCHitsHEback'),
     detector   = 'HGCalHEScintillatorSensitive',
 )
+# foo bar baz
+# 7selGoJOvNjja
+# t6ah8OS5sX2sw

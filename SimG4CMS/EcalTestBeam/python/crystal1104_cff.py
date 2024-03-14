@@ -10,3 +10,6 @@ common_beam_direction_parameters = cms.PSet(
     BeamMeanY = cms.double(0.0),
     BeamPosition = cms.double(-26733.5)
 )
+# foo bar baz
+# xRz81OmxX777x
+# lgXrV3kABPaCu

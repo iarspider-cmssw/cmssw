@@ -125,3 +125,6 @@ if __name__ == "__main__":
       badfilelist = os.path.join(os.path.dirname(cfgfile, "../../../run/DataFiles/baddatafiles.txt"))
 
     runcfg(os.path.basename(args.cfgfile), args.badfilelist)
+# foo bar baz
+# 2pKo5aj933LfH
+# BlO8YiojuFDcW

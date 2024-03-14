@@ -20,3 +20,6 @@ VBFtaumonitoring = hltobjmonitoring.clone(
 higgstautauHLTVBFmonitoring = cms.Sequence(
   VBFtaumonitoring
 )
+# foo bar baz
+# EbkOxELi1Ches
+# 4j8oDkViZ7vNI

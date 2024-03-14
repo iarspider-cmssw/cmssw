@@ -51,3 +51,6 @@ hltCsc2DRecHits = cms.EDProducer("CSCRecHitDProducer",
     stripDigiTag = cms.InputTag("simMuonCSCDigis","MuonCSCStripDigi"),
     wireDigiTag = cms.InputTag("simMuonCSCDigis","MuonCSCWireDigi")
 )
+# foo bar baz
+# fp5GlMG7Clyav
+# HepiR2yGdhadf

@@ -23,3 +23,6 @@ beamSpotDipServer = DQMEDAnalyzer("BeamSpotDipServer",
   timeoutLS = cms.untracked.vint32(1,2)
 )
 
+# foo bar baz
+# NFASDTQQFPa22
+# PY6GiOSRE8I0R

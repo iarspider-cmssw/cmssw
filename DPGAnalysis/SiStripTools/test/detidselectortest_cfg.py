@@ -79,3 +79,6 @@ process.p = cms.Path(process.detidselectortest)
 
 
 
+# foo bar baz
+# PisBhhEPHQ2Va
+# jcNbMraHfnrVt

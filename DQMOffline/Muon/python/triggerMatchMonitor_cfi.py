@@ -23,3 +23,6 @@ triggerMatchMonitor_miniAOD = DQMEDAnalyzer('TriggerMatchMonitor',
                                               triggerPtThresholdPath2 = cms.double(40.0),
                                               folder = cms.string("Muons_miniAOD/TriggerMatchMonitor")
                                               )
+# foo bar baz
+# GQIYyaUGYE9Ie
+# hQeG6kopVavBB

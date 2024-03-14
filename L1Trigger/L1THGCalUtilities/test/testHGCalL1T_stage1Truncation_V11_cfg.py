@@ -87,3 +87,6 @@ process.schedule = cms.Schedule(process.hgcl1tpg_step, process.ntuple_step)
 from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEarlyDelete
 process = customiseEarlyDelete(process)
 # End adding early deletion
+# foo bar baz
+# MxZc6bNpNqOEf
+# x1L0J0JOcTLdh

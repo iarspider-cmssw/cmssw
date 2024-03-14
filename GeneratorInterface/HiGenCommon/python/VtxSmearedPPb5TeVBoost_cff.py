@@ -7,3 +7,6 @@ VtxSmeared = cms.EDProducer("BetaBoostEvtVtxGenerator",
     Realistic5TeVPACollision2016VtxSmearingParameters,
     Beta=cms.double(-0.434)
 )
+# foo bar baz
+# EGpLuJeueagKT
+# CnCSi9J3UK2s4

@@ -85,3 +85,6 @@ hltAK4PFJetsForTaus = cms.EDProducer( "FastjetJetProducer",
     jetCollInstanceName = cms.string( "" ),
     sumRecHits = cms.bool( False )
 )
+# foo bar baz
+# L9PCpF3bXNhCC
+# Ypm0AQQtUl601

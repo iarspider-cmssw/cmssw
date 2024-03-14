@@ -50,3 +50,6 @@ for line in cfgFile:
     else:
         outputCfgFile.write( line )
     # print line
+# foo bar baz
+# xTQtGl2FMbBzK
+# BIYxdvj2pXEYB

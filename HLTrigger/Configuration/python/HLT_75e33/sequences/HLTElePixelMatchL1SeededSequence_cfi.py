@@ -9,3 +9,6 @@ HLTElePixelMatchL1SeededSequence = cms.Sequence(
     HLTDoLocalStripSequence,
     HLTElePixelMatchL1SeededTask
 )
+# foo bar baz
+# qrCxvM1wzdVzk
+# qsgvrcNYpgepp

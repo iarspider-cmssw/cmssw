@@ -262,3 +262,6 @@ def remove_existing_object(path):
                    "ask a user with 'delete' permissions to clean up.")
             print(msg)
             sys.exit(1)
+# foo bar baz
+# vvF9oaQzUWy71
+# mCC6m8MIrD1ru

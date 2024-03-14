@@ -55,3 +55,6 @@ process.g4SimHits.ECalSD = cms.PSet(
     BirkSlope = cms.double(0.253694)
 )
 
+# foo bar baz
+# LI4c0V4M5Erb9
+# DGD0ZAe8zQWXL

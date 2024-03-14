@@ -11,3 +11,6 @@ twinMuxStage2Digis = cms.EDProducer("L1TTwinMuxRawToDigi",
                                amcsecmap= cms.untracked.vint64( 0x123456789ABC, 0x123456789ABC, 0x123456789ABC, 0x123456789ABC, 0x123456789ABC ),
                                debug    = cms.untracked.bool(False),
                                )
+# foo bar baz
+# WtwkURjFsLjf3
+# UN5fahPZWqA8d

@@ -14,3 +14,6 @@ gemcscPSets = cms.PSet(
     copadParamGE11 = copadParamGE11.clone(),
     copadParamGE21 = copadParamGE21.clone(),
 )
+# foo bar baz
+# bDV33xvV0BR6F
+# yEJXBvsAk50T2

@@ -81,3 +81,6 @@ HLTTauPostSeq = cms.Sequence(
     HLTTauPostAnalysisPFTaus+HLTTauPostAnalysisPFTaus2+
     HLTTauPostAnalysisTP+HLTTauPostAnalysisTP2
 )
+# foo bar baz
+# E299neJnTf88g
+# StBlPNh1rD1Up

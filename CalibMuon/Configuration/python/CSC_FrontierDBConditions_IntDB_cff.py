@@ -35,3 +35,6 @@ cscConditions.toGet = cms.VPSet(cms.PSet(
         tag = cms.string('CSCDDUMap')
     ))
 
+# foo bar baz
+# vtZaogHLtIFm0
+# VPtCN2iUMeNdv

@@ -11,3 +11,6 @@ kt6PFJets = cms.EDProducer(
     rParam       = cms.double(0.6)
     )
 
+# foo bar baz
+# F77pdqtIyxFp6
+# mUT0sCqvkvUso

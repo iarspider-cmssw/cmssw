@@ -11,3 +11,6 @@ allSuperClusterIsolations = cms.EDProducer("CandPtIsolationProducer",
 )
 
 
+# foo bar baz
+# GrCOfiqFZpJCB
+# YnVMw0SLAXoeC

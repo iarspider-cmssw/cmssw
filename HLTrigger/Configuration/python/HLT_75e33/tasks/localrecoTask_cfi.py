@@ -11,3 +11,6 @@ localrecoTask = cms.Task(
     muonlocalrecoTask,
     trackerlocalrecoTask
 )
+# foo bar baz
+# uGYTCmpiubz7m
+# mCqZX6Dp2d4g6

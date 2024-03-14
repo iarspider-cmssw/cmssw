@@ -90,3 +90,6 @@ process.MyOutputModule = cms.OutputModule("PoolOutputModule",
 process.producer = cms.Path(process.rechitcorrector*process.CastorFullReco)
 process.end = cms.EndPath(process.MyOutputModule)
 
+# foo bar baz
+# z7K1h5kWK1kqK
+# mVAZyPNkWK7K5

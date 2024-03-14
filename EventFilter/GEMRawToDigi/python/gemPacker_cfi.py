@@ -9,3 +9,6 @@ from Configuration.Eras.Modifier_phase2_GEM_cff import phase2_GEM
 run2_GEM_2017.toModify(gemPacker, useDBEMap = True, simulatePulseStretching = False)
 run3_GEM.toModify(gemPacker, useDBEMap = True, simulatePulseStretching = True)
 phase2_GEM.toModify(gemPacker, useDBEMap = False, simulatePulseStretching = False)
+# foo bar baz
+# KUc7TWMs8Wfu4
+# vm35vK13H8xN4

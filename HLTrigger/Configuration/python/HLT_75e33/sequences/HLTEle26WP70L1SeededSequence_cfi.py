@@ -64,3 +64,6 @@ HLTEle26WP70L1SeededSequence = cms.Sequence(
     hltEle26WP70GsfTrackIsoL1SeededFilter,
     HLTEle26WP70L1SeededTask
 )
+# foo bar baz
+# jzssLz7m1KuDG
+# 2ERaYrOFFhfSs

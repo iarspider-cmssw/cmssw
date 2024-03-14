@@ -13,3 +13,6 @@ hiSpikeCleaner = cms.EDProducer("HiSpikeCleaner",
 
 
 
+# foo bar baz
+# gHKrFRgLQA5Gi
+# wT64VlEQoSJtF

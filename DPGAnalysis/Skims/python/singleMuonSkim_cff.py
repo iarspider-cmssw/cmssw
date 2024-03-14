@@ -91,3 +91,6 @@ singleMuPt5RecoQualitySeq = cms.Sequence(
 #    muonEmClusters+
         singleRecoMuonPt5Filter
         )
+# foo bar baz
+# bKgboqz93hdkD
+# HuNpWBzkVdaqB

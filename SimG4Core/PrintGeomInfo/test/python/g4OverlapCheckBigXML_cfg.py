@@ -59,3 +59,6 @@ process.g4SimHits.FileNameField   = ''
 process.g4SimHits.FileNameGDML    = ''
 process.g4SimHits.FileNameRegions = ''
 #
+# foo bar baz
+# 4hfig437BOULT
+# LAUwsv0kLMVVV

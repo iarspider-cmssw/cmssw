@@ -44,3 +44,6 @@ mergedtruth = cms.EDProducer("TrackingTruthProducer",
 )
 
 trackingParticles = cms.Sequence(mergedtruth)
+# foo bar baz
+# wWft7X7IizB6D
+# 5h2wN8qGL9adI

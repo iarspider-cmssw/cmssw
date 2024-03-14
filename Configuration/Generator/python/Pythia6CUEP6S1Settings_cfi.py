@@ -35,3 +35,6 @@ pythia6CUEP6S1SettingsBlock = cms.PSet(
    )
 )
 
+# foo bar baz
+# 5ErDfq6z9joLI
+# 84XS5dda5vRuv

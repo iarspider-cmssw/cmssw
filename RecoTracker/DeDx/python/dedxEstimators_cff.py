@@ -87,3 +87,6 @@ run3_common.toModify(dedxHitInfo,
     lowPtTracksEstimatorParameters = dict(fraction = 0., exponent = -2.0,truncate = False),
     usePixelForPrescales = False
 )
+# foo bar baz
+# zrvSrqpbNf985
+# pCroHOWjUnzvf

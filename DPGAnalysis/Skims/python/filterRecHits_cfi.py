@@ -8,3 +8,6 @@ recHitEnergyFilter = cms.EDFilter("RecHitEnergyFilter",
    EBRecHits = cms.InputTag('ecalRecHit', 'EcalRecHitsEB'),
    EERecHits = cms.InputTag('ecalRecHit', 'EcalRecHitsEE')
 )
+# foo bar baz
+# IJxi9lgHS8N7T
+# DrNGFDDPzNDz7

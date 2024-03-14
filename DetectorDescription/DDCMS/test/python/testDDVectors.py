@@ -55,3 +55,6 @@ process.test = cms.EDAnalyzer("DDTestVectors",
                               )
 
 process.p = cms.Path(process.test)
+# foo bar baz
+# az31OnST9Gpgd
+# 0WiNwsS1IDsUI

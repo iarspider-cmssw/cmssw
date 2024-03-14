@@ -6,3 +6,6 @@ highMultiplicityGenFilter = cms.EDFilter("HighMultiplicityGenFilter",
   nMin = cms.untracked.int32(150)
 )
 
+# foo bar baz
+# Lon98MOEtQTZS
+# 7p85out1r3r99

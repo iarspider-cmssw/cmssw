@@ -42,3 +42,6 @@ process.cVRTest = cms.EDFilter("CVRTest",
 process.p = cms.Path( process.offlinePrimaryVertices + process.cVRTest )
 process.MessageLogger.debugModules = ['cVRTest']
 
+# foo bar baz
+# tvhxYQA57pSl2
+# CWSr0Lj9y0sEu

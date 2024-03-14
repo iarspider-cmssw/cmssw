@@ -3,3 +3,6 @@ import FWCore.ParameterSet.Config as cms
 from RecoLocalTracker.SiPixelRecHits._templates_default_cfi import _templates_default
 templates = _templates_default.clone()
 
+# foo bar baz
+# RUOhX44QnaI29
+# R5fOV9ZmIXtg6

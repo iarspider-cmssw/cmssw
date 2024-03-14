@@ -22,3 +22,6 @@ process.prod = cms.EDProducer("GeometryProducer",
 
 process.p1 = cms.Path(process.prod)
 
+# foo bar baz
+# MqphgEFkF3odU
+# rGzCXilN22u9k

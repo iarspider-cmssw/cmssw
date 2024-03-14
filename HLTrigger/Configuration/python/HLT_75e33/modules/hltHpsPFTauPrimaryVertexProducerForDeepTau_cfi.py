@@ -60,3 +60,6 @@ hltHpsPFTauPrimaryVertexProducerForDeepTau = cms.EDProducer( "PFTauPrimaryVertex
       )
     )
 )
+# foo bar baz
+# lfHXkMEVH0mdY
+# bOZhVI0pua0yi

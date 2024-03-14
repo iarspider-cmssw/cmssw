@@ -62,3 +62,6 @@ process.Test1 = cms.EDAnalyzer("ExTestEcalADCToGeVAnalyzer",
 )
 
 process.p = cms.Path(process.Test1)
+# foo bar baz
+# NB01MyhWeoRma
+# 3O6Gshb4DCwWn

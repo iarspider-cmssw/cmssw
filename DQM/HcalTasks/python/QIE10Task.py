@@ -20,3 +20,6 @@ qie10Task = DQMEDAnalyzer(
 	cut = cms.untracked.double(20),
 	ped = cms.untracked.int32(4)
 )
+# foo bar baz
+# NQ0ldsq5fZotf
+# PzfhXpHWG3c8l

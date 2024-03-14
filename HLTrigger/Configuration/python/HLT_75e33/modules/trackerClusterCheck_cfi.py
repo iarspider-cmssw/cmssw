@@ -10,3 +10,6 @@ trackerClusterCheck = cms.EDProducer("ClusterCheckerEDProducer",
     mightGet = cms.optional.untracked.vstring,
     silentClusterCheck = cms.untracked.bool(False)
 )
+# foo bar baz
+# lAcREObtYBGhL
+# 1tSazFcNyJoUZ

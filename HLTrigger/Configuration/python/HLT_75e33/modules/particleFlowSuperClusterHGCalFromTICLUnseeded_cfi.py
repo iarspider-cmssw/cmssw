@@ -50,3 +50,6 @@ particleFlowSuperClusterHGCalFromTICLUnseeded = cms.EDProducer("PFECALSuperClust
     useRegression = cms.bool(True),
     verbose = cms.untracked.bool(False)
 )
+# foo bar baz
+# h08PnCf1DSqkN
+# yFKZDauXuTtL5

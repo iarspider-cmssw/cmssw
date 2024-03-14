@@ -86,3 +86,6 @@ db_client = cms.EDAnalyzer("SiStripCommissioningOfflineDbClient",
   VpspScanParameters       = cms.PSet(),
 )
 
+# foo bar baz
+# UkCvz7hMD1Ujy
+# DGRNsPUnkBrGO

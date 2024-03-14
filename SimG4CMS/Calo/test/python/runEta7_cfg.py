@@ -76,3 +76,6 @@ process.schedule = cms.Schedule(process.generation_step,
 for path in process.paths:
         getattr(process,path)._seq = process.generator * getattr(process,path)._seq
 
+# foo bar baz
+# S2wwiajUqoiGW
+# JROdK0UiXMikD

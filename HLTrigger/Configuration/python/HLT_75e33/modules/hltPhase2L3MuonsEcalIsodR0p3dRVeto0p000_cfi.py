@@ -17,3 +17,6 @@ hltPhase2L3MuonsEcalIsodR0p3dRVeto0p000 = cms.EDProducer("MuonHLTEcalPFClusterIs
     rhoProducer = cms.InputTag("hltFixedGridRhoFastjetAllCaloForEGamma"),
     rhoScale = cms.double(1.0)
 )
+# foo bar baz
+# YLHqYibRVfUVb
+# vWVJYU1mqTWPj

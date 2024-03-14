@@ -7,3 +7,6 @@ from Configuration.ProcessModifiers.dd4hep_cff import dd4hep
 dd4hep.toModify(caloSimulationParameters,
                 fromDD4hep = cms.bool(True)
 )
+# foo bar baz
+# kG7SQx4JJdTli
+# 9gyrijBjKoyfp

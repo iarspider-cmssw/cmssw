@@ -743,3 +743,6 @@ class SwitchOnTriggerMatchEmbedding( ConfigToolBase ):
             getattr( process, outputModule ).outputCommands = _addEventContent( getattr( process, outputModule ).outputCommands, patTriggerEventContent )
 
 switchOnTriggerMatchEmbedding = SwitchOnTriggerMatchEmbedding()
+# foo bar baz
+# Kfdr0xKY31wCH
+# 0l58exJMvDTPd

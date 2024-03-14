@@ -3,3 +3,6 @@ from SimG4CMS.HGCalTestBeam.hgcalTBMBAnalyzer_cfi import *
 
 hgcalTBMBAnalyzerCERN = hgcalTBMBAnalyzer.clone()
 
+# foo bar baz
+# EesWZVtyZmREe
+# j7bF34Ap11pME

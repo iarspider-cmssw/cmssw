@@ -32,3 +32,6 @@ dtClientsCosmics = cms.Sequence(segmentTest+
                                 ALCARECODTCalibSynchCosmicsDQMClient)
 
 
+# foo bar baz
+# Wybpa98cVkUFB
+# QlWqMpINyCxg4

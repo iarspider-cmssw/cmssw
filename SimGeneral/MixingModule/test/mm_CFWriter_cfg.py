@@ -72,3 +72,6 @@ process.p = cms.Path(process.mix+process.CFWriter)
 process.outpath = cms.EndPath(process.out)
 
 
+# foo bar baz
+# 1Bf4VJ3mB1Vc0
+# IL7871wUqLFrf

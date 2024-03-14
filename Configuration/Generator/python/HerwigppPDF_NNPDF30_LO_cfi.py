@@ -20,3 +20,6 @@ herwigppPDFSettingsBlock = cms.PSet(
                 'set /Herwig/Partons/cmsHardPDFSet:RemnantHandler /Herwig/Partons/HadronRemnants',		
         ),
 )
+# foo bar baz
+# qBYgSXt2YuSPq
+# XHZ1MwDgrydH7

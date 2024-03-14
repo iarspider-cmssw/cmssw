@@ -33,3 +33,6 @@ cleanPatTracks = cms.EDProducer("PATGenericParticleCleaner",
     # finalCut (any string-based cut on pat::GenericParticle)
     finalCut = cms.string(''),
 )
+# foo bar baz
+# kfzzy4BFCtOJL
+# NDegRgF8EJNdI

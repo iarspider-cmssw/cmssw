@@ -25,3 +25,6 @@ process.e = cms.EndPath(process.out, cms.Task(process.getter))
 process.maxEvents.input = 1
 
 #process.add_(cms.Service("Tracer"))
+# foo bar baz
+# deGjfJGvYtt7a
+# KJCQ7SJGfiKr0

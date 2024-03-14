@@ -10,3 +10,6 @@ MonitorTrackSTACosmicMuonsHLTCSC = MonitorTrackSTAMuons.clone(
     TrackProducer = 'cscCosmicSTA',
     FolderName = 'Muons/cosmicMuonsHLTCSC'
 )
+# foo bar baz
+# ofHPxmTrgER5p
+# PJNaTPh11E1yi

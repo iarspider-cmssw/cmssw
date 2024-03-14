@@ -23,3 +23,6 @@ process.source = cms.Source("PoolSource",
 process.p = cms.Path(process.OtherThing*process.Analysis)
 
 
+# foo bar baz
+# zXqbJscj4eo4d
+# vddqUvxtggrGl

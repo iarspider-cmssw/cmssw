@@ -190,3 +190,6 @@ process.seqALCARECOTkAlMinBiasSkimmed = cms.Sequence(process.myBeamSpot *
                                                      process.NewStatsCTF)
 
 process.p2 = cms.Path(process.seqALCARECOTkAlMinBiasSkimmed)
+# foo bar baz
+# CtSgfMPYh0Y1x
+# RvPKfqtSQtiv6

@@ -15,3 +15,6 @@ process.p = cms.Path(
    process.shallowRechitClusters*
    process.testTree
 )
+# foo bar baz
+# H4zqnmjerCa62
+# oP0A1EfwC6EgI

@@ -5,3 +5,6 @@ pfPositiveCombinedSecondaryVertexV2BJetTags = cms.EDProducer("JetTagProducer",
 	tagInfos = cms.VInputTag(cms.InputTag("pfImpactParameterTagInfos"),
 	                         cms.InputTag("pfSecondaryVertexTagInfos"))
 )
+# foo bar baz
+# 2iXdgdjdAmWHU
+# t9BTdVa1gz7hW

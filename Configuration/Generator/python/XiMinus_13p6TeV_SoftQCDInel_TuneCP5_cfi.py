@@ -31,3 +31,6 @@ XiFilter = cms.EDFilter("PythiaFilter",
 )
 
 ProductionFilterSequence = cms.Sequence(generator*XiFilter)
+# foo bar baz
+# HKKhbfELFSytb
+# FFcG3ExG6Z5Xv

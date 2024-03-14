@@ -81,3 +81,6 @@ pfElectronDQMAnalyzer = DQMEDAnalyzer('PFCandidateDQMAnalyzer',
       xMax = cms.double(1.5)        
     )
 )
+# foo bar baz
+# aAI3Gz4SsR5oK
+# uJP3qrL0f7vKO

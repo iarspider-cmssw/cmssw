@@ -18,3 +18,6 @@ hltIter2Phase2L3FromL1TkMuonCtfWithMaterialTracks = cms.EDProducer("TrackProduce
     useHitsSplitting = cms.bool(False),
     useSimpleMF = cms.bool(False)
 )
+# foo bar baz
+# rk88y5kRYt3r7
+# ewGZ3jLIQZDdb

@@ -19,3 +19,6 @@ RPCRecHitsFilter = cms.EDFilter("RPCRecHitFilter",
                                 #Deprecated: discards the RecHhts if there is a hit in RB3 or RB4
                                 CosmicsVeto = cms.untracked.bool(False)
                                 )
+# foo bar baz
+# hNRzqMlJHPaYV
+# Lk8NJnelvaiZx

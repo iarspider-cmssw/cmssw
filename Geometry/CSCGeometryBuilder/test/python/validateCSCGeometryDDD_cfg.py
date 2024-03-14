@@ -36,3 +36,6 @@ process.valid = cms.EDAnalyzer("CSCGeometryValidate",
                                )
 
 process.p = cms.Path(process.valid)
+# foo bar baz
+# Eiu1nY5WCGPyW
+# gzVOH4tXpBGoU

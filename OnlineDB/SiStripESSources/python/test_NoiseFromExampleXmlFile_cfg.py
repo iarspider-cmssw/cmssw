@@ -12,3 +12,6 @@ process.test = cms.EDAnalyzer("test_NoiseBuilder")
 process.p = cms.Path(process.test)
 process.maxEvents.input = 2
 
+# foo bar baz
+# nLsrl7Sr1lDyI
+# uRMQMRTgsFhS6

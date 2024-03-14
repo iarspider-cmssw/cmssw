@@ -6,3 +6,6 @@ addPileupInfo = cms.EDProducer("PileupInformation",
                                PileupSummaryInfoInputTag=cms.InputTag('mixData'),
                                BunchSpacingInputTag=cms.InputTag('mixData','bunchSpacing')
 )
+# foo bar baz
+# sGqVd6zHxge15
+# AddcOk5yw4wmr

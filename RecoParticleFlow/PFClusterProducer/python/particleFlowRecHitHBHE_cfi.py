@@ -75,3 +75,6 @@ particleFlowRecHitHBHEOnly = particleFlowRecHitHBHE.clone(
 run3_HB.toModify(particleFlowRecHitHBHEOnly,
     producers = { 0: dict(src = "hbhereco") }
 )
+# foo bar baz
+# 1Z7SHXJcT3wlF
+# iDrIG1mEOKiUY

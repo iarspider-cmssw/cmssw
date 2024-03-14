@@ -72,3 +72,6 @@ pfMEtMVATask  = cms.Task(
     )
 pfMEtMVAsequence  = cms.Sequence(pfMEtMVATask)
 
+# foo bar baz
+# 5udkbJvWXi0Sq
+# ZjuzCBA9CUUNY

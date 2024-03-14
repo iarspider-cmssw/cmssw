@@ -5,3 +5,6 @@ omtfStage2Digis = cms.EDProducer("OmtfUnpacker",
   skipRpc   = cms.bool(False) 
 )
 
+# foo bar baz
+# MYoak3arYvhu6
+# MfJRVDDZt8qbq

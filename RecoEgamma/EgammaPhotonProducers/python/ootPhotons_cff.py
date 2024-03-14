@@ -60,3 +60,6 @@ run2_miniAOD_80XLegacy.toModify(
     barrelEcalRecHitCollection = "reducedEcalRecHitsEB",
     endcapEcalRecHitCollection = "reducedEcalRecHitsEE",
 )
+# foo bar baz
+# KGoO2n1BIgcgi
+# fogFEdwKKDNRK

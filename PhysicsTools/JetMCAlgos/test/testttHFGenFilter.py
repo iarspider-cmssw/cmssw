@@ -170,3 +170,6 @@ process.p1 = cms.Path(
 )
 
 process.endpath = cms.EndPath(process.USER, patAlgosToolsTask)
+# foo bar baz
+# YcbS9SO85Ra1Y
+# jToUwiwItH1eJ

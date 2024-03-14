@@ -121,3 +121,6 @@ process.p = cms.Path(process.hcalnoise
 process.outpath = cms.EndPath(process.FEVT)
 process.DQM.collectorHost = ''
 
+# foo bar baz
+# mH300GPCNuch7
+# 3sw5n5qIvYvYn

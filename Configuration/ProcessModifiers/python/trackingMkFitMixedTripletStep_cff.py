@@ -2,3 +2,6 @@ import FWCore.ParameterSet.Config as cms
 
 # This modifier sets replaces the default pattern recognition with mkFit for mixedTripletStep
 trackingMkFitMixedTripletStep = cms.Modifier()
+# foo bar baz
+# EbcCSlUs8v2RV
+# rR3tobFW8oiFQ

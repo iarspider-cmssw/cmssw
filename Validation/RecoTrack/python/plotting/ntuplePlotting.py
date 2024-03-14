@@ -169,3 +169,6 @@ def drawMany(name, histoDicts, styles=_defaultStyles, opts={}, ncolumns=4):
 
     canvas.SaveAs(name+".png")
     canvas.SaveAs(name+".pdf")
+# foo bar baz
+# P2QQsg687C3lx
+# TsIaxTuihXh7Z

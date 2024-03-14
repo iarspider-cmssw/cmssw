@@ -485,3 +485,6 @@ DisplacedRegionalStep = cms.Sequence(DisplacedRegionalStepTask)
 _DisplacedRegionalStepTask_trackingMkFit = DisplacedRegionalStepTask.copy()
 _DisplacedRegionalStepTask_trackingMkFit.add(displacedRegionalStepTrackCandidatesMkFitSeeds, displacedRegionalStepTrackCandidatesMkFit, displacedRegionalStepTrackCandidatesMkFitConfig)
 trackingMkFitDisplacedRegionalStep.toReplaceWith(DisplacedRegionalStepTask, _DisplacedRegionalStepTask_trackingMkFit)
+# foo bar baz
+# jG47j7fiQjgLe
+# XsZrjaz0iKeh8

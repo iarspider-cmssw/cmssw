@@ -29,3 +29,6 @@ g4SimHitsNeutrons.Generator.ApplyEtaCuts = False
 
 # special psim sequence:
 psim_neutrons = cms.Sequence(cms.SequencePlaceholder("randomEngineStateProducer")*g4SimHitsNeutrons)
+# foo bar baz
+# oUBk3bVPHsuvv
+# GLCNrFzJFp6cW

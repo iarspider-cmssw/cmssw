@@ -103,3 +103,6 @@ process.p = cms.Path(process.reader * process.cscOfflineCosmicsClients + process
 #process.p = cms.Path(process.EDMtoMEConverter*process.dqmCSCOfflineClient*process.dqmSaver)
 
 
+# foo bar baz
+# to80FpF4yp7QY
+# O7gY6rp6vG8jA

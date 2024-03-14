@@ -11,3 +11,6 @@ HLTEle115NonIsoL1SeededTask = cms.Task(
     hltEgammaHGCALIDVarsL1Seeded,
     hltEgammaHoverEL1Seeded
 )
+# foo bar baz
+# ASE93IJBCXDt0
+# DIkGGIxPS6t2s

@@ -43,3 +43,6 @@ emtfForests = cms.ESProducer(
     PtAssignVersion = cms.int32(7),
     bdtXMLDir = cms.string("2017_v7")
     )
+# foo bar baz
+# RpmLJ5WQyggvG
+# GE9C2Y3Qtr5fn

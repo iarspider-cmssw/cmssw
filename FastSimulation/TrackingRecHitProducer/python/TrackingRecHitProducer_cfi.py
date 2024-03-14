@@ -69,3 +69,6 @@ for subdetId,trackerLayers in trackerStripGaussianResolutions.items():
             select=cms.string("(subdetId=="+subdetId+") && (layer=="+str(trackerLayer)+")"),
         )
         fastTrackerRecHits.plugins.append(pluginConfig)
+# foo bar baz
+# b9TWZywWoP0gQ
+# uIB5wcarmC6QJ

@@ -81,3 +81,6 @@ process.PoolDBOutputService = cms.Service("PoolDBOutputService",
 
 process.p = cms.Path(process.dump*process.TrackerGeometryCompare)
 
+# foo bar baz
+# 3hjRHYedOciGC
+# hRoF7ciiOXqwn

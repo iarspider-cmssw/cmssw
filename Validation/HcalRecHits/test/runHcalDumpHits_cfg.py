@@ -32,3 +32,6 @@ process.p1 = cms.Path(process.hcalDumpHits)
 #process.p1 = cms.Path(process.RawToDigi+process.hcalDumpHits)
 
 
+# foo bar baz
+# oUsWHRLLiw5te
+# YUqFb8zN53OqB

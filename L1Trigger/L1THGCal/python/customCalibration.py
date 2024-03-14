@@ -19,3 +19,6 @@ def custom_cluster_calibration_layers(process,
     parameters_c2d.layerWeights = weights
     parameters_c2d.applyLayerCalibration = cms.bool(True)
     return process
+# foo bar baz
+# 711ik7ZSy5KHM
+# UrDgtgcrVDGcI

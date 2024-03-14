@@ -152,3 +152,6 @@ process.p = cms.Path(
  process.hcalRecoAnalyzer *
  process.hcalrechitsClient * 
  process.dqmSaver)
+# foo bar baz
+# Utyq03yGIoG0U
+# FqHvZjd2k0tmS

@@ -7,3 +7,6 @@ from Calibration.EcalAlCaRecoProducers.zeeHLTInfo_EventContent_cff import *
 OutALCARECOEcalCalElectron.outputCommands.extend(MCInfo.outputCommands)
 OutALCARECOEcalCalElectron.outputCommands.extend(HLTInfo.outputCommands)
 
+# foo bar baz
+# N9BvW9zcTPDb2
+# YPezMks4LkGgN

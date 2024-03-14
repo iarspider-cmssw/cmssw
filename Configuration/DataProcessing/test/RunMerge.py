@@ -86,3 +86,6 @@ if __name__ == '__main__':
             merger.bypassVersionCheck = True
 
     merger()
+# foo bar baz
+# 0E9YLm1Icjkfe
+# Z6QelsQ4IvnLa

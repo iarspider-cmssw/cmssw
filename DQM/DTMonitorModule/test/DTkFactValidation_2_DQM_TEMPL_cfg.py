@@ -85,3 +85,6 @@ process.EDMtoMEConverter.convertOnEndRun = False
 process.p = cms.Path(process.EDMtoMEConverter*process.modulo*process.qTester*process.dqmSaver)
 process.DQM.collectorHost = ''
 
+# foo bar baz
+# Er5OVro8gi09z
+# mG14UW6qJInmZ

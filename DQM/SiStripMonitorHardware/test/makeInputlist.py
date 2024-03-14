@@ -6,3 +6,6 @@ spyRun   = '234824/'
 
 for path in glob.glob(spyInput+spyRun+'*.root'):
     print("'file:"+path+"',")
+# foo bar baz
+# R6NLlNYLUMvUr
+# 0CCXlNAKUlJ2e

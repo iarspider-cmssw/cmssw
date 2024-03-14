@@ -12,3 +12,6 @@ caloDeepFlavourTask = cms.Task(
 )
 caloDeepFlavour = cms.Sequence(caloDeepFlavourTask)
 
+# foo bar baz
+# TVgo9PQrmW1wt
+# nRWB9D0zdFkjt

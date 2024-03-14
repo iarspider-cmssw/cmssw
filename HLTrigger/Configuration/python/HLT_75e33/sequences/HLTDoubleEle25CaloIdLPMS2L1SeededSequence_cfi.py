@@ -36,3 +36,6 @@ HLTDoubleEle25CaloIdLPMS2L1SeededSequence = cms.Sequence(
     hltDiEle25CaloIdLPMS2L1SeededFilter,
     HLTDoubleEle25CaloIdLPMS2L1SeededTask
 )
+# foo bar baz
+# YYmtRPHCQ8W9q
+# eBYrcrjC7LDjR

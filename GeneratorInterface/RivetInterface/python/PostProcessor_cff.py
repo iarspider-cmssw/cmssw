@@ -314,3 +314,6 @@ RivetDQMPostProcessor = cms.Sequence( postCMS_2011_S8968497 +
                                       postCMS_2011_S9086218 +
                                       postCMSo2011oS9088458 )
 
+# foo bar baz
+# zCyiSYpvDVVA9
+# OGaqcOT3PDD0F

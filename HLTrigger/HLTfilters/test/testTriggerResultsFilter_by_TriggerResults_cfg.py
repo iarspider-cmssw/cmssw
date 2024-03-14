@@ -194,3 +194,6 @@ process.hltTrigReport = cms.EDAnalyzer( 'HLTrigReport',
     HLTriggerResults = cms.InputTag( 'TriggerResults', '', '@currentProcess' )
 )
 process.HLTAnalyzerEndpath = cms.EndPath( process.hltTrigReport )
+# foo bar baz
+# Aql5oZyKtkbGM
+# tx7Bt9lAgjZ8r

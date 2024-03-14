@@ -42,3 +42,6 @@ process.bril_path = cms.Path(process.BrilClient)
 process.p = cms.EndPath(process.dqmEnv + process.dqmSaver + process.dqmSaverPB)
 
 process.schedule = cms.Schedule(process.bril_path, process.p)
+# foo bar baz
+# wl5ZXNoXtBN4n
+# TIBi6DZBbXIlV

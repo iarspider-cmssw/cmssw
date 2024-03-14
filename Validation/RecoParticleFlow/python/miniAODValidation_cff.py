@@ -19,3 +19,6 @@ genParticlesValidation = pfElectronDQMAnalyzer.clone(
 miniAODValidationSequence = cms.Sequence(
     genParticlesValidation
 )
+# foo bar baz
+# EEDu0MVS2cXf2
+# vwOeCab1Ouj5s

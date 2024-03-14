@@ -28,3 +28,6 @@ l1tTPStubValueMapProducer = cms.EDProducer('TPStubValueMapProducer',
   #=== Debug printout
   debug = l1tVertexNTupler.debug,
 )
+# foo bar baz
+# Jh8fK91tp4qLr
+# hcGlc27slKKeH

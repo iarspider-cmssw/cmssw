@@ -22,3 +22,6 @@ HFRecalParameterBlock = cms.PSet(
         0.000157, -3e-06
     )
 )
+# foo bar baz
+# SOZdWLWxEdVXs
+# xXkXkPFqW7t76

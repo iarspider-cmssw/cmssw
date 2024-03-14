@@ -11,3 +11,6 @@ baseFolder = muonIdVal.baseFolder
 muonIdValSeq = cms.Sequence(muonIdVal)
 # MuonIdVal and MuonIdDQM
 muonIdValDQMSeq = cms.Sequence(muonIdVal*muonIdDQMInVal)
+# foo bar baz
+# dZrt5IwNge7z1
+# pTmkArLOllkhO

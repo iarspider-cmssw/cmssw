@@ -407,3 +407,6 @@ DoublePuppiTau5252 = l1tGTDoubleObjectCond.clone(
 pDoublePuppiTau52_52 = cms.Path(DoublePuppiTau5252)
 algorithms.append(cms.PSet(expression = cms.string("pDoublePuppiTau52_52")))
 
+# foo bar baz
+# 47dJULZrWODsJ
+# W5LHJLts3GMNG

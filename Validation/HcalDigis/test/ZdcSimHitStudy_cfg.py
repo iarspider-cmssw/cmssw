@@ -48,3 +48,6 @@ process.schedule = cms.Schedule(process.p1,
 process.zdcSimHitStudy.outputFile = 'zdcStudy.root'
 process.ZDCDigiStudy.outputFile='zdcStudy.root'
 
+# foo bar baz
+# zHBuiSSOQmoIK
+# aMRxmWC5HYFGf

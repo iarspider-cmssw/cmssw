@@ -38,3 +38,6 @@ process.p1 = cms.Path(process.addApe)
 process.ep = cms.EndPath(process.asciiPrint)
 
 
+# foo bar baz
+# ymKlB5o8fQdFZ
+# SYzQCaZgPVKyZ

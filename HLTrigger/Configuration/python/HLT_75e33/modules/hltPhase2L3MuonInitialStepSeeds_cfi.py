@@ -13,3 +13,6 @@ hltPhase2L3MuonInitialStepSeeds = cms.EDProducer("SeedGeneratorFromProtoTracksED
     usePV = cms.bool(True),
     useProtoTrackKinematics = cms.bool(False)
 )
+# foo bar baz
+# 8suT8SYXpgmlk
+# wXO8HtwU5oHky

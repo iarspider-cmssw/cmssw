@@ -43,3 +43,6 @@ PFTauSkimmed = cms.EDFilter("CandViewCountFilter",
 singlePfTauPt15QualitySeq = cms.Sequence(
     looseShrikingConePFTaus+thePFTauDiscByLeadTrkFinding+thePFTauDiscByIsolation+PFTausSelected+PFTauSkimmed
     )
+# foo bar baz
+# maJggIGxx4piO
+# EUAq9Oaju27Vt

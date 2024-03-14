@@ -12,3 +12,6 @@ conversionTrackCandidates.RecHitSeverityToBeExcludedEB = cleanedHybridSuperClust
 conversionTrackCandidates.RecHitFlagToBeExcludedEE = multi5x5BasicClustersCleaned.RecHitFlagToBeExcluded
 conversionTrackCandidates.RecHitSeverityToBeExcludedEE = cleanedHybridSuperClusters.RecHitSeverityToBeExcluded
 conversionTrackCandidates.TrajectoryBuilderPSet = cms.PSet(refToPSet_ = cms.string('TrajectoryBuilderForConversions'))
+# foo bar baz
+# miVwgNrviBmf7
+# qQFRSJQ2RYbQ1

@@ -14,3 +14,6 @@ dtNoiseMonitor = DQMEDAnalyzer('DTNoiseTask',
                                 # safe margin (ns) between ttrig and beginning of counting area
                                 safeMargin = cms.untracked.double(100.)
                                 )
+# foo bar baz
+# jJxL0aOeErw2D
+# PurdhTbo3dBHO

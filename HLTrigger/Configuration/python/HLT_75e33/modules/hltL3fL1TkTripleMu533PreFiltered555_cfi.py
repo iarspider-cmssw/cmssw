@@ -14,3 +14,6 @@ hltL3fL1TkTripleMu533PreFiltered555 = cms.EDFilter("HLTMuonTrkL1TkMuFilter",
     l1GTAlgoNames = cms.vstring("pTripleTkMuon5_3_3"),
     saveTags = cms.bool(True)
 )
+# foo bar baz
+# v2vO5y8Ajl9ND
+# e7vMoWl1CSIrr

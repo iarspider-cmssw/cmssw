@@ -57,3 +57,6 @@ seqALCARECOTkAlCosmicsCTF0T = cms.Sequence(ALCARECOTkAlCosmicsCTF0T)
 seqALCARECOTkAlCosmicsCosmicTF0T = cms.Sequence(ALCARECOTkAlCosmicsCosmicTF0T)
 seqALCARECOTkAlCosmicsRegional0T = cms.Sequence(ALCARECOTkAlCosmicsRegional0T)
 seqALCARECOTkAlCosmicsDuringCollisions0T = cms.Sequence(ALCARECOTkAlCosmicsDuringCollisions0T)
+# foo bar baz
+# vQsoljZ5IkdGK
+# bhOybHbuziRDX

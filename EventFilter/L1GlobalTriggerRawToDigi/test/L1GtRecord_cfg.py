@@ -467,3 +467,6 @@ process.outputL1GtRecord = cms.OutputModule("PoolOutputModule",
 
 process.outpath = cms.EndPath(process.outputL1GtRecord)
 
+# foo bar baz
+# 92aapw7W12ZlN
+# V1kQcKQoqE7n3

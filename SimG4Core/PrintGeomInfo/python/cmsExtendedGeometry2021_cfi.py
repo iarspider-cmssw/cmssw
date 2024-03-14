@@ -7,3 +7,6 @@ XMLIdealGeometryESSource = cms.ESSource("XMLIdealGeometryESSource",
          'SimG4Core/PrintGeomInfo/data/hcalRecNumbering.xml'),
     rootNodeName = cms.string('cms:OCMS')
 )
+# foo bar baz
+# 5C9OkDl1PWaiV
+# 54Y39Re70ZaGa

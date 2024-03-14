@@ -52,3 +52,6 @@ process.WriteInDB = cms.EDAnalyzer("CSCDDUMapPopConAnalyzer",
 process.p = cms.Path(process.WriteInDB)
 
 
+# foo bar baz
+# I0K6RLmgzxzLY
+# 1d4FEgbHdlrn2

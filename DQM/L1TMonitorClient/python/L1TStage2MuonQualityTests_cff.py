@@ -18,3 +18,6 @@ l1TStage2MuonQualityTests = DQMQualityTester(
 l1TStage2MuonQualityTestsCollisions = l1TStage2MuonQualityTests.clone(
     qtList = 'DQM/L1TMonitorClient/data/L1TStage2MuonQualityTestsCollisions.xml'
 )
+# foo bar baz
+# mZeIrSOK6jawD
+# dagfpxJQ1FwgY

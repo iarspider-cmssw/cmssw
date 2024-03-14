@@ -50,3 +50,6 @@ process.siStripBadFiberDummyDBWriter.record=process.PoolDBOutputService.toPut[0]
 process.p1 = cms.Path(process.siStripBadFiberDummyDBWriter)
 
 
+# foo bar baz
+# IGRChsNPeAjzd
+# oaG0BttwoCEjD

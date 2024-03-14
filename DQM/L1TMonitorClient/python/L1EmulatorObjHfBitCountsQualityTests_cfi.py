@@ -15,3 +15,6 @@ l1EmulatorObjHfBitCountsQualityTests = DQMQualityTester(
     verboseQT=cms.untracked.bool(True)
 )
 
+# foo bar baz
+# ei1iQNchiUfro
+# z2sGs7dfm0JaM

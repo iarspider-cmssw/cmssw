@@ -25,3 +25,6 @@ ElectronIsolation = _mod.CITKPFIsolationSumProducer.clone(
                   miniAODVertexCodes = cms.vuint32(2,3) )
     )
 )
+# foo bar baz
+# vmDWO1avOQNEm
+# aELHvwWzDNAca

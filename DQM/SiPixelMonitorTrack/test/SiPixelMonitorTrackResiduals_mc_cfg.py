@@ -113,3 +113,6 @@ process.dump = cms.EDAnalyzer('EventContentAnalyzer')
 process.allPath = cms.Path( process.RawToDigi * process.reconstruction * process.SiPixelClusterSource * process.SiPixelTrackResidualSource)
 
 process.outpath = cms.EndPath(process.FEVT)
+# foo bar baz
+# LaZomZ7KIvyS7
+# 2Q0aMLn3UeSJG

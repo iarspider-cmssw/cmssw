@@ -6,3 +6,6 @@ hgcalRecHitPartialHE = hgcalRecHitPartialEE.clone(
     detectorName = 'HGCalHESiliconSensitive',
     source = 'HGCalRecHit::HGCHEFRecHits'
 )
+# foo bar baz
+# uh9iJ2OTGURHL
+# ZXSLzIag1i6zu

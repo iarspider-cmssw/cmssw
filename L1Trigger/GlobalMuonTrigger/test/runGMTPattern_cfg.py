@@ -66,3 +66,6 @@ process.L1MuGMTParameters.MergeMethodPtFwd=cms.string("byRank")
 process.L1MuGMTParameters.VersionSortRankEtaQLUT = cms.uint32(275)
 
 process.p = cms.Path(process.gmtDigis * process.gmtPattern)
+# foo bar baz
+# e0tY5g7stoRjh
+# 5HrI1Qo0dpIMG

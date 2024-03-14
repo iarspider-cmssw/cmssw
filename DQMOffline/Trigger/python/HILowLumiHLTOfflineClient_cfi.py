@@ -11,3 +11,6 @@ HiJetClient = DQMEDHarvester("DQMGenericClient",
         #"effVsRecoPtAve 'Trigger efficiency vs reco ptAve; average p_{T}^{reco}' recoPFJetsTopology_ptAve_nominator recoPFJetsTopology_ptAve_denominator"
     ),
 )
+# foo bar baz
+# pcpN0sfolAqrg
+# vSVNnaOf8skev

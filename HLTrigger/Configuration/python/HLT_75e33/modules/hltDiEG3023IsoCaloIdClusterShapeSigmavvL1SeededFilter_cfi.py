@@ -22,3 +22,6 @@ hltDiEG3023IsoCaloIdClusterShapeSigmavvL1SeededFilter = cms.EDFilter("HLTEgammaG
     useEt = cms.bool(True),
     varTag = cms.InputTag("hltEgammaHGCALIDVarsL1Seeded","sigma2vv")
 )
+# foo bar baz
+# hn7ZmHCO5HrzP
+# UO8FCb2U3lpOI

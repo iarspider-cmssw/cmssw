@@ -83,3 +83,6 @@ process.test = cms.EDAnalyzer("testMagGeometryAnalyzer",
                               )
 
 process.p = cms.Path(process.test)
+# foo bar baz
+# 8xpY0uoVpeHH9
+# J3iP2PJPZtRVX

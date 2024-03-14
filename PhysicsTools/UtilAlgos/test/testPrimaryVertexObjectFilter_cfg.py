@@ -29,3 +29,6 @@ process.primaryVertexObjectFilter = cms.EDFilter("PrimaryVertexObjectFilter",
 
 process.p = cms.Path(process.primaryVertexObjectFilter)
 
+# foo bar baz
+# PBPQFTeaGAU88
+# R5pzSY7ku3BzT

@@ -37,3 +37,6 @@ process.navigationSchoolAnalyzer = cms.EDAnalyzer("NavigationSchoolAnalyzer",
 process.muonNavigationTest = cms.EDAnalyzer("MuonNavigationTest")
 
 process.p = cms.Path(process.navigationSchoolAnalyzer+process.muonNavigationTest)
+# foo bar baz
+# th8erbOA9EZnR
+# IWDqcIWuhHqCf

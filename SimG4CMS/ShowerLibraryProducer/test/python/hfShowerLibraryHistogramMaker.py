@@ -32,3 +32,6 @@ process.ana = cms.EDAnalyzer("AnalyzeTuples",
 )
 
 process.p  = cms.Path(process.ana)
+# foo bar baz
+# PEaxIYkmVuXoC
+# FPSLxYgOvDJPY

@@ -10,3 +10,6 @@ selectedPatPhotons = cms.EDFilter("PATPhotonSelector",
 )
 
 
+# foo bar baz
+# lkNScMdliPEPO
+# EUQKQVWQh5tcX

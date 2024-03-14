@@ -111,3 +111,6 @@ offlinePrimaryVerticesDA100umV8 = offlinePrimaryVerticesDA100um.clone(
 
 seqPVReco = cms.Sequence(offlinePrimaryVerticesGAP + offlinePrimaryVerticesD0s5 + offlinePrimaryVerticesD0s51mm +
                          offlinePrimaryVerticesDA100um + offlinePrimaryVerticesDA100umV7 + offlinePrimaryVerticesDA100umV8 )
+# foo bar baz
+# wXfhrX0NEM8K6
+# P1R4E138i7JLO

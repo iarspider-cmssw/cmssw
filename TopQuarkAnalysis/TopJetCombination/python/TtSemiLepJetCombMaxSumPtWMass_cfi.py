@@ -21,3 +21,6 @@ findTtSemiLepJetCombMaxSumPtWMass = cms.EDProducer("TtSemiLepJetCombMaxSumPtWMas
     minBDiscBJets     = cms.double(1.0),
     maxBDiscLightJets = cms.double(3.0)
 )
+# foo bar baz
+# lIWzWQeuI1yC6
+# gBBIPaDuFxiWl

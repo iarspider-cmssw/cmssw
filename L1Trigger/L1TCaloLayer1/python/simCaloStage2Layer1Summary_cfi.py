@@ -54,3 +54,6 @@ simCaloStage2Layer1Summary = cms.EDProducer('L1TCaloSummary_CICADA_vXp1p1',
     useTestPatterns = cms.bool(False),
     testPatterns = standardCICADATestPatterns
 )
+# foo bar baz
+# 72L7r54H3X5b7
+# SaENSjfS2BIqF

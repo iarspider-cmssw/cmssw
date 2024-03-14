@@ -26,3 +26,6 @@ RKOutliers1DFittingSmoother = RK1DFittingSmoother.clone(
     EstimateCut     = 20.0,
     MinNumberOfHits = 3,
 )
+# foo bar baz
+# rhHjk3VTXVXlh
+# nWu4Wwbtig3ke

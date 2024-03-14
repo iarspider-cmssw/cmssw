@@ -32,3 +32,6 @@ generator = cms.EDProducer("Pythia6PtGun",
 ProductionFilterSequence = cms.Sequence(generator)
 
 
+# foo bar baz
+# mymOr8MTx3Z4A
+# TRmFfmii2Zg7U

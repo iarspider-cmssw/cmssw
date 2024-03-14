@@ -12,3 +12,6 @@ l1RPCEventSelection = cms.PSet(
     )
 )
 
+# foo bar baz
+# WbEHk7NibjJDb
+# Xdo6no1eN8ZD1

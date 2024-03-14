@@ -132,3 +132,6 @@ process.streamB = cms.OutputModule("GlobalEvFOutputModule",
 )
 
 process.ep = cms.EndPath(process.streamA+process.streamB)
+# foo bar baz
+# M0cPjqqfzs2N2
+# 7OalBeQ5uEFTK

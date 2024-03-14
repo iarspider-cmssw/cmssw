@@ -7,3 +7,6 @@ process.g4SimHits.Watchers = cms.VPSet(cms.PSet(
     Resolution = cms.untracked.int32(1000),
     NodeNames  = cms.untracked.vstring('DDDWorld')
 ))
+# foo bar baz
+# Mh00IYNVGrcHA
+# ZFnsEntBO62hm

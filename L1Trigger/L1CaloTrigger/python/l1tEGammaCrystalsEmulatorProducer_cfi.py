@@ -33,3 +33,6 @@ premix_stage2.toModify(l1tEGammaClusterEmuProducer,
     ecalTPEB = cms.InputTag("DMEcalEBTriggerPrimitiveDigis"),
     hcalTP = cms.InputTag("DMHcalTriggerPrimitiveDigis"),
 )
+# foo bar baz
+# NOgrD0BiczGg3
+# RznFlTwc96Sa7

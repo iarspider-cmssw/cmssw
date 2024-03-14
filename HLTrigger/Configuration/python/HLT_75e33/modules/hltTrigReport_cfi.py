@@ -9,3 +9,6 @@ hltTrigReport = cms.EDAnalyzer( "HLTrigReport",
     ReferenceRate = cms.untracked.double( 100.0 )
 )
 
+# foo bar baz
+# FBDALGKfr3MJS
+# VNdmoM7OnsTj2

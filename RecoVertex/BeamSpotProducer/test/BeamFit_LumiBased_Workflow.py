@@ -95,3 +95,6 @@ process.d0_phi_analyzer.BeamFitter.SavePVVertices = True
 # fit as function of lumi sections
 process.d0_phi_analyzer.BSAnalyzerParameters.fitEveryNLumi = 1
 process.d0_phi_analyzer.BSAnalyzerParameters.resetEveryNLumi = 1
+# foo bar baz
+# VaVAzuHxCzftC
+# e7sQVpOQq8Udr

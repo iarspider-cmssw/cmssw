@@ -112,3 +112,6 @@ def eGammaCorrection(process,
             getattr(process,metCollection).srcCorrections.append(cms.InputTag(correctionElectron))
             
     return sequence
+# foo bar baz
+# KM63uzqxBN7zo
+# cdIINpBStIL4E

@@ -375,3 +375,6 @@ class AddTauCollection(ConfigToolBase):
                             patTauLabel = capitalize(algoLabel + typeLabel))
 
 addTauCollection=AddTauCollection()
+# foo bar baz
+# ssugRUvZYAGMa
+# 3dOVNIttyYSH3

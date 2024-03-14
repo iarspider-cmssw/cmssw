@@ -59,3 +59,6 @@ L1NtupleEMU = cms.Sequence(
 #  +l1MuonEmuTree
   +l1uGTEmuTree
 )
+# foo bar baz
+# yxl0CZoV8cg5n
+# aWCd9NXa05OVG

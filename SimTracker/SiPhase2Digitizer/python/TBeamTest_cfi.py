@@ -42,3 +42,6 @@ tbeamTest = DQMEDAnalyzer('TBeamTest',
         xmax   = cms.double(1016.5)
     )
 )
+# foo bar baz
+# obXwP3uwAiz2X
+# Haf0XQIoFxmoN

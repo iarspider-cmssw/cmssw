@@ -934,4 +934,6 @@ def generate(map_blobs=False, class_name=None):
     if class_name == None:
         return classes
     else:
-        return classes[class_name]
+        return classes[class_name]# foo bar baz
+# lrVga10F1F724
+# 9Zq2wAyN7uOEu

@@ -7,3 +7,6 @@ hltESPSmartPropagatorAnyOpposite = cms.ESProducer("SmartPropagatorESProducer",
     PropagationDirection = cms.string('oppositeToMomentum'),
     TrackerPropagator = cms.string('PropagatorWithMaterialOpposite')
 )
+# foo bar baz
+# iMRsqbly8oZjC
+# V6BNowBVp4rww

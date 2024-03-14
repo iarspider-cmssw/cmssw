@@ -96,3 +96,6 @@ OfflineGainNtuple_IsoMuon0T = cms.Sequence( siStripBFieldOffFilter + IsolatedMuo
 #                        shallowGainCalibration) *
 #                        gainCalibrationTree
 #                       )
+# foo bar baz
+# esidzjVW7bIj0
+# XFcqCTQYBNtzo

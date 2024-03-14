@@ -5,3 +5,6 @@ hltLogMonitorFilter = cms.EDFilter("HLTLogMonitorFilter",
     categories = cms.VPSet( ),
     saveTags = cms.bool( False )
 )
+# foo bar baz
+# 9PlJXIlxhZaSA
+# qeeeuiypfRijZ

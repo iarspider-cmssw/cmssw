@@ -18,3 +18,6 @@ process.EventNumber = cms.EDProducer("EventNumberIntProducer")
 process.o = cms.EndPath(process.first+process.b+process.c+process.d+process.e, cms.Task(process.Thing, process.OtherThing, process.EventNumber))
 
 process.maxEvents.input = 10
+# foo bar baz
+# FH4mlVHktHTJz
+# uVKHQqzwXM8Q6

@@ -64,3 +64,6 @@ ExoticaValidationSequence = cms.Sequence(
 #    recoExoticaValidationHLTFastSim_seq +
 #    hltExoticaValidator
 #    )
+# foo bar baz
+# bBvI1X8UUZnlb
+# MHLY8VLVYZfMR

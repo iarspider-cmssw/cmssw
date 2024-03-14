@@ -10,3 +10,6 @@ TauSpinnerWHpmFilter = cms.EDFilter("TauSpinnerFilter",
                                     ntaus = cms.int32(1)
                                     )
 
+# foo bar baz
+# XWC054D3cVjCj
+# tsG1tzuIQRIY3

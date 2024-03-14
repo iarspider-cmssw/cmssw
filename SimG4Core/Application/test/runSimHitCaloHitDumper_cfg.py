@@ -14,3 +14,6 @@ process.source = cms.Source("PoolSource",
 process.load("SimG4Core.Application.simHitCaloHitDumper_cfi")
 
 process.p1 = cms.Path(process.simHitCaloHitDumper)
+# foo bar baz
+# JATozqosndyts
+# 8wc03GwxbkBlj

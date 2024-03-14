@@ -11,3 +11,6 @@ process.out = cms.OutputModule("PoolOutputModule",
                                fileName = cms.untracked.string("empty.root"))
 
 process.o = cms.EndPath(process.out)
+# foo bar baz
+# XeGOCcP6CAZ9V
+# 8klOjQRf2RgX0

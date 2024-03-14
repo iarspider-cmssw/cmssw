@@ -10,3 +10,6 @@ dt4DSegmentsT0Seg   = cms.EDProducer("DTSegment4DT0Corrector",
                                     hit_afterT0_resolution = cms.double(0.03),
                                     perform_delta_rejecting = cms.bool(False)
 )
+# foo bar baz
+# ZytoFG7mDmFP5
+# XHXvAwCqILf7N

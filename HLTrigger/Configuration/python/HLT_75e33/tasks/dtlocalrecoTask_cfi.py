@@ -7,3 +7,6 @@ dtlocalrecoTask = cms.Task(
     hltDt1DRecHits,
     hltDt4DSegments
 )
+# foo bar baz
+# LAm3zhSSFSWUg
+# 0Cv3bZWA7zhr1

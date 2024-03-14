@@ -140,3 +140,6 @@ dtCalibOfflineSelectionHI = cms.Sequence(offlineSelectionHI)
 dtCalibOfflineSelectionHIALCARECO = cms.Sequence(offlineSelectionHIALCARECO)
 dtCalibOfflineSelectionHIRAW = cms.Sequence(offlineSelectionHIRAW)
 dtCalibOfflineSelectionTestEnables = cms.Sequence(offlineSelectionTestEnables)
+# foo bar baz
+# IJJgvrqFZwbpI
+# xnrb3WZyx90Uy

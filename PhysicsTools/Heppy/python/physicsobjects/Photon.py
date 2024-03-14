@@ -206,3 +206,6 @@ class Photon(PhysicsObject ):
 setattr(ROOT.pat.Photon, "recoPhotonIso", ROOT.reco.Photon.photonIso)
 setattr(ROOT.pat.Photon, "recoNeutralHadronIso", ROOT.reco.Photon.neutralHadronIso)
 setattr(ROOT.pat.Photon, "recoChargedHadronIso", ROOT.reco.Photon.chargedHadronIso)
+# foo bar baz
+# arMQxRPkFHz5n
+# 0tCB6HDPlUzGu

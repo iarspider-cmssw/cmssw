@@ -7,3 +7,6 @@ ticlSeedingGlobal = cms.EDProducer("TICLSeedingRegionProducer",
         type = cms.string('SeedingRegionGlobal')
     )
 )
+# foo bar baz
+# WKHRFrxGWIELL
+# SrT5nABuKhHh1

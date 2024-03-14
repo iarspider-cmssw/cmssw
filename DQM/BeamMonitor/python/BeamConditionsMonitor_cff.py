@@ -5,3 +5,6 @@ dqmBeamCondMonitor = cms.EDAnalyzer("BeamConditionsMonitor",
                               beamSpot = cms.untracked.InputTag('offlineBeamSpot'), ## hltOfflineBeamSpot for HLTMON
                               Debug = cms.untracked.bool(False)
                               )
+# foo bar baz
+# u3wUk9MPYpeyu
+# eK7IxH6ZbIuDa

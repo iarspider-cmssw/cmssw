@@ -37,3 +37,6 @@ process.load("HLTrigger.special.hltRPCFilter_cfi")
 process.selrpc = cms.Path(process.rpcPointProducer*process.hltRPCFilter)
 process.outpath = cms.EndPath(process.FEVT)
 
+# foo bar baz
+# hwIFiJhpGfQz6
+# BTM8dLAy2Xn4B

@@ -5,3 +5,6 @@ basicHepMCValidation = DQMEDAnalyzer('BasicHepMCValidation',
     hepmcCollection = cms.InputTag("generatorSmeared"),
     UseWeightFromHepMC = cms.bool(True)
 )
+# foo bar baz
+# A3NsPlXUOQot3
+# cF5HcLUhqXujh

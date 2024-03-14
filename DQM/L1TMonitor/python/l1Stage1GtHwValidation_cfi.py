@@ -58,3 +58,6 @@ l1Stage1GtHwValidation = DQMEDAnalyzer('L1GtHwValidation',
     ExcludeAlgoTrigByBit = cms.vint32()
     #    
 )
+# foo bar baz
+# UrzlEGPJWEy1T
+# mrHypDL5cX41P

@@ -21,3 +21,6 @@ MuFilter = cms.EDFilter("PythiaFilter",
     MaxEta = cms.untracked.double(2.5),
     MinEta = cms.untracked.double(-2.5)
 )
+# foo bar baz
+# lwukd7VSNGqc6
+# zhSOnsetwXdvW

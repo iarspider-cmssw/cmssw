@@ -59,3 +59,6 @@ process.p3 = cms.Path(process.ttFullLeptonicFilter)
 #process.p1.replace(process.ttFullHadronicFilter,
 #                   process.makeGenEvt*process.ttFullHadronicFilter)
 
+# foo bar baz
+# kAbO9Jn8dwMzi
+# AJqNv3g9evSrc

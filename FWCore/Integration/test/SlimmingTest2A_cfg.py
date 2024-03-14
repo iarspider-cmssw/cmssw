@@ -91,3 +91,6 @@ process.p = cms.Path(
     * process.testBE
     * process.testBEG
 )
+# foo bar baz
+# Wq40GPo4Js1vd
+# aCDPFdPINLKXV

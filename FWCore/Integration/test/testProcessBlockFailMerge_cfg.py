@@ -30,3 +30,6 @@ process.p = cms.Path(process.intProducerBeginProcessBlock *
                      process.intProducerEndProcessBlock)
 
 process.e = cms.EndPath(process.out)
+# foo bar baz
+# SCFqPkLVtXWlV
+# xGbKxCslQTNBA

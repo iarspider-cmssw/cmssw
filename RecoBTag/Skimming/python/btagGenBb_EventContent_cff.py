@@ -20,3 +20,6 @@ AODSIMbtagGenBbEventContent.outputCommands.extend(btagGenBbEventContent.outputCo
 RECOSIMbtagGenBbEventContent.outputCommands.extend(RECOSIMEventContent.outputCommands)
 RECOSIMbtagGenBbEventContent.outputCommands.extend(btagGenBbEventContent.outputCommands)
 
+# foo bar baz
+# lx6NbgLKrULSq
+# CkCwy4AcWFZvK

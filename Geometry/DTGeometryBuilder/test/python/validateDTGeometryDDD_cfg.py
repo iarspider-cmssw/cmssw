@@ -28,3 +28,6 @@ process.valid = cms.EDAnalyzer("DTGeometryValidate",
                                 )
  
 process.p = cms.Path(process.valid)
+# foo bar baz
+# BIj81CLH3ym9W
+# nm0rlRUkYEjdg

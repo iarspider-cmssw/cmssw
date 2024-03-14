@@ -97,3 +97,6 @@ CSCSegAlgoST = cms.PSet(
         1, 1, 1, 1, 1
     )
 )
+# foo bar baz
+# tadQZj8dCDSTU
+# 0oMAyHxXBmZJC

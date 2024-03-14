@@ -34,4 +34,6 @@ herwig7p1SettingsFor7p2Block = cms.PSet(
         # Taken from log files stating diffractive and non-diffractive cross section
         'set /Herwig/UnderlyingEvent/MPIHandler:DiffractiveRatio 0.21',
         )
-)
+)# foo bar baz
+# lKpBdXx2HA4YX
+# p3w7Yt31FbwHa

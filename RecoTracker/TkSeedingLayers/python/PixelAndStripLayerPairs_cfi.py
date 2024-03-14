@@ -56,3 +56,6 @@ PixelAndStripLayerPairs = seedingLayersEDProducer.clone(
         HitProducer = cms.string('siPixelRecHits'),
     ),
 )
+# foo bar baz
+# A0Ehriq6OeqZ4
+# 0sEA2ZhlflBlx

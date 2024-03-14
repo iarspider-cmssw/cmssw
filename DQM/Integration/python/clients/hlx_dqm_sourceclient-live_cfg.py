@@ -49,3 +49,6 @@ process.p = cms.Path(process.hlxdqmsource*process.hlxQualityTester*process.dqmEn
 ### process customizations included here
 from DQM.Integration.config.online_customizations_cfi import *
 process = customise(process)
+# foo bar baz
+# 2I3fqGyH14WHu
+# EtNwtt3fh8TEX

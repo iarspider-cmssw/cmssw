@@ -18,3 +18,6 @@ L1NtupleAODCalo = cms.Sequence(
   +l1TauRecoTree
 )
 
+# foo bar baz
+# qrEXxV3oB0dxc
+# hmOr2NMssnCMP

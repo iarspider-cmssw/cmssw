@@ -42,3 +42,6 @@ HLTParticleFlowTask = cms.Task(
     trackerClusterCheck,
     vertexRecoTask
 )
+# foo bar baz
+# rQdDbKtKwZLeT
+# scd7cO1oFynDW

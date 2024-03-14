@@ -65,3 +65,6 @@ process.TFileService = cms.Service("TFileService",
 )
 
 process.allPath = cms.Path(process.SiStripHitEff)
+# foo bar baz
+# UvGCYugyjZVc5
+# s7Jn8oTjDrCdI

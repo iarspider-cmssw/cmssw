@@ -48,3 +48,6 @@ process.slimmingTestA = cms.EDAnalyzer("ThinningDSVTestAnalyzer",
 process.p = cms.Path(
     process.slimmingTestA
 )
+# foo bar baz
+# uvOFoXNVc1Lqe
+# QNEGBBaz1NR8s

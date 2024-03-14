@@ -7,3 +7,6 @@ mkFitSiStripHitConverter = _mkFitSiStripHitConverterDefault.clone(
     minGoodStripCharge = cms.PSet(
         refToPSet_ = cms.string('SiStripClusterChargeCutLoose'))
 )
+# foo bar baz
+# 1RIh5iU0YMYiQ
+# dzpcPJLii6dof

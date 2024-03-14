@@ -26,3 +26,6 @@ process.source = cms.Source("PoolSource",
 process.ep = cms.EndPath(process.output)
 
 
+# foo bar baz
+# 0pP74y5fv81ot
+# fNWms9QgSJvjL

@@ -10,3 +10,6 @@ vjjGenJetFilterSeq = cms.Sequence(
   vjjGenJetFilterPhotonInBarrelMjj300
 )
 
+# foo bar baz
+# i1O42tKlVJUMi
+# BXDTjXKVIb8CK

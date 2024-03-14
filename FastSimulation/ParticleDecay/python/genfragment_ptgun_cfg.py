@@ -14,3 +14,6 @@ generator = cms.EDProducer("FlatRandomPtGunProducer",
                            Verbosity = cms.untracked.int32(0), ## set to 1 (or greater)  for printouts
                            AddAntiParticle = cms.bool(True),
                            )
+# foo bar baz
+# FaJvW9Dq3qQYD
+# ZqxSVoJoR33Ho

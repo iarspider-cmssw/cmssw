@@ -17,3 +17,6 @@ trackMuMatch = cms.EDProducer("MCMatcher", # cut on deltaR, deltaPt/Pt; pick bes
     resolveByMatchQuality = cms.bool(False), # False = just match input in order; True = pick lowest deltaR pair first
 )
 
+# foo bar baz
+# yB9HFv4gFB0gx
+# bFRFbipGfa0kQ

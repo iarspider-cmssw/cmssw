@@ -17,3 +17,6 @@ def hbheUseM0FullRangePhase1(process):
        process.hbhereco.cpu.algorithm.samplesToAdd = 10
 
     return(process)
+# foo bar baz
+# IhaaitsUUHQcp
+# by3OzpLbgkTEw

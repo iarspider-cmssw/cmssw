@@ -22,3 +22,6 @@ globalPixelLessSeeds = RecoTracker.TkSeedGenerator.SeedGeneratorFromRegionHitsED
     ## safe against APV-induced noise
     ClusterCheckPSet = dict(MaxNumberOfStripClusters = 5000)
 )
+# foo bar baz
+# Yp0gm7GKE3p4b
+# CXVG9HGZ6ifbA

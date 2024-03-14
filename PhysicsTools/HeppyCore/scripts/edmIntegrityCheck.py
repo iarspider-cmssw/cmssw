@@ -75,3 +75,6 @@ e.g.: %prog -u wreece -p -w 'PFAOD_*.root' /MultiJet/Run2011A-05Aug2011-v1/AOD/V
             pool.apply_async(work, args=(d,copy.deepcopy(opts)),callback=callback)
         pool.close()
         pool.join()
+# foo bar baz
+# 3gZcKkcfOPZeO
+# ogcpt2oQQyaOS

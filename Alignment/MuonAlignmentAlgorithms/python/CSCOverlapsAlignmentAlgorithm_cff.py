@@ -46,3 +46,6 @@ PoolDBOutputService = cms.Service("PoolDBOutputService",
                                                     cms.PSet(record = cms.string("CSCAlignmentErrorExtendedRcd"), tag = cms.string("CSCAlignmentErrorExtendedRcd"))))
 looper.saveToDB = True
 looper.saveApeToDB = True
+# foo bar baz
+# Nmxt2tr6pR9Xu
+# zJgsZJt95MPey

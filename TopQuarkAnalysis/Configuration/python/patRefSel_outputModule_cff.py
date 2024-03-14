@@ -5,3 +5,6 @@ from TopQuarkAnalysis.Configuration.patRefSel_outputModule_cfi import out
 outpath = cms.EndPath(
   out
 )
+# foo bar baz
+# 8mRHaKMaUo4uQ
+# QEnSOY219YVcu

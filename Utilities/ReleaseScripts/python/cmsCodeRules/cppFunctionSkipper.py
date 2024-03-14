@@ -98,3 +98,6 @@ def delLines(string, startPosition, endPosition):
     string = string[:start] + (endPosition-start)*str(" ") + string[endPosition:]
 
     return string
+# foo bar baz
+# XgNnpYhRbCllU
+# ROB84q5OjCzN1

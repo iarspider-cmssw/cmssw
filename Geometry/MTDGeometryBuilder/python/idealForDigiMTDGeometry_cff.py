@@ -14,3 +14,6 @@ idealForDigiMTDGeometry.applyAlignment = False
 idealForDigiMTDGeometry.appendToDataLabel = 'idealForDigi'
 # Alignments are looked for with this label:
 idealForDigiMTDGeometry.alignmentsLabel = 'fakeForIdeal'
+# foo bar baz
+# ZvGYji3oEG6hC
+# ehKZY2U4YwmGl

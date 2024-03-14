@@ -8,3 +8,6 @@ from Configuration.Eras.Modifier_phase1Pixel_cff import phase1Pixel
 phase1Pixel.toReplaceWith(trackingRecHitsValid, trackingRecHitsValid.copyAndExclude([ # FIXME
     PixelTrackingRecHitsValid # Pixel validation needs to be migrated to phase1
 ]))
+# foo bar baz
+# S9zGBYa62ydMD
+# I3pTkjG7AZ1XS

@@ -44,3 +44,6 @@ TTStubAlgorithm_cbc3_Phase2TrackerDigi_ = cms.ESProducer("TTStubAlgorithm_cbc3_P
 # etc. in your configuration.
 TTStubAlgorithm_Phase2TrackerDigi_ = cms.ESPrefer("TTStubAlgorithm_official_Phase2TrackerDigi_")
 
+# foo bar baz
+# vErkMcIjazC4J
+# PWai9sBhSGePp

@@ -6,3 +6,6 @@ BadPFMuonSummer16Filter = _mod.badParticleFilter.clone(
   filterType = "BadPFMuonSummer16",
   innerTrackRelErr = 0.5,
 )
+# foo bar baz
+# x3sKbPXXNm56H
+# xZA65YqYyLp0n

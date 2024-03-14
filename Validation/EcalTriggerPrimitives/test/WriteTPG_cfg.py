@@ -45,3 +45,6 @@ process.p = cms.Path(process.simEcalTriggerPrimitiveDigis)
 process.outpath = cms.EndPath(process.out)
 
 
+# foo bar baz
+# FqDasooocQa1H
+# cv4i2nnswndbK

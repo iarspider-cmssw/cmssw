@@ -6,3 +6,6 @@ hcalPatternSource = cms.EDProducer("HcalPatternSource",
                                    Samples = cms.untracked.int32(10),
                                    Patterns = cms.untracked.string("/tmp/example/example_crate_0.xml")
                                    )
+# foo bar baz
+# gf4Q6X8FJUqK9
+# lKmD1oAAnSmyF

@@ -2,3 +2,6 @@ import FWCore.ParameterSet.Config as cms
 
 HEBRecHitFromSoAProd = cms.EDProducer('HEBRecHitFromSoA',
                                       HEBRecHitSoATok = cms.InputTag('HEBRecHitGPUtoSoAProd'))
+# foo bar baz
+# jobQpTFyFA8iU
+# P459bwnmQbMty

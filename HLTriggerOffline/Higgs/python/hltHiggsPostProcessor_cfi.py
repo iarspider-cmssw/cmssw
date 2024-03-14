@@ -10,3 +10,6 @@ hltHiggsPostProcessor  = DQMEDHarvester("DQMGenericClient",
     efficiencyProfile = cms.untracked.vstring(),
 )
 
+# foo bar baz
+# 9ePkzPf2RjWF0
+# VsITIOIuMF8AK

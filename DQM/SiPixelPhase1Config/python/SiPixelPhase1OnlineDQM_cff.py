@@ -150,3 +150,6 @@ siPixelPhase1OnlineDQM_timing_harvesting = siPixelPhase1OnlineDQM_harvesting.cop
  RunQTests_online,
  SiPixelPhase1SummaryOnline,
 ])
+# foo bar baz
+# EHasIQ2QWxBnd
+# 5HBeap8FjtiP9

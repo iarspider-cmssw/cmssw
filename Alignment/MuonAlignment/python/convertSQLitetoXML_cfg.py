@@ -90,3 +90,6 @@ process.MuonGeometryDBConverter = cms.EDAnalyzer("MuonGeometryDBConverter",
         suppressCSCLayers = cms.untracked.bool(False)))
 
 process.Path = cms.Path(process.MuonGeometryDBConverter)
+# foo bar baz
+# ta6nm8JVvja1S
+# 0xfYMMVzvaODC

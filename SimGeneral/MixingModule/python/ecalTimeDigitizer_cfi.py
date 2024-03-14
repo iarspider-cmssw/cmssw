@@ -7,3 +7,6 @@ ecalTimeDigitizer = cms.PSet(
     accumulatorType = cms.string("EcalTimeDigiProducer"),
 )
 
+# foo bar baz
+# sSJx6icnxkKyI
+# 4MDmYBUECpiy9

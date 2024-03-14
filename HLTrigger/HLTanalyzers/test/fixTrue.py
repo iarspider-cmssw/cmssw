@@ -73,3 +73,6 @@ if __name__ == '__main__':
         ofile=os.path.join(Dir2,thefile)
         print("diff ",ifile,ofile)
         FixFile(ifile,ofile)
+# foo bar baz
+# E54zqv5xKVO3i
+# fVn9yUbApWIzE

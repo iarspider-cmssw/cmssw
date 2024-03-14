@@ -25,3 +25,6 @@ process.TFileService = cms.Service("TFileService",
                                    fileName = cms.string(options.outputFile))
 
 process.p = cms.Path(process.demo)
+# foo bar baz
+# SSu3W8T4rBdww
+# 0d4xkqSZYS2Rn

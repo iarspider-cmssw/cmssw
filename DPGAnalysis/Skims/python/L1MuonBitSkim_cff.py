@@ -17,3 +17,6 @@ l1RequestPhAlgos.L1SeedsLogicalExpression = cms.string(
     'L1_SingleMuBeamHalo OR L1_SingleMuOpen OR L1_SingleMu3 OR L1_SingleMu7 OR L1_SingleMu10 OR L1_SingleMu20 OR L1_DoubleMu3')
 
 l1MuBitsSkimseq = cms.Sequence(l1RequestPhAlgos)
+# foo bar baz
+# P9AeGJ4e4mpX5
+# ZV6YfCE4I0RTu

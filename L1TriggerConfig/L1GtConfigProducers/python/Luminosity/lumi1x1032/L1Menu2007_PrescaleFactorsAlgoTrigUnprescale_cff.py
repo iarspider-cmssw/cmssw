@@ -30,3 +30,6 @@ l1GtPrescaleFactorsAlgoTrig.PrescaleFactorsSet = cms.VPSet(cms.PSet(
         1, 1, 1)
 ))
 
+# foo bar baz
+# VmuY4iKBhPBxj
+# zdE6cjNRxPgQv

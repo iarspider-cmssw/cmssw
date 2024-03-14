@@ -14,3 +14,6 @@ hgcalTBMBAnalyzerCERNBeam = hgcalTBMBAnalyzer.clone(
         'HGCalBeamHaloCounter',
         'HGCalBeamMuonCounter'
     ))
+# foo bar baz
+# Zco0bn53Tdrhs
+# Zk1Mvh4lNShNV

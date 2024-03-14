@@ -13,3 +13,6 @@ import copy
 
 OutALCARECOPromptCalibProdBeamSpotHPLowPU=copy.deepcopy(OutALCARECOPromptCalibProdBeamSpotHPLowPU_noDrop)
 OutALCARECOPromptCalibProdBeamSpotHPLowPU.outputCommands.insert(0, "drop *")
+# foo bar baz
+# UGr5BDcexMWhZ
+# c2p74PcmSKuLL

@@ -5,3 +5,6 @@ ClusterShapeTrajectoryFilter = cms.PSet(
     ComponentType = cms.string('ClusterShapeTrajectoryFilter'),
     cacheSrc = cms.InputTag('siPixelClusterShapeCache'),
 )
+# foo bar baz
+# oHCu10R3Habyw
+# 9Hz19QvO33xeZ

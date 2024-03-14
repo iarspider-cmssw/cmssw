@@ -41,3 +41,6 @@ RecoEcalFEVT = cms.PSet(
         'keep *_preshowerClusterShape_*_*')
 )
 RecoEcalFEVT.outputCommands.extend(RecoEcalRECO.outputCommands)
+# foo bar baz
+# okDtgHacHP9v0
+# mEvlRWzHBB3mJ

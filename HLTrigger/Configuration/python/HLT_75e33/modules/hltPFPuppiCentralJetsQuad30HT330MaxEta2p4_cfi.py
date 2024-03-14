@@ -9,3 +9,6 @@ hltPFPuppiCentralJetsQuad30HT330MaxEta2p4 = cms.EDFilter("HLTHtMhtFilter",
     minMht = cms.vdouble(0.0),
     saveTags = cms.bool(True)
 )
+# foo bar baz
+# nqciQClV4KPtH
+# w7KjPMNLYWA11

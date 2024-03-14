@@ -20,3 +20,6 @@ SC5byValAlgo = cms.EDProducer("JetFlavourIdentifier",
     physicsDefinition = cms.bool(False),
     leptonInfo = cms.bool(True)
 )
+# foo bar baz
+# HlCnfEuUjqz8Z
+# kNdt5EMOqcPoY

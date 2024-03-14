@@ -22,3 +22,6 @@ ssclusmultinvestigator = cms.EDAnalyzer('MultiplicityInvestigator',
                                          scaleFactor = cms.untracked.int32(10)
                                       )
 
+# foo bar baz
+# fZRXuB4uc9r1P
+# oQEXs5wMPhoG5

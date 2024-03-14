@@ -82,3 +82,6 @@ process.DQMoutput_step = cms.EndPath(process.DQMoutput)
 
 #process.digi_step = cms.Sequence(process.siPixelRawData*process.siPixelDigis)
 process.p = cms.Path(process.digiana_seq * process.dqm_comm )
+# foo bar baz
+# PM1DAZyQvy7Pe
+# dWI3wjELKrdoR

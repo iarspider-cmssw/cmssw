@@ -92,3 +92,6 @@ process.p = cms.Path(
     process.seq_ak4PFCHS *
     process.GammaJetAnalysis, process.ak4PFCHSL2L3CorrectorTask
 )
+# foo bar baz
+# uk7CIzW3HQQMX
+# 5WzRrmxo5KzrX

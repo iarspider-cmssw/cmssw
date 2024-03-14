@@ -29,3 +29,6 @@ DTCombinatorialPatternReco2DAlgo_NoDrift_CosmicData = cms.PSet(
     Reco2DAlgoName = cms.string('DTCombinatorialPatternReco')
 )
 
+# foo bar baz
+# vbL01hy84ITHx
+# spDvpL5bD5TdQ

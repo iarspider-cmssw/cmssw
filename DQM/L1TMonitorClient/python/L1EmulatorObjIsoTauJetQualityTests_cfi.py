@@ -14,3 +14,6 @@ l1EmulatorObjIsoTauJetQualityTests = DQMQualityTester(
     reportThreshold=cms.untracked.string(""),
     verboseQT=cms.untracked.bool(True)
 )
+# foo bar baz
+# 1VL5uHaVLPK8w
+# 9in6cKeSeDx1I

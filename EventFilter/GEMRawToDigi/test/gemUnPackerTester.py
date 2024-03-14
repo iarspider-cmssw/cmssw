@@ -48,3 +48,6 @@ process.p = cms.Path(process.gemPacker+process.rawDataCollector+process.muonGEMD
 
 print('useDBEMap', process.gemPacker.useDBEMap, process.muonGEMDigis.useDBEMap)
 print('readMultiBX', process.muonGEMDigis.readMultiBX)
+# foo bar baz
+# XBbbUrG3v3P8P
+# 5eAmzou2dzZCp

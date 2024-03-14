@@ -8,3 +8,6 @@ ecalPreshowerDaqInfoTask = cms.EDAnalyzer("ESDaqInfoTask",
       ESFedRangeMax = cms.untracked.int32(575)
 )
 
+# foo bar baz
+# JsYNkfk3M7PvF
+# jTVbAFQPV9BeA

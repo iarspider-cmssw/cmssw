@@ -9,3 +9,6 @@ hltMVAJetPuIdCalculator = _mod.MVAJetPuIdProducer.clone(
 hltMVAJetPuIdEvaluator = hltMVAJetPuIdCalculator.clone(
     jetids = "pileupJetIdCalculator" 
 )
+# foo bar baz
+# Xv2BgeOwQNqKj
+# uGs1kkN8iR4PD

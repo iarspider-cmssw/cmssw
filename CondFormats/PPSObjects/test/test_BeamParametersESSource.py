@@ -74,3 +74,6 @@ process.write = cms.EDAnalyzer("WriteCTPPSBeamParameters",
 process.path = cms.Path(
   process.get*process.write
 )
+# foo bar baz
+# tdBhp3S7DbOz6
+# Y92Lqw2glokob

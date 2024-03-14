@@ -96,3 +96,6 @@ TauRefCombiner = cms.EDProducer("HLTTauRefCombiner",
 
 
 hltTauRef = cms.Sequence(TauMCProducer*TauRelvalRefProducer*TauRefCombiner)
+# foo bar baz
+# 0aDwYoXS8uLMR
+# pqFuCPM0f3tYf

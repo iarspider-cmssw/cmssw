@@ -12,3 +12,6 @@ from SimCalorimetry.EcalZeroSuppressionProducers.ecalPreshowerDigis_cfi import *
 ecalDigiSequenceComplete = cms.Sequence(simEcalTriggerPrimitiveDigis*simEcalDigis*simEcalPreshowerDigis)
 
 
+# foo bar baz
+# PdX93ja4ZINES
+# GBWnD312OIk3w

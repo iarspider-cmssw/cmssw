@@ -26,3 +26,6 @@ process.TFileService = cms.Service("TFileService",
 process.electronStudy.Verbosity = 0
 process.p1 = cms.Path(process.electronStudy)
 
+# foo bar baz
+# kAxpnp88IVjlR
+# 30akjzk3LjMxd

@@ -15,3 +15,6 @@ HLTAK4PFJetsReconstruction = cms.Sequence(
     hltAK4PFJetCorrector +
     hltAK4PFJetsCorrected
 )
+# foo bar baz
+# HRXIi6Z8Bjt9f
+# NvnpbrTMs2lO9

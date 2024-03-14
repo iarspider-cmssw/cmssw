@@ -7,3 +7,6 @@ gemEffByGEMCSCSegment = cms.Sequence(
     gemEffByGEMCSCSegmentSource *
     gemEffByGEMCSCSegmentClient
 )
+# foo bar baz
+# 1Wnml0TtLde0l
+# n3ohHW7DVWBH3

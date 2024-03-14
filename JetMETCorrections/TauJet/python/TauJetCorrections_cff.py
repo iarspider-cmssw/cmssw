@@ -22,3 +22,6 @@ TauJetCorJetIcone4 = cms.EDProducer("JetCorrectionProducer",
 
 TauJetCorrections = cms.Sequence(TauJetCorJetIcone4)
 
+# foo bar baz
+# 3pp9EepiHl3YO
+# 3jra340Dz0BK7

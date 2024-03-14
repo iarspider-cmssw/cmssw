@@ -51,3 +51,6 @@ process.siStripFedCablingDummyDBWriter.record=process.PoolDBOutputService.toPut[
 process.p1 = cms.Path(process.siStripFedCablingDummyDBWriter)
 
 
+# foo bar baz
+# DcznBTE3yNeIJ
+# kZqCgC3BXmoIa

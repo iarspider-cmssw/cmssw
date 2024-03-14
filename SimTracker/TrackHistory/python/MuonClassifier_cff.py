@@ -18,3 +18,6 @@ MuonClassifier = cms.PSet(
     numberOfInnerLayers = cms.untracked.uint32(2),
     minTrackerSimHits = cms.untracked.uint32(3)
 )
+# foo bar baz
+# sZSKk4pcSLltT
+# ZYh9EuNrUmhMZ

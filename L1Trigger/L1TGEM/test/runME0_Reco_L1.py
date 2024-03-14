@@ -122,3 +122,6 @@ associatePatAlgosToolsTask(process)
 from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEarlyDelete
 process = customiseEarlyDelete(process)
 # End adding early deletion
+# foo bar baz
+# 6RA2Gbx6Q50D3
+# VCJGRaibRWqzi

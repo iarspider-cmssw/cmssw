@@ -50,3 +50,6 @@ process.reader = cms.EDFilter("SiStripApvGainReader",
 process.p1 = cms.Path(process.reader)
 
 
+# foo bar baz
+# NprDCFMgHbkmk
+# pZluB2LTwAKtw

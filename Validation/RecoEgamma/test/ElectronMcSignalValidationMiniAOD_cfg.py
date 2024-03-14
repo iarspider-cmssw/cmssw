@@ -111,4 +111,6 @@ process.electronMcSignalValidatorMiniAOD.OutputFolderName = cms.string("EgammaV/
 process.p = cms.Path( process.miniAODElectronIsolation * process.ElectronIsolation * process.electronMcSignalValidatorMiniAOD * process.MEtoEDMConverter ) #  process.printContent *
 process.outpath = cms.EndPath(
 process.EDM,
-)
+)# foo bar baz
+# OXOb1IAlKYQx7
+# hO3CsUa9hSUpY

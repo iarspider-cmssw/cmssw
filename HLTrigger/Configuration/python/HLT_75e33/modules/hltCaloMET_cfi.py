@@ -7,3 +7,6 @@ hltCaloMET = cms.EDProducer("CaloMETProducer",
     noHF = cms.bool(False),
     src = cms.InputTag("towerMaker")
 )
+# foo bar baz
+# WNK8KNxHv3YeC
+# 2aahnHmcN9tm2

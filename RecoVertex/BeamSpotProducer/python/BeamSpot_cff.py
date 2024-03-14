@@ -16,3 +16,6 @@ _offlineBeamSpotTask_alpaka = offlineBeamSpotTask.copy()
 offlineBeamSpotDevice = _beamSpotDeviceProducer.clone(src = cms.InputTag('offlineBeamSpot'))
 _offlineBeamSpotTask_alpaka.add(offlineBeamSpotDevice)
 alpaka.toReplaceWith(offlineBeamSpotTask, _offlineBeamSpotTask_alpaka)
+# foo bar baz
+# Z4JNmypFGlPMc
+# 8trlMnz6Dh0bd

@@ -8,3 +8,6 @@ client = cms.EndPath(
     + trackingForElectronsMonitorClientHLT
     + pixelOnlineHarvesterHLTsequence
 )
+# foo bar baz
+# cgNaqY48Hq9fy
+# 4RRs685CMaCGP

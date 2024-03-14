@@ -14,3 +14,6 @@ GlobalTag = cms.ESSource( "PoolDBESSource",
                           pfnPostfix       = cms.untracked.string( '' ),
                           pfnPrefix        = cms.untracked.string( '' ),
                           )
+# foo bar baz
+# Wue3hnyyxXR2B
+# 2D1m1xlMQUzXy

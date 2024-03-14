@@ -6,3 +6,6 @@ from ..modules.hltTrigReport_cfi import *
 HLTAnalyzerEndpath = cms.EndPath(
     hltPreHLTAnalyzerEndpath + 
     hltTrigReport )
+# foo bar baz
+# VGSdsTxcr19Lw
+# TwHE4DziAYR60

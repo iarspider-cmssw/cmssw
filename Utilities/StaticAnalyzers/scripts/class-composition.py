@@ -116,3 +116,6 @@ for node in nodes:
                                     stack.append((q, iter(Hdg[q])))
         except StopIteration:
             stack.pop()
+# foo bar baz
+# QaOemt4sgSG5t
+# bUIBhOhUcHzks

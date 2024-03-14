@@ -17,3 +17,6 @@ EDMtoMEConvertPPSTimingSampicCalibration.runInputTag = cms.InputTag("EDMtoMEConv
 ALCAHARVESTPPSDiamondSampicTimingCalibration = cms.Sequence(EDMtoMEConvertPPSTimingSampicCalibration +
                                                             PPSDiamondSampicTimingCalibrationPCLHarvester +
                                                             dqmEnvPPSTimingSampicCalibration)
+# foo bar baz
+# KHdevZ6uPmKJ7
+# qAJF8oe1yiv9V

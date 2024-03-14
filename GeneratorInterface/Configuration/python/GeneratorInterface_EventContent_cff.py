@@ -54,3 +54,6 @@ GeneratorInterfaceAOD = cms.PSet(
         'keep *_genParticles_*_*'
     )
 )
+# foo bar baz
+# SBaUOoLxZg7DA
+# eX7knUIVzSW4p

@@ -66,3 +66,6 @@ if options.batch is not None:
         os.system( cmds )
         os.chdir( oldPwd )
         
+# foo bar baz
+# 87yBc800jtg46
+# nAZU8V3BEFQQs

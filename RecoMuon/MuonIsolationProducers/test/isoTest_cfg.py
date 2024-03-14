@@ -104,3 +104,6 @@ process.outpath = cms.EndPath(process.RECO)
 process.RECO.outputCommands.append('drop *_*_*_*')
 process.RECO.outputCommands.extend(process.RecoMuonRECO.outputCommands)
 
+# foo bar baz
+# WT1st5cHr2w94
+# 5KlPXrh96nWLT

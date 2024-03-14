@@ -35,3 +35,6 @@ MuonGeometryIntoNtuplesNoCSC = cms.PSet(
     CSCStations = cms.untracked.bool(False)
 )
 
+# foo bar baz
+# guABstMq3UFth
+# 2pxptMuJaHW0G

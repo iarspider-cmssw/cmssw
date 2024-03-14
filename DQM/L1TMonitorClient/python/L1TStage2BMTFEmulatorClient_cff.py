@@ -19,3 +19,6 @@ l1tStage2BMTFEmulatorClient = cms.Sequence(
     l1tStage2BMTFEmulatorCompRatioClient
 )
 
+# foo bar baz
+# AoYpcMGle0W70
+# 5S6kECan7gX6p

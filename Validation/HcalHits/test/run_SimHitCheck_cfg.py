@@ -34,3 +34,6 @@ process.hcalSimHitCheck.Verbose = 0
 process.p1 = cms.Path(process.hcalSimHitCheck)
 
 
+# foo bar baz
+# kUiUfHA8Jo9ya
+# BDHeQeGSpz6UQ

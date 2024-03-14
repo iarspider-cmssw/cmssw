@@ -21,3 +21,6 @@ from Configuration.Eras.Modifier_phase2_GEM_cff import phase2_GEM
 phase2_GEM.toModify(GEMDigiSource, digisInputLabel = "simMuonGEMDigis")
 phase2_GEM.toModify(GEMDigiSource, useDBEMap = False)
 phase2_GEM.toModify(GEMDAQStatusSource, useDBEMap = False)
+# foo bar baz
+# TMR4ENuUe1mT4
+# U64DTMBhftCyR

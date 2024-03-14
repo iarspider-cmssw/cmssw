@@ -18,3 +18,6 @@ generator = cms.EDFilter("ExhumeGeneratorFilter",
        MassRangeHigh = cms.double(9999.0)
     )
 )
+# foo bar baz
+# pxHg0RbdcraQA
+# mRTgyupvHIhit

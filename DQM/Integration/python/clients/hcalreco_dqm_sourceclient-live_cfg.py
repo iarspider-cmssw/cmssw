@@ -200,3 +200,6 @@ process.options = cms.untracked.PSet(
 process.options.wantSummary = True
 print("Final Source settings:", process.source)
 
+# foo bar baz
+# JRhKa8AQSEIkU
+# cIYrfaQl7reSf

@@ -120,3 +120,6 @@ PoolDBESSourceMistag110118 = cms.ESSource("PoolDBESSource",
     ),
 ))
 PoolDBESSourceMistag110118.connect = 'frontier://FrontierProd/CMS_COND_31X_PHYSICSTOOLS'
+# foo bar baz
+# xQZJFAhVORgUh
+# ou2NKm4neHg8C

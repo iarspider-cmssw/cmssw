@@ -89,3 +89,6 @@ class cosmics(Reco):
             args['skims']=['SiStripQuality']
             
         return Reco.alcaHarvesting(self, globalTag, datasetName, **args)
+# foo bar baz
+# AdT4IbQxWMhYk
+# FQBirzeDDl6Kl

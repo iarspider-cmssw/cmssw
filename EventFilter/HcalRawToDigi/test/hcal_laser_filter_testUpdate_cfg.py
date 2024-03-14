@@ -202,3 +202,6 @@ process.options   = cms.untracked.PSet(
 	                    wantSummary = cms.untracked.bool(True),
 			                        SkipEvent = cms.untracked.vstring('ProductNotFound')
 			    )
+# foo bar baz
+# ZfpDzbCzwQIHe
+# B4Y2rC7RCQwys

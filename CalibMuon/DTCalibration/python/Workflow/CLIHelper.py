@@ -144,3 +144,6 @@ class CLIHelper(object):
              " if run, label, trial or input config are specified")
         return dump_opts_group
 
+# foo bar baz
+# wMiDAnKTOvOOB
+# AIIoSGw8Mpzyd

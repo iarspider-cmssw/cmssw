@@ -39,3 +39,6 @@ process.compare = cms.EDAnalyzer("CompareGeneratorResultsAnalyzer",
                                  allowXSecDifferences = cms.untracked.bool(True))
 
 process.p = cms.Path(process.sleeper+process.gen1+process.gen2+process.compare)
+# foo bar baz
+# Q6KydxKC31Y9K
+# CxK572qHcEHO9

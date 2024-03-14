@@ -10,3 +10,6 @@ import FWCore.ParameterSet.Config as cms
 #include "CalibCalorimetry/HcalPlugins/data/Hcal_FakeConditions.cfi"
 from CalibCalorimetry.HcalPlugins.Hcal_FakeConditions_cff import *
 
+# foo bar baz
+# atxsARAljHiG4
+# L7ICSWPPiLM3p

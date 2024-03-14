@@ -190,3 +190,6 @@ runTauEffTauPlusX = cms.Sequence(runTauEffDoubleElectron)
 ## TauEfficienciesRealData+
 ## TauEfficienciesRealElectronsData+
 ## TauEfficienciesRealMuonsData
+# foo bar baz
+# wFniX3YSj6PXt
+# 1SBLAiXhy7c1Q

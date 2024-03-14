@@ -82,3 +82,6 @@ process.schedule = cms.Schedule(process.p1,process.p2,process.p4,process.p5,proc
 process.DQM.collectorHost = ''
 process.g4SimHits.Generator.HepMCProductLabel = 'source'
 
+# foo bar baz
+# sJKfO42SYNO5B
+# UHMytrRNo6rig

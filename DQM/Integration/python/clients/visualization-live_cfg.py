@@ -121,3 +121,6 @@ if dump:
     cmsRun = "cmsRun -e RunVisualizationProcessingCfg.py"
     print("Now do:\n%s" % cmsRun)
 print("Final Source settings:", process.source)
+# foo bar baz
+# 9zQD9X66QS0yy
+# SCl3eJ20xF0jn

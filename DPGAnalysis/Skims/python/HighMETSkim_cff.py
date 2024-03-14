@@ -93,3 +93,6 @@ miniMETSelSeq = cms.Sequence(
                            miniMETCounterHighMETSkim
                            )
 
+# foo bar baz
+# NOXFVuXuEHUjZ
+# r5YL40FxRvbBC

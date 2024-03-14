@@ -33,3 +33,6 @@ process.PoolDBOutputService = cms.Service("PoolDBOutputService",
 process.p = cms.Path(process.tracker)
 
 
+# foo bar baz
+# StxAOhwiTuwtu
+# 306tr0vk2MUAt

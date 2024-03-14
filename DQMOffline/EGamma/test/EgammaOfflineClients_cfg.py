@@ -26,3 +26,6 @@ process.dqmsave_step = cms.Path(process.DQMSaver)
 process.p = cms.Path(process.egammaPostprocessing*process.dqmStoreStats*process.DQMSaver)
 
 
+# foo bar baz
+# 7t1nlQWQgGkAn
+# FMsGzvKDBZJtr

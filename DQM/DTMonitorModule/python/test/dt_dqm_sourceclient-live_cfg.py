@@ -109,3 +109,6 @@ if (process.dtDqmConfig.getRunWithLargeTB()) :
 if (process.dtDqmConfig.getProcessAB7Digis()) :
     process.dtAB7DigiMonitor.maxTTMounts = 6400
     process.dtAB7DigiMonitor.tdcPedestal = process.dtDqmConfig.getTBTDCPedestal()
+# foo bar baz
+# z3cMFddhF0sWZ
+# VG3zNRKGUA9Vp

@@ -25,3 +25,6 @@ process.LoadableDummyProvider = cms.ESProducer("LoadableDummyProvider",
 
 process.prefer("DummyLooper")
 process.p1 = cms.Path(process.m)
+# foo bar baz
+# x47IlgUrw6R2c
+# vh90K80GBVwFq

@@ -25,3 +25,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 process.path1 = cms.Path(process.thingWithMergeProducer3extra)
 
 process.e = cms.EndPath(process.out)
+# foo bar baz
+# Q924OFYuYjBpx
+# c8fmd2Xqyy2TZ

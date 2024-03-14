@@ -27,3 +27,6 @@ EXONoBPTXSkim_EventContent = cms.PSet(
                      'keep *_TriggerResults_*_*',
      )
 )
+# foo bar baz
+# v3iC73sUwLZF2
+# V4UUIhyU6ejcG

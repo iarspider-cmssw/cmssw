@@ -89,3 +89,6 @@ process.p = cms.Path(process.readMeFromFile*process.dqmEnv*process.qTesterRPC*pr
 
 
 
+# foo bar baz
+# VV1fALaRBwGSO
+# qjDmtL3HetoiK

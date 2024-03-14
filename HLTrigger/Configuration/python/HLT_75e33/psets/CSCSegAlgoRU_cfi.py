@@ -99,3 +99,6 @@ CSCSegAlgoRU = cms.PSet(
         6, 5, 6, 5, 6
     )
 )
+# foo bar baz
+# mbSl7bgN90nZt
+# NM1lTXzA6QmzM

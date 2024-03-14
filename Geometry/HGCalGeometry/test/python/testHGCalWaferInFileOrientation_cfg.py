@@ -35,3 +35,6 @@ process.maxEvents = cms.untracked.PSet(
 )
 
 process.p1 = cms.Path(process.generator*process.hgcalWaferInFileOrientation)
+# foo bar baz
+# Mrd92BChU6XZK
+# DKEvBrAayhinS

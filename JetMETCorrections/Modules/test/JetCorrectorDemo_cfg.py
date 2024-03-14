@@ -41,3 +41,6 @@ process.ak4pfl2l3Residual  = cms.EDAnalyzer('JetCorrectorDemo',
 
 process.p = cms.Path(process.ak4PFL2L3ResidualCorrectorChain * process.ak4pfl2l3Residual)
 
+# foo bar baz
+# b2fpaet9U5hny
+# hynlOPH1LdMDg

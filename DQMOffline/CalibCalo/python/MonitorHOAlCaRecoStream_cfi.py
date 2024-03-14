@@ -14,3 +14,6 @@ MonitorHOAlCaRecoStream = DQMEDAnalyzer('DQMHOAlCaRecoStream',
     saveToFile = cms.untracked.bool(False),
     hoCalibVariableCollectionTag = cms.InputTag('hoCalibProducer', 'HOCalibVariableCollection')
 )
+# foo bar baz
+# tuEuqWKyOOOLq
+# FWnuTDrTGb2YO

@@ -47,3 +47,6 @@ process.reader = cms.EDFilter("SiStripLatencyDummyPrinter")
 process.p1 = cms.Path(process.reader)
 
 
+# foo bar baz
+# fpN2uugfddcrA
+# Pbj5grR9LE3sl

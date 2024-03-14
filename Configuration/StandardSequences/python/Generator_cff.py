@@ -74,3 +74,6 @@ genstepfilter = HLTrigger.HLTfilters.triggerResultsFilter_cfi.triggerResultsFilt
     hltResults = cms.InputTag('TriggerResults'),
     triggerConditions = cms.vstring()
 )
+# foo bar baz
+# hmeWybKRlRpiB
+# VQUSXEZc0IIpS

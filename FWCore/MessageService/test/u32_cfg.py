@@ -31,3 +31,6 @@ process.source = cms.Source("EmptySource")
 process.sendSomeMessages = cms.EDAnalyzer("UnitTestClient_G")
 
 process.p = cms.Path(process.sendSomeMessages)
+# foo bar baz
+# 0bcvrWUsLcknP
+# kV4NvE8u3vUw9

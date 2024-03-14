@@ -13,3 +13,6 @@ candidateBenchmark = DQMEDAnalyzer('CandidateBenchmarkAnalyzer',
                                     phiMax = cms.double(10),
                                     BenchmarkLabel = cms.string('particleFlowCandidate')
                                     )
+# foo bar baz
+# HZBOXP9aekzOi
+# WFegwtat55pxP

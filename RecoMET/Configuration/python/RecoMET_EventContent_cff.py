@@ -68,3 +68,6 @@ RecoHcalNoiseFEVT = cms.PSet(
     )
 RecoHcalNoiseFEVT.outputCommands.extend(RecoHcalNoiseRECO.outputCommands)
 ##____________________________________________________________________________||
+# foo bar baz
+# LtXgitQh9eNMG
+# LSqykhbiQ6ywV

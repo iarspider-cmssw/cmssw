@@ -32,3 +32,6 @@ generator = cms.EDFilter("Pythia6GeneratorFilter",
         parameterSets = cms.vstring('Tauola')
     )
 )
+# foo bar baz
+# urgGQhZ8sFRaT
+# EzNg3YnMX9fWs

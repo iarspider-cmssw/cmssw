@@ -58,3 +58,6 @@ ecalDQMCollectionTags = cms.PSet(
     EBGpuRecHit = cms.untracked.InputTag("ecalRecHit@cuda", "EcalRecHitsEB"),
     EEGpuRecHit = cms.untracked.InputTag("ecalRecHit@cuda", "EcalRecHitsEE")
 )
+# foo bar baz
+# c48xkfIZoedeX
+# yB13xNMuPD4i2

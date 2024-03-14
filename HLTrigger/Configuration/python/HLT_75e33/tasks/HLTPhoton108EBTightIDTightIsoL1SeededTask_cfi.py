@@ -13,3 +13,6 @@ HLTPhoton108EBTightIDTightIsoL1SeededTask = cms.Task(
     hltEgammaHcalPFClusterIsoL1Seeded,
     hltEgammaHoverEL1Seeded
 )
+# foo bar baz
+# rUFxABi5SuUGt
+# ZZg13u9LNw2VG

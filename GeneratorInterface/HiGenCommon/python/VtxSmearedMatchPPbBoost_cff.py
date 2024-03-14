@@ -8,3 +8,6 @@ VtxSmeared = cms.EDProducer("MixBoostEvtVtxGenerator",
                             vtxLabel = cms.InputTag("offlinePrimaryVertices"),
                             Beta=cms.double(-0.434)
                             )
+# foo bar baz
+# i0StwzOgL42q2
+# rwGhm0cf0krzB

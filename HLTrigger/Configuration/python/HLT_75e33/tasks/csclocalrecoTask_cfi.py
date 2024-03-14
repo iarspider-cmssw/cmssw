@@ -7,3 +7,6 @@ csclocalrecoTask = cms.Task(
     hltCsc2DRecHits,
     hltCscSegments
 )
+# foo bar baz
+# A92tzKT16jSHf
+# w2Xs3HufLququ

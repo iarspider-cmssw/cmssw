@@ -13,3 +13,6 @@ alcaBeamSpotProducerHPLowPU.PVFitter.errorScale = cms.untracked.double(0.9)
 seqALCARECOPromptCalibProdBeamSpotHPLowPU = cms.Sequence(ALCARECOTkAlMinBiasFilterForBSHP *
                                                          ALCARECOHltFilterForBSHP *
                                                          alcaBeamSpotProducerHPLowPU)
+# foo bar baz
+# GoVxwDNEv9i0y
+# vmRcNX5Do7qOE

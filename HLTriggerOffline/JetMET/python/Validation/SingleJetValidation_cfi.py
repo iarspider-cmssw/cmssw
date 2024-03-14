@@ -23,3 +23,6 @@ phase2_common.toModify(SingleJetMetPaths,
                        )
 
 SingleJetValidation = cms.Sequence(SingleJetMetPaths)
+# foo bar baz
+# Tg3CnRiYHDezr
+# xYUkkRhYO83nN

@@ -14,3 +14,6 @@ from DQMOffline.Trigger.DQMOffline_HLT_SummaryCert_cfi import *
 #dqmOfflineHLTCert = cms.Sequence(muonHLTCertSeq*egHLTOffCertSeq*HLTOverallCertSeq)
 #dqmOfflineHLTCert = cms.Sequence(muonHLTCertSeq*hltTauOfflineCertification*HLTOverallCertSeq)
 dqmOfflineHLTCert = cms.Sequence(muonHLTCertSeq*egHLTOffCertSeq*HLTOverallCertSeq*hltTauOfflineCertification*HLTOverallCertSeq)
+# foo bar baz
+# tcrW4yBIdAnik
+# jDBwrmimUpVC3

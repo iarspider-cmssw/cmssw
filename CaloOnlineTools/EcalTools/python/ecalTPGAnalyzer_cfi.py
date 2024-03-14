@@ -14,3 +14,6 @@ tpAnalyzer = cms.EDAnalyzer("EcalTPGAnalyzer",
     UseEndCap = cms.bool(False)
 
 )
+# foo bar baz
+# eFGJiNop5J128
+# gL34LEOvJq2fV

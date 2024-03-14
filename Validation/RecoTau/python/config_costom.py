@@ -62,3 +62,6 @@ process.options.numberOfStreams=cms.untracked.uint32(0)
 from FWCore.Modules.logErrorHarvester_cff import customiseLogErrorHarvesterUsingOutputCommands
 process = customiseLogErrorHarvesterUsingOutputCommands(process)
 
+# foo bar baz
+# GEJiXMzRnb2E5
+# lqVxv3weZUJ6b

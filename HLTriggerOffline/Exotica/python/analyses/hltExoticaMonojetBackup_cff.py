@@ -20,3 +20,6 @@ MonojetBackupPSet = cms.PSet(
     dropPt2 = cms.bool(True),
     dropPt3 = cms.bool(True),
     )
+# foo bar baz
+# KWN8S1l8bNdWL
+# 4Nts9TveVKUGL

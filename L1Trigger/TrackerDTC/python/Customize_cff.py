@@ -11,4 +11,6 @@ def analyzerUseTMTT(process):
     from L1Trigger.TrackerDTC.ProducerED_cfi import TrackerDTCProducer_params
     TrackerDTCProducer_params.UseHybrid = cms.bool( False )
     process.TrackerDTCAnalyzer = cms.EDAnalyzer('trackerDTC::Analyzer', TrackerDTCAnalyzer_params, TrackerDTCProducer_params)
-    return process
+    return process# foo bar baz
+# 3kv3vcP5Go5FJ
+# k9yu12mhXJ9NC

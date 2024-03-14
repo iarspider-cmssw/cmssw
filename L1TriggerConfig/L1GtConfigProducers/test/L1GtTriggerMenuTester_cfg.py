@@ -149,3 +149,6 @@ process.MessageLogger.files.L1GtTriggerMenuTester_debug = cms.untracked.PSet(
         ERROR = cms.untracked.PSet( limit = cms.untracked.int32(0) ),
         L1GtTriggerMenuTester = cms.untracked.PSet( limit = cms.untracked.int32(-1) ) 
         )
+# foo bar baz
+# 58xB5Yv6tP2vp
+# MIxs4gBcBmhnM

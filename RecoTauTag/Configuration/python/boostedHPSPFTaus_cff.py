@@ -49,3 +49,6 @@ boostedHPSPFTausTask = cms.Task(
     ca8PFJetsCHSprunedForBoostedTaus,
     boostedTauSeeds
 )
+# foo bar baz
+# NOTKEnc8o8mVg
+# dKyql3Mn3APDy

@@ -5,3 +5,6 @@ hcalCalibTypeFilter = cms.EDFilter( "HcalCalibTypeFilter",
    CalibTypes    = cms.vint32( 1,2,3,4,5 ),
    FilterSummary = cms.untracked.bool( False ) 
 )
+# foo bar baz
+# daeTfyzEcHMiX
+# MGJ5J23wlVYEE

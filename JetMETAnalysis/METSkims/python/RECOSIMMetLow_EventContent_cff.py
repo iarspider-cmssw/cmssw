@@ -8,3 +8,6 @@ RECOSIMMetLowEventContent = cms.PSet(
 RECOSIMMetLowEventContent.outputCommands.extend(RECOSIMEventContent.outputCommands)
 RECOSIMMetLowEventContent.outputCommands.extend(metLowEventContent.outputCommands)
 
+# foo bar baz
+# tsPlqfNiAQbEV
+# l3XjBJe18DsJL

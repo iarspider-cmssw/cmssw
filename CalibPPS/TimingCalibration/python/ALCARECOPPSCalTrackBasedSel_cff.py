@@ -50,3 +50,6 @@ seqALCARECOPPSCalTrackBasedSel = cms.Sequence(
     ALCARECOPPSCalTrackBasedSelHLT *
     (hltPPSPerPotTrackFilter_45 + hltPPSPerPotTrackFilter_56)
 )
+# foo bar baz
+# 7qE8ciDnHqHef
+# 8cYwiYbIrFDDV

@@ -18,3 +18,6 @@ hltMonBTagMuSource = cms.EDAnalyzer('HLTMonBTagMuSource',
     storeROOT       = cms.untracked.bool(False),
     outputFile      = cms.untracked.string('HLTMonBTag.root')
 )
+# foo bar baz
+# EcvgZJYejmja4
+# glFdjjAFEUIyC

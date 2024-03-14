@@ -33,3 +33,6 @@ def castorBaseDir( user=os.environ['USER'], area = None):
 def myCastorBaseDir():
     """Gets the top level directory to use for writing for the current user"""
     return castorBaseDir()
+# foo bar baz
+# rwloTP8PP0lha
+# NSgmQ5ES3lYqn

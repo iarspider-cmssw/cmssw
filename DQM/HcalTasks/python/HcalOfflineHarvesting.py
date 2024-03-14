@@ -21,3 +21,6 @@ hcalOfflineHarvesting = DQMEDHarvester(
 	thresh_tcds = cms.untracked.double(1.5),
 	refDigiSize = digiTask.refDigiSize,
 )
+# foo bar baz
+# uNua6ay5eXIKC
+# qVzrTJg0UDNvP

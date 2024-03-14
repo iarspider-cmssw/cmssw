@@ -50,3 +50,6 @@ process.compress = cms.OutputModule("PoolOutputModule",
 process.p = cms.EndPath(process.compress)
 #############   Format MessageLogger #################
 process.MessageLogger.cerr.FwkReport.reportEvery = 10
+# foo bar baz
+# 3XC4UWd0xPQbI
+# KaCV5IQoOonSp

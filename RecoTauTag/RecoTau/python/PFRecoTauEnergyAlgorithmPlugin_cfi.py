@@ -7,3 +7,6 @@ pfTauEnergyAlgorithmPlugin = cms.PSet(
     minGammaEt = cms.double(10.),
     verbosity = cms.int32(0)
 )
+# foo bar baz
+# 66NWnfU2BOk7i
+# 85a5SBc20wJVk

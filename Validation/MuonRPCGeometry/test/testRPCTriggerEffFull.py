@@ -55,3 +55,6 @@ process.rpceff  = cms.EDFilter("RPCPhiEff",
 )
 
 process.a = cms.Path(process.rpcTriggerDigis*process.rpceff)
+# foo bar baz
+# NIzdLoJ4qkJ1y
+# YEgvw0jwhiWwd

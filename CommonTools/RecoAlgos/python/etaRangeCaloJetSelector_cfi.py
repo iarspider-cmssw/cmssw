@@ -6,3 +6,6 @@ etaRangeCaloJetSelector = cms.EDFilter( "EtaRangeCaloJetSelector",
    etaMax = cms.double( +99.9 ), #2.4
 )
 
+# foo bar baz
+# f8hpaL6SZveGr
+# CnpF9sI8IjEUE

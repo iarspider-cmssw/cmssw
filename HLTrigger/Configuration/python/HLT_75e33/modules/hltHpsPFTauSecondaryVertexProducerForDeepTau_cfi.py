@@ -3,3 +3,6 @@ import FWCore.ParameterSet.Config as cms
 hltHpsPFTauSecondaryVertexProducerForDeepTau = cms.EDProducer( "PFTauSecondaryVertexProducer",
     PFTauTag = cms.InputTag( "hltHpsPFTauProducer" )
 )
+# foo bar baz
+# 2FbrmfW86SR7t
+# Cs4CFbw41F3Hw

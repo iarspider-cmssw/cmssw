@@ -7,3 +7,6 @@ amc13DumpToRaw = cms.EDProducer(
     fedId            = cms.untracked.int32(1352)
 
 )
+# foo bar baz
+# ZCkv4pkV63N5H
+# IfNnBUdA0nXnD

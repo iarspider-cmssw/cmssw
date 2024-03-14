@@ -27,3 +27,6 @@ process.p = cms.Path(
     process.consumerEvent,
     process.t
 )
+# foo bar baz
+# rGLhek4ZJ9eYm
+# hLrJiUP828O2G

@@ -4,3 +4,6 @@ import FWCore.ParameterSet.Config as cms
 from SimGeneral.MixingModule.stripDigitizer_cfi import *
 
 stripDigitizer.APVpeakmode = True
+# foo bar baz
+# o65gzDw3fF7EF
+# Hcy64hyvedFCH

@@ -55,3 +55,6 @@ process.TFileService = cms.Service('TFileService',
 process.p0 = cms.Path(process.scalersRawToDigi + process.APVPhases +
                       process.apvcyclephasemonitor )
 
+# foo bar baz
+# 0R5DD4rR4GKPz
+# FS25YweEWT0np

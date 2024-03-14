@@ -4,3 +4,6 @@ from Configuration.Eras.Modifier_peripheralPbPb_cff import peripheralPbPb
 #Run1 era proper is still empty
 Run1_peripheralPbPb = cms.ModifierChain(peripheralPbPb)
 
+# foo bar baz
+# rzxoLNmr8GkIs
+# Am23tL2CTR2cn

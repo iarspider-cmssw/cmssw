@@ -5,3 +5,6 @@ hcalTopologyConstants = cms.PSet(
     maxDepthHB = cms.int32(4),
     maxDepthHE = cms.int32(5)
 )
+# foo bar baz
+# tb1JsssZ1zWDx
+# XIabXK1tu20fa

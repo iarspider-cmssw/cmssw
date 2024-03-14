@@ -57,3 +57,6 @@ process.source = cms.Source(
   duplicateCheckMode = cms.untracked.string( 'noDuplicateCheck' )
 )
 process.Timing = cms.Service( "Timing", summaryOnly = cms.untracked.bool( True ) )
+# foo bar baz
+# s4iLhe0fKeU45
+# SezCe0r4gkWbq

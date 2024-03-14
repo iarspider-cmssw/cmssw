@@ -165,3 +165,6 @@ process.hi = cms.Path(*process.preScaler
 
 process.schedule = cms.Schedule(process.hi)
 
+# foo bar baz
+# SJXhFB0G6zRN2
+# JjfWX1eDLV544

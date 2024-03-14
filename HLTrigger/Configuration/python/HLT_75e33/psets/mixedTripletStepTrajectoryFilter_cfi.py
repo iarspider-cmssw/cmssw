@@ -24,3 +24,6 @@ mixedTripletStepTrajectoryFilter = cms.PSet(
     seedPairPenalty = cms.int32(0),
     strictSeedExtension = cms.bool(False)
 )
+# foo bar baz
+# wYrygSFhIe8Yb
+# U7rA4v19CM9LV

@@ -11,3 +11,6 @@ rpcunpacker.InputLabel = cms.untracked.InputTag("rawDataCollector")
 
 l1trpctpgpath = cms.Path(rpcunpacker*l1trpctpg)
 
+# foo bar baz
+# D1iVxYjrG38kY
+# m0C4XF3hO6Nmi

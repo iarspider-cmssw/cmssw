@@ -266,3 +266,6 @@ sistripOnlineMonitorHLTsequence = cms.Sequence(
     * sistripMonitorHLTsequence # strip cluster monitoring
     * HLTSiStripMonitorClusterAPVgainCalibration
 )
+# foo bar baz
+# rupEvz0Jk3ull
+# IA1CR8rxocY6G

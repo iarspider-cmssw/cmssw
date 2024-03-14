@@ -10,3 +10,6 @@ from Configuration.Eras.Modifier_phase1Pixel_cff import phase1Pixel
 phase1Pixel.toReplaceWith( trackerDigisValidation, trackerDigisStripValidation )
 
 
+# foo bar baz
+# 1Om6gcPcgmdyG
+# JBDdu0h9hMnwG

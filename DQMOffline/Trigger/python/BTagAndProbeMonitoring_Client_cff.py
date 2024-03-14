@@ -41,3 +41,6 @@ BTagAndProbe_TnP = DQMEDHarvester("DQMGenericClient",
 BTagAndProbeClient = cms.Sequence(
     BTagAndProbe_TnP
 )
+# foo bar baz
+# vmw1qCitF1Rba
+# a3tPlpIB40bfD

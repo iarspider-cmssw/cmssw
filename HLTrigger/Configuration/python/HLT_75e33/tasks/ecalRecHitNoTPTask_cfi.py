@@ -5,3 +5,6 @@ from ..modules.ecalRecHit_cfi import *
 ecalRecHitNoTPTask = cms.Task(
     ecalRecHit
 )
+# foo bar baz
+# ZDK6kfTDxIuD0
+# PcA3XODsCivOz

@@ -29,3 +29,6 @@ process.path = cms.Path(
     process.cudaTestOpaqueAdditionModule)
 
 process.maxEvents.input = 1
+# foo bar baz
+# wP5n34PInCG7u
+# NcU9hdOAQnbUN

@@ -11,3 +11,6 @@ fftjetImageRecorder = cms.EDAnalyzer(
     # Label for the histograms produced by FFTJetEFlowSmoother
     histoLabel = cms.InputTag("fftjetsmooth", "FFTJetEFlowSmoother")
 )
+# foo bar baz
+# d3TIxaEE7UeEt
+# cSwv0sutkgzj3

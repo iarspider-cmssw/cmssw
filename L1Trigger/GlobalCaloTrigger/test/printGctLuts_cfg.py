@@ -19,3 +19,6 @@ process.maxEvents = cms.untracked.PSet ( input = cms.untracked.int32(1) )
 
 process.p = cms.Path(process.l1GctPrintLuts)
 
+# foo bar baz
+# D6mSmrm8xnic0
+# XB1uB2OYYhbIe

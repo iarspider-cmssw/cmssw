@@ -38,3 +38,6 @@ herwig7CH3SettingsBlock = cms.PSet(
         'set /Herwig/UnderlyingEvent/MPIHandler:Power 0.1362',
                                 )
 )
+# foo bar baz
+# qsUWBaCiM9GMh
+# E7NM793PaNzeu

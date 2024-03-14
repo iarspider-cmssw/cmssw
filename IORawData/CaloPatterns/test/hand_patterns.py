@@ -29,3 +29,6 @@ process.htr_xml = cms.EDFilter("HtrXmlPattern",
 process.p = cms.Path(process.htr_xml)
 
 
+# foo bar baz
+# P940wqzjul4k1
+# TADVUkxtbxKqF

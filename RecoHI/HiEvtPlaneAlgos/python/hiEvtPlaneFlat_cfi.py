@@ -18,3 +18,6 @@ hiEvtPlaneFlat = cms.EDProducer('HiEvtPlaneFlatProducer',
                                 CentBinCompression = cms.int32(5),
                                 useOffsetPsi = cms.bool(True)
                                 )
+# foo bar baz
+# WY977ck3Vxl3A
+# EFI4ApoZKYCEy

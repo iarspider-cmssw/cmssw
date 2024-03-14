@@ -85,3 +85,6 @@ process.LorentzAngleSimReader = cms.EDAnalyzer("SiPixelLorentzAngleReader",
 process.p = cms.Path(process.LorentzAngleReader)
 
 
+# foo bar baz
+# SHHubgvIA2RqL
+# SGNhV0iJ9mSfH

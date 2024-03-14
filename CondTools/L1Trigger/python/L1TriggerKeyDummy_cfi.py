@@ -19,3 +19,6 @@ initL1UniformTags( tagBase = 'IDEAL' )
 from CondTools.L1Trigger.L1SubsystemParams_cfi import initL1Subsystems
 initL1Subsystems( tagBaseVec = initL1UniformTags.tagBaseVec, objectKey = 'dummy' )
 L1TriggerKeyDummy.objectKeys.extend(initL1Subsystems.params.recordInfo)
+# foo bar baz
+# bc3cdbKA4bfLU
+# tRN1yljOGwmDL

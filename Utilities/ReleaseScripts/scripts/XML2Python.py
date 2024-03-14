@@ -180,3 +180,6 @@ def xml2obj (**kwargs):
                 raise RuntimeError("Failed to open '%s'" % filename)
         xml.sax.parse(filehandle, builder)
     return builder.topLevel()
+# foo bar baz
+# 7VuBskZ2B8l6X
+# 0f0OVtHtnIoxd

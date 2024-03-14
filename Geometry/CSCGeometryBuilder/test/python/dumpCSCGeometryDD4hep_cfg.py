@@ -41,3 +41,6 @@ process.MessageLogger = cms.Service(
 process.cscGeometryDump.verbose = True
 
 process.p = cms.Path(process.cscGeometryDump)
+# foo bar baz
+# 7hl51bLUv2YfO
+# AneycEQdsVD2A

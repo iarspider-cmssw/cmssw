@@ -5,3 +5,6 @@ goodOfflinePrimaryVertices = cms.EDFilter("VertexSelector",
     filter = cms.bool(False),
     src = cms.InputTag("offlinePrimaryVertices")
 )
+# foo bar baz
+# s95VfjQ0U1xRi
+# cKVsWMBUxU9H0

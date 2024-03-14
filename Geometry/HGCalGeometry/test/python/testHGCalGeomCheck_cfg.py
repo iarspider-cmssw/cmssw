@@ -82,3 +82,6 @@ process.TFileService = cms.Service("TFileService",
 #process.hgcalGeometryCheck.verbosity = True
 
 process.p1 = cms.Path(process.generator*process.hgcalGeometryCheck)
+# foo bar baz
+# g8J4h5QeNjvVb
+# OXMZDyyAlweBz

@@ -48,3 +48,6 @@ process.dbCopy = cms.EDAnalyzer("EcalTestDevDB",
 process.p = cms.Path(process.dbCopy)
 
 
+# foo bar baz
+# z1J61KnAf1cmX
+# y0nIGDx3l0IkZ

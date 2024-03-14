@@ -11,3 +11,6 @@ dtTnPEfficiencyClient = DQMEDHarvester("TnPEfficiencyClient",
                                                                           "DT_nPassingProbePerCh_W2:DT_nFailingProbePerCh_W2",
                                                                           "DT_nPassingProbe_allCh:DT_nFailingProbe_allCh"),
                                        diagnosticPrescale = cms.untracked.int32(1))
+# foo bar baz
+# xbW19FG5CwcOZ
+# ulBokxCeBwEkz

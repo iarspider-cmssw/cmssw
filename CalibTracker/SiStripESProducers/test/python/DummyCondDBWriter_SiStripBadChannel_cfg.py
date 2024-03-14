@@ -50,3 +50,6 @@ process.siStripBadChannelDummyDBWriter.record=process.PoolDBOutputService.toPut[
 process.p1 = cms.Path(process.siStripBadChannelDummyDBWriter)
 
 
+# foo bar baz
+# mA0dCCUEw9lUP
+# KKFoNwAx7ICdQ

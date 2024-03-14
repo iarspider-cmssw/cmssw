@@ -10,3 +10,6 @@ MonitorDaemon = cms.Service("MonitorDaemon",
 )
 
 
+# foo bar baz
+# MAIJE8GAPo56k
+# lgTWkjjuYi3wA

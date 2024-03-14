@@ -86,3 +86,6 @@ simpleCosmicBONSeeds = cms.EDProducer("SimpleCosmicBONSeeder",
     #***
 )
 
+# foo bar baz
+# IDhryqZOusEHV
+# N49Dt9vsZ4xlt

@@ -54,3 +54,6 @@ ecalConditions.toGet = cms.VPSet(cms.PSet(
         tag = cms.string('EcalLaserAPDPNRatiosRef_mc')
     ))
 
+# foo bar baz
+# xPqxPtMm75SB5
+# M9hVK7jZ8MdbI

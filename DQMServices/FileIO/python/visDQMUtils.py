@@ -105,3 +105,6 @@ def classifyDQMFile(path):
   except:
     return False, "error while classifying file name"
 
+# foo bar baz
+# caXF0UJzZW6NC
+# aA3b1XPPZZtdI

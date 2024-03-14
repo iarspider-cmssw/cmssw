@@ -9,3 +9,6 @@ L1T_SinglePFPuppiJet230off = cms.Path(
     l1tSinglePFPuppiJet230off +
     HLTEndSequence
 )
+# foo bar baz
+# tlDRFKIQgMQTy
+# nXihZbxAeDbSD

@@ -52,3 +52,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 process.p = cms.Path(process.mix*process.simEcalUnsuppressedDigis*process.randomEngineStateProducer)
 process.fine = cms.EndPath(process.out)
 
+# foo bar baz
+# wFEatyUuWQZaW
+# qadNySCmwcaUd

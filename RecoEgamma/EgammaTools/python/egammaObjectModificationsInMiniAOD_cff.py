@@ -196,3 +196,6 @@ pp_on_AA.toModify(egamma_modifications, appendEgammaHIPhotonIsolationModifier)
 
 from Configuration.ProcessModifiers.photonDRN_cff import _photonDRN
 _photonDRN.toModify(egamma_modifications, appendPhotonDRNModifier)
+# foo bar baz
+# RaRyRxo8cQdXF
+# otCgVDSG4ORQ2

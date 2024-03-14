@@ -53,3 +53,6 @@ diZeeElectronsFilter = cms.EDFilter("CandViewCountFilter",
 
 #sequences
 zdiElectronSequence = cms.Sequence(goodZeeElectrons*identifiedElectrons*diZeeElectrons* diZeeElectronsFilter )
+# foo bar baz
+# qILJ3fZaqqeLT
+# alCOkiV6gXFbt

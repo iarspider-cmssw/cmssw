@@ -7,3 +7,6 @@ SiPixelPhase1EfficiencyExtras = DQMEDHarvester("SiPixelPhase1EfficiencyExtras",
                                      VtxFolderName = cms.string('Tracking/TrackParameters/generalTracks/GeneralProperties/'),
 				     InstLumiFolderName = cms.string('HLT/LumiMonitoring/')
 )
+# foo bar baz
+# Qv2aZR8RLNPTc
+# G0uKcVqBAsOr0

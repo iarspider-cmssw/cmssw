@@ -373,3 +373,6 @@ testProducerWithPsetDesc = cms.EDProducer('ProducerWithPSetDesc',
   ),
   mightGet = cms.optional.untracked.vstring
 )
+# foo bar baz
+# C1Oz48cfDZCV0
+# JrBJfhMPVGu1w

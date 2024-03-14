@@ -48,3 +48,6 @@ process.filereader = cms.EDAnalyzer(
 )
 
 process.p = cms.Path(process.filereader)
+# foo bar baz
+# BZDB86ixYXeuZ
+# P1m3EQhKuUk0p

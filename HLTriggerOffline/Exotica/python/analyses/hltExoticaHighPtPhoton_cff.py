@@ -17,3 +17,6 @@ HighPtPhotonPSet = cms.PSet(
     dropPt2 = cms.bool(True),
     dropPt3 = cms.bool(True),
     )
+# foo bar baz
+# sh5scxq6EvTkz
+# gc8TjlyDhcm8d

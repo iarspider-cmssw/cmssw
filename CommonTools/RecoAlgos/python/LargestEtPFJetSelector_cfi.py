@@ -6,3 +6,6 @@ hltSelector4Jets = cms.EDFilter( "LargestEtPFJetSelector",
     maxNumber = cms.uint32( 4 )
 )
 
+# foo bar baz
+# CrV1qC1OuNVTC
+# 8vwGaIFZiSWFL

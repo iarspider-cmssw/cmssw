@@ -12,3 +12,6 @@ import PhysicsTools.RecoAlgos.trackingParticleSelector_cfi
 cutsTpMuons = PhysicsTools.RecoAlgos.trackingParticleSelector_cfi.trackingParticleSelector.clone()
 cutsTpMuons.ptMin = 0.0
 
+# foo bar baz
+# LHUXTClHtaA3S
+# nV6K8tpzf4ESy

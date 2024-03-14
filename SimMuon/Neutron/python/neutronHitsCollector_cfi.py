@@ -5,3 +5,6 @@ g4SimHits = cms.EDProducer("NeutronHitsCollector",
     neutronLabelRPC = cms.untracked.string('rpcNeutronWriter'),
     neutronLabelDT = cms.untracked.string('dtNeutronWriter')
 )
+# foo bar baz
+# HQpiwV1VezTAn
+# lNssUftWSlEXv

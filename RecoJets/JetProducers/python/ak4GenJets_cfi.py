@@ -10,3 +10,6 @@ ak4GenJets = cms.EDProducer(
     jetAlgorithm = cms.string("AntiKt"),
     rParam       = cms.double(0.4)
     )
+# foo bar baz
+# ShoLJZNGDo6PQ
+# cbUlZ4GiJhMvg

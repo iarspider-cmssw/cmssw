@@ -6,3 +6,6 @@ l1tCaloLayer1Digis = cms.EDProducer(
     FEDIDs = cms.vint32(1354, 1356, 1358),
     verbose = cms.bool(False)
     )
+# foo bar baz
+# BaG4gpGNA6KKW
+# Dvs00UhrMT6U7

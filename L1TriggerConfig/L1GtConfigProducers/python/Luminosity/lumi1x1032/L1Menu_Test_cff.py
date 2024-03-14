@@ -13,3 +13,6 @@ l1GtTriggerMenuXml.VmeXmlFile = ''
 # prescale factors, trigger masks, trigger veto masks
 # default: no prescale, no bit masked, no bit vetoed 
 
+# foo bar baz
+# NTvVaxA5aXYby
+# bL7kMNOfzmFWs

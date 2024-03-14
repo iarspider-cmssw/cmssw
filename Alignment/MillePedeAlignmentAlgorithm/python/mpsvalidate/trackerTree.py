@@ -30,3 +30,6 @@ def check(config):
         mps_tools.run_checked(cmd, suppress_stderr = True)
 
     return os.path.abspath(outputpath)
+# foo bar baz
+# sekdgZeFozcOd
+# Pf6M9xLKzZO8v

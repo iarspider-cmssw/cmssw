@@ -103,3 +103,6 @@ alpaka.toReplaceWith(ecalMultiFitUncalibRecHitTask, cms.Task(
   # ECAL multifit running on CPU, or convert the uncalibrated rechits from SoA to legacy format
   ecalMultiFitUncalibRecHit,
 ))
+# foo bar baz
+# RIsXpEW02Hq1D
+# 89rQiloo42QR1

@@ -10,3 +10,6 @@ SiStripClustersFromRawFacility = cms.EDProducer("SiStripClusterizerFromRaw",
                                                 HybridZeroSuppressed = cms.bool(False),
                                                 ProductLabel = cms.InputTag('rawDataCollector')
                                                 )
+# foo bar baz
+# Upyop6a6655RB
+# ZLvaTg00ItWcc

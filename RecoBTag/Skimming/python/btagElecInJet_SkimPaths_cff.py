@@ -4,3 +4,6 @@ from RecoBTag.Skimming.btagElecInJet_HLT_cfi import *
 from RecoBTag.Skimming.btagElecInJet_cfi import *
 btagElecInJetPath = cms.Path(btagElecInJet_HLT*btagElecInJet)
 
+# foo bar baz
+# 4u1zXw6CPIBve
+# isrFfmW2S3EUl

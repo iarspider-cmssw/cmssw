@@ -60,3 +60,6 @@ patMETs = cms.EDProducer("PATMETProducer",
     srcRho = cms.InputTag('fixedGridRhoAll'),
     parameters = METSignificanceParams
 )
+# foo bar baz
+# 7OXnJRVK7kbbo
+# l9WSxwPEvJZPz

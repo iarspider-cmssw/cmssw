@@ -25,3 +25,6 @@ process.p0 = cms.Path(process.scalersRawToDigi +
                       process.PotentialTIBTECHugeEvents +
                       process.eventtimedistribfilter )
 
+# foo bar baz
+# 2VFqI9AFkigk1
+# tHQgaRk34vz10

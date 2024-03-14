@@ -24,3 +24,6 @@ pixelPairStepTrajectoryFilterBase = cms.PSet(
     seedPairPenalty = cms.int32(0),
     strictSeedExtension = cms.bool(False)
 )
+# foo bar baz
+# PLpu9f0RuX6Og
+# C2U8T5anXw0KI

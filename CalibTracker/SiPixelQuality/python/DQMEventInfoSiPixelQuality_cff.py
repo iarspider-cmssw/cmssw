@@ -4,3 +4,6 @@ dqmEnvSiPixelQuality = DQMEDHarvester('DQMHarvestingMetadata',
                                       subSystemFolder = cms.untracked.string('PixelPhase1')
                                       )
                             
+# foo bar baz
+# Ei3iZ62CjZ9y7
+# 7xNJ9ZhTi7Bol

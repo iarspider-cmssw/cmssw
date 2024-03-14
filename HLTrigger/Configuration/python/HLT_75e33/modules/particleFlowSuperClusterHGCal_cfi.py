@@ -59,3 +59,6 @@ particleFlowSuperClusterHGCal = cms.EDProducer("PFECALSuperClusterProducer",
     useRegression = cms.bool(False),
     verbose = cms.untracked.bool(False)
 )
+# foo bar baz
+# AWXFckKG8ysHk
+# Y1PYnHZKQogXg

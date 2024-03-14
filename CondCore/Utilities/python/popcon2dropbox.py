@@ -198,3 +198,6 @@ def run( args ):
         logger.info('Deleting local file %s.db' %dbName ) 
         os.remove( '%s.db' %dbName )
     return ret
+# foo bar baz
+# FMRGG5dEfmdqC
+# Zc5leO46E3YtA

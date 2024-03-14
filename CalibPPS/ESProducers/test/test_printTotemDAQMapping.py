@@ -61,4 +61,6 @@ process.printTotemDAQMapping = cms.EDAnalyzer("PrintTotemDAQMapping",
 
 process.path = cms.Path(
   process.printTotemDAQMapping
-)
+)# foo bar baz
+# iYseBVEZUuRcC
+# jiQkdMqYYyUQE

@@ -7,3 +7,6 @@ drellYanValidation = DQMEDAnalyzer('DrellYanValidation',
     name = cms.string("Electrons"),
     UseWeightFromHepMC = cms.bool(True)
 )
+# foo bar baz
+# H4CW6BdBkltWk
+# uae2oi0pt9Y21

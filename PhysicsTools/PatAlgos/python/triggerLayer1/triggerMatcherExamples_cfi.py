@@ -196,3 +196,6 @@ triggerMatcherExamplesTask = cms.Task(
     somePatMuonTriggerMatchPDSingleMu,
     somePatMetTriggerMatchHLTMu17
 )
+# foo bar baz
+# sSPqN645nn8NA
+# 7lcxxe0Nk9iOA

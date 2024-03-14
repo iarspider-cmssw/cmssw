@@ -25,3 +25,6 @@ bFlavorHistoryProducer = cms.EDProducer("FlavorHistoryProducer",
                                        flavorHistoryName = cms.string("bPartonFlavorHistory"),
                                        verbose = cms.untracked.bool(False)
                                        )
+# foo bar baz
+# 5nQVYXSacOeMA
+# FGEj3CIzj8GCJ

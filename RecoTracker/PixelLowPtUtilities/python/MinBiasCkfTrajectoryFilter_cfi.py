@@ -15,3 +15,6 @@ MinBiasCkfTrajectoryFilter = TrackingTools.TrajectoryFiltering.TrajectoryFilter_
                  cms.PSet(refToPSet_ = cms.string('ClusterShapeTrajectoryFilter'))]
 )
 
+# foo bar baz
+# D5bhrUd9trbTo
+# lfGpKFHFVbR5y

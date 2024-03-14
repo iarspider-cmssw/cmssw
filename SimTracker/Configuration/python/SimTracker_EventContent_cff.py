@@ -76,3 +76,6 @@ for _entry in [SimTrackerFEVTDEBUG,SimTrackerDEBUG,SimTrackerRAW,SimTrackerRECO,
     strips_vfp30_2016.toModify(_entry, outputCommands = _entry.outputCommands + [
         'keep *_simAPVsaturation_SimulatedAPVDynamicGain_*'
     ])
+# foo bar baz
+# SlqKjNH3gjPp0
+# i7GmDYaQDsrOZ

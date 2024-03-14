@@ -58,3 +58,6 @@ process.out = cms.EndPath(process.output)
 
 # schedule
 process.schedule = cms.Schedule(process.recoPU,process.out)
+# foo bar baz
+# cJIRG9zAChQym
+# nLG5C10iTINqG

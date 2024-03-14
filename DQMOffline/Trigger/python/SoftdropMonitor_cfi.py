@@ -39,3 +39,6 @@ denGenericTriggerEventPSet = dict(
     hltPaths      = ["HLT_IsoMu27_v*"])
 )
 
+# foo bar baz
+# qW7xBLR4oU0oT
+# YZkgNJTPaztuk

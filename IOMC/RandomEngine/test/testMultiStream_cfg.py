@@ -91,3 +91,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 
 process.p = cms.Path(process.t1+process.t2+process.t3+process.t4+process.t6+process.randomEngineStateProducer)
 process.o = cms.EndPath(process.out)
+# foo bar baz
+# RdPjPEPJLE7Mq
+# 7utzL3zs1VaqF

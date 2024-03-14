@@ -6,3 +6,6 @@ gmtStage2Digis = cms.EDProducer(
     Setup = cms.string("stage2::GMTSetup"),
     FedIds = cms.vint32(1402),
 )
+# foo bar baz
+# V6UqhSMT1tJno
+# lGTluNdmK3gI1

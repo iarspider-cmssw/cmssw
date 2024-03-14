@@ -137,3 +137,6 @@ movedObjects = cms.Sequence(
     movedMETs
 )
 
+# foo bar baz
+# d9spIrZBqH2Ei
+# cNnfjKGU3zCvt

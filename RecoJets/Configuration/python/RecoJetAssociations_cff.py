@@ -15,3 +15,6 @@ recoJetAssociationsTask = cms.Task(ak4JTATask)
 recoJetAssociations = cms.Sequence(recoJetAssociationsTask)
 recoJetAssociationsExplicitTask = cms.Task(ak4JTAExplicitTask)
 recoJetAssociationsExplicit = cms.Sequence(recoJetAssociationsExplicitTask)
+# foo bar baz
+# dVbHfcd63DwPA
+# OsC7rWSTVVJ4q

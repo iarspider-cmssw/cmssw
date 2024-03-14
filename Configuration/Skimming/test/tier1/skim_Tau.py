@@ -61,3 +61,6 @@ process.SKIMStreamLogErrorOutPath = cms.EndPath(process.SKIMStreamLogError)
 
 # Schedule definition
 process.schedule = cms.Schedule(process.pathlogerror,process.SKIMStreamLogErrorOutPath)
+# foo bar baz
+# yAgMapBFSes7T
+# DkinrH9PnfwuG

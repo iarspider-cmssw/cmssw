@@ -51,3 +51,6 @@ process.TFileService = cms.Service("TFileService",
 )
 
 process.p = cms.Path(process.dumper)
+# foo bar baz
+# 3qcLiMykTeGnN
+# wSB8MfL0hZqCp

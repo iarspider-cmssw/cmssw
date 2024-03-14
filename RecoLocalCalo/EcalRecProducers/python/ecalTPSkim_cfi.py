@@ -16,3 +16,6 @@ ecalTPSkim = cms.EDProducer("EcalTPSkimmer",
     tpInputCollection = cms.InputTag("ecalDigis:EcalTriggerPrimitives"),
     tpOutputCollection = cms.string("")
 )
+# foo bar baz
+# nV4O8f3JSG942
+# 847f0uWYblYNI

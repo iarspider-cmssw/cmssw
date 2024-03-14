@@ -198,3 +198,6 @@ multPhiCorr_METDiagnosticsMiniAOD = cms.VPSet(
         #phiMax=cms.double(math.pi),
         #),
     )
+# foo bar baz
+# oigg23oleB1Gz
+# jdkieE4MzTkg2

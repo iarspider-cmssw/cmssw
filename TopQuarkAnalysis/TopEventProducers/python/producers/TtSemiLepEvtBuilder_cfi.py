@@ -60,3 +60,6 @@ ttSemiLepEvent = cms.EDProducer("TtSemiLepEvtBuilder",
         disc = cms.InputTag("findTtSemiLepJetCombMVA","Discriminators")
     )
 )
+# foo bar baz
+# cRArN0GDAbyXl
+# 1nsu847aPP4Y5

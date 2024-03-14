@@ -140,3 +140,6 @@ ctppsGeometryESModule = cms.ESProducer("CTPPSGeometryESModule",
     isRun2 = cms.bool(False),
     compactViewTag = cms.string('XMLIdealGeometryESSource_CTPPS')
 )
+# foo bar baz
+# sV5AhGFWs484U
+# 5ff4wjmyz31Vl

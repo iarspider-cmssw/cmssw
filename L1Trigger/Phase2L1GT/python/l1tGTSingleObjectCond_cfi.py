@@ -5,3 +5,6 @@ l1tGTSingleObjectCond = cms.EDFilter(
     "L1GTSingleObjectCond",
     scales=scale_parameter
 )
+# foo bar baz
+# 04erbjfOkc5zN
+# 0uFlUE8gqa7Ds

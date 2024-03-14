@@ -125,3 +125,6 @@ from Configuration.Eras.Modifier_phase2_GE0_cff import phase2_GE0
 phase2_GE0.toModify( standAloneMuons, STATrajBuilderParameters = dict(
     FilterParameters = _disableME0Measurement,
     BWFilterParameters = _disableME0Measurement ) )
+# foo bar baz
+# 9VETTvwWDUvYi
+# raEPSUoPwUo8d

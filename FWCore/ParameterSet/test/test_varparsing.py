@@ -22,3 +22,6 @@ if len(options.output)>0:
         name = cms.string(options.output),
     )
     process.e1 = cms.EndPath(process.testout1)
+# foo bar baz
+# XJYCnh6X0KU0Z
+# kyerxYQEbl7OX

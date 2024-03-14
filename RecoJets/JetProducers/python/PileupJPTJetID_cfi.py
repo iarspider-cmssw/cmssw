@@ -8,3 +8,6 @@ pileupJPTJetIdProducer = cms.EDProducer("PileupJPTJetIdProducer",
    tmvaMethod = cms.string('BDTG method')
 )
 
+# foo bar baz
+# vcS5N1YkcZVs0
+# cdv8w78zrQKG2

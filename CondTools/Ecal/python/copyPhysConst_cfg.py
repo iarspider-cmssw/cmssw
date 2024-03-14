@@ -54,3 +54,6 @@ process.Test1 = cms.EDAnalyzer("ExTestEcalTPGPhysicsConstAnalyzer",
 )
 
 process.p = cms.Path(process.Test1)
+# foo bar baz
+# 5EOyqKVaVYLWa
+# 0cA1h7EDden8L

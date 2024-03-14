@@ -15,4 +15,6 @@ def muDPGNanoBkgCustomize(process) :
           process.NANOAODoutput.outputCommands.append("keep nanoaodFlatTable_*Table*_*_*")
           process.NANOAODoutput.outputCommands.append("drop edmTriggerResults_*_*_*")
      
-     return process
+     return process# foo bar baz
+# E5t6hGHbIbt1D
+# qjDb1Y0w2AWlt

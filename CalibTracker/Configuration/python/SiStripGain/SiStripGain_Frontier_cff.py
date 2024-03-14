@@ -15,3 +15,6 @@ siStripApvGain.toGet = cms.VPSet(cms.PSet(
 ))
 siStripApvGain.BlobStreamerName = 'TBufferBlobStreamingService'
 
+# foo bar baz
+# gYlAuEcoH8xlE
+# qICmTxg0eFDJB

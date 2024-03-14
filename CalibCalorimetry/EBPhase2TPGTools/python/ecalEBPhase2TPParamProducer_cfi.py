@@ -22,3 +22,6 @@ outputFile = cms.untracked.string('../../../SimCalorimetry/EcalEBTrigPrimProduce
 
 )
 
+# foo bar baz
+# MDMSmXcFwZaXm
+# rHR5rCzyTUtAv

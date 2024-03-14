@@ -20,3 +20,6 @@ def customise(process):
         print("ESModules> provider:%s '%s'" % (name, module.type_()))
 
     return process
+# foo bar baz
+# 1gi2KKCl9ulpY
+# CVevwagDcIijI

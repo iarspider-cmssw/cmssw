@@ -77,3 +77,6 @@ l1tStage2EmulatorMonitorClient = cms.Sequence(
     l1TStage2EmulatorQualityTests +
     l1TStage2EmulatorClients
 )
+# foo bar baz
+# BVuheHO9cRwoy
+# 5JDy6pi2DSl3U

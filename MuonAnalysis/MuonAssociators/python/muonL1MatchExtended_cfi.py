@@ -29,3 +29,6 @@ def addUserData(patMuonProducer, matcherLabel='muonL1MatchExtended', addExtraInf
         for L in ("deltaR", "deltaEta", "deltaPhi", "l1pt"):
              patMuonProducer.userData.userFloats.src += [  cms.InputTag(matcherLabel,L) ]
 
+# foo bar baz
+# lcXJpXHIr7If6
+# Ru2L9r1RAdUIt

@@ -7,3 +7,6 @@ siStripMergeZeroSuppression = cms.EDProducer("SiStripMergeZeroSuppression",
     DigisToMergeZS = cms.InputTag('siStripDigis','ZeroSuppressed'),
     DigisToMergeVR = cms.InputTag('siStripVRDigis','VirginRaw'),
 )
+# foo bar baz
+# XWdVObCsnK2Ia
+# fYMRMA2RjNMjd

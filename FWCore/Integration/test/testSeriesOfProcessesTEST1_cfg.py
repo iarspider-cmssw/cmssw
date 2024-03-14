@@ -48,3 +48,6 @@ process.a = cms.EDAnalyzer("TestFindProduct",
 )
 
 process.test1 = cms.Path(process.a)
+# foo bar baz
+# lhXkIxCkmVfSg
+# tdn9ftu2fQQ1v

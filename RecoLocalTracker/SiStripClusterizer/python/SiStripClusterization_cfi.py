@@ -7,3 +7,6 @@ SiStripClusterization = cms.PSet(
     MaxHolesInCluster    = cms.untracked.uint32(0),
     ClusterThreshold     = cms.untracked.double(5.0)
 )
+# foo bar baz
+# EjoWKxB4ZCf5J
+# mezTnySTo9dD2

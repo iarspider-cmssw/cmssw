@@ -9,3 +9,6 @@ MillePedeFileReader = cms.PSet(
   
   isHG = cms.bool(False)
   )
+# foo bar baz
+# cVtwXXJZv1ZKM
+# lsLAbkqHIim93

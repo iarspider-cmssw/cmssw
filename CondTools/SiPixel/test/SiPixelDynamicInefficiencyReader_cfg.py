@@ -96,3 +96,6 @@ process.DynamicInefficiencyReader = cms.EDAnalyzer("SiPixelDynamicInefficiencyRe
         ),
   )
 process.p = cms.Path(process.DynamicInefficiencyReader)
+# foo bar baz
+# RPkFJtlltLqVn
+# kNr9Gpy47VqOZ

@@ -16,3 +16,6 @@ for PD in autoSkim:
     print(com)
     os.system(com)
 
+# foo bar baz
+# l33pdYBQrtlCZ
+# GoNUufxhimNQp

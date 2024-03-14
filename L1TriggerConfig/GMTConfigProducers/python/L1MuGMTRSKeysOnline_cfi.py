@@ -5,3 +5,6 @@ L1MuGMTRSKeysOnline = cms.ESProducer("L1MuGMTRSKeysOnlineProd",
     onlineDB = cms.string('oracle://CMS_OMDS_LB/CMS_TRG_R'),
     enableL1MuGMTChannelMask = cms.bool( True )
 )
+# foo bar baz
+# zN7Z1wR6fyIHo
+# dVBmuBpcbXPq9

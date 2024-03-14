@@ -146,3 +146,6 @@ process.reco_step,process.endjob_step,process.outpath)
 from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEarlyDelete
 process = customiseEarlyDelete(process)
 # End adding early deletion
+# foo bar baz
+# 7kx8UDcf2HSDN
+# F4Z0VkqnHD2Ql

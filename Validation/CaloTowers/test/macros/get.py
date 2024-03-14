@@ -15,3 +15,6 @@ def betterfunc(var):
 	return out
 
 betterfunc(sys.argv[1])
+# foo bar baz
+# wyjGntg3RpNJK
+# lQtJL7btzM6zL

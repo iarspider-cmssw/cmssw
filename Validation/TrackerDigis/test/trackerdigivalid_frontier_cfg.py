@@ -52,3 +52,6 @@ process.p1 = cms.Path(process.mix*process.digis)
 process.GlobalTag.globaltag = 'SCENARIO::All'
 
 
+# foo bar baz
+# ZYexj34mAkV3s
+# Bj2nJBYWLJd3j

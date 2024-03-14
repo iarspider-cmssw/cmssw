@@ -37,3 +37,6 @@ from L1TriggerConfig.L1GtConfigProducers.L1GtTriggerMaskVetoTechTrigConfig_cff i
 
 from Configuration.StandardSequences.CondDBESSource_cff import GlobalTag
 
+# foo bar baz
+# 4JpvX6xe2TVDM
+# 0tqUOk3yrP6Jq

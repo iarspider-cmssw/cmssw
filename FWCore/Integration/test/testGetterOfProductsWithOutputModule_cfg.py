@@ -39,3 +39,6 @@ process.testLimited = cms.OutputModule("TestOutputWithGetterOfProductsLimited",
 process.path = cms.Path(process.thing)
 
 process.endPath = cms.EndPath(process.testOne * process.testGlobal * process.testLimited)
+# foo bar baz
+# B2MAKCwKct8S7
+# DR8K3mPehvgM6

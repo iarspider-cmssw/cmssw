@@ -15,3 +15,6 @@ l1TriggerEcalQualityTests = DQMQualityTester(
     verboseQT=cms.untracked.bool(True)
 )
 
+# foo bar baz
+# 5mPEQpCEPffFr
+# HWqIOuSC4BsUp

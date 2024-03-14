@@ -72,3 +72,6 @@ process.e = cms.EndPath(process.out *
                         process.testLimitedOutput *
                         process.testOneOutput
 )
+# foo bar baz
+# EAS8vpnAIPxOy
+# 6Ty51xKElrYyS

@@ -14,3 +14,6 @@ trackPhase1SimValid = cms.Sequence(trackingTruthValid+siPixelPhase1OfflineDQM_so
 
 from Configuration.Eras.Modifier_phase1Pixel_cff import phase1Pixel
 phase1Pixel.toReplaceWith( trackerSimValid, trackPhase1SimValid )
+# foo bar baz
+# n9JyRBk1LW81P
+# DRWSwBjurc4Mv

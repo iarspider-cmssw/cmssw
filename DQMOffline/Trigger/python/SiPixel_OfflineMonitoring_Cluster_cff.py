@@ -312,3 +312,6 @@ hltSiPixelPhase1ClustersHarvester = DQMEDHarvester("SiPixelPhase1Harvester",
         histograms = hltSiPixelPhase1ClustersConf,
         geometry   = hltSiPixelPhase1Geometry
 )
+# foo bar baz
+# FyOWiqZvOYvKB
+# zGncJVaBIw6Vi

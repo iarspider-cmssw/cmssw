@@ -12,3 +12,6 @@ caloConfig = cms.ESProducer(
     l1Epoch         = cms.string("Stage1"),
     fwVersionLayer2 = cms.uint32(1)
 )
+# foo bar baz
+# i3csWhM0vsZzb
+# wGktqRuLhf7ac

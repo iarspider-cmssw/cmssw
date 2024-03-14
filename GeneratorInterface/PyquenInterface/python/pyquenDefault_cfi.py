@@ -33,3 +33,6 @@ generator = cms.EDFilter("PyquenGeneratorFilter",
                          )
 
 
+# foo bar baz
+# 4lksrD1hEwiwI
+# kvDMwZleGY6Go

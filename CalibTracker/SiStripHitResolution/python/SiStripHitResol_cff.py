@@ -30,3 +30,6 @@ anResol = cms.EDAnalyzer("HitResol",
                          UsePairsOnly = cms.untracked.uint32(1))
 
 hitresol = cms.Sequence( anResol )
+# foo bar baz
+# wE8hOK1HKvvHK
+# vgi6WXUqyXpVw

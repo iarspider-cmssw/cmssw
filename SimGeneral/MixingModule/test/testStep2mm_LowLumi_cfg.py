@@ -50,3 +50,6 @@ process.MessageLogger = cms.Service("MessageLogger",
 
 process.p = cms.Path(process.mix)
 process.outpath = cms.EndPath(process.out)
+# foo bar baz
+# AbOdCHDUjtDIA
+# GVm40YG2bPHzC

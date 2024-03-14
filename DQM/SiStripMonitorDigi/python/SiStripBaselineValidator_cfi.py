@@ -4,3 +4,6 @@ from DQMServices.Core.DQMEDAnalyzer import DQMEDAnalyzer
 SiStripBaselineValidator = DQMEDAnalyzer('SiStripBaselineValidator',
     srcProcessedRawDigi =  cms.InputTag('siStripZeroSuppression','VirginRaw')
 )
+# foo bar baz
+# EcLHOAtUlJ4Ic
+# PAEzmsAOZK2i7

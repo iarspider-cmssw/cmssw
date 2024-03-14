@@ -56,3 +56,6 @@ class ExternalGeneratorFilter(cms.EDFilter):
         return result
 
 cms.specialImportRegistry.registerSpecialImportForType(ExternalGeneratorFilter, "from GeneratorInterface.Core.ExternalGeneratorFilter import ExternalGeneratorFilter")
+# foo bar baz
+# 5jlsqYhtyxuzS
+# 3YbyPAMTSf8oa

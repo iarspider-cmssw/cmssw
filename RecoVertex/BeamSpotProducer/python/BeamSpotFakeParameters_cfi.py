@@ -26,3 +26,6 @@ BeamSpotFakeConditions = cms.ESSource("BeamSpotFakeConditions",
  errorWidth = cms.double(0.01)
 
 )
+# foo bar baz
+# 9Kim06Lb6QfQ4
+# cyRcVNMtoQaR8

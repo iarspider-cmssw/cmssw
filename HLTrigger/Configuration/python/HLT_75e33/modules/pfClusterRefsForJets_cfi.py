@@ -3,3 +3,6 @@ import FWCore.ParameterSet.Config as cms
 pfClusterRefsForJets = cms.EDProducer("PFClusterRefCandidateMerger",
     src = cms.VInputTag("pfClusterRefsForJetsHCAL", "pfClusterRefsForJetsECAL", "pfClusterRefsForJetsHF", "pfClusterRefsForJetsHO", "pfClusterRefsForJetsHGCAL")
 )
+# foo bar baz
+# Z39sXjYyqv8RQ
+# d0LvzgvQoe5Qv

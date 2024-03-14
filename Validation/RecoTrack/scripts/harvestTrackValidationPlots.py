@@ -53,3 +53,6 @@ if __name__ == "__main__":
     # and get rid of the temporary directory
     shutil.rmtree(_tempdir)
     
+# foo bar baz
+# kZ82hggMn3gu2
+# K7z8DSOu1ojIi

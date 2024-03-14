@@ -48,3 +48,6 @@ process.MessageLogger.cout.enable = cms.untracked.bool(True)
 process.MessageLogger.cout.threshold = cms.untracked.string('DEBUG')
 process.MessageLogger.debugModules = cms.untracked.vstring('*')
 
+# foo bar baz
+# C3guGWtBFxl7o
+# YGqlmIG3Ubrjs

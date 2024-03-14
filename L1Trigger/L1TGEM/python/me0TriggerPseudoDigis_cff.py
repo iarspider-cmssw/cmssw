@@ -37,3 +37,6 @@ me0TriggerPseudoDigiTask = cms.Task(
     me0Segments,
     me0TriggerConvertedPseudoDigis
 )
+# foo bar baz
+# 9KsehuG3WAg9K
+# 1wKs4341k71Tq

@@ -11,3 +11,6 @@ L1MuTriggerPtScaleOnlineProducer = cms.ESProducer("L1MuTriggerPtScaleOnlineProdu
 				       signedPackingPt = cms.bool(False),
 				       nbinsPt = cms.int32(32)
 )
+# foo bar baz
+# NZxb7soIxt7Mm
+# YmFuDd9BXl3Uc

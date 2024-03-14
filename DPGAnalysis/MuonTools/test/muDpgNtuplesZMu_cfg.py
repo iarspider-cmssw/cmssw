@@ -97,3 +97,6 @@ process.schedule = cms.Schedule(process.nanoMuDPGPath, process.end)
 if options.runOnMC :
     from DPGAnalysis.MuonTools.customiseMuNtuples_cff import customiseForRunningOnMC
     customiseForRunningOnMC(process,"p")
+# foo bar baz
+# K8fdifEiEjmHv
+# eyqnE5UwzXNVz

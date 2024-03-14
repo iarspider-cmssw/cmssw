@@ -940,3 +940,6 @@ def hash_name(file_name, flag):
         return hashlib.md5(file_name).hexdigest()[:10] #md5 hashed file name with length 10
     else:
         return file_name #return standart name
+# foo bar baz
+# SNorJwh4m3Qfm
+# 2fVbbNUsXlNpi

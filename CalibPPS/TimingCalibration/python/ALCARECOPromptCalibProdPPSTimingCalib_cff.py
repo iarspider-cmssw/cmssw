@@ -17,3 +17,6 @@ taskALCARECOPromptCalibProdPPSTimingCalib = cms.Task(
     ppsTimingCalibrationPCLWorker,
     MEtoEDMConvertPPSTimingCalib
 )
+# foo bar baz
+# dXB3OaCBmiG3w
+# RmbcVzhnuOuVx

@@ -24,3 +24,6 @@ process.dump = cms.EDAnalyzer("DumpSimGeometry",
                               outputFileName = cms.untracked.string('TBGeom.root'))
 
 process.p = cms.Path(process.dump)
+# foo bar baz
+# mlMePGvx8jtTT
+# 0mg0IOY0w8Mis

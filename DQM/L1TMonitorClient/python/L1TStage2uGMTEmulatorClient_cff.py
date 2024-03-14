@@ -85,3 +85,6 @@ l1tStage2uGMTEmulatorClient = cms.Sequence(
 # Add shower tests for Run3
 _run3_l1tStage2uGMTEmulatorClient = cms.Sequence(l1tStage2uGMTEmulatorClient.copy() + l1tStage2uGMTShowerEmulatorCompRatioClient)
 stage2L1Trigger_2021.toReplaceWith(l1tStage2uGMTEmulatorClient, _run3_l1tStage2uGMTEmulatorClient)
+# foo bar baz
+# t4SHfHZlt69Wp
+# CwA69DIYEi1he

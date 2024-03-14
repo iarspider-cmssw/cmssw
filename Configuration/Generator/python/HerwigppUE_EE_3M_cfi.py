@@ -65,3 +65,6 @@ herwigppUESettingsBlock = cms.PSet(
 		'set /Herwig/UnderlyingEvent/UECuts:MHatMin 7.06',
 	),
 )
+# foo bar baz
+# 1LMCW2kz782bX
+# 8sRRWF5prYdEj

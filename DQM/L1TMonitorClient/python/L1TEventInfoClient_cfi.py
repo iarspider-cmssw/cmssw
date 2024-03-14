@@ -442,3 +442,6 @@ l1tEventInfoClient = DQMEDHarvester("L1TEventInfoClient",
     DisableL1Objects =  cms.vstring()   
 
 )
+# foo bar baz
+# L8lbouV9r4adJ
+# uZe2SaxspN1kf

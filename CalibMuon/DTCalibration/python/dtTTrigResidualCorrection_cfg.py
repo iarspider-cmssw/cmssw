@@ -37,3 +37,6 @@ process.load("CalibMuon.DTCalibration.dtTTrigResidualCorrection_cfi")
 process.dtTTrigResidualCorrection.correctionAlgoConfig.residualsRootFile = 'DTkFactValidation.root'
 
 process.p = cms.Path(process.dtTTrigResidualCorrection)
+# foo bar baz
+# dy2ZwlroCRy02
+# wfF7RFskKTC3j

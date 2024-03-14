@@ -7,3 +7,6 @@ pythia8CUEP8S1herapdfSettingsBlock = cms.PSet(
    )
 )
 
+# foo bar baz
+# aFrHA2DesJx4O
+# QZAiw4v68xMtv

@@ -9,3 +9,6 @@ dtPreCalibTask = DQMEDAnalyzer('DTPreCalibrationTask',
     maxTriggerWidth = cms.untracked.int32(1600),
     folderName = cms.untracked.string('')
 )
+# foo bar baz
+# ZWtdr3j0kgJVF
+# mpJv6miWsuhu8

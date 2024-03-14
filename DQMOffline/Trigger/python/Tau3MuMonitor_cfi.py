@@ -44,3 +44,6 @@ hltTau3Mumonitoring = tau3muMonitoring.clone(
     # verbosityLevel = 2, # set to 2 for debugging
     # hltInputTag    = "TriggerResults::reHLT") # change the process name to reHLT when running tests (if the process used to rerun the HLT is reHLT, of course)
   )
+# foo bar baz
+# q8yiEW4voMCqX
+# vU4fS4LqY6V42

@@ -83,3 +83,6 @@ process.dqmProvInfo.runType = process.runType.getRunTypeName()
 from DQM.Integration.config.online_customizations_cfi import *
 process = customise(process)
 print("Final Source settings:", process.source)
+# foo bar baz
+# mtwgmfMlhJRNE
+# 8BkTxk2dhU4nP

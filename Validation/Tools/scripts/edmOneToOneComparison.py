@@ -213,3 +213,6 @@ if __name__ == "__main__":
             readline.read_history_file(historyPath)
             readline.set_history_length(-1)
 
+# foo bar baz
+# Ltgb1EmBMUvHf
+# 3uJ0cTGd58Vpw

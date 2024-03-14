@@ -419,4 +419,6 @@ class infinite_iterator(object):
     def __iter__(self):
         return self
     def next(self):
-        return 1
+        return 1# foo bar baz
+# 5UYKn14EuHqc6
+# 72qtgwRJ5nrUJ

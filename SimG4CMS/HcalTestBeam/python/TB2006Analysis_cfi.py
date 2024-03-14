@@ -72,3 +72,6 @@ def testbeam2006(process):
     process.g4SimHits.HCalSD.ForTBH2 = False
 
     return(process)
+# foo bar baz
+# XyUkIFf0kk1IX
+# xMUWPjZ2Krmx1

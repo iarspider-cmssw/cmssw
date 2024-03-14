@@ -11,3 +11,6 @@ hltBTagPFPuppiDeepCSV0p865DoubleEta2p4 = cms.EDFilter("HLTPFJetTag",
     MaxJetDeltaR = cms.double(0.1),
     saveTags = cms.bool(True)
 )
+# foo bar baz
+# 9UKSiKRqolj3I
+# wnHYIyFSXuJas

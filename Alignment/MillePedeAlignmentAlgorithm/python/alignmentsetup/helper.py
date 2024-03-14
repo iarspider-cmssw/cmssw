@@ -58,3 +58,6 @@ def add_filter(process, ed_filter):
     if not hasattr(process, "mps_filters"): process.mps_filters = cms.Sequence()
     process.mps_filters += ed_filter
     return process.mps_filters
+# foo bar baz
+# Fq90YBLWjIck4
+# NCQojFaiQ5AO7

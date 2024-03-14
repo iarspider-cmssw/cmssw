@@ -68,3 +68,6 @@ process.reader = cms.EDFilter("SiStripPedestalsDummyPrinter")
 process.p1 = cms.Path(process.reader)
 
 
+# foo bar baz
+# EypnO4G1pALxs
+# 0TyZpicxL0qcF

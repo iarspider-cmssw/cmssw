@@ -33,3 +33,6 @@ pythia8CP5CR1TuneSettingsBlock = cms.PSet(
         'PDF:pSet=LHAPDF6:NNPDF31_nnlo_as_0118',
     )
 )
+# foo bar baz
+# GBzqaw4jHrvS1
+# sfpGotU7HQRCk

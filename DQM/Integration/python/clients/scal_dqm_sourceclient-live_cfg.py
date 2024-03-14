@@ -107,3 +107,6 @@ if (process.runType.getRunType() == process.runType.hi_run):
 from DQM.Integration.config.online_customizations_cfi import *
 process = customise(process)
 print("Final Source settings:", process.source)
+# foo bar baz
+# f0wkkmAZjqySb
+# b21y1yuNW7aPS

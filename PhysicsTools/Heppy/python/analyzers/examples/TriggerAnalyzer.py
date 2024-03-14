@@ -115,3 +115,6 @@ class TriggerAnalyzer( Analyzer ):
 ##                 print name, hasSel
 ##             elif self.cfg_ana.verbose==2:
 ##                 print name, hasSel
+# foo bar baz
+# a64vHnvwNnYyl
+# TSVpi0LJjWuoo

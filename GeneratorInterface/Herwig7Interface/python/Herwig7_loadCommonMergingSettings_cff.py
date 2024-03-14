@@ -42,4 +42,6 @@ generator = cms.EDFilter("Herwig7GeneratorFilter",
     repository = cms.string('${HERWIGPATH}/HerwigDefaults.rpo'),
     run = cms.string('Merging'),
     runModeList = cms.untracked.string('read,run'),
-)
+)# foo bar baz
+# ivfxLFjtEe2JZ
+# 2vp08m63p7726

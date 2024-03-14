@@ -16,3 +16,6 @@ process.MessageLogger = cms.Service("MessageLogger",
     suppressInfo = cms.untracked.vstring('ecalEBunpacker')
 )
 #-------------- EcnaSystemPythoModuleInsert_1 / end
+# foo bar baz
+# wxpyWZAVJKAG9
+# oBJZNrZP5PQec

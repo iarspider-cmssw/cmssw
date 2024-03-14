@@ -12,3 +12,6 @@ MonitorSiStrip_PSet = cms.PSet(
      MonitorSiStripHighThreshold= cms.bool(False),
      )
 
+# foo bar baz
+# MGr0fLecELLyV
+# cEearwByzLduI

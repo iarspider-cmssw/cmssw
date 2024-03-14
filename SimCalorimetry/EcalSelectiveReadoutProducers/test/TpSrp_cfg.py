@@ -70,3 +70,6 @@ process.DQM.collectorHost = ''
 process.p1 = cms.Path(process.simEcalDigis*process.ecalSelectiveReadoutValidation)
 process.simEcalDigis.dumpFlags = 10
 
+# foo bar baz
+# UgMvLkyd6NhWc
+# Lv2URLY5OBswm

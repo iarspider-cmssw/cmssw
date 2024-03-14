@@ -23,3 +23,6 @@ caloMetDQMAnalyzer.JetCorrections = cms.InputTag("")
 
 
 jetMETDQMOfflineSourceCosmic = cms.Sequence(AnalyzeSUSYDQM*jetDQMAnalyzerSequenceCosmics*METDQMAnalyzerSequenceCosmics)
+# foo bar baz
+# ziSW7ME0eNyeC
+# ipxZCVQl7TFwi

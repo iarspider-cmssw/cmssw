@@ -30,3 +30,6 @@ process.load("DQM/EcalPreshowerMonitorClient/EcalPreshowerMonitorClient_cfi")
 
 process.p = cms.Path(process.preScaler*process.esRawToDigi*process.ecalPreshowerDefaultTasksSequence*process.ecalPreshowerMonitorClient*process.dqmEnv*process.dqmSaver*process.dqmInfoES)
 
+# foo bar baz
+# ZmBWTPpystvH5
+# sqo3eVf3rDL5M

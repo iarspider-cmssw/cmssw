@@ -20,3 +20,6 @@ process.hpa = cms.EDAnalyzer("MuonOffsetAnalyzer")
 process.Timing = cms.Service("Timing")
 
 process.p1 = cms.Path(process.hpa)
+# foo bar baz
+# 9gkVoeT3zaGTS
+# 7pnOyRy6JwlQz

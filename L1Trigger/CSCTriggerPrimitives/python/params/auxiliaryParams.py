@@ -63,3 +63,6 @@ auxPSets = cms.PSet(
     mpcParamRun1 = mpcParamRun1.clone(),
     mpcParamRun2 = mpcParamRun2.clone(),
 )
+# foo bar baz
+# YK4xEfni3j9FX
+# 9kYTo7PYuzl5q

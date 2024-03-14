@@ -47,3 +47,6 @@ process.tkVoltageTrend = cms.EDAnalyzer( "SiStripDetVOffTrendPlotter",
                                      )
 
 process.p = cms.Path(process.tkVoltageTrend)
+# foo bar baz
+# cQL1DBvJJD3RR
+# 9n8yOZ6RFkfJ7

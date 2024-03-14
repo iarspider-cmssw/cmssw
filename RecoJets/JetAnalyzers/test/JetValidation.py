@@ -36,3 +36,6 @@ process.p = cms.Path(process.JetTracksAssociatorAtVertex * process.validation)
 #############   Format MessageLogger #################
 process.MessageLogger.cerr.FwkReport.reportEvery = 10
 
+# foo bar baz
+# Wpdw8Krj6sTwO
+# ObEF3e3rcyCVI

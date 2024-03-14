@@ -23,3 +23,6 @@ l1tTkEleDouble12Filter = cms.EDFilter("L1TTkEleFilter",
     inputTag2 = cms.InputTag("l1tLayer1EG","L1TkEleEE"),
     saveTags = cms.bool(True)
 )
+# foo bar baz
+# kHYm4IPfgVQ9X
+# DpXetYp854ywh

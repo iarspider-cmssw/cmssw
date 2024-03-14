@@ -20,3 +20,6 @@ process.analyze = cms.EDAnalyzer("CSCIndexerAnalyzer")
 
 process.test = cms.Path(process.analyze)
 
+# foo bar baz
+# 5HPUR7LJgGzst
+# MQzIP2ogsXADh

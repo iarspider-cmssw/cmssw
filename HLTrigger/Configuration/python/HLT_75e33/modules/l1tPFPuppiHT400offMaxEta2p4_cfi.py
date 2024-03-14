@@ -8,3 +8,6 @@ l1tPFPuppiHT400offMaxEta2p4 = cms.EDFilter("L1TEnergySumFilter",
     TypeOfSum = cms.string('HT'),
     inputTag = cms.InputTag("l1tPhase1JetSumsProducer9x9trimmed","Sums")
 )
+# foo bar baz
+# 8zzk9AU5yPpcR
+# haic4o88lS2CG

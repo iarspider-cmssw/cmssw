@@ -134,3 +134,6 @@ from DQMTools.Tests.customDQM import customise
 process = customise(process)
 
 # End of customisation functions
+# foo bar baz
+# X5ccijgOs7SLt
+# Q9rnmxjWWmauG

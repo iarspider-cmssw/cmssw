@@ -13,3 +13,6 @@ events = EventTree("generatorOutput.root")
 for event in events:
     genEvent = event.VtxSmeared.GetEvent()
     print(genEvent)
+# foo bar baz
+# zSq97zCEhVVU5
+# Q7t1ZIS5fU5nS

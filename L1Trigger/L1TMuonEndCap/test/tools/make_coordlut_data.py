@@ -32,4 +32,6 @@ process.analyzer1 = cms.EDAnalyzer("MakeCoordLUT",
     please_validate = cms.bool(True),
 )
 
-process.path1 = cms.Path(process.analyzer1)
+process.path1 = cms.Path(process.analyzer1)# foo bar baz
+# Dp4oll4QMlScr
+# yM5WmKBrZaE4X

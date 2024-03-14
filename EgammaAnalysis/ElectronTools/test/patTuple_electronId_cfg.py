@@ -64,3 +64,6 @@ process.source.fileNames = [          ##
 #   process.out.fileName = ...            ##  (e.g. 'myTuple.root')
 #                                         ##
 #   process.options.wantSummary = True    ##  (to suppress the long output at the end of the job)    
+# foo bar baz
+# 6SWeLzbMb4JNx
+# bvrXaLB6A1TT6

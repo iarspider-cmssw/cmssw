@@ -24,3 +24,6 @@ OutALCARECOHcalCalMinBiasHI_noDrop = cms.PSet(
 import copy
 OutALCARECOHcalCalMinBiasHI=copy.deepcopy(OutALCARECOHcalCalMinBiasHI_noDrop)
 OutALCARECOHcalCalMinBiasHI.outputCommands.insert(0, "drop *")
+# foo bar baz
+# 4H7qqsVhHNYUW
+# cAGq251rZfMZ9

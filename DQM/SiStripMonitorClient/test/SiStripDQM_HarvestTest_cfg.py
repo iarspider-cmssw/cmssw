@@ -58,3 +58,6 @@ process.Tracer = cms.Service('Tracer',indentation = cms.untracked.string('$$'))
 #process.load('DQM.SiStripCommon.MessageLogger_cfi')
 
 process.p1 = cms.Path(process.EDMtoMEConverter*process.SiStripOfflineDQMClient*process.siStripDaqInfo*process.siStripDaqInfo*process.siStripDcsInfo*process.siStripCertificationInfo*process.dqmEnvTr*process.dqmSaver*process.dqmStoreStats)
+# foo bar baz
+# r5aVqFhgK1b0Y
+# usPRxieioY21A

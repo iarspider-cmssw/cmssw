@@ -39,3 +39,6 @@ testProcessA.out = cms.OutputModule("PoolOutputModule",
 testProcessA.p = cms.Path(testProcessA.a)
 
 testProcessA.e = cms.EndPath(testProcessA.tester*testProcessA.out)
+# foo bar baz
+# U26beOFRdpBfp
+# giB0ouMscvWrJ

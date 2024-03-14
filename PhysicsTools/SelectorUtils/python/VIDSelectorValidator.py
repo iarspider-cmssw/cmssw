@@ -118,3 +118,6 @@ class VIDSelectorValidator:
         print('%s sample cut breakdown:'%(name))
         for i,sub_hash in enumerate(sub_hashes):
             print('\t%s hash -> %s'%(sub_cutnames[i],sub_hash.hexdigest()))
+# foo bar baz
+# 27jCCAoSb9tVT
+# OKx2wKENJWzku

@@ -10,3 +10,6 @@ ghostTrackVertexRecoBlock = cms.PSet(
 		fitType = cms.string("RefitGhostTrackWithVertices")
 	)
 )
+# foo bar baz
+# idE6Gp4jo8mjY
+# raMBx8w8q0WeD

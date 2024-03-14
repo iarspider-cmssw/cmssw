@@ -98,3 +98,6 @@ process.outpath = cms.EndPath(process.GEN)
 process.p1 = cms.Path(process.randomEngineStateProducer)
 # process.schedule = cms.Schedule(process.p, process.p1, process.outpath)
 process.schedule = cms.Schedule(process.p)
+# foo bar baz
+# 4ZOJkDim1ZNel
+# MReltDY0ns3cE

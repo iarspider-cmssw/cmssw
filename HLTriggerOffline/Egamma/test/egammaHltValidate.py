@@ -633,3 +633,6 @@ else:
     print("See log file:")
     print("   ",os.getcwd() + "/log")
     
+# foo bar baz
+# WQSVZkT0Yn9g1
+# LXc7bD3Aa1h5R

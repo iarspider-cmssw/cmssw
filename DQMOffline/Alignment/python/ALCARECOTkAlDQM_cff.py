@@ -794,3 +794,6 @@ ALCARECOTkAlCosmicsRegionalTkAlDQM = ALCARECOTkAlCosmicsRegional0TTkAlDQM.clone(
 
 ALCARECOTkAlCosmicsRegionalDQM = cms.Sequence( ALCARECOTkAlCosmicsRegionalTrackingDQM + ALCARECOTkAlCosmicsRegionalTkAlDQM )
 
+# foo bar baz
+# yp1MMrUYn9Mf5
+# IXfOk14xPSRJE

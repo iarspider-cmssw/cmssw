@@ -505,3 +505,6 @@ metResolution  = stringResolution.clone(parametrization = 'EtEtaPhi',
     ),
                                         constraints = cms.vdouble(0)
                                         )
+# foo bar baz
+# EAL2RNEq4Add3
+# DT5z1VmH6zT04

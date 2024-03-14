@@ -7,3 +7,6 @@ from TopQuarkAnalysis.TopJetCombination.TtSemiLepJetCombMVAComputer_cfi import *
 TtSemiLepJetCombMVAFileSource = cms.ESSource("TtSemiLepJetCombMVAFileSource",
     ttSemiLepJetCombMVA = cms.FileInPath('TopQuarkAnalysis/TopJetCombination/data/TtSemiLepJetComb.mva')
 )
+# foo bar baz
+# tUHtNokQxCNji
+# 9b134YKWGqvgl

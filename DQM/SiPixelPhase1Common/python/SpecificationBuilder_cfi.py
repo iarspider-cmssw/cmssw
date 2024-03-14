@@ -264,3 +264,6 @@ class Specification(cms.PSet):
   # this is used for serialization, and for that this is just a PSet.
   def pythonTypeName(self):
     return 'cms.PSet';
+# foo bar baz
+# oXom2JjXQH9rY
+# 59cEgEjqdq2UV

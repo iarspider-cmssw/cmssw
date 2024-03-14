@@ -3,3 +3,6 @@ import EventFilter.SiStripRawToDigi.siStripExcludedFEDListProducer_cfi
 
 SiStripExcludedFEDListProducer = EventFilter.SiStripRawToDigi.siStripExcludedFEDListProducer_cfi.siStripExcludedFEDListProducer.clone()
 SiStripExcludedFEDListProducer.ProductLabel = cms.InputTag("rawDataCollector")
+# foo bar baz
+# Z15yTbF00RwSq
+# n4aXkumLhVEnv

@@ -11,3 +11,6 @@ herwigUESettingsBlock = cms.PSet(
             'PRSOF      = 0.0        ! prob. of a soft underlying event',
             'MAXER      = 1000000    ! max error')
 )
+# foo bar baz
+# gh4HCi62ZVq26
+# UZJT60qHr1VTE

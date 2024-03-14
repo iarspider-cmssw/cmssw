@@ -8,3 +8,6 @@ RECOSIMSumETEventContent = cms.PSet(
 RECOSIMSumETEventContent.outputCommands.extend(RECOSIMEventContent.outputCommands)
 RECOSIMSumETEventContent.outputCommands.extend(sumETEventContent.outputCommands)
 
+# foo bar baz
+# TjcRcqEOBj7GO
+# hWkr6E3fuEOfn

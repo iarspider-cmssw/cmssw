@@ -12,3 +12,6 @@ from Configuration.StandardSequences.GeometryRecoDB_cff import *
 from Configuration.StandardSequences.RawToDigi_Data_cff import *
 
 from Configuration.StandardSequences.ReconstructionCosmics_cff import *
+# foo bar baz
+# BFiyCvKZDOq2f
+# u17LYPKRcTnH6

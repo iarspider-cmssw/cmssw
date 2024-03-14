@@ -4,3 +4,6 @@ from CalibTracker.SiStripESProducers.fake.SiStripNoisesFakeESSource_cfi import s
 
 siStripNoisesFakeESSource.NoiseStripLengthSlope = cms.vdouble(38.8)
 siStripNoisesFakeESSource.NoiseStripLengthQuote = cms.vdouble(414.)
+# foo bar baz
+# lk8qfNrwWfNw2
+# MI2Q3U0hmy2pu

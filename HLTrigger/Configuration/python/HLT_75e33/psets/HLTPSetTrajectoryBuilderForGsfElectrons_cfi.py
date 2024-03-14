@@ -17,3 +17,6 @@ HLTPSetTrajectoryBuilderForGsfElectrons = cms.PSet(
     ),
     updator = cms.string('hltESPKFUpdator')
 )
+# foo bar baz
+# dTkDMt03YJRA3
+# 4sHkAZcm8BOwA

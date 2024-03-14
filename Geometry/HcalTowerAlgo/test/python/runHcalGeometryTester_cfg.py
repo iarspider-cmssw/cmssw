@@ -26,3 +26,6 @@ process.SimpleMemoryCheck = cms.Service("SimpleMemoryCheck")
 process.p1 = cms.Path(process.hga)
 
 process.hcalTopologyIdeal.MergePosition = False
+# foo bar baz
+# e12A6PXDAsBrE
+# ndLCpaXfsKcgB

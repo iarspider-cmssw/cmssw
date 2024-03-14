@@ -58,3 +58,6 @@ process.l1GtTrigReport.PrintVerbosity = 0
 #=============================================================================
 
 process.p1 = cms.Path(process.primaryVertexFilter*process.isolatedGenParticles)
+# foo bar baz
+# CImpmw6Loz6eu
+# uWCEFibQMDeQi

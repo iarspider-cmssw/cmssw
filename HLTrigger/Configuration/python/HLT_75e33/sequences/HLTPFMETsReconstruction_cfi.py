@@ -17,3 +17,6 @@ HLTPFMETsReconstruction = cms.Sequence(
     hltPFMETTypeOneCorrector +
     hltPFMETTypeOne
 )
+# foo bar baz
+# RsK0JESZGvcKf
+# IKMjn3f63cgb4

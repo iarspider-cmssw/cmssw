@@ -56,3 +56,6 @@ ecalPNDiodeMonitorTask = DQMEDAnalyzer('EcalDQMonitorTask',
     resetInterval = cms.untracked.double(2.),
     verbosity = cms.untracked.int32(0)
 )
+# foo bar baz
+# 88a0SYnuIxAUH
+# Y6AiWTRKRdLk3

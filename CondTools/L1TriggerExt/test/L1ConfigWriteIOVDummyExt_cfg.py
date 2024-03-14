@@ -106,3 +106,6 @@ process.outputDB = cms.ESSource("PoolDBESSource",
 process.outputDB.DBParameters.authenticationPath = options.outputDBAuth
 
 process.p = cms.Path(process.L1CondDBIOVWriterExt)
+# foo bar baz
+# lNTO0w1RegsTw
+# SgRQAyrcbHXxi

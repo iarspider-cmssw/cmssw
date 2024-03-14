@@ -44,3 +44,6 @@ cleanPatTaus = cms.EDProducer("PATTauCleaner",
     # finalCut (any string-based cut on pat::Tau)
     finalCut = cms.string('pt > 18. & abs(eta) < 2.3'),
 )
+# foo bar baz
+# f86Gny0M6k8P2
+# 8jhdrSpjTsfc8

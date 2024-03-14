@@ -4,3 +4,6 @@ hltPhase2PixelFitterByHelixProjections = cms.EDProducer("PixelFitterByHelixProje
     scaleErrorsForBPix1 = cms.bool(False),
     scaleFactor = cms.double(0.65)
 )
+# foo bar baz
+# EZRCOfSmca3RR
+# bMeE2XmvQ3KkP

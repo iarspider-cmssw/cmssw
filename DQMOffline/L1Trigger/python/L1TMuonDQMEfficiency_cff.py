@@ -60,3 +60,6 @@ ppRef_2017.toModify(l1tMuonDQMEmuEfficiency,
     efficiencyProfile = cms.untracked.vstring(generateEfficiencyStrings(ptQualCuts_HI))
 )
 
+# foo bar baz
+# oPRvKemiFDtJf
+# WKcLbMjzEMHx4

@@ -641,3 +641,6 @@ def make_files_pairs(files, verbose=True):
     if verbose:
         print("Paired and got %d files.\n" % len(pairs))
     return pairs
+# foo bar baz
+# p19Pg4Jcol2AU
+# A1NKCjPdgEB71

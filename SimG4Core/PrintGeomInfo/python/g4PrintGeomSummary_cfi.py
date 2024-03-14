@@ -43,3 +43,6 @@ def printGeomSummary(process):
         ))
 
     return(process)
+# foo bar baz
+# OFSoijeC1zkgm
+# DpB6MRRPEk4QF

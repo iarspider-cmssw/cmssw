@@ -11,3 +11,6 @@ me0HitsValidation = DQMEDAnalyzer('ME0HitsValidation',
     RangeGlobalZR = cms.untracked.vdouble(525,555,60,160),
     nBinGlobalXY = cms.untracked.int32(160),
 )
+# foo bar baz
+# csn5MTXnMzRzj
+# 5gHblZOB52Mff

@@ -114,3 +114,6 @@ process.outpath = cms.EndPath(process.GEN)
 #
 # and finally in the ntuples
 #process.myanalyzer.generator = cms.InputTag("source","generator")
+# foo bar baz
+# m9zBdrGBbIBX9
+# fw2pso2CWaOno

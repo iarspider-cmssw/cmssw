@@ -15,3 +15,6 @@ DDVectorRegistryESProducer = cms.ESProducer("DDVectorRegistryESProducer",
 DDCompactViewESProducer = cms.ESProducer("DDCompactViewESProducer",
                                          appendToDataLabel = cms.string('')
 )
+# foo bar baz
+# umLAp1juyyMqw
+# W7gqxwaj2efxM

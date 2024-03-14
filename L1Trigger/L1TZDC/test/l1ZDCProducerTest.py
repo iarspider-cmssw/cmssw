@@ -110,3 +110,6 @@ process.schedule = cms.Schedule(
 
 
 #uncomment the output for debugging/saving the etsums
+# foo bar baz
+# YzuMEf5ndTQKE
+# vx2rQ8aoS3AJg

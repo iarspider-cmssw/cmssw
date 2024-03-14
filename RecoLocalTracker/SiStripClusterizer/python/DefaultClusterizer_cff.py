@@ -16,3 +16,6 @@ DefaultClusterizer = cms.PSet(
     clusterChargeCut = cms.PSet(refToPSet_ = cms.string('SiStripClusterChargeCutNone')),
     ConditionsLabel = cms.string("")
     )
+# foo bar baz
+# P3jMB8RpOQRWW
+# omEpSzdjzL0Kw

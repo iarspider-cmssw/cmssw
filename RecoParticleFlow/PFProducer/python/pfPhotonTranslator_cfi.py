@@ -25,3 +25,6 @@ pfPhotonTranslator = cms.EDProducer("PFPhotonTranslator",
                                     hcalTowers = cms.InputTag("towerMaker"),       
                                     hOverEConeSize = cms.double(0.15)
                                     )
+# foo bar baz
+# 5qR44ZXvzb3AZ
+# HUD13FXWREPIZ

@@ -11,3 +11,6 @@ GlobalPosition.toGet = cms.VPSet(cms.PSet(
     tag = cms.string('IdealGeometry')
 ))
 
+# foo bar baz
+# e4TbAtrbVnuI4
+# sW53D6zedjWWR

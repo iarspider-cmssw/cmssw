@@ -60,3 +60,6 @@ process.p1 = cms.Path(process.queryField)
 ### Activate verbose mode of geometry building as well as additional
 ### consistency checks on geometry
 #process.VolumeBasedMagneticFieldESProducer.debugBuilder = True
+# foo bar baz
+# IS8wyv9BxqXIf
+# NCp0bsl9RBMF9

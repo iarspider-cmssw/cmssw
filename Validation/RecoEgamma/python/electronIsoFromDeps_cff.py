@@ -59,3 +59,6 @@ electronIsoFromDeps = cms.Sequence(
   eleIsoFromDepsHcalFromTowers03*
   eleIsoFromDepsHcalFromTowers04
 )
+# foo bar baz
+# OTJ4KbHacIQJU
+# 0mpHvO7ThFx72

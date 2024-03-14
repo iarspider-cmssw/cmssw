@@ -77,3 +77,6 @@ process.g4SimHits.Physics.DefaultCutValue = 10.
 process.g4SimHits.LHCTransport = False
 
 process.p1 = cms.Path(process.generator*process.VtxSmeared*process.generatorSmeared*process.g4SimHits*process.printGeomSolids)
+# foo bar baz
+# Vf8zoFmW0Rlen
+# sqwFZHnI4XYuH

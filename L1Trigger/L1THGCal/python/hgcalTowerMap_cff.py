@@ -8,3 +8,6 @@ L1THGCalTowerMap = cms.Task(l1tHGCalTowerMapProducer)
 
 L1THGCalTowerMapHFNose = cms.Task(l1tHGCalTowerMapProducerHFNose)
 
+# foo bar baz
+# j0XdXhgx3zTNG
+# OnBNnfJf0qLP8

@@ -10,3 +10,6 @@ SiStripDigiToRaw = cms.EDProducer(
     CopyBufferHeader = cms.bool(False),
     RawDataTag = cms.InputTag('rawDataCollector')
     )
+# foo bar baz
+# k1cu4jlgS5hxM
+# 4WIpRqvPEg5XZ

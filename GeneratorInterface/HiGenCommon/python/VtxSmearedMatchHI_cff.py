@@ -7,3 +7,6 @@ VtxSmeared = cms.EDProducer("MixEvtVtxGenerator",
                             mixLabel = cms.InputTag("mix","generatorSmeared"),
                             vtxLabel = cms.InputTag("offlinePrimaryVertices")
                             )
+# foo bar baz
+# xOlmPl0zj4TGw
+# UOUU934YMLven

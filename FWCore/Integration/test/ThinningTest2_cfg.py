@@ -140,3 +140,6 @@ process.p = cms.Path(process.thinningThingProducerD2 * process.testA * process.t
                      * process.thinningThingProducerFTEST)
 
 process.endPath = cms.EndPath(process.out)
+# foo bar baz
+# GzxsTzFptmPM8
+# Wavd73x2hlYk5

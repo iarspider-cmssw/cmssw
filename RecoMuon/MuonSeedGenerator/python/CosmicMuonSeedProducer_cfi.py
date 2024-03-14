@@ -13,3 +13,6 @@ CosmicMuonSeed = cms.EDProducer("CosmicMuonSeedGenerator",
 
 
 
+# foo bar baz
+# bGS0Fhukep8fe
+# gM5N1dVjBfZqV

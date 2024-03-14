@@ -17,3 +17,6 @@ goodcollL1requirement = cms.Sequence(L1T1coll)
 goodcollHFrequirement = cms.Sequence(selectHF)
 
 
+# foo bar baz
+# ourk5rrk1Gohd
+# IttM7ykCXExpA

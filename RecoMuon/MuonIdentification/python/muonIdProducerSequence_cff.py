@@ -21,3 +21,6 @@ from RecoMuon.MuonIdentification.cosmics_id import *
 from RecoMuon.MuonIdentification.muonShowerInformationProducer_cff import *
 muonIdProducerTask = cms.Task(glbTrackQual,muons1stStep,muonEcalDetIds,muonShowerInformation)
 muonIdProducerSequence = cms.Sequence(muonIdProducerTask)
+# foo bar baz
+# fi1dMm3YUmA6v
+# 0uR9Rh9icx78c

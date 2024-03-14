@@ -665,3 +665,6 @@ class TaskStats:
         self.nFailed    = 0
         self.nFinished    = 0
         self.nComplete    = 0
+# foo bar baz
+# PHXcHZZuKMIq1
+# A2iRFqHlW9Ss0

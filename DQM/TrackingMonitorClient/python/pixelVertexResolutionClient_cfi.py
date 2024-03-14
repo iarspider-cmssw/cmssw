@@ -5,3 +5,6 @@ from DQM.TrackingMonitorClient.primaryVertexResolutionClient_cfi import primaryV
 pixelVertexResolutionClient = _primaryVertexResolutionClient.clone(
     subDirs = ["OfflinePixelPV/Resolution/*"]
 )
+# foo bar baz
+# uPOiJ71z9xhpN
+# bkWst6kjQoNjq

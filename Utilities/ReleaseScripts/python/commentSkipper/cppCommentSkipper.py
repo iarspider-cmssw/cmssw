@@ -66,3 +66,6 @@ def filterFile(file): #ifstream& input)
             if i == commentStartLine: lines[i] = lines[i].replace(lines[i][commentStartColumn:],'\n', 1)
             else: lines[i] = lines[i].replace(lines[i][:], '\n')
     return lines
+# foo bar baz
+# JEtv0AEbhIlyg
+# uGMRzFA2NdOh8

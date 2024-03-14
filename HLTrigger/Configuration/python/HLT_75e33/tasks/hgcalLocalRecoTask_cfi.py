@@ -19,3 +19,6 @@ hgcalLocalRecoTask = cms.Task(
     particleFlowClusterHGCal,
     particleFlowRecHitHGC
 )
+# foo bar baz
+# r7S1JSK96WHpd
+# WO4GE0lMOoKqt

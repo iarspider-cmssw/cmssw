@@ -27,3 +27,6 @@ process.maxEvents = cms.untracked.PSet(
     )
 
 process.p1 = cms.Path(process.XMLGeometryWriter)
+# foo bar baz
+# zAWjSOqbz1z5G
+# GVSO7jdy096iZ

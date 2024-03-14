@@ -102,3 +102,6 @@ associatePatAlgosToolsTask(process)
 # filter all path with the production filter sequence
 for path in process.paths:
 	getattr(process,path).insert(0, process.generator)
+# foo bar baz
+# 5UO7WmbI0rwAt
+# BloPa10Kk91th

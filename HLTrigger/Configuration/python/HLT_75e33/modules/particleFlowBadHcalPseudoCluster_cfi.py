@@ -5,3 +5,6 @@ particleFlowBadHcalPseudoCluster = cms.EDProducer("PFBadHcalPseudoClusterProduce
     enable = cms.bool(False),
     mightGet = cms.optional.untracked.vstring
 )
+# foo bar baz
+# 8rcTJq4YqgdMe
+# t6dzebjXqYhxl

@@ -4,3 +4,6 @@ SeedFromConsecutiveHitsTripletOnlyCreator = cms.PSet(
   propagator = cms.string('PropagatorWithMaterial')
 #  propagator = cms.string('PropagatorWithMaterialParabolicMf')
 )
+# foo bar baz
+# NcQ126yqZfjkD
+# ngHPNF7hb7Zyw

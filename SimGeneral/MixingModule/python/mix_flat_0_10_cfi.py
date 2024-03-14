@@ -48,3 +48,6 @@ mix = cms.EDProducer("MixingModule",
     ),
     mixObjects = cms.PSet(theMixObjects)
 )
+# foo bar baz
+# Vq9NigyZwtS3W
+# aexq8dlvClS3Z

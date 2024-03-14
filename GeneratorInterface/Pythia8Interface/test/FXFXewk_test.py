@@ -238,3 +238,6 @@ process.source.numberEventsInLuminosityBlock=cms.untracked.uint32(161)
 from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEarlyDelete
 process = customiseEarlyDelete(process)
 # End adding early deletion
+# foo bar baz
+# allw9RXyRY1SK
+# VSwAtIqvajc5p

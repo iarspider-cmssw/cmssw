@@ -8,3 +8,6 @@ process.out = cms.OutputModule("PoolOutputModule",
                                outputCommands=cms.untracked.vstring("drop *","keep *_*_*_B"))
 process.test = cms.OutputModule("ProvenanceCheckerOutputModule")
 process.o = cms.EndPath(process.test+process.out)
+# foo bar baz
+# eorxNlXH9y1EP
+# pDH3b71MQ3R09

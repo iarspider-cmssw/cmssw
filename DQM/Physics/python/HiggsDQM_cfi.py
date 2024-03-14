@@ -16,3 +16,6 @@ HiggsDQM = DQMEDAnalyzer('HiggsDQM',
     PtThrMu2 = cms.untracked.double(3.0)
 )
 
+# foo bar baz
+# 8g4YUmk63ifiM
+# 8mHKToGrhBPvH

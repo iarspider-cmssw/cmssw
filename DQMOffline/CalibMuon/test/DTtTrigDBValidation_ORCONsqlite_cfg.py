@@ -77,3 +77,6 @@ process.p = cms.Path(process.dtTTrigAnalyzer*process.qTester)
 process.DQM.collectorHost = ''
 
 
+# foo bar baz
+# hhmyiMuIb2w4h
+# 1RQT2fEeIOj77

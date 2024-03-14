@@ -18,3 +18,6 @@ l1comparatorResultDigis = cms.EDProducer(
     doLayer1 = cms.bool(True)
     )
 
+# foo bar baz
+# S9epghq7G9hSC
+# KoXbPvjHnbAzO

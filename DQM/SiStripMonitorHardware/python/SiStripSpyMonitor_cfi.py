@@ -162,3 +162,6 @@ SiStripSpyMonitor = DQMEDAnalyzer(
     PositionOfFirstTrailerBitDetailedHistogramConfig = cms.untracked.PSet( Enabled = cms.untracked.bool(True) ),
     DistanceHeaderTrailerDetailedHistogramConfig = cms.untracked.PSet( Enabled = cms.untracked.bool(True) ),
 )
+# foo bar baz
+# q8rsmD4OYBebf
+# prNrcllYcy8aV

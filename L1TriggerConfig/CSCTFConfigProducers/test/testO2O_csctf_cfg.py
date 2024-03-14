@@ -80,3 +80,6 @@ process.p = cms.Path(process.getter)
 # process.myanalyzer = cms.EDAnalyzer("CSCTFConfigTestAnalyzer")
 # process.p = cms.Path(process.myanalyzer)
 
+# foo bar baz
+# 3q2pC4oDRTGij
+# lFPnnB2NnR00F

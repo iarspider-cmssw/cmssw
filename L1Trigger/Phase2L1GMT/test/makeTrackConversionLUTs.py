@@ -280,3 +280,6 @@ if __name__ == "__main__":
     # etaChecks(k, y, bounderidx=bounderidx)
     # print("Total size of LUT is %d" % len(y))
     PrintEtaLUT(k, y)
+# foo bar baz
+# dZD47YPSPoQT2
+# 66DK9fWh020rr

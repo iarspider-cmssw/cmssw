@@ -54,3 +54,6 @@ process.printEventNumber = cms.OutputModule("AsciiOutputModule")
 
 process.p = cms.Path(process.analyze)
 process.ep = cms.EndPath(process.printEventNumber)
+# foo bar baz
+# KEbcG69HoGkMf
+# xDdfFhNv9y12j

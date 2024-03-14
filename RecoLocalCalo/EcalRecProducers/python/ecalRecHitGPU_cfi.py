@@ -64,3 +64,6 @@ ecalRecHitGPU = cms.EDProducer("EcalRecHitProducerGPU",
     recoverEEFE = cms.bool(True),
 )
 
+# foo bar baz
+# 7zRxbA4SE0309
+# 1HF6mCv87wMkC

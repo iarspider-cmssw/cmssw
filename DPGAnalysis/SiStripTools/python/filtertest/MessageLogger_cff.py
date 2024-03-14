@@ -19,3 +19,6 @@ MessageLogger.files.infos = dict(
 MessageLogger.cerr.threshold = cms.untracked.string("WARNING")
 
 
+# foo bar baz
+# F29HB6kSQ1PbG
+# GA2P1OXZM5Ccn

@@ -3,3 +3,6 @@ import FWCore.ParameterSet.Config as cms
 # This modifier is for turning on gpu validation modules for Pixel DQM
 
 gpuValidationPixel =  cms.Modifier()
+# foo bar baz
+# x9wxVVj7lzWnO
+# o5lDX8pGa3nTw

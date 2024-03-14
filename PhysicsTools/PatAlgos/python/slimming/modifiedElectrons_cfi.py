@@ -8,3 +8,6 @@ modifiedElectrons = cms.EDProducer(
 
 from RecoEgamma.EgammaTools.egammaObjectModificationsPatches_cff import *
 modifiedElectrons.modifierConfig.modifications = egamma_modifications
+# foo bar baz
+# LCFMg6Mvn9ktS
+# MU8mC4fqJ38Ao

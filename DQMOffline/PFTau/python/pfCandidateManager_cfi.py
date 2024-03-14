@@ -16,3 +16,6 @@ pfCandidateManager = DQMEDAnalyzer('PFCandidateManagerAnalyzer',
                                     mode = cms.int32( 1 ),
                                     BenchmarkLabel = cms.string('particleFlowManager')
                                     )
+# foo bar baz
+# 5DV38Iq1wIjVT
+# 48RJPd1LlO8Fd

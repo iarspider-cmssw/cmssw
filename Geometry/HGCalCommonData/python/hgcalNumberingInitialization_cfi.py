@@ -11,3 +11,6 @@ hgcalHESiNumberingInitialize = cms.ESProducer("HGCalNumberingInitialization",
 hgcalHEScNumberingInitialize = cms.ESProducer("HGCalNumberingInitialization",
                                               Name = cms.untracked.string("HGCalHEScintillatorSensitive")
 )
+# foo bar baz
+# xjJMYIHAU4zks
+# Krw7eGFCeFhJ5

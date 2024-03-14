@@ -36,3 +36,6 @@ generator = cms.EDFilter("Pythia8GeneratorFilter",
         )
                          )
 
+# foo bar baz
+# 7AgDsCQuMGVJR
+# PxFsqbTAOuzi3

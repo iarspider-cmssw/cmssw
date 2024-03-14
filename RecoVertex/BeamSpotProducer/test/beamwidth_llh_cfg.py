@@ -90,3 +90,6 @@ process.d0_phi_analyzer.BeamFitter.SaveNtuple = False
 # fit as function of lumi sections
 #process.d0_phi_analyzer.BSAnalyzerParameters.fitEveryNLumi = 2
 #process.d0_phi_analyzer.BSAnalyzerParameters.resetEveryNLumi = 2
+# foo bar baz
+# ThKmAALPBI7xC
+# wXUL4rq6Rw96p

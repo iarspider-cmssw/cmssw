@@ -28,3 +28,6 @@ process.prod = cms.EDAnalyzer("ModuleInfo",
 process.p1 = cms.Path(process.prod)
 #process.ep = cms.EndPath(process.print)
 
+# foo bar baz
+# 5bnn77tlf9vjY
+# UnbmHt5IXWgXd

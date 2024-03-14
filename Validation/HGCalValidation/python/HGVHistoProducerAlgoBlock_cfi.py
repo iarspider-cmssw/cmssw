@@ -179,3 +179,6 @@ HGVHistoProducerAlgoBlock = cms.PSet(
     maxZ  = cms.double(550.),
     nintZ = cms.int32(1100)
 )
+# foo bar baz
+# vGsFS096Nvwz9
+# e9lKP28GpisS4

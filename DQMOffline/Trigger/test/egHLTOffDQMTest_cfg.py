@@ -88,3 +88,6 @@ process.psource = cms.Path(process.egHLTOffDQMSource*process.egHLTOffDQMClient)
 process.p = cms.EndPath(process.dqmSaver)
 
 
+# foo bar baz
+# aeKe0FqvxIkWf
+# 1IHIjGEoZGwEy

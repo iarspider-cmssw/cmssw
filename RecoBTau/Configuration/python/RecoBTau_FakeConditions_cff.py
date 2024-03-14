@@ -2,3 +2,6 @@ import FWCore.ParameterSet.Config as cms
 
 from RecoBTau.JetTagComputer.MVAJetTagsFakeConditions_cfi import *
 
+# foo bar baz
+# 6VMst5GKuBxm7
+# T3Mo0pfOhDDt3

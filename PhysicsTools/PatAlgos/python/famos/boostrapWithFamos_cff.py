@@ -22,3 +22,6 @@ for layer in process.fastSimProducer.detectorDefinition.ForwardLayers:
 fastSimProducer.SimulateMuons = True
 VolumeBasedMagneticFieldESProducer.useParametrizedTrackerField = True
 
+# foo bar baz
+# nqjqpp6Kgw2K7
+# 0GqUNIXFdr008

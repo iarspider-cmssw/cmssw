@@ -13,3 +13,6 @@ slimmedTaus = cms.EDProducer("PATTauSlimmer",
    lostTracks = cms.InputTag("lostTracks")
 )
 
+# foo bar baz
+# PTVpfu4VgCq1l
+# pHZl05XzWsle9

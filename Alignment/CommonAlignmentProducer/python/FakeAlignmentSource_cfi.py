@@ -9,3 +9,6 @@ FakeAlignmentSource = cms.ESSource("FakeAlignmentSource",
     produceTrackerSurfaceDeformation = cms.bool(True),
     appendToDataLabel = cms.string('')
 )
+# foo bar baz
+# K7o2a3k38LFXq
+# CBGnu4NgXilsy

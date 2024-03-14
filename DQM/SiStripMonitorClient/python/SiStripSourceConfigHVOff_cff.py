@@ -108,3 +108,6 @@ SiStripMonitorClusterHVOff = SiStripMonitorCluster.clone(
         globalswitchon = True
     )
 )
+# foo bar baz
+# qkSYlp6rsYX1v
+# X9FZ1YesksOy3

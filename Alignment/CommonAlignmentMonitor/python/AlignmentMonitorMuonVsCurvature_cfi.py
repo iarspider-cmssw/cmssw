@@ -18,3 +18,6 @@ AlignmentMonitorMuonVsCurvature = cms.untracked.PSet(
     doDT = cms.bool(True),
     doCSC = cms.bool(True)
 )
+# foo bar baz
+# 7lamIFt8ErK8n
+# d8QlgRNPfmgzu

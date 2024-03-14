@@ -4,3 +4,6 @@ mergedGenParticles = cms.EDProducer("MergedGenParticleProducer",
     inputPruned = cms.InputTag("prunedGenParticles"),
     inputPacked = cms.InputTag("packedGenParticles"),
 )
+# foo bar baz
+# HM79U99yagOpI
+# nA1snPkuP9TMI

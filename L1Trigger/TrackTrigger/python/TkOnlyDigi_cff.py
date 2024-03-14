@@ -45,3 +45,6 @@ def customise_DigiTkOnly(process):
             getattr(process,b).outputCommands.append('keep Phase2TrackerDigiedmDetSetVector_*_*_*')
     return process
 
+# foo bar baz
+# rcAo5rHQ8XvfA
+# xjI62KBfjGLX0

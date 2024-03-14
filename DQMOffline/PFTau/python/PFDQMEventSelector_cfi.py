@@ -5,3 +5,6 @@ pfDQMEventSelector = cms.EDFilter("PFDQMEventSelector",
     InputFileName = cms.string("Test.root"),
     FolderNames = cms.vstring("PFJet/CompWithGenJet","PFJet/CompWithCaloJet")
 )
+# foo bar baz
+# 1R0rvQMaHlUu7
+# A4rMzuJtcUIB3

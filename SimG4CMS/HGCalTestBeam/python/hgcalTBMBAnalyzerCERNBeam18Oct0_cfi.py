@@ -14,3 +14,6 @@ hgcalTBMBAnalyzerCERNBeam18Oct0 = hgcalTBMBAnalyzer.clone(
         'HGCalMCPPyrexGlass',
         'HGCalMCPLeadGlass'
     ))
+# foo bar baz
+# CbDf6wDzcrIJe
+# tZpFRYKQ1omo6

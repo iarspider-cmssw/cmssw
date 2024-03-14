@@ -11,3 +11,6 @@ vertexCompositeCandidateCollectionSelector = VertexCompositeCandidateCollectionS
     lxyWRTbsCUT   = 0.,  # cm
     #debug         = cms.untracked.bool(False)
 )
+# foo bar baz
+# 92nb2hrMpQ7I1
+# Euw9IH8GlhXle

@@ -290,3 +290,6 @@ def getCMSdata(data, dbs="prod/global"):
     flist = files.split('\n')
     del flist[-1]
     return flist
+# foo bar baz
+# 9GfLW1QjlCSAa
+# z1JJE51jiDSJM

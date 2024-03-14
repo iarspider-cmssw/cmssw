@@ -19,3 +19,6 @@ minBiasPASkimSequence = cms.Sequence(
     hltMinBiasPA *
     primaryVertexFilterForMinBiasPA
 )
+# foo bar baz
+# VrVyc4Cr5kJv5
+# OVlqSFTn9pfOQ

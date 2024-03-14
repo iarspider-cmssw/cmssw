@@ -65,3 +65,6 @@ HLTEle32WPTightL1SeededSequence = cms.Sequence(
     hltEle32WPTightGsfTrackIsoL1SeededFilter,
     HLTEle32WPTightL1SeededTask
 )
+# foo bar baz
+# 2sTxLfcfATscx
+# 1dI1PbihDbU5A

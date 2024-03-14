@@ -37,3 +37,6 @@ L1TCaloStage1_HIFromRaw = cms.Sequence(
     +L1TCaloStage1
     +simGtDigis
 )
+# foo bar baz
+# gnCOwRtYdlUnH
+# a07fiFodsawdD

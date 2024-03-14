@@ -6,3 +6,6 @@ rpcMuonSeed = cms.EDProducer("RPCSeedGenerator",
 )
 
 
+# foo bar baz
+# 3Aws0XLhMQFPX
+# GWcnXbUYoMTyg

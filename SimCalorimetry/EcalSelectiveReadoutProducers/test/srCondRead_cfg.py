@@ -63,3 +63,6 @@ process.readFromDB = cms.EDAnalyzer("EcalSRCondTools",
 
 process.p = cms.Path(process.readFromDB)
 
+# foo bar baz
+# wl6mPn5nN2tGp
+# WQeifk0rPupqu

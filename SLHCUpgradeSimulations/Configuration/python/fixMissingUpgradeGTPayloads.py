@@ -15,3 +15,6 @@ def fixRPCConditions(process):
         )
     )
     return process
+# foo bar baz
+# ctQ7vd6morWS5
+# rKz4AdeO8Nsr3

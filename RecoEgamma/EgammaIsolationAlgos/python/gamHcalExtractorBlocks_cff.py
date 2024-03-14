@@ -20,3 +20,6 @@ GamIsoHcalFromTowersExtractorBlock = cms.PSet(
     hcalDepth = cms.int32(-1)
 )
 
+# foo bar baz
+# s0LxXLdrKLjC3
+# c4eBI0K8VcmKF

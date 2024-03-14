@@ -6,3 +6,6 @@ import FWCore.ParameterSet.Config as cms
 from HeterogeneousCore.CUDACore.ProcessAcceleratorCUDA_cfi import ProcessAcceleratorCUDA
 from HeterogeneousCore.ROCmCore.ProcessAcceleratorROCm_cfi import ProcessAcceleratorROCm
 from HeterogeneousCore.AlpakaCore.ProcessAcceleratorAlpaka_cfi import ProcessAcceleratorAlpaka
+# foo bar baz
+# OKMNQD29mrzi3
+# XjPir6dtVZCdm

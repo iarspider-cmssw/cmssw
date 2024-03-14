@@ -50,3 +50,6 @@ process.load("CalibTracker.SiStripESProducers.fake.Phase2TrackerConfigurableCabl
 process.demo = cms.EDAnalyzer('CheckPhase2Cabling')
 
 process.p = cms.Path(process.demo)
+# foo bar baz
+# 9HcfCIlsv8I5f
+# 7cWDNUYDYcUo5

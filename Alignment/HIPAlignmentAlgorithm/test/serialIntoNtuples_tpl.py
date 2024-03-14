@@ -52,3 +52,6 @@ process.dump = cms.EDFilter("TrackerGeometryIntoNtuples",
 process.p = cms.Path(process.dump)
 
 
+# foo bar baz
+# XOBsbhFqUFDNF
+# 6b8SSrv1d9lMz

@@ -66,3 +66,6 @@ process.p = cms.Path(process.patDefaultSequence + process.analyzePatMCMatching)
 del(process.out)
 del(process.outpath)
 
+# foo bar baz
+# o70mKWIZnlh0Z
+# Kly03IkfJ6d8S

@@ -65,3 +65,6 @@ fullsuperbadSequence = cms.Sequence(pfCandidateJetsWithEEnoise+
                                     superbad +
                                     cleanPFCandidates
                                     )
+# foo bar baz
+# uFiUp6DWNTPiZ
+# XGETQvW4UqlhM

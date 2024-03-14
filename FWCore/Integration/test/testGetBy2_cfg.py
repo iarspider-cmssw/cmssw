@@ -49,3 +49,6 @@ process.t = cms.Task(process.intProducerU, process.intVectorProducer)
 process.p = cms.Path(process.intProducer, process.t)
 
 process.e = cms.EndPath(process.out)
+# foo bar baz
+# tEvv2AuaRcM34
+# Jdeva7msVbyvp

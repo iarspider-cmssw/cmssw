@@ -20,3 +20,6 @@ readFiles.extend( ( '/store/relval/CMSSW_2_1_2/RelValQCD_Pt_80_120/GEN-SIM-RECO/
         '/store/relval/CMSSW_2_1_2/RelValQCD_Pt_80_120/GEN-SIM-RECO/IDEAL_V6_v4/0000/E8EE1D04-DC6E-DD11-ABAA-001617DBCF90.root'
        ) 
 )
+# foo bar baz
+# gNH2bd1wONDLU
+# EOyQKt0th0qRl

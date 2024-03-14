@@ -15,3 +15,6 @@ hltEgammaGsfTracksL1Seeded = cms.EDProducer("GsfTrackProducer",
     src = cms.InputTag("hltEgammaCkfTrackCandidatesForGSFL1Seeded"),
     useHitsSplitting = cms.bool(False)
 )
+# foo bar baz
+# 0D5C0f6yQGfcR
+# Mdkzzngzd6K18

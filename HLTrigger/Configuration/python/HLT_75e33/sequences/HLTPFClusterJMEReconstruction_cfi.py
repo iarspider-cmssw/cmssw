@@ -11,3 +11,6 @@ HLTPFClusterJMEReconstruction = cms.Sequence(
     hltAK8PFClusterJets +
     hltPFClusterMET
 )
+# foo bar baz
+# FBK0dGi6HoNnd
+# VkYIOAtkAR8No

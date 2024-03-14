@@ -7,3 +7,6 @@ from L1Trigger.L1THGCal.l1tHGCalConcentratorProducer_cfi import *
 L1THGCalConcentrator = cms.Task(l1tHGCalConcentratorProducer)
 L1THGCalConcentratorHFNose = cms.Task(l1tHGCalConcentratorProducerHFNose)
 
+# foo bar baz
+# tRarA0H13cKny
+# o3gb6NItau393

@@ -30,3 +30,6 @@ hltPhoton187HgcalHEUnseededFilter = cms.EDFilter("HLTEgammaGenericQuadraticEtaFi
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaHGCALIDVarsUnseeded","hForHOverE")
 )
+# foo bar baz
+# CN2HKRhYPL8t4
+# ZVuImILZ2s6VQ

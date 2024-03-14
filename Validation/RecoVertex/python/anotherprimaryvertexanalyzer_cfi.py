@@ -25,3 +25,6 @@ primaryvertexanalyzer = cms.EDAnalyzer('AnotherPrimaryVertexAnalyzer',
                                       )
 from Configuration.Eras.Modifier_stage2L1Trigger_cff import stage2L1Trigger
 stage2L1Trigger.toModify(primaryvertexanalyzer, stageL1Trigger = 2)
+# foo bar baz
+# 5ffNqOXJlz3Ej
+# VoIcjxjKxf12l

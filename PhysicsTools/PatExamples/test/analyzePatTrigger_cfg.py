@@ -32,3 +32,6 @@ process.triggerAnalysis = cms.EDAnalyzer( "PatTriggerAnalyzer",
 process.p = cms.Path(
     process.triggerAnalysis
 )
+# foo bar baz
+# IaE2QuUKagARK
+# fnLsZCf9jMjyd

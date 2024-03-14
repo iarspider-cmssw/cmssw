@@ -10,3 +10,6 @@ SiPixelFakeTemplateDBObjectESSource = cms.ESSource("SiPixelFakeTemplateDBObjectE
 )
 
 
+# foo bar baz
+# Cwv8yt2FArJK7
+# lJr6qLz0p1dTn

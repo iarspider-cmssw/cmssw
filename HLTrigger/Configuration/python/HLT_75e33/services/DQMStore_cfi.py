@@ -6,3 +6,6 @@ DQMStore = cms.Service("DQMStore",
     trackME = cms.untracked.string(''),
     verbose = cms.untracked.int32(0)
 )
+# foo bar baz
+# aQfUADWUGuRtM
+# 7oLLBQ9naPpH3

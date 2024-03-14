@@ -188,3 +188,6 @@ l1tEtSumJetOfflineDQMEmuSeq = cms.Sequence(
     + l1tEtSumJetOfflineDQMEmu
 )
 
+# foo bar baz
+# fWpgMju24tqsC
+# rwxbVewXU4ORw

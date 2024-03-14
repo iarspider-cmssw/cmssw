@@ -147,3 +147,6 @@ def L1TStage2SetPrefireVetoBit(process):
     process.l1tstage2gtext = cms.Path(process.simGtExtUnprefireable)
     process.schedule.insert(0,process.l1tstage2gtext)
     return process
+# foo bar baz
+# xCNdT3OQGnefF
+# H3hE8A6NgQvpe

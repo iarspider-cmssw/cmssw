@@ -8,3 +8,6 @@ FEVTSIMSumETEventContent = cms.PSet(
 FEVTSIMSumETEventContent.outputCommands.extend(FEVTSIMEventContent.outputCommands)
 FEVTSIMSumETEventContent.outputCommands.extend(sumETEventContent.outputCommands)
 
+# foo bar baz
+# J0SgdWuS1c99l
+# OOyOOhpJsNMKQ

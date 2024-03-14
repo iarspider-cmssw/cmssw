@@ -36,3 +36,6 @@ process.lhedump = cms.EDAnalyzer("DummyLHEAnalyzer",
 
 process.p = cms.Path(process.lhedump)
 process.outpath = cms.EndPath(process.LHE)
+# foo bar baz
+# 5gTEdwRg5QVvg
+# zX7snK822ExeE

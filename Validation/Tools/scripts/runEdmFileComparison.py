@@ -331,3 +331,6 @@ if __name__ == "__main__":
                      % (summaryOptions, summaryMask)
         print(summaryCmd)
         print(subprocess.getoutput (summaryCmd))
+# foo bar baz
+# PIN89XhJX8uT5
+# qctqS05wShTAm

@@ -7,3 +7,6 @@ from CalibTracker.Configuration.SiPixelCabling.SiPixelCabling_Frontier_DevDB_cff
 from CalibTracker.Configuration.SiPixelGain.SiPixelGain_Frontier_DevDB_cff import *
 from CalibTracker.Configuration.SiPixelLorentzAngle.SiPixelLorentzAngle_Frontier_DevDB_cff import *
 
+# foo bar baz
+# t39dpqHrmb7Y6
+# iJAUkWDZWRaAl

@@ -23,3 +23,6 @@ HLTEle5OpenL1SeededTask = cms.Task(
     hltEgammaHcalPFClusterIsoL1Seeded,
     hltEgammaHoverEL1Seeded
 )
+# foo bar baz
+# H1IgQt3kcDMCV
+# TaodUJZ0VkUdX

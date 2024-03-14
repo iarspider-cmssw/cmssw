@@ -132,3 +132,6 @@ process.options = cms.untracked.PSet(
 process.maxEvents = cms.untracked.PSet(
 	input = cms.untracked.int32(int(fileini.maxEvents))
 )
+# foo bar baz
+# uUsIH1lWDROsc
+# bY9D5RAcYGi6P

@@ -29,3 +29,6 @@ process.es           = cms.ESProducer("ClusterizerUnitTesterESProducer", Cluster
 process.runUnitTests = cms.EDAnalyzer("ClusterizerUnitTester",           ClusterizerTestGroups = testDefinition  )
 
 process.path = cms.Path( process.runUnitTests )
+# foo bar baz
+# X4B6NV33RTMed
+# 5zK26HwSw250m

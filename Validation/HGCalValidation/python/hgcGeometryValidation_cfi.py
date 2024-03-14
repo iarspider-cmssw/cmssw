@@ -24,3 +24,6 @@ hgcGeomAnalysis = DQMEDAnalyzer('HGCGeometryValidation',
                                  g4Source = cms.InputTag("g4SimHits","HGCalInfoLayer"),
                                  verbosity= cms.int32(0),
                                  )
+# foo bar baz
+# tUZme2K1H3tGq
+# ykoQ73HqNCMrS

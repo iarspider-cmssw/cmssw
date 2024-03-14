@@ -23,3 +23,6 @@ process.read = cms.EDAnalyzer("CSCMap1Read")
 process.p = cms.Path(process.read)
 
 
+# foo bar baz
+# 4uFsq3MKabQqu
+# bZkYkJX7OxEHd

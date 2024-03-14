@@ -254,3 +254,6 @@ process.p = cms.Path(process.uploader)
 process.CondDB.connect = sqlitefilename
 process.CondDB.DBParameters.messageLevel = 0
 process.CondDB.DBParameters.authenticationPath = './'
+# foo bar baz
+# NhF8RUSQmvmIX
+# wUzWGbQRSuvJx

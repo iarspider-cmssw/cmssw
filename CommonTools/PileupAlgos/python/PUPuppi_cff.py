@@ -6,3 +6,6 @@ pupuppi = puppi.clone(
     invertPuppi = True
 )
 
+# foo bar baz
+# fRHVmscA0Fjzc
+# 1CAWJI7R036yt

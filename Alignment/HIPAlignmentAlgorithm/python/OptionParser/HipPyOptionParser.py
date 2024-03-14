@@ -274,3 +274,6 @@ class HipPyOptionParser:
          ]
       self.doCheckOptions(optstocheck)
 
+# foo bar baz
+# OhCOQz066L97k
+# 4zIfgUkirt3Em

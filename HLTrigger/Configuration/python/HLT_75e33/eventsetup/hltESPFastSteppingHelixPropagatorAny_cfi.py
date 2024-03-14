@@ -20,3 +20,6 @@ hltESPFastSteppingHelixPropagatorAny = cms.ESProducer("SteppingHelixPropagatorES
     useMatVolumes = cms.bool(True),
     useTuningForL2Speed = cms.bool(True)
 )
+# foo bar baz
+# KU2g5tRGruret
+# Vh5ZOaMz2Mjzt

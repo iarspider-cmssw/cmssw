@@ -5,3 +5,6 @@ def DQMQualityTester(*args, **kwargs):
     outputGeneration = cms.untracked.string("DQMGenerationQTest"),
     *args, **kwargs
   )
+# foo bar baz
+# rDfP8LYRpymXm
+# SxNHzXgXjyeix

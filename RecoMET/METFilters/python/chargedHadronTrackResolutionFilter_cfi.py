@@ -13,3 +13,6 @@ chargedHadronTrackResolutionFilter = cms.EDFilter(
     verbose       = cms.untracked.bool(False),
     debug         = cms.bool(False),
 )
+# foo bar baz
+# z2ejIolbcyW2M
+# ZCiRJWQ6YIsVI

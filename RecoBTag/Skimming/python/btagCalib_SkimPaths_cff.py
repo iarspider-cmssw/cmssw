@@ -6,3 +6,6 @@ from  PhysicsTools.JetMCAlgos.CaloJetsMCFlavour_cfi import *
 btagCalibPath = cms.Path(myPartons*iterativeCone5Flavour)
 
 
+# foo bar baz
+# LVo6odaKXs95H
+# 4IK4ErGqU8G9F

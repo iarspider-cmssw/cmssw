@@ -36,3 +36,6 @@ HLTDoubleEle25CaloIdLPMS2UnseededSequence = cms.Sequence(
     hltDiEle25CaloIdLPMS2UnseededFilter,
     HLTDoubleEle25CaloIdLPMS2UnseededTask
 )
+# foo bar baz
+# B3h79uKVKtTwr
+# z0qIuNURFk0CL

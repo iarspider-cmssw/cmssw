@@ -4,3 +4,6 @@ selectionName = 'DtCalibSynchCosmics'
 #from DQM.HLTEvF.HLTMonBitSummary_cfi import hltMonBitSummary
 from CalibMuon.DTCalibration.ALCARECODtCalib_cff import ALCARECODtCalibHLTFilter
 from CalibMuon.DTCalibration.ALCARECODtCalibCosmics_cff import ALCARECODtCalibCosmicsHLTFilter as ALCARECODtCalibCosmicsHLTFilterRef
+# foo bar baz
+# xPA7aGSEJX04d
+# n22NvJdkuLOE0

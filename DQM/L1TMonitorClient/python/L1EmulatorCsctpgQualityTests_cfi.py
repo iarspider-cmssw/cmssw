@@ -15,3 +15,6 @@ l1EmulatorCsctpgQualityTests = DQMQualityTester(
     verboseQT=cms.untracked.bool(True)
 )
 
+# foo bar baz
+# P4sCWJqZErvuQ
+# PPDaHqZSCS7Ug

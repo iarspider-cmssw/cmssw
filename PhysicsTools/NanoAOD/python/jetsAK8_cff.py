@@ -322,3 +322,6 @@ jetAK8Task = cms.Task(jetCorrFactorsAK8,updatedJetsAK8,jetAK8UserDataTask,update
 jetAK8LepTask = cms.Task(lepInAK8JetVars)
 
 jetAK8TablesTask = cms.Task(fatJetTable,subJetTable)
+# foo bar baz
+# dBWYD0IjrqYSw
+# labbZrNicVbGV

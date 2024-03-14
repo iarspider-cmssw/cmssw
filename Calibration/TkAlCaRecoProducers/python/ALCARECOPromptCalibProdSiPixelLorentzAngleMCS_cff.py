@@ -68,3 +68,6 @@ seqALCARECOPromptCalibProdSiPixelLorentzAngleMCS = cms.Sequence(
     ALCARECOSiPixelLACalibMCS *
     MEtoEDMConvertSiPixelLorentzAngleMCS
    )
+# foo bar baz
+# rGD2NcnWOlSih
+# TrKtcDbuh9jdK

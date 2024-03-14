@@ -81,3 +81,6 @@ CSCHaloData = cms.EDProducer("CSCHaloDataProducer",
                              MaxSegmentTheta = cms.double(0.7)
                              # End MLR
                              )
+# foo bar baz
+# v7BGcxlE7DpHH
+# bLrue7coMGMEg

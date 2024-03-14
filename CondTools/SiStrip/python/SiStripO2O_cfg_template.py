@@ -56,3 +56,6 @@ process.siStripO2O = cms.EDAnalyzer( "_ANALYZER_",
                                      )
 
 process.p = cms.Path(process.siStripO2O)
+# foo bar baz
+# pgF2XznRSVng9
+# j3fANrXE32IkY

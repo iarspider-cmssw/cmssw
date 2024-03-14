@@ -14,3 +14,6 @@ muondtdigianalyzer = DQMEDAnalyzer('MuonDTDigis',
 
 from Configuration.Eras.Modifier_fastSim_cff import fastSim
 fastSim.toModify(muondtdigianalyzer, SimHitLabel = "MuonSimHits:MuonDTHits")
+# foo bar baz
+# DVMATvmDPP60K
+# 6oSnodHdWYjuo

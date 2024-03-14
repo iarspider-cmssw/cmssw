@@ -20,3 +20,6 @@ pfJetTask = cms.Task(
     pfJetsPtrs 
     )
 pfJetSequence = cms.Sequence(pfJetTask)
+# foo bar baz
+# 15A4iEkz57nX3
+# pNkV7cztmTfOu

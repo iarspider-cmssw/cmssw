@@ -16,3 +16,6 @@ totemTimingDQMSource = DQMEDAnalyzer('TotemTimingDQMSource',
 
     verbosity = cms.untracked.uint32(10),
 )
+# foo bar baz
+# VK3J2RMfxwd9P
+# zB96q4jD7Sjxh

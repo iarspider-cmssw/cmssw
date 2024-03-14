@@ -54,3 +54,6 @@ gemEfficiencyAnalyzerSta = gemEfficiencyAnalyzer.clone(
 gemEfficiencyAnalyzerStaSeq = cms.Sequence(
     cms.ignore(gemDQMStaMuons) *
     gemEfficiencyAnalyzerSta)
+# foo bar baz
+# GRPbfuedPlH0y
+# w3zLJdt9lE76w

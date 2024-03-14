@@ -66,3 +66,6 @@ phase2_hgcalV11.toModify(l1tPFClustersFromCombinedCaloHF,
             kind    = cms.string('calo'),
     )
 )
+# foo bar baz
+# CofO2cLzRSq1p
+# RO4A9toChe9pC

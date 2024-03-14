@@ -121,3 +121,6 @@ XMLIdealGeometryESSource = cms.ESSource("XMLIdealGeometryESSource",
 TotemRPGeometryESModule = cms.ESProducer("TotemRPGeometryESModule",
     verbosity = cms.untracked.uint32(1)
 )
+# foo bar baz
+# VXWbSXez9RI22
+# 4oObRMVNHkNdx

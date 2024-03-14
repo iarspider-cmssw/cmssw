@@ -54,3 +54,6 @@ process.p = cms.Path(
     process.thinningThingProducerC *
     process.slimmingThingProducerC
 )
+# foo bar baz
+# hxEjeqpXGKCDx
+# 0UByeSx4WMhY5

@@ -42,3 +42,6 @@ process.producer = cms.EDAnalyzer("CSCGeometryAsChambers")
 
 process.p1 = cms.Path(process.producer)
 
+# foo bar baz
+# N8DJt2L6fdu48
+# PgzVnnJtKM6Qm

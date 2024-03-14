@@ -9,3 +9,6 @@ l1GtTriggerMaskVetoTechTrigOnline = cms.ESProducer("L1GtTriggerMaskVetoTechTrigC
     PartitionNumber = cms.int32(0)
 )
 
+# foo bar baz
+# T27xbo0h6AFF9
+# p8Hslocxj8H8g

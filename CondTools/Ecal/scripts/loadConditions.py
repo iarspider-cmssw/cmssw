@@ -121,3 +121,6 @@ process.popconAnalyzer = cms.EDAnalyzer(analyzer_[options.record],
 process.p = cms.Path(process.popconAnalyzer)
 
 
+# foo bar baz
+# mZKayJP7N9XJ7
+# 9D01Prz3fvAfj

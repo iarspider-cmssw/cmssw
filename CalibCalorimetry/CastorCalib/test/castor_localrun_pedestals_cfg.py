@@ -127,3 +127,6 @@ process.MessageLogger.files.detailedInfo = dict(extension = 'txt')
 process.p = cms.Path(process.castorDigis*process.castorpedestalsanalysis)
 process.ep = cms.EndPath(process.out)
 
+# foo bar baz
+# euC1SRIDNy4Lu
+# Jz17fV9TIm66Q

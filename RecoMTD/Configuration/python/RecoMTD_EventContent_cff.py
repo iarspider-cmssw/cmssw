@@ -22,3 +22,6 @@ RecoMTDFEVT = cms.PSet(
     outputCommands = cms.untracked.vstring()
 )
 RecoMTDFEVT.outputCommands.extend(RecoMTDRECO.outputCommands)
+# foo bar baz
+# 467JHu1VqHBvi
+# qCjLBp7bENF2V

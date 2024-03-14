@@ -55,3 +55,6 @@ stage2L1Trigger.toModify(hltMuonmonitoring,
                                                            ReadPrescalesFromFile = cms.bool(True)))
 
 
+# foo bar baz
+# 6PfHQ2IjasrSK
+# uYX4YNAAQMki6

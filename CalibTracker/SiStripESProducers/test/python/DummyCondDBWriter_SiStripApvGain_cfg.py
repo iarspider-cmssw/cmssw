@@ -58,3 +58,6 @@ process.siStripApvGainDummyDBWriter.record=process.PoolDBOutputService.toPut[0].
 process.p1 = cms.Path(process.siStripApvGainDummyDBWriter)
 
 
+# foo bar baz
+# 3i0fGHZz1CTnK
+# aZ8lkSdK1KlMy

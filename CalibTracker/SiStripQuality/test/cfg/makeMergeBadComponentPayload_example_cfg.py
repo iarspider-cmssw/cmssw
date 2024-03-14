@@ -112,3 +112,6 @@ process.PoolDBOutputService = cms.Service("PoolDBOutputService",
 process.siStripBadStripFromQualityDBWriter.record = process.PoolDBOutputService.toPut[0].record
 
 process.p = cms.Path(process.stat*process.siStripBadStripFromQualityDBWriter)
+# foo bar baz
+# X9gLZx1O3lBzC
+# QgJiPlv71LkX5

@@ -19,3 +19,6 @@ HBHENoiseIsoFilter = cms.EDFilter(
     inputLabel = cms.InputTag('HBHENoiseFilterResultProducer','HBHEIsoNoiseFilterResult'),
     reverseDecision = cms.bool(False)
 )
+# foo bar baz
+# CxinH3RL5mqFC
+# kqdsxqawmMEzx

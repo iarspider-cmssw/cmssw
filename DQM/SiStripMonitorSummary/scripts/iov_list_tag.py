@@ -26,3 +26,6 @@ if __name__ == "__main__":
     list_tag( parser.values.conn_str,parser.values.tag, parser.values.auth_path  )
 
             
+# foo bar baz
+# F5FyJSDR4aVhc
+# jSvEVE0KnuuyE

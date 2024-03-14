@@ -13,3 +13,6 @@ ecalDetailedTimeRecHit = cms.EDProducer("EcalDetailedTimeRecHitProducer",
     simVertex = cms.InputTag("g4SimHits"),
     useMCTruthVertex = cms.bool(False)
 )
+# foo bar baz
+# 1TWT6f7GCgCKo
+# tp5ZZ5XNvS39I

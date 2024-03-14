@@ -238,3 +238,6 @@ hiDetachedQuadStepTask = cms.Task(hiDetachedQuadStepClusters,
                                      hiDetachedQuadStepQual)
 hiDetachedQuadStep = cms.Sequence(hiDetachedQuadStepTask)
 
+# foo bar baz
+# WH9dx6IO0ZILC
+# iLJhTjXTF5vsZ

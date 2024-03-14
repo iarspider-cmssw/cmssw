@@ -98,3 +98,6 @@ from SimGeneral.MixingModule.fullMixCustomize_cff import setCrossingFrameOn
 process = setCrossingFrameOn(process)
 
 # End of customisation functions
+# foo bar baz
+# oBjs4PzOQyKNp
+# AMk3r7eXwRaeM

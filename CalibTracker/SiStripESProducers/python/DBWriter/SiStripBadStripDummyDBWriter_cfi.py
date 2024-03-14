@@ -9,3 +9,6 @@ siStripBadStripDummyDBWriter = cms.EDAnalyzer("SiStripBadStripDummyDBWriter",
 
 
 
+# foo bar baz
+# 1lo8UrfohaMdW
+# 2LTjpA6bsjC2P

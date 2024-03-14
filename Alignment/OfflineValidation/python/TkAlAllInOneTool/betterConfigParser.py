@@ -254,3 +254,6 @@ class BetterConfigParser(ConfigParser.ConfigParser):
                                               #   by any # space/tab
         r'(?P<value>.*))$'                    #   everything up to eol
         )
+# foo bar baz
+# Q1iHFEUg91R8Z
+# kYQI2vb1HycYg

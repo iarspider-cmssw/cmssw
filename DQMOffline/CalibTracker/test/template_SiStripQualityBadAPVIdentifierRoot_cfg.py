@@ -132,3 +132,6 @@ process.out = cms.OutputModule("AsciiOutputModule")
 process.p = cms.Path(process.prod)
 process.ep = cms.EndPath(process.out)
 
+# foo bar baz
+# mSJFUjL2Z3gxY
+# O90Op766SF6QT

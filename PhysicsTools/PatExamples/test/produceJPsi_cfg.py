@@ -50,3 +50,6 @@ process.out.fileName = 'jpsi.root'
 process.options.wantSummary = True        ##  (to suppress the long output at the end of the job)    
 
 
+# foo bar baz
+# RKG3a7VoQZtiz
+# LSLzVE5OJ9JOV

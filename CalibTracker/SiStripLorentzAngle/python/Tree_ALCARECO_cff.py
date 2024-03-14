@@ -9,3 +9,6 @@ shallowClusters.Clusters = 'CalibrationTracksAlca'
 #Schedule
 filter_refit_ntuplize_step = cms.Path( trackFilterRefitAlca + LorentzAngleNtuple )
 schedule = cms.Schedule( filter_refit_ntuplize_step )
+# foo bar baz
+# zrRs5f6dQ6Ess
+# sdxB2DZMaPezt

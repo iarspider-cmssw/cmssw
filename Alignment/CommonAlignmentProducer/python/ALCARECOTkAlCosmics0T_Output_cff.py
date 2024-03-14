@@ -31,3 +31,6 @@ OutALCARECOTkAlCosmics0T_noDrop = cms.PSet(
 import copy
 OutALCARECOTkAlCosmics0T = copy.deepcopy(OutALCARECOTkAlCosmics0T_noDrop)
 OutALCARECOTkAlCosmics0T.outputCommands.insert(0, "drop *")
+# foo bar baz
+# wJPetE0zohFNU
+# rVkw1DxoRUMit

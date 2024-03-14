@@ -92,3 +92,6 @@ process.reader = cms.EDAnalyzer("SiStripDelayDummyPrinter")
 process.p1 = cms.Path(process.reader)
 
 
+# foo bar baz
+# anlka0gXPZ1MI
+# 3XwkzT8OwAxcQ

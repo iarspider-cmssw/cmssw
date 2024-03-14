@@ -48,3 +48,6 @@ process.writeCTPPSPixelAnalysisMask = cms.EDAnalyzer("WriteCTPPSPixelAnalysisMas
 process.path = cms.Path(
   process.writeCTPPSPixelAnalysisMask
 )
+# foo bar baz
+# oKt4N5I97h1QP
+# WLtBMigWQ9MQh

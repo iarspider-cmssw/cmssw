@@ -6,3 +6,6 @@ caloJetSelector= cms.EDFilter( "CaloJetSelector",
     cut = cms.string( "abs(eta)<3" )
 )
 
+# foo bar baz
+# UzHMY0anNA7Ec
+# iIkqOJPujHOjP

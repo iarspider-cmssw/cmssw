@@ -34,3 +34,6 @@ DTMeantimerPatternReco4DAlgo_ParamDrift = cms.PSet(
     )
 )
 
+# foo bar baz
+# vPtBJERWWpPjN
+# ybOviSoKCGc6N

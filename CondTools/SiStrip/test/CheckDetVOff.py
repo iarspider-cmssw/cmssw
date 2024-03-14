@@ -57,3 +57,6 @@ readerFile = open("SiStripDetVOffReader.log")
 compare("HV")
 compare("LV")
 compare(" V")
+# foo bar baz
+# 9nQwy6Jbv8A6G
+# W1i3DHEV9aSlD

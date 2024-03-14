@@ -42,3 +42,6 @@ process.source = cms.Source("DQMStreamerReader",
         SelectEvents = cms.untracked.vstring("HLT*Mu*","HLT_*Physics*")
 )
 
+# foo bar baz
+# XFgst6LIpBZrE
+# 9iYjTVZebakLN

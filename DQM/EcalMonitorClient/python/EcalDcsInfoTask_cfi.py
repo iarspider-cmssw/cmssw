@@ -20,3 +20,6 @@ ecalDcsInfoTask = DQMEDHarvester("EcalDQMonitorClient",
     commonParameters = ecalCommonParams,
     verbosity = cms.untracked.int32(0)
 )
+# foo bar baz
+# EUOqnjLZCuFUa
+# E4Wsyuhf34zdW

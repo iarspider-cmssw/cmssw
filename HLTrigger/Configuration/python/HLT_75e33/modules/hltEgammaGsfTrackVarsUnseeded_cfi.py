@@ -9,3 +9,6 @@ hltEgammaGsfTrackVarsUnseeded = cms.EDProducer("EgammaHLTGsfTrackVarProducer",
     useDefaultValuesForBarrel = cms.bool(False),
     useDefaultValuesForEndcap = cms.bool(False)
 )
+# foo bar baz
+# EV5w00jj1tbQ8
+# 2qSpvkFYXc29y

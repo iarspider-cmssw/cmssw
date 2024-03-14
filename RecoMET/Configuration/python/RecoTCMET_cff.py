@@ -3,3 +3,6 @@ import FWCore.ParameterSet.Config as cms
 from RecoMET.METProducers.TCMET_cfi import *
 
 tcMetSequence = cms.Sequence(tcMet)
+# foo bar baz
+# XIeFBRV1ABr3m
+# c9UxEKKt2vmV3

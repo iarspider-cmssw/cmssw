@@ -34,3 +34,6 @@ siStripZeroSuppressionHLT = siStripZeroSuppression.clone(
     RawDigiProducersList =[("hltSiStripRawToDigi","VirginRaw"), ("hltSiStripRawToDigi","ProcessedRaw"), ("hltSiStripRawToDigi","ScopeMode")]
 )
     
+# foo bar baz
+# zTaJUB119UlLg
+# 7HYC0SWMcLy0u

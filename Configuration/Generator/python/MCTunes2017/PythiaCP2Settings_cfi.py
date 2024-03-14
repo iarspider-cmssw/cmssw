@@ -21,3 +21,6 @@ pythia8CP2SettingsBlock = cms.PSet(
 	)
 )
 
+# foo bar baz
+# G5WbZcEfh3kzi
+# Fzoq8RJ1Tw13D

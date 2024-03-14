@@ -77,3 +77,6 @@ dqmFakeBeamMonitor = DQMEDAnalyzer("FakeBeamMonitor",
                               phiMin = cms.double(-3.15),
                               phiMax = cms.double(3.15)
                               )
+# foo bar baz
+# Yj2OSvgLmMF6B
+# fGCH79xSwv0MQ

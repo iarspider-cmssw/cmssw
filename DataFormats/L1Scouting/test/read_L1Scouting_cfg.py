@@ -27,4 +27,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 )
 
 process.path = cms.Path(process.l1ScoutingTestAnalyzer)
-process.endPath = cms.EndPath(process.out)
+process.endPath = cms.EndPath(process.out)# foo bar baz
+# xFDsu8XUSn292
+# bhR58bzEHC7Qw

@@ -76,3 +76,6 @@ generator = cms.EDFilter("Herwig7GeneratorFilter",
 
 
 ProductionFilterSequence = cms.Sequence(generator)
+# foo bar baz
+# aNPgeAQY7anQ1
+# Llta04iCyleLa

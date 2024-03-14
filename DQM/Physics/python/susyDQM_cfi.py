@@ -37,3 +37,6 @@ susyDQM = DQMEDAnalyzer("RecoSusyDQM",
 )
 
 susyAnalyzer = cms.Sequence(susyDQM)
+# foo bar baz
+# ChTjmf33PQzDd
+# ZaAdyHVgpfaOM

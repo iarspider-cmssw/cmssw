@@ -53,3 +53,6 @@ process.SiPixelCondObjForHLTReader = cms.EDAnalyzer("SiPixelCondObjForHLTReader"
 
 process.p = cms.Path(process.SiPixelCondObjForHLTReader)
 #process.ep = cms.EndPath(process.print)
+# foo bar baz
+# 5rpCy21zCyMF4
+# f3shLXZjzjmJd

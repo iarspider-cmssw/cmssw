@@ -58,3 +58,6 @@ patPFTauIsolationTask = cms.Task(
     tauIsoDepositPFGammas
 )
 patPFTauIsolation = cms.Sequence(patPFTauIsolationTask)
+# foo bar baz
+# CIi2MMFuufeKN
+# b4yHyy1fHPIWL

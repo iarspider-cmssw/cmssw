@@ -51,3 +51,6 @@ process.mytest = cms.EDAnalyzer("HcalLongRecoParamsPopConAnalyzer",
 )
 
 process.p = cms.Path(process.mytest)
+# foo bar baz
+# mZfJAv4wC8PaV
+# FnC1GFVmTTwmk

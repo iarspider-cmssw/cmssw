@@ -43,3 +43,6 @@ generator = cms.EDProducer("CosMuoGenProducer",
 
 #Filter
 ProductionFilterSequence = cms.Sequence(generator*cosmicInTracker)
+# foo bar baz
+# CBTHsicdhgBEh
+# lrEzCaIrJvXJU

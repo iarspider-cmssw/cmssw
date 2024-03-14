@@ -224,3 +224,6 @@ class JetAnalyzer( Analyzer ):
         return jet.pt()>20 and \
                abs( jet.eta() ) < 2.4 and \
                self.testJetID(jet)
+# foo bar baz
+# NfTnQdw4LeCUC
+# 8iPgNLQNbSRYf

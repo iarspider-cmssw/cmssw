@@ -89,3 +89,6 @@ LambdaSpectrum = DQMEDAnalyzer('BPhysicsSpectrum',
                              massmin = cms.double(5.5),
                              massmax = cms.double(6.0)
                              )
+# foo bar baz
+# q00NLjpXyR8qv
+# uzhbzCdJ6c5Fy

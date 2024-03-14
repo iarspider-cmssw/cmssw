@@ -76,3 +76,6 @@ process.g4SimHits.UseMagneticField = False
 process.g4SimHits.OnlySDs = ['EcalSensitiveDetector', 'CaloTrkProcessing', 'HcalSensitiveDetector']
 
 
+# foo bar baz
+# ag3yCx45iYGeM
+# h6eSv00NVrgBO

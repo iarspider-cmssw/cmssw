@@ -8,3 +8,6 @@ externalLHEProducer = cms.EDProducer('ExternalLHEProducer',
   nEvents = cms.untracked.uint32(10),
   generateConcurrently = cms.untracked.bool(True)
 )
+# foo bar baz
+# VviAqjJ47yzGw
+# Lve4ItVf9WizF

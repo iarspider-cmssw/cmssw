@@ -108,3 +108,6 @@ for path in process.paths:
     getattr(process,path)._seq = process.generator * getattr(process,path)._seq 
 
 process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(100))
+# foo bar baz
+# yC1aofs32MCZw
+# IOuC4y4CG6HBM

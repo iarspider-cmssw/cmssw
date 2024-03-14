@@ -9,3 +9,6 @@ qcdHighPtDQM = DQMEDAnalyzer('QcdHighPtDQM',
                                       metTag4 = cms.untracked.InputTag("metNoHFHO")
 )
 
+# foo bar baz
+# Zjdb2GkqrQj3x
+# X3Zqr5nKMixfa

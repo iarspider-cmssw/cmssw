@@ -26,3 +26,6 @@ plotsMakerModule = cms.EDAnalyzer("plotsMaker",
         defineBX = cms.untracked.int32(-1)
 )
 
+# foo bar baz
+# uhBuXT1iOfnNU
+# gKhrmoC2mQkMY

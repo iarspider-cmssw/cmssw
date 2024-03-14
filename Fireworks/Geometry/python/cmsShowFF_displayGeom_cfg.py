@@ -23,3 +23,6 @@ process.add_(cms.ESProducer("TGeoMgrFromDdd",
 process.source = cms.Source("EmptySource")
 
 
+# foo bar baz
+# EbqFocSwjRujW
+# 0PJVzkFDTpcfx

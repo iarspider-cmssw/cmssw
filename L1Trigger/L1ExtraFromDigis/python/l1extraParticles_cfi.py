@@ -49,3 +49,6 @@ stage2L1Trigger.toModify( l1extraParticles, **_params)
 # this requires to set :
 from Configuration.Eras.Modifier_fastSim_cff import fastSim
 fastSim.toModify(l1extraParticles, centralBxOnly = True)
+# foo bar baz
+# nsA9psX3S615m
+# IKQXABF34wh6h

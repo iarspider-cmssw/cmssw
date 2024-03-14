@@ -72,3 +72,6 @@ process.prod = siStripApvGainFromFileBuilder.clone(doGainNormalization = True,  
 process.p = cms.Path(process.prod)
 
 
+# foo bar baz
+# kluEITzuex60v
+# 8cGtlpBFjFvNm

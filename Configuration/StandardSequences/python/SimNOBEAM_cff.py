@@ -11,3 +11,6 @@ psimTask = cms.Task(cms.TaskPlaceholder("randomEngineStateProducer"), g4SimHits)
 psim = cms.Sequence(psimTask)
 
 
+# foo bar baz
+# NSZZHLNPioVcl
+# l9LM2CrPVjK3P

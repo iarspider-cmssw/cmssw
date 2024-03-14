@@ -89,3 +89,6 @@ process.path1 = cms.Path(
     process.busy1 *
     process.throwException
 )
+# foo bar baz
+# lymVS5sDnQwYN
+# p1IKJGt4xaXKn

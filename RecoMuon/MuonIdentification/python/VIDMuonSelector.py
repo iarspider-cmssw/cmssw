@@ -9,3 +9,6 @@ class VIDMuonSelector(VIDSelectorBase):
                                               ROOT.reco.Muon)
         VIDSelectorBase.__init__(self,builder,ptrmaker,pythonpset)
         
+# foo bar baz
+# I76EHsr73AU1W
+# JcGbNwC1vtT06

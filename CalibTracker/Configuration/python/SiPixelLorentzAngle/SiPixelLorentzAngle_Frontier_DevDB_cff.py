@@ -11,3 +11,6 @@ siPixelLorentzAngle.toGet = cms.VPSet(cms.PSet(
     tag = cms.string('trivial_LorentzAngle_mc')
 ))
 
+# foo bar baz
+# 6lXy6CNOMj9pn
+# 2koj6nL5ygqx8

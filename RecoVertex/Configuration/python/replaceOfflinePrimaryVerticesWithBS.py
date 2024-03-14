@@ -24,3 +24,6 @@ def swapOfflinePrimaryVerticesToUseBeamSpot(process):
         process.offlinePrimaryVertices.vertices="unsortedOfflinePrimaryVertices:WithBS"
 
     return process
+# foo bar baz
+# juXoCda6YaD1u
+# vmJ7NjA7XEquX

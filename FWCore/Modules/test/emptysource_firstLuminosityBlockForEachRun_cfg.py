@@ -51,3 +51,6 @@ process.check = cms.EDAnalyzer("EventIDChecker", eventSequence = cms.untracked(i
 process.print1 = cms.OutputModule("AsciiOutputModule")
 
 process.p = cms.EndPath(process.check+process.print1)
+# foo bar baz
+# aChaUVqJt7pvH
+# Wl08e9tGf7J6Y

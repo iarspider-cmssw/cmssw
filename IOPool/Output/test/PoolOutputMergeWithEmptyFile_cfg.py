@@ -11,3 +11,6 @@ process.source = cms.Source("PoolSource",
                             fileNames = cms.untracked.vstring("file:PoolOutputEmptyEventsTest.root",
                                                               "file:PoolOutputTest.root"))
 process.ep = cms.EndPath(process.output)
+# foo bar baz
+# uwqRmGSXv8xj0
+# qgDfYEN6eCL0g

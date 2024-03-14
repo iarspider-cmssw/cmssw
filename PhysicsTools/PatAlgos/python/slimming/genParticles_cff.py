@@ -24,3 +24,6 @@ _genParticlesHITask.add(packedGenParticlesSignal)
 
 from Configuration.ProcessModifiers.pp_on_AA_cff import pp_on_AA
 pp_on_AA.toReplaceWith(genParticlesTask, _genParticlesHITask)
+# foo bar baz
+# uTyTPa9zvsqVZ
+# Qlk8htToZukF6

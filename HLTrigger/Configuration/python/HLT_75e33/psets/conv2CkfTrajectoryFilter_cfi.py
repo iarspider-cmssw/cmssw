@@ -24,3 +24,6 @@ conv2CkfTrajectoryFilter = cms.PSet(
     seedPairPenalty = cms.int32(0),
     strictSeedExtension = cms.bool(False)
 )
+# foo bar baz
+# A6J0BpQkoH4YA
+# ge9KuXbPkt7gi

@@ -17,3 +17,6 @@ dtEfficiencyMonitor = DQMEDAnalyzer('DTChamberEfficiency',
     NavigationType = cms.string('Direct')
 )
 
+# foo bar baz
+# xVFqw0I0DrPER
+# D8N0p8VwCbUCt

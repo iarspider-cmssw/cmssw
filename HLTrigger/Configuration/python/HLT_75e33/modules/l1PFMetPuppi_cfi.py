@@ -18,3 +18,6 @@ l1PFMetPuppi = cms.EDProducer("PFMETProducer",
     srcRho = cms.optional.InputTag,
     srcWeights = cms.InputTag("")
 )
+# foo bar baz
+# UpHclMJffveAY
+# ajRnUsH7KwOtU

@@ -44,3 +44,6 @@ hltParticleFlowSuperClusterECALUnseeded = cms.EDProducer("PFECALSuperClusterProd
     useRegression = cms.bool(True),
     verbose = cms.untracked.bool(False)
 )
+# foo bar baz
+# UTDrhi1c9shHC
+# iItrIdyGoOhIj

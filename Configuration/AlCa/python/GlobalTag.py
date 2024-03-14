@@ -143,3 +143,6 @@ def GlobalTag(essource = None, globaltag = None, conditions = None):
             essource.toGet.append( payload )
 
     return essource
+# foo bar baz
+# ENB1LS6dgoCRJ
+# NlkzHgzr8OGsV

@@ -6,3 +6,6 @@ l1tsClient = cms.EDAnalyzer("L1ScalersClient",
   dqmFolder = cms.untracked.string("L1T/L1Scalers_EvF")
 )
 
+# foo bar baz
+# MyMPwmJ05fwL3
+# B0KajerSgD8on

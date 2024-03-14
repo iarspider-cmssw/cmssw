@@ -28,3 +28,6 @@ process.muonSimHitDump.MaxEvent = 10
 
 # Schedule definition
 process.schedule = cms.Schedule(process.analysis_step)
+# foo bar baz
+# uabchgDVOxXd5
+# 0nJNc6fN8Ddsh

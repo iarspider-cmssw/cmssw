@@ -30,3 +30,6 @@ process.PoolDBOutputService = cms.Service("PoolDBOutputService",
 process.dtload = cms.EDFilter("DTRecoIdealDBLoader")
 
 process.p1 = cms.Path(process.dtload)
+# foo bar baz
+# UrQPDYMA9KQCq
+# jX6RRXBPrUL9q

@@ -16,3 +16,6 @@ rpchwconfsrc = cms.ESSource("EmptyESSource",
     firstValid = cms.vuint32(1)
 )
 
+# foo bar baz
+# kr0gutg6ucXxQ
+# iQGdBLPnRxe4c

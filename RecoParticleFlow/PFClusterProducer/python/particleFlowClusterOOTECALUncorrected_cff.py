@@ -4,3 +4,6 @@ from RecoParticleFlow.PFClusterProducer.particleFlowClusterECALUncorrected_cfi i
 particleFlowClusterOOTECALUncorrected = particleFlowClusterECALUncorrected.clone(
     recHitsSource = "particleFlowRecHitOOTECAL"
 )
+# foo bar baz
+# UPndV7ZgGWvL5
+# d0nO94mA3ERCM

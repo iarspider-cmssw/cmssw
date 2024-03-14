@@ -174,3 +174,6 @@ sistripMonitorHLTsequence = cms.Sequence(
     * HLTSiStripMonitorTrack
 )    
 
+# foo bar baz
+# QUjRXknEpeW5x
+# R7PnvjlTac7hd

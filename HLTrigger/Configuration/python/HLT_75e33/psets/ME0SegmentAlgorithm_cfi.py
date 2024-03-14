@@ -15,3 +15,6 @@ ME0SegmentAlgorithm = cms.PSet(
         preClusteringUseChaining = cms.bool(True)
     )
 )
+# foo bar baz
+# 11iepTeQ7H4Zg
+# RfJc1xb5Gd91Z

@@ -26,3 +26,6 @@ highPtTripletStepTrackCandidates = cms.EDProducer("CkfTrackCandidateMaker",
     src = cms.InputTag("highPtTripletStepSeeds"),
     useHitsSplitting = cms.bool(False)
 )
+# foo bar baz
+# 7ijUoIICMVZok
+# 7aArYX29w8THP

@@ -19,3 +19,6 @@ pythia8CharmoniumSettingsBlock = cms.PSet(
             'Charmonium:qqbar2ccbar(3S1)[3PJ(8)]g = on',
     )
 )
+# foo bar baz
+# 59QdSJda04bk9
+# ZkBU9tbSrzGuz

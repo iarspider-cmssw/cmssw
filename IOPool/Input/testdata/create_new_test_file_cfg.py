@@ -16,3 +16,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 			       SelectEvents = cms.untracked.PSet(SelectEvents = cms.vstring("prd")),
                                fileName = cms.untracked.string("old_format_"+os.environ['CMSSW_VERSION']+".root"))
 process.o = cms.EndPath(process.out)
+# foo bar baz
+# V7yIQ91r6SjIu
+# WK2ZYvh1Y1ZRC

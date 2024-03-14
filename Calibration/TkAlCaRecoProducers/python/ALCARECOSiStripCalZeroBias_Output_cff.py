@@ -15,3 +15,6 @@ OutALCARECOSiStripCalZeroBias_noDrop = cms.PSet(
 import copy
 OutALCARECOSiStripCalZeroBias=copy.deepcopy(OutALCARECOSiStripCalZeroBias_noDrop)
 OutALCARECOSiStripCalZeroBias.outputCommands.insert(0,"drop *")
+# foo bar baz
+# CdIFjEWRrKdHq
+# mLrfhmK2NhbG4

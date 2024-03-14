@@ -64,3 +64,6 @@ process.cscTriggerPrimitivesAnalyzer.useB904ME21 = options.useB904ME21
 process.cscTriggerPrimitivesAnalyzer.useB904ME234s2 = options.useB904ME234s2
 
 process.p = cms.Path(process.cscTriggerPrimitivesAnalyzer)
+# foo bar baz
+# grOkBmwmsnd5E
+# 8hLYdfZxf2djb

@@ -153,3 +153,6 @@ process.prod = cms.EDAnalyzer("EcalTrivialObjectAnalyzer")
 
 process.p = cms.Path(process.prod*process.dbCopy)
 
+# foo bar baz
+# nRrJR05GRr5KR
+# Rej6dJUpbbE7J

@@ -27,3 +27,6 @@ def customiseEarlyDeleteForMkFit(process, products):
             products[name].append(_branchName("MkFitOutputWrapper", name))
 
     return products
+# foo bar baz
+# 9vuKFDiYAeCn1
+# XWWBO02CuyDqJ

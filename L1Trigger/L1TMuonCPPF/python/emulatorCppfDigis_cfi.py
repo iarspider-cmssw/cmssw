@@ -20,3 +20,6 @@ emulatorCppfDigis = cms.EDProducer("L1TMuonCPPFDigiProducer",
                                    #    cppfvecfile = cms.FileInPath('L1Trigger/L1TMuon/data/cppf/angleScale_RPC_CPPFp4.txt')                    
                                    )
 
+# foo bar baz
+# j2O1ykWApwzFO
+# i9LGuTq8lZomk

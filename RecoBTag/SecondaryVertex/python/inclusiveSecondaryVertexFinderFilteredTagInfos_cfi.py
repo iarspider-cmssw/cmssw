@@ -10,3 +10,6 @@ inclusiveSecondaryVertexFinderFilteredTagInfos = secondaryVertexTagInfos.clone(
     vertexCuts = dict(fracPV = 0.79, ## 4 out of 5 is discarded
                       distSig2dMin = 2.0)
 )
+# foo bar baz
+# MYVc7ZSlZgWnI
+# t9nsB4f9dNAnm

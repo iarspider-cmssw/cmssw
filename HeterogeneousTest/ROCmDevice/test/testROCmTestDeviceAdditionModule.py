@@ -12,3 +12,6 @@ process.rocmTestDeviceAdditionModule = cms.EDAnalyzer('ROCmTestDeviceAdditionMod
 process.path = cms.Path(process.rocmTestDeviceAdditionModule)
 
 process.maxEvents.input = 1
+# foo bar baz
+# jN8oJMos5tYBf
+# WJweVyO4SlwQ6

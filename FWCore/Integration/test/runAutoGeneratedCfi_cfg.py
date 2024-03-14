@@ -32,3 +32,6 @@ process.p1 = cms.Path(process.testProducerWithPsetDesc)
 # also run a test module using a helper plugin
 process.load("FWCore.Integration.pluginUsingProducer_cfi")
 process.p2 = cms.Path(process.pluginUsingProducer)
+# foo bar baz
+# 9GuihcmKV0Zcg
+# oWygfqk5wMGYj

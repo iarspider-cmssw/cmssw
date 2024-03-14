@@ -49,3 +49,6 @@ process.source = cms.Source("EmptyIOVSource",
 process.otdtccablingmap_producer = cms.EDAnalyzer("DTCCablingMapTestReader",)
 
 process.path = cms.Path(process.otdtccablingmap_producer)
+# foo bar baz
+# gEjhsOjcV7fzo
+# x1M4rru8hpPHF

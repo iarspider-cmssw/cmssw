@@ -5,3 +5,6 @@ hltPFPuppiMHT140 = cms.EDFilter("HLTMhtFilter",
     minMht = cms.vdouble(140.0),
     saveTags = cms.bool(True)
 )
+# foo bar baz
+# esPyqSahTHmZS
+# ZaJlg7T3huXBG

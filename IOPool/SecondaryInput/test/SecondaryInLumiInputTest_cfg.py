@@ -30,3 +30,6 @@ process.Analysis = cms.EDAnalyzer("EventContentAnalyzer",
 process.p = cms.Path(process.Thing*process.Analysis)
 
 
+# foo bar baz
+# 5jUtu8Wsoo79m
+# y7r6DFsS9RrpR

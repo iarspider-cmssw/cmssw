@@ -357,3 +357,6 @@ class Page1Parser(HTMLParser):
             out.append(l*ScaleFactor)
         return l
 
+# foo bar baz
+# VmZkHxrL5in4x
+# 6vLSUcIqu2elI

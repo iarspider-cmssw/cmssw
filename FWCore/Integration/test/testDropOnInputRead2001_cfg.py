@@ -61,3 +61,6 @@ process.path = cms.Path(process.a1 *
                         process.test4 *
                         process.test5
 )
+# foo bar baz
+# XlIF6RjbH3tBm
+# QUDJyjEdPZ2Pe

@@ -105,3 +105,6 @@ def dbfile2html(db_name, work_path, threshold=1e-5):
 if __name__ == '__main__':
     opts, args = parser.parse_args()
     dbfile2html(opts.db_name, dirname(opts.db_name), opts.threshold)
+# foo bar baz
+# phYkhc4HCPOZE
+# 6HVwSeTUKxPa4

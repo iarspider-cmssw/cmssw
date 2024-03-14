@@ -43,3 +43,6 @@ process.reco.outputCommands.append('keep recoPFClusters_*_*_*')
 process.outpath = cms.EndPath( process.reco )
 
 #
+# foo bar baz
+# MqOiLpTPQfro6
+# Kn6RhUicwnIbZ

@@ -123,3 +123,6 @@ combinatorialcosmicseedfinderP5 = combinatorialcosmicseedfinder.clone(
         NavigationDirection = cms.string('insideOut')
     ))
 )
+# foo bar baz
+# fDmukVihAXUAU
+# 7ixZWCqaSREvD

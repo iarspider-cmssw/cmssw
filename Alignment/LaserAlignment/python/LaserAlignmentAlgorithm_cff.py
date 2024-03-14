@@ -14,3 +14,6 @@ LaserAlignmentAlgorithm = cms.PSet(
     )
 )
 
+# foo bar baz
+# PSNJwCulyPOHP
+# J5b8sxqHjKBef

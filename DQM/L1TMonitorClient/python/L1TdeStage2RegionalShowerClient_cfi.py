@@ -6,3 +6,6 @@ l1tdeStage2RegionalShowerClient = DQMEDHarvester(
     monitorDir = cms.untracked.string("L1TEMU/L1TdeStage2EMTF/Shower"),
 )
 
+# foo bar baz
+# 70ArTJ17JjjTo
+# fuEGgbMrmZicP

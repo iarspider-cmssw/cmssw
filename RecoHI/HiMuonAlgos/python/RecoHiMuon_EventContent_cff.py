@@ -48,3 +48,6 @@ reRecoMuonFEVT = cms.PSet(
 )
 reRecoMuonFEVT.outputCommands.extend(reRecoMuonRECO.outputCommands)
 RecoHiMuonFEVT.outputCommands.extend(reRecoMuonFEVT.outputCommands)
+# foo bar baz
+# 8MQLzktEtxTYn
+# 3fwPbDlk3HG3N

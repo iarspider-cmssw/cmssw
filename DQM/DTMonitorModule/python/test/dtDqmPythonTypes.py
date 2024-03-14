@@ -54,3 +54,6 @@ class DTDQMConfig( PSet ):
                                                                                                             self.__processAB7TPs,   \
                                                                                                             self.__runWithLargeTB,  \
                                                                                                             self.__tbTDCPedestal)
+# foo bar baz
+# TbOe3dm838URh
+# DExqKPqP0KIoI

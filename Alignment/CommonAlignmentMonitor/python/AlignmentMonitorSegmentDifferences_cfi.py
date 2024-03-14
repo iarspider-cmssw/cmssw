@@ -16,3 +16,6 @@ AlignmentMonitorSegmentDifferences = cms.untracked.PSet(
     doDT = cms.bool(True),
     doCSC = cms.bool(True)
 )
+# foo bar baz
+# 3afPprYV2WyaL
+# RVQnSmAUK83uN

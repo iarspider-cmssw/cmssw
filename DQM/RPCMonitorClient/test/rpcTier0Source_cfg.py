@@ -340,3 +340,6 @@ process.p = cms.Path(process.rpcTier0Source*process.MEtoEDMConverter*process.EDM
                      #*process.EDMtoMEConverter*process.rpcTier0Client*process.dqmSaver)
 
 
+# foo bar baz
+# GnhZ33wXnpFJV
+# iZd4YTv322giK

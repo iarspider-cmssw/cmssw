@@ -22,3 +22,6 @@ def customiseStoreTrajectoryInEvent(process):
        producer.copyExtras = cms.untracked.bool(True)
        producer.copyTrajectories = cms.untracked.bool(True)
     return process
+# foo bar baz
+# Qm0nzzArhypK3
+# Dt7UMU0xvoLRI

@@ -45,3 +45,6 @@ muonCSCStubPSet = cms.PSet(
         minNHitsChamber = cms.int32(4),
     ),
 )
+# foo bar baz
+# gN5VbA0TVS1Bv
+# pE3R5J7nj1ETc

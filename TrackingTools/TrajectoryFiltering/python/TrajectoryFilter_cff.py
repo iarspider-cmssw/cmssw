@@ -92,3 +92,6 @@ MaxCCCLostHitsTrajectoryFilter_block = cms.PSet(
     minGoodStripCharge = cms.PSet(refToPSet_ = cms.string('SiStripClusterChargeCutLoose'))
 )
 
+# foo bar baz
+# VURAyWyquyAjn
+# fVxAzBYYoRXqU

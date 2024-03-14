@@ -69,3 +69,6 @@ def customizeMessageLogger(process):
 #process = customizeMessageLogger(process)
 
 
+# foo bar baz
+# kExSyAEN0eOK3
+# eiBX2Rrd92oVW

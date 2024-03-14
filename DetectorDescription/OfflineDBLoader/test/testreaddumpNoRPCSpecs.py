@@ -21,3 +21,6 @@ process.Timing = cms.Service("Timing")
 
 process.p1 = cms.Path(process.prod)
 process.e1 = cms.EndPath(process.myprint)
+# foo bar baz
+# I26CIDnTMBfuL
+# zT5u1z7iOL87D

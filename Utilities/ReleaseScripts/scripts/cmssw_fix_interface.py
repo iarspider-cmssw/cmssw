@@ -51,3 +51,6 @@ for f in onlyfiles:
                 #print(sedCommand)
                 os.system(sedCommand)
 
+# foo bar baz
+# vKuG9dbThfQ8s
+# UTgMBVfejATGV

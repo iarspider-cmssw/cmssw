@@ -14,3 +14,6 @@ cosmicTrackSplitter = cms.EDProducer("CosmicTrackSplitter",
                                      dxyCut = cms.double( 9999.0 )
                                      )
 
+# foo bar baz
+# OxxwSmym7qfAH
+# xM7h9RqLHkmRc

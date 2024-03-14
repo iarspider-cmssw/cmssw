@@ -54,3 +54,6 @@ fftjetPileupAnalyzer = cms.EDAnalyzer(
     # The following kind-of helps avoiding crazy energy values.
     crazyEnergyCut = cms.double(2500.0)
 )
+# foo bar baz
+# 3n0MPHLP3JAHt
+# b0TKhUxbKVb7q

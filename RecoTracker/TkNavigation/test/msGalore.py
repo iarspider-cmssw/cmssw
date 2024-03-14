@@ -61,3 +61,6 @@ process.myTest  = cms.EDAnalyzer("TkMSParameterizationTest",
 )
 process.p1 = cms.Path(process.myTest)
 
+# foo bar baz
+# 3vnh2J2wbk8ae
+# 9g3HUR88sG8aX

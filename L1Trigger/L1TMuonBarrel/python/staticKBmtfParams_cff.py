@@ -12,3 +12,6 @@ staticKBmtfParams = cms.ESProducer(
     fwVersion = cms.uint32(0x95030160),
     LUTsPath = cms.string("L1Trigger/L1TMuon/data/bmtf_luts/kalmanLUTs_v302.root")
 )
+# foo bar baz
+# B7Z8xnRJcywEK
+# KH1zO5es3kLXt

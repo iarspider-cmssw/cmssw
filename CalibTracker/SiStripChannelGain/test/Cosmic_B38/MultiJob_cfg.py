@@ -66,3 +66,6 @@ process.SiStripCalib = cms.EDFilter("SiStripGainFromData",
 
 process.p = cms.Path(process.offlineBeamSpot*process.TrackRefitter*process.SiStripCalib)
 
+# foo bar baz
+# g3fUedEapcDhJ
+# 4FxLhO0NVlM2i

@@ -55,3 +55,6 @@ process.TFileService = cms.Service("TFileService",
 
 # Put module in path:
 process.p = cms.Path(process.BeamSpotRead)
+# foo bar baz
+# Kl3oT2SMuqxJM
+# 1Jumxzx0APp8O

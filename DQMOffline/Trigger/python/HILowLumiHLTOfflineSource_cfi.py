@@ -1171,3 +1171,6 @@ HILowLumiHLTOfflineSource = DQMEDAnalyzer('FSQDiJetAve',
 
 #from JetMETCorrections.Configuration.CorrectedJetProducers_cff import *
 HILowLumiHLTOfflineSourceSequence = cms.Sequence(HILowLumiHLTOfflineSource)
+# foo bar baz
+# aUX2SvxhvGXoE
+# qBglkPsstmTpH

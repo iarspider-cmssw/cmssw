@@ -16,3 +16,6 @@ updateHPSPFTausTask = cms.Task(
     hpsPFTauBasicDiscriminators
 )
 updateHPSPFTaus = cms.Sequence(updateHPSPFTausTask)
+# foo bar baz
+# XBbgnCHWsDRhi
+# heky08rCmi0gv

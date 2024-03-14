@@ -181,3 +181,6 @@ cms.PSet(
     name = cms.string('TagVarCSV_vertexCategory'),
     taggingVarName = cms.string('vertexCategory')
 )])
+# foo bar baz
+# Zhw20FjPOI27A
+# UlfBHfiw8VFra

@@ -11,3 +11,6 @@ hltElePixelHitDoubletsForTripletsUnseeded = cms.EDProducer("HitPairEDProducer",
     trackingRegions = cms.InputTag("hltEleSeedsTrackingRegionsUnseeded"),
     trackingRegionsSeedingLayers = cms.InputTag("")
 )
+# foo bar baz
+# Lnv9aeaTsAejL
+# DPVuBFnWekypZ

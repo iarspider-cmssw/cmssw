@@ -56,3 +56,6 @@ tcMetWMuNuSeq = cms.Sequence(WMuHLTFilter *
                              )
 
 
+# foo bar baz
+# 4deRm2DuxFVqN
+# OgLqrwUBqQYEz

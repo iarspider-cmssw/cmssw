@@ -17,3 +17,6 @@ process.pfClusterAnalyzer = cms.EDAnalyzer("PFClusterAnalyzer",
 process.p = cms.Path(process.pfClusterAnalyzer)
 
 
+# foo bar baz
+# fGaXTgXPGGCFw
+# tnjvWh3PqsWXr

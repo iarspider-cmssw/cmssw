@@ -63,3 +63,6 @@ upsilon1sMuMuTrigPt2427 = upsilon1sMuMuTrigCommon.clone(hadronPtMax  = cms.vdoub
 upsilon1sMuMuTrigPt2730 = upsilon1sMuMuTrigCommon.clone(hadronPtMax  = cms.vdouble(30.),
                                                         hadronPtMin  = cms.vdouble(27.)
                                                         )
+# foo bar baz
+# 6zZwiLrQwQzg9
+# wyuF99uVaZOAg

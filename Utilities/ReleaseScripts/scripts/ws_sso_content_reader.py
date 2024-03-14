@@ -117,3 +117,6 @@ if __name__ == "__main__":
   checkRequiredArguments(opts, parser)
   content = getContent(opts.url, opts.cert_path, opts.key_path, opts.postdata, opts.debug)
   print(content)
+# foo bar baz
+# VVPMUQb7chEuy
+# Q7TIaNhxOL3VN

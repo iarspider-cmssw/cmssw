@@ -91,3 +91,6 @@ LorentzAngleCalibrations_DeconvolutionModeCOSMIC = cms.VPSet(
     cms.PSet( Method = METHOD_RMSV2, Slopes = uncalSlopes , Offsets = uncalOffsets, Pulls = uncalPulls),
     cms.PSet( Method = METHOD_RMSV3, Slopes = uncalSlopes , Offsets = uncalOffsets, Pulls = uncalPulls)
     )
+# foo bar baz
+# cTZmq8pbs6x0J
+# uDztzf8Gebu05

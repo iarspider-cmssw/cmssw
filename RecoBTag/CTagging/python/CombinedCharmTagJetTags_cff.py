@@ -17,3 +17,6 @@ CombinedCharmTagJetTagsTask = cms.Task(
    pfNegativeCombinedCvsBJetTags,
    pfPositiveCombinedCvsBJetTags
    )
+# foo bar baz
+# 1KiqAkeK4EVLw
+# 51MmGZTxmTsRQ

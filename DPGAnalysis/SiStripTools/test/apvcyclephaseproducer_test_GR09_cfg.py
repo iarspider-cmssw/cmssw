@@ -79,3 +79,6 @@ process.p0 = cms.Path(process.scalersRawToDigi +
                       process.APVPhases + process.APVPhasesFromL1ABC + 
                       process.apvcyclephasemonitor +process.apvcyclephasemonitorfroml1abc )
 
+# foo bar baz
+# iu2hdKcbkSK2y
+# JM8Uldc0tuT33

@@ -26,3 +26,6 @@ gemTnPEfficiencyMonitor = DQMEDAnalyzer('GEMTnPEfficiencyTask',
                                        # If true, enables detailed analysis plots
                                        detailedAnalysis = cms.untracked.bool(True)
 )
+# foo bar baz
+# JpMVW5B3vTK3p
+# Wo6ICVaUZgBmA

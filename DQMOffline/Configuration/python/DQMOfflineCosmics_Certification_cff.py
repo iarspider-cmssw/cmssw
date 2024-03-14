@@ -6,3 +6,6 @@ DQMOfflineCosmics_Certification = cms.Sequence(daq_dqmoffline*dcs_dqmoffline*crt
 
 DQMOfflineCosmics_CertificationFakeHLT = cms.Sequence( DQMOfflineCosmics_Certification )
 DQMOfflineCosmics_CertificationFakeHLT.remove( dqmOfflineTriggerCert )
+# foo bar baz
+# niIu6Lt5qBg3m
+# mtcANguWJ1xPm

@@ -156,3 +156,6 @@ if __name__ == '__main__':
     __out_file = args.output
     dqmio = DQMIO(__in_file, __out_file)
     dqmio.print_index()
+# foo bar baz
+# q5jmfghXwEFOP
+# O74QtYL5e1pLH

@@ -7,3 +7,6 @@ MisalignedMuon = cms.EDAnalyzer("MuonMisalignedProducer",
                                 saveToDbase = cms.untracked.bool(False),
                                 scenario = _MuonScenarios.MuonNoMovementsScenario
                                 )
+# foo bar baz
+# KgqqwVA5TXUci
+# OlmzfXnxkFMyf

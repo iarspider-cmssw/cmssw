@@ -4,3 +4,6 @@ L1EmEtScaleConfigOnline = cms.ESProducer("L1EmEtScaleOnlineProd",
     forceGeneration = cms.bool(False),
     onlineDB = cms.string('oracle://CMS_OMDS_LB/CMS_TRG_R')
 )
+# foo bar baz
+# GRSNs8camrzjS
+# nO5ZlmPwfa6sY

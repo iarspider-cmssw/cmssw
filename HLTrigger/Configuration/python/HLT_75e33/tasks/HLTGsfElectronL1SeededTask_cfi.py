@@ -13,3 +13,6 @@ HLTGsfElectronL1SeededTask = cms.Task(
     hltEgammaGsfTrackVarsL1Seeded,
     hltEgammaGsfTracksL1Seeded
 )
+# foo bar baz
+# ecZxPMgKrUOhC
+# c0jKZymgdO3vw

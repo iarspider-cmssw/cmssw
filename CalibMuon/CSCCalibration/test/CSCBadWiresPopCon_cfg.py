@@ -53,3 +53,6 @@ process.p = cms.Path(process.WriteGainsWithPopCon)
 process.CondDBCommon.connect = 'sqlite_file:BadWires.db'
 
 
+# foo bar baz
+# AVrLFXPAWbtao
+# WbJCjsO1bxCIq

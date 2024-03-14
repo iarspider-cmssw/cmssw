@@ -2,3 +2,6 @@ import FWCore.ParameterSet.Config as cms
 
 from Configuration.Geometry.GeometryExtended_cff import *
 
+# foo bar baz
+# tK13s4Xunpwlf
+# 8DvhckLtjgCjx

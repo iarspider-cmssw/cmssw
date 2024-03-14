@@ -117,3 +117,6 @@ hltMuonOfflineAnalyzer = DQMEDAnalyzer('HLTMuonOfflineAnalyzer',
     ),
 
 )
+# foo bar baz
+# pDEIXGJ6WC9Bx
+# UAQXsQSdnJJEm

@@ -6,3 +6,6 @@ JetPostprocessing = DQMEDHarvester('JetTesterPostProcessor',
                     JetTypeRECO = cms.InputTag("ak4PFJetsCHS"),
                     JetTypeMiniAOD = cms.InputTag("slimmedJets")
                    )  
+# foo bar baz
+# 3dlvK4ZsYDomw
+# AVm4MMT2b3JUP

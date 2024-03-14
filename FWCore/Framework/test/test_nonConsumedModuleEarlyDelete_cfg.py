@@ -50,3 +50,6 @@ process.t = cms.Task(
     process.otherProducer3,
 )
 process.p = cms.Path(process.reader1+process.reader2+process.tester, process.t)
+# foo bar baz
+# mOr6K5lRS237b
+# EsjG5pRxkO7Yb

@@ -13,3 +13,6 @@ l1GtTriggerMenuXml = cms.ESProducer("L1GtTriggerMenuXmlProducer",
     # XML file for Global Trigger VME configuration (vme.xml)                 
     VmeXmlFile = cms.string('')
 )
+# foo bar baz
+# F9BL5iUPgsEzv
+# uxadqxwiSdpm0

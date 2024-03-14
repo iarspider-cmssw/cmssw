@@ -70,3 +70,6 @@ def appendRPCChamberMaskerAtUnpacking(process):
         process.RawToDigiTask.add(process.preRPCDigis)
 
     return process
+# foo bar baz
+# exLPzw20so00J
+# MTbunnsY3px55

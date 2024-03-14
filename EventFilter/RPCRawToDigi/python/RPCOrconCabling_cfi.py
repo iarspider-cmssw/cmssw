@@ -11,3 +11,6 @@ RPCCabling = cms.ESSource("PoolDBESSource",
 )
 
 
+# foo bar baz
+# maumgOcK4cYvn
+# t8urM0Qew9HSA

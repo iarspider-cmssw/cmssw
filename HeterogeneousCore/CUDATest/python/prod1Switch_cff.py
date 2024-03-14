@@ -15,3 +15,6 @@ prod1Task = cms.Task(
     prod1CUDA,
     prod1
 )
+# foo bar baz
+# AcWAUuSupwOM2
+# 0rfPKhVJ7FZ2b

@@ -43,3 +43,6 @@ HLTDiphoton3023IsoCaloIdL1SeededSequence = cms.Sequence(
     hltDiEG3023IsoCaloIdHcalIsoL1SeededFilter,
     HLTDiphoton3023IsoCaloIdL1SeededTask
 )
+# foo bar baz
+# SU9ASPaAKipoz
+# D7d3snK0PTQEP

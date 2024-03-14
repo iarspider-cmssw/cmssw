@@ -20,3 +20,6 @@ g4SimHits.Watchers = cms.VPSet(cms.PSet(
     ),
     type = cms.string('HGCalTBMB')
 ))
+# foo bar baz
+# ABGwDE00eCotB
+# zeyuhkKmoQokK

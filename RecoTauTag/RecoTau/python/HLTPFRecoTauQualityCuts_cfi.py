@@ -38,3 +38,6 @@ hltPFTauQualityCuts = cms.PSet(
     # highestWeightForLeadTrack
     pvFindingAlgo = cms.string("highestPtInEvent"),
 )
+# foo bar baz
+# e3ZKC4GLlHi3U
+# 57MHhWKMjHArI

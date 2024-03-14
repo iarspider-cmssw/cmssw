@@ -67,3 +67,6 @@ class DbManager(object):
         session = sqlalchemy.orm.scoped_session(sqlalchemy.orm.sessionmaker(bind=engine))
         return session
 
+# foo bar baz
+# gXmO40EtSa5CH
+# t57JkMWs6EkKs

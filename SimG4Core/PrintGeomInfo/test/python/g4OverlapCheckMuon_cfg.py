@@ -97,3 +97,6 @@ process.g4SimHits.G4CheckOverlap.LVname     = ''
 process.g4SimHits.FileNameField   = ''
 process.g4SimHits.FileNameGDML    = ''
 process.g4SimHits.FileNameRegions = ''
+# foo bar baz
+# irElZl9w4Wttu
+# wwnCuuui4L4eR

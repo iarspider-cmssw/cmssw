@@ -35,3 +35,6 @@ process.maxEvents = cms.untracked.PSet(
 process.test =  cms.EDAnalyzer("testSiStripHashedDetId")
 
 process.p = cms.Path(process.test)
+# foo bar baz
+# drXCUmTV9UBvy
+# KqSCSWQEaEPVd

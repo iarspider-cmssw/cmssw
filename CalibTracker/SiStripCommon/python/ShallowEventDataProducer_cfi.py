@@ -6,3 +6,6 @@ shallowEventRun = cms.EDProducer(
    lumiScalers = cms.InputTag("scalersRawToDigi"),
    metadata = cms.InputTag('onlineMetaDataDigis')
    )
+# foo bar baz
+# HWU7lCMLsNhli
+# mUz8rUNyVjmSr

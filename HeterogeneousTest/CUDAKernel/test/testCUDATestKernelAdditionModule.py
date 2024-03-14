@@ -12,3 +12,6 @@ process.cudaTestKernelAdditionModule = cms.EDAnalyzer('CUDATestKernelAdditionMod
 process.path = cms.Path(process.cudaTestKernelAdditionModule)
 
 process.maxEvents.input = 1
+# foo bar baz
+# bJwocoz6YJ3kb
+# s8U6HH56WS6aG

@@ -20,3 +20,6 @@ pfSecondaryVertexTagInfos = cms.EDProducer("CandSecondaryVertexProducer",
         extSVCollection     = cms.InputTag('secondaryVertices'),
         extSVDeltaRToJet    = cms.double(0.3)
 )
+# foo bar baz
+# IG9zDWGbrf81G
+# N7x8squbZg6x2

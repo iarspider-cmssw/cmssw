@@ -21,3 +21,6 @@ process.DoodadESSource = cms.ESSource("DoodadESSource")
 process.p = cms.Path(process.WhatsItAnalyzer)
 
 
+# foo bar baz
+# kIhlL1vc3Xsla
+# g5jbfDoNIuRqE

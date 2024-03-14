@@ -59,3 +59,6 @@ process.p = cms.Path(
 	process.patDefaultSequence *
 	process.analyzeBJetTracks
 )
+# foo bar baz
+# 6IiDaxwfaiy3F
+# lh3EbfXYYGcfj

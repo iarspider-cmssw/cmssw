@@ -27,3 +27,6 @@ process.dump = cms.EDAnalyzer("DumpSimGeometry",
 )
 
 process.p = cms.Path(process.dump)
+# foo bar baz
+# injTB6XE4Za8H
+# StKKcTBDXC9ME

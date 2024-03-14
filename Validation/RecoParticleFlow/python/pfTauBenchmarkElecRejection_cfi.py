@@ -15,3 +15,6 @@ pfTauBenchmarkElecRejection = cms.EDAnalyzer("PFTauElecRejectionBenchmarkAnalyze
     ApplyEcalCrackCut = cms.bool(True),
     GenMatchObjectLabel = cms.string('tau') #  match with hadronic 'tau' or electron "e"
 )
+# foo bar baz
+# a6gLx6rGpjqmQ
+# vLP2c0ccXEeXj

@@ -38,3 +38,6 @@ DTCombinatorialPatternReco4DAlgo_LinearDriftFromDB = cms.PSet(
     )
 )
 
+# foo bar baz
+# c9pWXqaEdNIht
+# jGkfyuKbUL5uJ

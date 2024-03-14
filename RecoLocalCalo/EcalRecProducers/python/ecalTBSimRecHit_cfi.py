@@ -38,3 +38,6 @@ ecalTBSimRecHit = cms.EDProducer("EcalRecHitProducer",
     singleChannelRecoveryThreshold = cms.double(0),
     triggerPrimitiveDigiCollection = cms.InputTag("ecalDigis")
 )
+# foo bar baz
+# GKdM0jbIkKmzg
+# 40kYMHwV6yL9T

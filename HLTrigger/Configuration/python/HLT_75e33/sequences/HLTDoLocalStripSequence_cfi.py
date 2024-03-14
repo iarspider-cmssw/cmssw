@@ -5,3 +5,6 @@ from ..tasks.HLTDoLocalStripTask_cfi import *
 HLTDoLocalStripSequence = cms.Sequence(
     HLTDoLocalStripTask
 )
+# foo bar baz
+# fVDWO8DC1uoRI
+# 2GDd9lzXX4MHR

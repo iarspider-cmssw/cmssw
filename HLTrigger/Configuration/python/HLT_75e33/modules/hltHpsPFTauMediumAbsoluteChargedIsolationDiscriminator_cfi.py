@@ -93,3 +93,6 @@ hltHpsPFTauMediumAbsoluteChargedIsolationDiscriminator = cms.EDProducer( "PFReco
     customOuterCone = cms.double( -1.0 ),
     particleFlowSrc = cms.InputTag( "particleFlowTmp" )  
 )
+# foo bar baz
+# G3VKXaqleWzTU
+# 0UBuPCQKOifrw

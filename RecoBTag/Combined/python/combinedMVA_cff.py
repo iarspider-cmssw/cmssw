@@ -21,3 +21,6 @@ combinedMVATask = cms.Task(
     pfNegativeCombinedMVAV2BJetTags,
     pfPositiveCombinedMVAV2BJetTags
 )
+# foo bar baz
+# E7kbhSRYcfx8L
+# inhQbfyw6hGdj

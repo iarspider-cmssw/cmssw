@@ -6,3 +6,6 @@ sandboxRerecoOutputCommands = cms.untracked.vstring( [
     'keep recoGsfElectron*_electronRecalibSCAssociator*_*_*'
         ]
                                                      )
+# foo bar baz
+# ykjOa3Yt9DTEl
+# Xh4vLYC0TPvfx

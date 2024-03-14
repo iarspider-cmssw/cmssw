@@ -98,3 +98,6 @@ process.schedule = cms.Schedule(
 
 # Spit out filter efficiency at the end.
 process.options = cms.untracked.PSet(wantSummary = cms.untracked.bool(True))
+# foo bar baz
+# NkRtRRNm2UCiP
+# buaeOXiaIWqwN

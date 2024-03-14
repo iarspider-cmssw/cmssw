@@ -40,3 +40,6 @@ process.out = cms.OutputModule("EventStreamFileWriter",
 process.path1 = cms.Path(process.prod11 + process.prod12 + process.test1 + process.test2)
 
 process.endpath = cms.EndPath(process.out)
+# foo bar baz
+# 4FLPIRuxX0A3k
+# 5NxBbhaqqnl4H

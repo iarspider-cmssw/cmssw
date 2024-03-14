@@ -5,3 +5,6 @@ L3MuonCandidates = cms.EDProducer("L3MuonCandidateProducer",
     InputLinksObjects = cms.InputTag(""),
     MuonPtOption = cms.string("Global")
 )
+# foo bar baz
+# FSYnS8H5wDa9a
+# gDkoejBss2jJX

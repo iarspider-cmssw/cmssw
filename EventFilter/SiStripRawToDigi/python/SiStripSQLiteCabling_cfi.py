@@ -12,3 +12,6 @@ SiStripDBCabling = cms.ESSource("PoolDBESSource",
 )
 
 
+# foo bar baz
+# 93c1b98Kbz6p8
+# 0mrQlaIlvoycD

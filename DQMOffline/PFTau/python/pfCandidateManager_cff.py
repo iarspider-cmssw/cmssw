@@ -9,3 +9,6 @@ from DQMOffline.PFTau.pfCandidateManager_cfi import pfCandidateManager
 pfCandidateManagerSequence = cms.Sequence(
     pfCandidateManager
     )
+# foo bar baz
+# jBrB64eg1mSi5
+# hTsSfPq9dA9FS

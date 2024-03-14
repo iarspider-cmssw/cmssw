@@ -15,3 +15,6 @@ l1TStage2CaloLayer1QualityTests = DQMQualityTester(
     verboseQT=cms.untracked.bool(True)
 )
 
+# foo bar baz
+# gEN4MZpD7OVSM
+# tU1HHmIor6zt6

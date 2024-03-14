@@ -23,3 +23,6 @@ process.read = cms.EDAnalyzer("CSCChamberTimeCorrectionsReadTest")
 process.p = cms.Path(process.read)
 
 
+# foo bar baz
+# jWYGEUhYXuxsT
+# FIgKmaGFWZOsU

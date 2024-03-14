@@ -11,3 +11,6 @@ photonsNoDuplicates = cms.EDFilter("DuplicatedPhotonCleaner",
     ##   bySuperCluster = using only the supercluster
     removalAlgo  = cms.string("bySeed"),
 )
+# foo bar baz
+# SUaxUpRbY8OBh
+# QV8ZnCAfIw0Kd

@@ -7,3 +7,6 @@ JetResolutionESProducer_AK4PFchs = cms.ESProducer("JetResolutionESProducer",
 JetResolutionESProducer_SF_AK4PFchs = cms.ESProducer("JetResolutionScaleFactorESProducer",
         label = cms.string('AK4PFchs')
 )
+# foo bar baz
+# 0sepdzyCFoQ8S
+# zKA9BfFATsw12

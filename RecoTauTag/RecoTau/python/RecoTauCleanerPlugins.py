@@ -128,3 +128,6 @@ killSoftTwoProngTaus = cms.PSet(
     minTrackPt = cms.double(5.),
     tolerance = tolerance_default,
 )
+# foo bar baz
+# q7a5VWPAPTtDb
+# nWTYKJhuwFL8G

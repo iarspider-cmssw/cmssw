@@ -40,3 +40,6 @@ generator = cms.EDFilter("ThePEGHadronizerFilter",
         filterEfficiency = cms.untracked.double(1.0),
 )
 ProductionFilterSequence = cms.Sequence(generator)
+# foo bar baz
+# 2BpO93Fvsxn5K
+# 6b6kIZfJiFsN6

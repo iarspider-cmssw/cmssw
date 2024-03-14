@@ -47,3 +47,6 @@ lumiMonitorHLTsequence = cms.Sequence(
 #    hltScalersRawToDigi4DQM +
     hltLumiMonitor
 )
+# foo bar baz
+# JcBmLshNGMGa4
+# 64yzZ8Gcxav7L

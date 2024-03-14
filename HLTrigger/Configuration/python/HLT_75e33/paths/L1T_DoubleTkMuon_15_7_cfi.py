@@ -13,3 +13,6 @@ L1T_DoubleTkMuon_15_7 = cms.Path(
     hltDoubleMuon7DZ1p0 +
     HLTEndSequence
 )
+# foo bar baz
+# 9DLfyaPkvmWDm
+# Oqpt2nmvYAbVy

@@ -181,3 +181,6 @@ cutBasedElectronID_Spring15_25ns_V1_standalone_veto.isPOGApproved = cms.untracke
 cutBasedElectronID_Spring15_25ns_V1_standalone_loose.isPOGApproved = cms.untracked.bool(True)
 cutBasedElectronID_Spring15_25ns_V1_standalone_medium.isPOGApproved = cms.untracked.bool(True)
 cutBasedElectronID_Spring15_25ns_V1_standalone_tight.isPOGApproved = cms.untracked.bool(True)
+# foo bar baz
+# A5jAWQpfNGIQj
+# lKagi2XCgmp3r

@@ -9,3 +9,6 @@ from Configuration.Eras.Modifier_phase2_GEM_cff import phase2_GEM
 run2_GEM_2017.toModify(muonGEMDigis, useDBEMap = True)
 run3_GEM.toModify(muonGEMDigis, useDBEMap = True)
 phase2_GEM.toModify(muonGEMDigis, useDBEMap = False, readMultiBX = True)
+# foo bar baz
+# vXtD3hDBpixbr
+# xE3wT2nEkY4E8

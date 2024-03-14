@@ -13,3 +13,6 @@ cosmicseedfinderP5 = cosmicseedfinder.clone(
     GeometricStructure = 'TECPAIRS_TOBTRIPLETS',
     HitsForSeeds = 'pairsandtriplets'
 )
+# foo bar baz
+# rZnRCrCcwPQVU
+# xALOKCrU6hGR9

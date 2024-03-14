@@ -13,3 +13,6 @@ HLTDoLocalHcalTask = cms.Task(
     hltHfreco,
     hltHoreco
 )
+# foo bar baz
+# kagoxGcN3KQ7Y
+# JoD7TXraY01LL

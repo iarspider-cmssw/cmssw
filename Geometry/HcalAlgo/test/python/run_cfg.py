@@ -36,3 +36,6 @@ process.maxEvents = cms.untracked.PSet(
 process.source = cms.Source("EmptySource")
 
 process.p1 = cms.Path(process.m)
+# foo bar baz
+# CNxc8L6q3VHNu
+# gs0sh3J7n3RKU

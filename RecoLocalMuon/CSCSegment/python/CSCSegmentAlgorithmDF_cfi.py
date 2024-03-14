@@ -68,3 +68,6 @@ CSCSegAlgoDF = cms.PSet(
     parameters_per_chamber_type = cms.vint32( 3, 1, 2, 2, 1, 2, 1, 2, 1, 2 )
 )
 
+# foo bar baz
+# B7KGJM8R9sN4N
+# Jx3LpbTIwUaIl

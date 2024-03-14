@@ -11,3 +11,6 @@ itLocalRecoTask = cms.Task(
     siPixelClusters,
     siPixelRecHits
 )
+# foo bar baz
+# XtK5YCi3Vb4kF
+# KPaztaoSaQicV

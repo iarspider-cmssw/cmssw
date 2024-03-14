@@ -64,3 +64,6 @@ muRecoProducers = cms.Sequence(patMuons
                                + muGEMMuonExtTableProducer
                                + muCSCTnPFlatTableProducer
                               )
+# foo bar baz
+# gZI9Ey0mKYCjZ
+# GtHcdhMF9r3Pn

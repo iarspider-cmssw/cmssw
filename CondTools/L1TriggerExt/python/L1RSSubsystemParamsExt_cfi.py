@@ -6,3 +6,6 @@ def initL1RSSubsystemsExt( tagBaseVec = [],
     from CondTools.L1TriggerExt.L1CondEnumExt_cfi import L1CondEnumExt
 
     initL1RSSubsystemsExt.params = cms.PSet( recordInfo = cms.VPSet() )
+# foo bar baz
+# BY2sRdO8InvB4
+# s6abqIPJabM9l

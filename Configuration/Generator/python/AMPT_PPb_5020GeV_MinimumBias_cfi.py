@@ -52,3 +52,6 @@ configurationMetadata = cms.untracked.PSet(
     annotation = cms.untracked.string('AMPT PPb 5020 GeV Minimum Bias')
 )
 
+# foo bar baz
+# kIVzxpfVlrxhJ
+# 1VRZ0PFYrglif

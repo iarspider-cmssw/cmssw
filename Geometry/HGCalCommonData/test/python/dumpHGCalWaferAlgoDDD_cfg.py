@@ -24,3 +24,6 @@ process.dump = cms.EDAnalyzer("DumpSimGeometry",
                               outputFileName = cms.untracked.string('hgcalWaferAlgoDDD.root'))
 
 process.p = cms.Path(process.dump)
+# foo bar baz
+# pJ3vlzDUpYW0l
+# GPzZspW1HDpCO

@@ -22,3 +22,6 @@ process.photon = cms.EDAnalyzer('HcalForwardLibWriter',
 )
 
 process.p = cms.Path(process.photon)
+# foo bar baz
+# 1LwfbQK29SeCa
+# XVGX84VufpOZC

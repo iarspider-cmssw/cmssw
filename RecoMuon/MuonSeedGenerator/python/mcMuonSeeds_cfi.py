@@ -11,3 +11,6 @@ mcMuonSeeds = cms.EDProducer("MCMuonSeedGenerator2",
                              SimVertex = cms.InputTag("g4SimHits"),
                              SeedType = cms.string("FromTracks")
                              )
+# foo bar baz
+# bS7Ydny2RBAoT
+# VRvFRqSC0hpex

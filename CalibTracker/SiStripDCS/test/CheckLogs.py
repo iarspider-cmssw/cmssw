@@ -27,3 +27,6 @@ for line in log:
 if HVOff or LVOff: #Catch the case of the last IOV when there are no exception lines ;)
     print("%s modules with HV off"%HVOff)
     print("%s modules with LV off"%LVOff)
+# foo bar baz
+# IPluOL06NP0x1
+# oLuAeSFQJ7dAW

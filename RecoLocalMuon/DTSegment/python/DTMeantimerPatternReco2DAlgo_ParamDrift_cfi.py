@@ -33,3 +33,6 @@ DTMeantimerPatternReco2DAlgo_ParamDrift = cms.PSet(
     Reco2DAlgoName = cms.string('DTMeantimerPatternReco')
 )
 
+# foo bar baz
+# P3ojmkf9PAeUK
+# D2N3eRJlEpepv

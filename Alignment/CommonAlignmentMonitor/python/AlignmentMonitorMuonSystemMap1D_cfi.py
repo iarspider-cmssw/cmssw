@@ -20,3 +20,6 @@ AlignmentMonitorMuonSystemMap1D = cms.untracked.PSet(
     useStubPosition = cms.bool(False),
     createNtuple = cms.bool(False)
 )
+# foo bar baz
+# TgYc5j3X1ckEo
+# DH8w9QGAXG3Pz

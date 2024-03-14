@@ -8,3 +8,6 @@ L1CaloHcalScaleConfigOnline = cms.ESProducer("L1CaloHcalScaleConfigOnlineProd",
     forceGeneration = cms.bool(False),
     onlineDB = cms.string('oracle://CMS_OMDS_LB/CMS_TRG_R')
 )
+# foo bar baz
+# kPwoXe82rdO9L
+# JHLMhHsDahC7o

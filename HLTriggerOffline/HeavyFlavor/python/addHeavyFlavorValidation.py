@@ -11,3 +11,6 @@ def customise(process):
     process.output.fileName = cms.untracked.string('/tmp/heavyFlavorValidation.root')
     return process
 
+# foo bar baz
+# qvuI04GtBbLnF
+# GrQmT2dufMLsT

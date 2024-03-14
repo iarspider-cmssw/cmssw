@@ -30,3 +30,6 @@ process.p = cms.Path(
   process.l1ExtraTreeProducer
 )
 
+# foo bar baz
+# RmoYWGCuJunqU
+# DbHYuuS8OPlod

@@ -6,3 +6,6 @@ process.maxEvents = cms.untracked.PSet(
     input = cms.untracked.int32(1)
 )
 process.options.dumpOptions = True
+# foo bar baz
+# uyofHsWjuYXs5
+# 7ULyUd9mPw9t5

@@ -19,3 +19,6 @@ ssdigimultlumicorr = cms.EDAnalyzer('MultiplicityInvestigator',
                                     multiplicityMap = cms.InputTag("ssdigimultprod"),
                                     )
 
+# foo bar baz
+# pi0Z8I8BWBs34
+# IhxXZ21dnkSdh

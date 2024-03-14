@@ -11,3 +11,6 @@ from EventFilter.GctRawToDigi.gctDigiToRaw_cfi import *
 from EventFilter.L1GlobalTriggerRawToDigi.l1GtPack_cfi import *
 L1DigiToRaw = cms.Sequence(csctfpacker+dttfpacker+gctDigiToRaw+l1GtPack)
 
+# foo bar baz
+# T11cvmdLLFiOE
+# b9pd3Hd7AnZT0

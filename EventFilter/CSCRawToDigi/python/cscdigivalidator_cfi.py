@@ -18,3 +18,6 @@ cscDigiValidator = cms.EDAnalyzer('CSCDigiValidator',
                                   repackCSCTF = cms.untracked.InputTag("csctfDigis",""),
                                   repackCSCTFStubs = cms.untracked.InputTag("csctfDigis","DT"),
 )
+# foo bar baz
+# PDxfIdgIxdpW8
+# JOusASGhQMbMA

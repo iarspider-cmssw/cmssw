@@ -161,3 +161,6 @@ photonPFIsolationValuesTask = cms.Task(
     phPFIsoValueNeutral04PFId,
     phPFIsoValuePU04PFId
     )
+# foo bar baz
+# 3p46Sn4vpMQYg
+# 6rARfe7uYIS6C

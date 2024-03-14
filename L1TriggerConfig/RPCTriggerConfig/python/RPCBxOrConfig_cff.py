@@ -11,3 +11,6 @@ rpcBxOrConfSrc = cms.ESSource("EmptyESSource",
     firstValid = cms.vuint32(1)
 )
 
+# foo bar baz
+# mfr2xLXcFjyUG
+# swhbL5S5PXZ63

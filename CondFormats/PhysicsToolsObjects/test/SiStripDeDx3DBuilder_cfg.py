@@ -56,3 +56,6 @@ process.test = cms.EDAnalyzer("SiStripDeDx3DBuilder")
 process.p1 = cms.Path(process.test)
 
 
+# foo bar baz
+# iYkp44uSO0Xzw
+# AsgvFdeEM81s9

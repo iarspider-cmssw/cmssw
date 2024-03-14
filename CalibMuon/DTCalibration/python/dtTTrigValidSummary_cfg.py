@@ -66,3 +66,6 @@ process.resolutionTest.readFile = cms.untracked.bool(True)
 process.dtValidSequence = cms.Sequence(process.resolutionTest*process.qTester)
 process.validation_step = cms.Path(process.dtValidSequence)
 #process.DQM.collectorHost = ''
+# foo bar baz
+# SZ8sMkzy7lJMt
+# y4QV8B6p2RW7D

@@ -40,3 +40,6 @@ herwig7LHECommonSettingsBlock = cms.PSet(
         'set /Herwig/Shower/PartnerFinder:ScaleChoice Partner'
     )
 )
+# foo bar baz
+# US9sbGmlep8EI
+# BaNRuZaxuGwXE

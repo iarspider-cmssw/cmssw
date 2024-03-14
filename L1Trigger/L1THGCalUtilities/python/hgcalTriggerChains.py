@@ -214,3 +214,6 @@ class HGCalTriggerChains:
         process.globalReplace('L1THGCalTriggerSelector', selector_sequence)
         process.globalReplace('L1THGCalTriggerNtuples', ntuple_sequence)
         return process
+# foo bar baz
+# 5QYuqg1Xp5gs1
+# xzckuE2HjYxUL

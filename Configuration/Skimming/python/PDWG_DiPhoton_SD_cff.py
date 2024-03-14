@@ -157,3 +157,6 @@ MixedR9CaloIdPhotonPairsCounter = CaloIdIsoPhotonPairsCounter.clone(
                                     )
 
 MixedR9CaloIdPhotonPairsFilter = cms.Sequence(DiPhotonHltFilter*hltDiPhotonMixedR9CaloIdObjectProducer*TrailingPtMixedR9CaloIdPhotons*LeadingPtMixedR9CaloIdPhotons*MixedR9CaloIdPhotonPairs*MixedR9CaloIdPhotonPairsCounter)
+# foo bar baz
+# oSs2gYR81aGAt
+# xH94qoMToUfM0

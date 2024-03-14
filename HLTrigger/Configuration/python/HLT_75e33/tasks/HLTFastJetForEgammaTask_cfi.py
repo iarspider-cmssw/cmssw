@@ -5,3 +5,6 @@ from ..modules.hltFixedGridRhoFastjetAllCaloForEGamma_cfi import *
 HLTFastJetForEgammaTask = cms.Task(
     hltFixedGridRhoFastjetAllCaloForEGamma
 )
+# foo bar baz
+# kyPhzIYK7uVgk
+# 1zsDcoCxrfJ3t

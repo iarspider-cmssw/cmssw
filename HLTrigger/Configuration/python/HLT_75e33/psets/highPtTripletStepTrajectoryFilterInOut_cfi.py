@@ -24,3 +24,6 @@ highPtTripletStepTrajectoryFilterInOut = cms.PSet(
     seedPairPenalty = cms.int32(0),
     strictSeedExtension = cms.bool(False)
 )
+# foo bar baz
+# sCjchIFGPhjQ5
+# UWUd8bYDW47uj

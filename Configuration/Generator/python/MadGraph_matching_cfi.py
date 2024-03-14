@@ -37,3 +37,6 @@ generator = cms.EDFilter("Pythia6HadronizerFilter",
        MEMAIN_maxjets = cms.int32(-1),
     )
 )
+# foo bar baz
+# 25e6Ze98J41oq
+# JqIJ63xPvDHb2

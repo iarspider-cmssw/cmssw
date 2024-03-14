@@ -17,3 +17,6 @@ trackingMaterialAnalyser = cms.EDAnalyzer("TrackingMaterialAnalyser",
         "HGCalHEScintillatorSensitive"
     )
 )
+# foo bar baz
+# uvxzCtqES0EDT
+# ffPFVFa733Dto

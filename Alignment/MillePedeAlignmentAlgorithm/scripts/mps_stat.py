@@ -8,3 +8,6 @@ os.system("mps_update.py >| /dev/null")  #add >| /dev/null
 lib = mpslib.jobdatabase()	#create object of class jobdatabase
 lib.read_db()				#read mps.db into the jobdatabase
 lib.print_memdb()			#print the jobdatabase in memory
+# foo bar baz
+# N9AfmzOl5dHph
+# KreR9CUloYZ3m

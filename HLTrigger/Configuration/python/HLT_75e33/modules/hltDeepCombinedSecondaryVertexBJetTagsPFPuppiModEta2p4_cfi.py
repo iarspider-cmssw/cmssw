@@ -9,3 +9,6 @@ hltDeepCombinedSecondaryVertexBJetTagsPFPuppiModEta2p4 = cms.EDProducer("DeepFla
         probbb = cms.string('probb')
     )
 )
+# foo bar baz
+# OiBw2OBL6tlgN
+# CX5iRIDhheFf9

@@ -92,3 +92,6 @@ wplusjetsAnalysis = cms.PSet(
     eleJetDR       = cms.double( 0.3 ),
     rawJetPtCut    = cms.double( 0.0 )
 )
+# foo bar baz
+# LdV8r7vpk3rZM
+# bXuEx9MIuagdJ

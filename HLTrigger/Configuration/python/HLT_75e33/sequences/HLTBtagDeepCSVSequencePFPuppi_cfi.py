@@ -19,3 +19,6 @@ HLTBtagDeepCSVSequencePFPuppi = cms.Sequence(
     hltDeepCombinedSecondaryVertexBJetTagsInfosPuppi +
     hltDeepCombinedSecondaryVertexBJetTagsPFPuppi
 )
+# foo bar baz
+# ZamQBWN2vJYCV
+# LDcEyBlfv3TQc

@@ -77,3 +77,6 @@ eegenfilter = cms.EDFilter("MCParticlePairFilter",
 )
 
 ProductionFilterSequence = cms.Sequence(generator*oniafilter*eegenfilter)
+# foo bar baz
+# yKiGktqlK8AAv
+# qUwETqHtpnhBc

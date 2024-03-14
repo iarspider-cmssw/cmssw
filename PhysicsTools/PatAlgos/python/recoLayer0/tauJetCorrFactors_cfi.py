@@ -40,3 +40,6 @@ patTauJetCorrFactors = cms.EDProducer("TauJetCorrFactorsProducer",
         'L2Relative', 'L3Absolute'
     )
 )
+# foo bar baz
+# CFLLbM8uTwXow
+# Jty4V1lTkX1Yw

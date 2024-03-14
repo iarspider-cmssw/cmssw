@@ -20,3 +20,6 @@ caloMETBenchmarkGeneric = cms.EDAnalyzer("GenericBenchmarkAnalyzer",
     maxDeltaPhi = cms.double(3.2),
     doMetPlots  = cms.bool(True)
 )
+# foo bar baz
+# OH4pAsy6A2fby
+# sGzkTIYDdGews

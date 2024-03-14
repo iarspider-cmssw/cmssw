@@ -35,3 +35,6 @@ generator = cms.EDFilter("ThePEGGeneratorFilter",
         filterEfficiency = cms.untracked.double(1.0),
 )
 ProductionFilterSequence = cms.Sequence(generator)
+# foo bar baz
+# 25I15JZt4auHL
+# bs2msQ738nL6r

@@ -118,3 +118,6 @@ process.ALCARECOSiStripLACalib.saveHistoMods = cms.bool(True)
 from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEarlyDelete
 process = customiseEarlyDelete(process)
 # End adding early deletion
+# foo bar baz
+# nNs3QPpLwnT4z
+# RiefSE1e6UCj7

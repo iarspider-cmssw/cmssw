@@ -7,3 +7,6 @@ RandomNumberGeneratorService.restoreStateLabel = cms.untracked.string('randomEng
 from SimGeneral.MixingModule.StageA156Bx_cfi import *
 mix.playback = cms.untracked.bool(True)
 
+# foo bar baz
+# 4muUCGIs09sh9
+# hDsfkQFHXlOW4

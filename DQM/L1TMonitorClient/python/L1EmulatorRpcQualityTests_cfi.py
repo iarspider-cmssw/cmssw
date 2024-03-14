@@ -15,3 +15,6 @@ l1EmulatorRpcQualityTests = DQMQualityTester(
     verboseQT=cms.untracked.bool(True)
 )
 
+# foo bar baz
+# h8SOovvRzOBlN
+# LPxelBaZS1XRq

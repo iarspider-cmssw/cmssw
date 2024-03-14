@@ -4,3 +4,6 @@ analyzePatJets = cms.EDAnalyzer("PatJetAnalyzer",
   src  = cms.InputTag("cleanPatJets"),                              
   corrLevel = cms.string("L3Absolute")
 )                               
+# foo bar baz
+# pjVBRAAWhn7TV
+# w1naY1wNIBKi1

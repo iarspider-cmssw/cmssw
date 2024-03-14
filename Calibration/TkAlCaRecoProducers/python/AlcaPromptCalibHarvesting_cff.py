@@ -18,3 +18,6 @@ PoolDBOutputService = cms.Service("PoolDBOutputService",
                                   timetype   = cms.untracked.string('lumiid')
                                   )
 
+# foo bar baz
+# m9Pu9v9MgNnr9
+# ipOhocTO0qNQF

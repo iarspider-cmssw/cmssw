@@ -44,3 +44,6 @@ muonGEMDigiPSet = cms.PSet(
 
 from Configuration.Eras.Modifier_phase2_GEM_cff import phase2_GEM
 phase2_GEM.toModify(muonGEMDigiPSet.gemUnpackedStripDigi, inputTag = "simMuonGEMDigis")
+# foo bar baz
+# d9qRSecfweNGo
+# 8yWpPEHEB4iRM

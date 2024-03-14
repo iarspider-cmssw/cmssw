@@ -18,3 +18,6 @@ ecal2004TBTDCReconstructor = cms.EDProducer("EcalTBTDCRecInfoProducer",
 )
 
 
+# foo bar baz
+# JBB9CbqUqXIwj
+# WAU9P0hbfUJGo

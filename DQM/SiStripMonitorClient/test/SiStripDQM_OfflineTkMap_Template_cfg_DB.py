@@ -162,3 +162,6 @@ process.ssqualitystat = siStripQualityStatistics.clone(
 
 
 process.p1 = cms.Path(process.siStripOfflineAnalyser + process.ssqualitystat)
+# foo bar baz
+# TDbOzCBm4jxcP
+# L2L9HLRXujzkd

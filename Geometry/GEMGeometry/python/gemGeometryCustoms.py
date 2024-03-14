@@ -17,3 +17,6 @@ def geomReplace(process, key, targetXML) :
         print("Alert! key is not found on XMLIdealGeometryESSource")
     return process
 
+# foo bar baz
+# vfZj04vBF2MjU
+# W00ebLJqceLwh

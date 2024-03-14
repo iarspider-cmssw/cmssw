@@ -18,3 +18,6 @@ process.GEN = cms.OutputModule("PoolOutputModule",
 )
 
 process.outpath = cms.EndPath(process.GEN)
+# foo bar baz
+# OWfDZKg6LcaxK
+# 2SqNm9oYvKQFF

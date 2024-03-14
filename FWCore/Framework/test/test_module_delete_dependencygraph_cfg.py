@@ -184,3 +184,6 @@ subprocessBA.p = cms.Path(
     subprocessBA.consumerEventNotConsumedInBA2
     , subprocessBA.t
 )
+# foo bar baz
+# YRXPvFJwF1Imm
+# 2WcGjo52YsDjE

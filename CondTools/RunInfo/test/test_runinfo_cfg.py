@@ -25,3 +25,6 @@ process.riSource = cms.ESSource("EmptyESSource", recordName = cms.string("RunInf
 process.test = cms.EDAnalyzer("RunInfoESAnalyzer")
 
 process.p = cms.Path(process.test)
+# foo bar baz
+# P7yQPJC4PtcYc
+# h1h1qy4xyQVAm

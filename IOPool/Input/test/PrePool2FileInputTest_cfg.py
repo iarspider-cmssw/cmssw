@@ -29,3 +29,6 @@ process.p = cms.Path(process.OtherThing)
 process.ep = cms.EndPath(process.output)
 
 
+# foo bar baz
+# RFLKShk5zxEGD
+# 4JcQ9wleJeJN3

@@ -5,3 +5,6 @@ me0TriggerConvertedPseudoDigis = cms.EDProducer("ME0TriggerPseudoProducer",
     info = cms.untracked.int32(0),
     DeltaPhiResolution = cms.untracked.double(0.25)# in term of trigger pad
 )
+# foo bar baz
+# 4fokMrub8ZabJ
+# PwbzGd5o487zS

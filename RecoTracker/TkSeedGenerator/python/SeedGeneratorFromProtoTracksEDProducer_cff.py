@@ -15,3 +15,6 @@ pixelTTRHBuilderWithoutAngle = ttrhbwr.clone(
     StripCPE      = 'Fake',
     ComponentName = 'PixelTTRHBuilderWithoutAngle'
 )
+# foo bar baz
+# OVpO1FWF17N3u
+# NGdwLKYHOH6OP

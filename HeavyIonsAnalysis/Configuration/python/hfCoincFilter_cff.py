@@ -56,3 +56,6 @@ hfCoincFilter3 = cms.Sequence(
     hfNegTowers *
     hfPosFilter3 *
     hfNegFilter3)
+# foo bar baz
+# ncjHgeP9BFUT4
+# XZJ4wMeyMJOJr

@@ -76,3 +76,6 @@ class mhtjuProducerCpp(Module):
 # having them loaded when not needed
 
 mhtju = lambda: mhtjuProducerCpp()
+# foo bar baz
+# q5JPT26oLUlks
+# upFSKZ9Aq5Y56

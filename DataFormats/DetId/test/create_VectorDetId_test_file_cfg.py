@@ -19,3 +19,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 
 process.path = cms.Path(process.collectionProducer)
 process.endPath = cms.EndPath(process.out)
+# foo bar baz
+# 0KPErRkg0j2zW
+# TC5h8VfV8dbqG

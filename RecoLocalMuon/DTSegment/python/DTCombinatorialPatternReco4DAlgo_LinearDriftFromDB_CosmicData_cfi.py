@@ -40,3 +40,6 @@ DTCombinatorialPatternReco4DAlgo_LinearDriftFromDB_CosmicData = cms.PSet(
     )
 )
 
+# foo bar baz
+# AbV0TofzuQVlW
+# s1MFr5fVFLEhd

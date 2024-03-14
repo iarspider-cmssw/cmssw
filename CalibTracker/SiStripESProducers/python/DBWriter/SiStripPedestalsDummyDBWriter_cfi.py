@@ -9,3 +9,6 @@ siStripPedestalsDummyDBWriter = cms.EDAnalyzer("SiStripPedestalsDummyDBWriter",
 
 
 
+# foo bar baz
+# PAgUHrdTX6HdI
+# qBfRUETMZDc2f

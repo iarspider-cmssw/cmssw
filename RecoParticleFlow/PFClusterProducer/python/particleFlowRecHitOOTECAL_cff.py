@@ -20,3 +20,6 @@ run2_miniAOD_80XLegacy.toModify(
     src = "reducedEcalRecHitsEE",
     srFlags = ""
 )
+# foo bar baz
+# ywJypv6JvvjK6
+# Ek6Ygbl8QQmIV

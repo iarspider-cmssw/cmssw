@@ -83,3 +83,6 @@ process.generator.maxEventsToPrint = 10
 process.generator.pythiaHepMCVerbosity = True
 
 
+# foo bar baz
+# ydLNNkvQwLfqi
+# yh0UbgswLRYPN

@@ -39,3 +39,6 @@ phase1Pixel.toModify(charmTagsComputerCvsL,
                      slComputerCfg = dict(correctVertexMass = True),
                      defaultValueNoTracks = True
 )
+# foo bar baz
+# d2T8KYkYthZYZ
+# 4vNen63vcHdxx

@@ -5,3 +5,6 @@ myTTRHBuilderWithoutAngle4MixedTriplets = RecoTracker.TransientTrackingRecHit.Tr
     StripCPE      = 'Fake',
     ComponentName = 'TTRHBuilderWithoutAngle4MixedTriplets'
 )
+# foo bar baz
+# tcyk68vQ7D00M
+# cpY6fojHNasRi

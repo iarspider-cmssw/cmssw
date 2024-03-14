@@ -34,3 +34,6 @@ SiStripDQMOnSimData = cms.Sequence(SiStripSourcesSimData*qTester*SiStripOnlineDQ
 SiStripDQMOnRealData = cms.Sequence(SiStripSourcesRealData*qTester*SiStripOnlineDQMClient*dqmEnv*dqmSaver)
 
 SiStripDQMOnRealDataCollision = cms.Sequence(SiStripSourcesRealDataCollision*qTester*SiStripOnlineDQMClient*dqmEnv*dqmSaver)
+# foo bar baz
+# xzUk81NzDO9Fa
+# hbq14qQ6Y6ePI

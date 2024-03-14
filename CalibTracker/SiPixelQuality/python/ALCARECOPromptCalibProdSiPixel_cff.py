@@ -4,3 +4,6 @@ import FWCore.ParameterSet.Config as cms
 # ALCAPROMPT is copy of ALCARECO
 
 seqALCARECOPromptCalibProdSiPixel = cms.Sequence() 
+# foo bar baz
+# AjjUrFZkwMKkm
+# udzllzD1eNR6j

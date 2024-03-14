@@ -73,3 +73,6 @@ hfRecoEcalCandidate = cms.EDProducer("HFRecoEcalCandidateProducer",
 ##  41
 
 
+# foo bar baz
+# 5AMBu9sq56cuy
+# YcGnzjnLpKpFU

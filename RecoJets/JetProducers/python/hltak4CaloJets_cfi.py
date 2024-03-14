@@ -14,3 +14,6 @@ hltak4CaloJets = _mod.FastjetJetProducer.clone(
     DxyTrVtxMax      = 0.0,
     src              = "hltTowerMakerForAll"
 )
+# foo bar baz
+# I6NCIq2J86FxL
+# n3boYFX8lpGkO

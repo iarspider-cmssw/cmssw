@@ -39,3 +39,6 @@ DQMCertCommon = cms.Sequence( DQMCertTrackerStrip *
 
 DQMCertCommonFakeHLT = cms.Sequence( DQMCertCommon )
 DQMCertCommonFakeHLT.remove( dqmOfflineTriggerCert )
+# foo bar baz
+# ke7hCS8zbyIuO
+# NQMCS4k0LAQZU

@@ -37,3 +37,6 @@ hltMe0Segments = cms.EDProducer("ME0SegmentProducer",
     algo_type = cms.int32(2),
     me0RecHitLabel = cms.InputTag("hltMe0RecHits")
 )
+# foo bar baz
+# Qdvf76yZKH6s0
+# RamBIZ4DH3l2S

@@ -7,3 +7,6 @@ def customise(process):
             ps.APVpeakmode = cms.bool(False)
             return(process)
 
+# foo bar baz
+# CKbK4S5A9YiBT
+# lEAHuLGJRNcUn

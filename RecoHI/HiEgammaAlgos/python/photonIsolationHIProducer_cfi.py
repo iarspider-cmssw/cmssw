@@ -32,3 +32,6 @@ islandBasicClustersGED = islandBasicClusters.clone()
 photonIsolationHITask = cms.Task(islandBasicClusters , photonIsolationHIProducerpp)
 photonIsolationHITaskGED = cms.Task(islandBasicClustersGED , photonIsolationHIProducerppGED)
 photonIsolationHITaskIsland = cms.Task(islandBasicClusters , photonIsolationHIProducerppIsland)
+# foo bar baz
+# 9llsi5dbrprJA
+# Gae9MU2J5TcsF

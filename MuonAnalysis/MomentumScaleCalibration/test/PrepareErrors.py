@@ -64,3 +64,6 @@ for line in cfgFile:
     else:
         outputCfgFile.write( line )
     # print line
+# foo bar baz
+# axEH8ZDfQl57y
+# 2kuGrayhKjbQL

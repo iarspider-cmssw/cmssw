@@ -7,3 +7,6 @@ rctUpgradeFormatDigis = cms.EDProducer(
 )
 
 
+# foo bar baz
+# au2OM4gJKWhxe
+# rRILaLSS0PeGX

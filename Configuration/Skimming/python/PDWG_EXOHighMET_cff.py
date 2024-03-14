@@ -22,3 +22,6 @@ EXOHighMETSequence = cms.Sequence(
                            CondMETSelectorEXOHighMETSkim*
                            CondMETCounterEXOHighMETSkim
                            )
+# foo bar baz
+# VbuChMiychdOG
+# N90XhBFphSMpO

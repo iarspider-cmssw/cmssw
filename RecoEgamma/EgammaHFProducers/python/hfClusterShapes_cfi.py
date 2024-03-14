@@ -12,3 +12,6 @@ hfEMClusters = cms.EDProducer("HFEMClusterProducer",
                               usePulseFlag = cms.bool(True),
                               correctionType = cms.int32(1)
                               )
+# foo bar baz
+# 61dsMBnwI5j0F
+# zWxhrGuDUV8oR

@@ -24,3 +24,6 @@ muonSeededTrajectoryFilterForOutIn = cms.PSet(
     seedPairPenalty = cms.int32(0),
     strictSeedExtension = cms.bool(False)
 )
+# foo bar baz
+# aQ5ms6mxKKCJC
+# Tt35e8bVQmR68

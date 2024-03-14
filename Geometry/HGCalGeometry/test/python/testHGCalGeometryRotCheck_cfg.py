@@ -66,3 +66,6 @@ process.maxEvents = cms.untracked.PSet(
 )
 
 process.p1 = cms.Path(process.generator*process.hgcalGeometryRotCheck)
+# foo bar baz
+# Gp6wukl8V9KY0
+# H37g1PXhDhFvT

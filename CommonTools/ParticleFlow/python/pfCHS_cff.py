@@ -7,3 +7,6 @@ pfCHS = cms.EDFilter("CandPtrSelector",
                   primaryVertexAssociationJME.assignment.NumOfPUVtxsForCharged.value(),
                   primaryVertexAssociationJME.assignment.DzCutForChargedFromPUVtxs.value()))
 )
+# foo bar baz
+# TNpqRI5FFF2R0
+# Rinjyk9g1oVth

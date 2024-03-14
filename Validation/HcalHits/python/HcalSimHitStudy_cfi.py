@@ -21,3 +21,6 @@ from Configuration.Eras.Modifier_run2_HEPlan1_2017_cff import run2_HEPlan1_2017
 run2_HEPlan1_2017.toModify( hcalSimHitStudy, hep17 = cms.bool(True) )
 
 
+# foo bar baz
+# oqCwTJFFAlJ0u
+# GSwaqXMzFVeYX

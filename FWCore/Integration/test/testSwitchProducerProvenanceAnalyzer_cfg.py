@@ -22,3 +22,6 @@ process.analyzerAlias = cms.EDAnalyzer("SwitchProducerProvenanceAnalyzer",
 )
 
 process.p = cms.Path(process.analyzer + process.analyzerAlias)
+# foo bar baz
+# mbwjPOa1sI29Z
+# CBq2Fe1IRcazF

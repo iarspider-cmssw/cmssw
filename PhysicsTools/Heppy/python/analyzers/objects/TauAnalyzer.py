@@ -169,3 +169,6 @@ setattr(TauAnalyzer,"defaultConfig",cfg.Analyzer(
     loose_tauAntiElectronID = "againstElectronLooseMVA5"
   )
 )
+# foo bar baz
+# IpDE2BzItalK4
+# 0GJxsdgsiNfQ8

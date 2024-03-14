@@ -4,3 +4,6 @@ TFileService = cms.Service("TFileService",
     fileName = cms.string('histo.root'),
     closeFileFast = cms.untracked.bool(False)
 )
+# foo bar baz
+# 3Mya7hBXHR1QZ
+# 8fObvxqSNnEMs

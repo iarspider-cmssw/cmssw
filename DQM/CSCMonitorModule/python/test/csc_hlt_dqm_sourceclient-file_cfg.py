@@ -100,3 +100,6 @@ MessageLogger = cms.Service("MessageLogger",
 
 process.p = cms.Path(process.cscDQMEvF+process.dqmEnv+process.dqmSaver)
 
+# foo bar baz
+# FEPN0NhKyyNBO
+# us7SaZLpuL8cP

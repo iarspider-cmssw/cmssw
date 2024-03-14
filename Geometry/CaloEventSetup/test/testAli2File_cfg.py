@@ -37,3 +37,6 @@ process.load('Geometry.CaloEventSetup.TestCaloAlignments_cff')
 process.CaloAlignmentRcdWrite = cms.EDAnalyzer("CaloAlignmentRcdWrite")
 
 process.p = cms.Path(process.CaloAlignmentRcdWrite)
+# foo bar baz
+# 9lj30cFVGJ5lJ
+# rQbboCXlcb6X0

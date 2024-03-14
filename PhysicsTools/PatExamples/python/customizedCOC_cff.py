@@ -94,3 +94,6 @@ cocPatJets = cms.EDProducer("PATJetCleaner",
 customCOC = cms.Sequence(
     cocPatElectrons * cocPatJets
 )
+# foo bar baz
+# 8vuns1FWPmyfZ
+# ABb5JtEGs2Nh3

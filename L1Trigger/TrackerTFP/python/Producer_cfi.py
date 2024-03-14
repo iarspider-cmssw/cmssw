@@ -21,4 +21,6 @@ TrackerTFPProducer_params = cms.PSet (
   EnableTruncation = cms.bool  ( True  ),                      # enable emulation of truncation, lost stubs are filled in BranchLost
   PrintKFDebug     = cms.bool  ( False )                       # print end job internal unused MSB
 
-)
+)# foo bar baz
+# MP4B4sCoT9enz
+# debHf5F5TMwLv

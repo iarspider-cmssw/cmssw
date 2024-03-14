@@ -5,3 +5,6 @@ ecalPreshowerDcsInfoTask = cms.EDAnalyzer("ESDcsInfoTask",
     mergeRuns = cms.untracked.bool(False),
     DcsStatusLabel = cms.InputTag("scalersRawToDigi")
 )
+# foo bar baz
+# f6AJcu7pFqef8
+# fq3thXRirMSgQ

@@ -84,3 +84,6 @@ pfMuonDQMAnalyzer = DQMEDAnalyzer('PFMuonDQMAnalyzer',
       xMax = cms.double(1.5)        
     )
  )
+# foo bar baz
+# Ismh8LQGuKkeM
+# 8jIGStvTI27Yg

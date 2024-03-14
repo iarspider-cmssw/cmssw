@@ -7,3 +7,6 @@ hltESPSmartPropagatorAny = cms.ESProducer("SmartPropagatorESProducer",
     PropagationDirection = cms.string('alongMomentum'),
     TrackerPropagator = cms.string('PropagatorWithMaterial')
 )
+# foo bar baz
+# OReoiloss2ZZJ
+# YLdKbvnm6qQPH

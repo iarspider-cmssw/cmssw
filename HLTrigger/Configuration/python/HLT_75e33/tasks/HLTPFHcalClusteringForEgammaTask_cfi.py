@@ -9,3 +9,6 @@ HLTPFHcalClusteringForEgammaTask = cms.Task(
     hltParticleFlowClusterHCAL,
     hltParticleFlowRecHitHBHE
 )
+# foo bar baz
+# SrBtKWxe7nL7b
+# p1G1sJcPwP1r3

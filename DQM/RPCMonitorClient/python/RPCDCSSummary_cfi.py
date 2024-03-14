@@ -4,3 +4,6 @@ from DQMServices.Core.DQMEDHarvester import DQMEDHarvester
 rpcDCSSummary = DQMEDHarvester("RPCDCSSummary", 
                                NumberOfEndcapDisks  = cms.untracked.int32(4),
                                )
+# foo bar baz
+# 0Fm6aqskIoRKd
+# DvW56VExGfjsN

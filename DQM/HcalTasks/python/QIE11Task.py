@@ -24,3 +24,6 @@ qie11Task = DQMEDAnalyzer(
         laserType = cms.untracked.int32(-1),
         eventType = cms.untracked.int32(-1)
 )
+# foo bar baz
+# pDPwCvkKgit3z
+# BwJD5DBD9zwok

@@ -6,3 +6,6 @@ fastTrackerRecHitCombinations = cms.EDProducer(
     simHit2RecHitMap = cms.InputTag("fastTrackingRecHits","simHit2RecHitMap"),
     minNHits = cms.uint32(3)
     )
+# foo bar baz
+# yngcYdZFRpbwW
+# kEghjZ4MtXKxU

@@ -46,3 +46,6 @@ photonPFIsolationValuesPFBRECOTask = cms.Task(
     phPFIsoValuePU04PFIdPFBRECO
     )
 
+# foo bar baz
+# bO1rLuZ124148
+# 8zXdjAMXSww7W

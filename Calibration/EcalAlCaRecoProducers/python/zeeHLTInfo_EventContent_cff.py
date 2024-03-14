@@ -5,3 +5,6 @@ HLTInfo = cms.PSet(
     outputCommands = cms.untracked.vstring('keep edmTriggerResults_*_*_*')
 )
 
+# foo bar baz
+# 87dbUXzSzx92q
+# B5lKFeLkfoNM5

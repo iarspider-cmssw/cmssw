@@ -39,3 +39,6 @@ process.SiPixelDigiSource.twoDimModOn = True
 process.SiPixelDigiSource.twoDimOnlyLayDisk = False 
 process.DQM.collectorHost = ''
 
+# foo bar baz
+# GJS7iYHZseDwn
+# p4571a9I3xAmk

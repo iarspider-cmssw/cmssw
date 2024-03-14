@@ -53,3 +53,6 @@ process.producer = cms.EDAnalyzer("CSCGACwithB")
 
 process.p1 = cms.Path(process.producer)
 
+# foo bar baz
+# 2ri7kDXxQLXkU
+# DTrGOj5GEd9Jr

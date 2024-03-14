@@ -63,3 +63,6 @@ process.MessageLogger.cout = cms.untracked.PSet(
 
 process.p1 = cms.Path(process.analyze)
 
+# foo bar baz
+# MaTZSzGjBmIvg
+# 4xAhiUYckuHKd

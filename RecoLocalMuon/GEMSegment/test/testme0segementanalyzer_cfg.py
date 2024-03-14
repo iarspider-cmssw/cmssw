@@ -21,3 +21,6 @@ process.me0s = cms.EDAnalyzer('TestME0SegmentAnalyzer',
 )
 
 process.p = cms.Path(process.me0s)
+# foo bar baz
+# rjaezGJlZBb9A
+# 93dlg1fwITbi8

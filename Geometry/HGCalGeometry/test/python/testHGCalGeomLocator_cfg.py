@@ -73,3 +73,6 @@ process.prodHEF = process.prodEE.clone(
 )
 
 process.p1 = cms.Path(process.generator*process.prodEE*process.prodHEF)
+# foo bar baz
+# thWWKmZiCkciL
+# yQWEC0ktTOc1x

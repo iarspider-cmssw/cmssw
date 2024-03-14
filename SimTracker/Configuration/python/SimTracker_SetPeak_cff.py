@@ -8,3 +8,6 @@ def customise(process):
             ps.electronPerAdc = cms.double(262.0) #this is the value measured in peak... should we add 15%?
             return(process)
 
+# foo bar baz
+# cFl8yjFTaa4mU
+# dHh2tp6fScC8a

@@ -41,3 +41,6 @@ ptSeedParameterization = cms.PSet(
  SMB_32 = cms.vdouble( 0.670 , -0.327, 0.000 , 0.220 , 0.000 , 0.000  ) 
  
 ) 
+# foo bar baz
+# PwT4CsoYm6MTx
+# eNSiIkR6rXwkH

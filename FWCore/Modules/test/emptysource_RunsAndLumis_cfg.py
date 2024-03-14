@@ -25,3 +25,6 @@ ids.append(cms.PSet(type = cms.untracked.string("IsStop"),
 process.add_(cms.Service("CheckTransitions",
                          transitions = ids))
 
+# foo bar baz
+# OyCkb3eLwvYF0
+# vsvnsj9qRWszS

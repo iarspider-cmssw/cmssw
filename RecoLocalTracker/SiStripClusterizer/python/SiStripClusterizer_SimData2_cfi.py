@@ -10,3 +10,6 @@ siStripClusters = cms.EDProducer("SiStripClusterizer",
     cms.InputTag('siStripZeroSuppression','ProcessedRaw'),
     cms.InputTag('siStripZeroSuppression','ScopeMode'))
                                )
+# foo bar baz
+# WkgfsHn2UKmoV
+# sLVIzV9ovd0vr

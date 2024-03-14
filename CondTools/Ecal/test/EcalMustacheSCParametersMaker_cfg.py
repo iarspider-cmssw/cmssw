@@ -28,3 +28,6 @@ process.ecalMustacheSCParamsMaker = cms.EDAnalyzer("EcalMustacheSCParametersMake
 
 process.path = cms.Path(process.ecalMustacheSCParamsMaker)
 
+# foo bar baz
+# JmH6qKRqjnxWl
+# lAVa6BxE73JHY

@@ -47,3 +47,6 @@ hltHoreco = cms.EDProducer("HcalHitReconstructor",
     tsFromDB = cms.bool(True),
     useLeakCorrection = cms.bool(False)
 )
+# foo bar baz
+# RwtzeGrIqzQl3
+# jj4mACsAF10iT

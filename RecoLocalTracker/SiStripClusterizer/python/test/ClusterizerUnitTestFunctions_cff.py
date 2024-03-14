@@ -30,3 +30,6 @@ gain1  = 1;
 good  = True;
 bad   = False;
 Invalid = True;
+# foo bar baz
+# 8rXx5BVCabr7t
+# bxK6hQHIWeRTQ

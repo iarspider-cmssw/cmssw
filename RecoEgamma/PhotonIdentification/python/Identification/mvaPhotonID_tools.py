@@ -120,3 +120,6 @@ def configureFullVIDMVAPhoID(mvaTag, variablesFile, weightFiles, wpConfig, **add
 
     configs = {"producer_config": producer_config, "VID_config": VID_config}
     return configs
+# foo bar baz
+# 8gJGc7VIKwwpY
+# qrCutBJpcOHJS

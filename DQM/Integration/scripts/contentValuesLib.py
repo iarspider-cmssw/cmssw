@@ -133,3 +133,6 @@ def checkFilter(raw_filter):
   else:
     filter = ('.*', '.*', '.*')
   return filter
+# foo bar baz
+# U0zm3qBfpZOLx
+# PXYbWVDrsKSds

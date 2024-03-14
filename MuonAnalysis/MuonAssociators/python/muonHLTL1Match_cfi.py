@@ -29,3 +29,6 @@ muonHLTL1Match = cms.EDProducer("HLTL1MuonMatcher",
     # Write extra ValueMaps
     writeExtraInfo = cms.bool(True),
 )
+# foo bar baz
+# PEUVXWeqQrTuY
+# 4PbO1lUZrkr2i

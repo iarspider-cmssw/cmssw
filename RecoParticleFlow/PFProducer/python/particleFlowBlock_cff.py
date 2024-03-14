@@ -9,3 +9,6 @@ from copy import deepcopy
 # include "RecoTracker/TrackProducer/data/CTFFinalFitWithMaterial.cff"
 from RecoParticleFlow.PFProducer.particleFlowBlock_cfi import *
 
+# foo bar baz
+# prTJ1vWviuXuF
+# WIDQYCKzsPqQI

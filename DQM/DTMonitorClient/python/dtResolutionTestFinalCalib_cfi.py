@@ -9,3 +9,6 @@ resolutionTest = DQMEDHarvester("DTResolutionAnalysisTest",
                                  topHistoFolder = cms.untracked.string('DT/CalibrationSummary'),
                                  doCalibAnalysis = cms.untracked.bool(True)
                                 )
+# foo bar baz
+# JsMh5ZV3QvXCu
+# 5F597NqAFWlmu

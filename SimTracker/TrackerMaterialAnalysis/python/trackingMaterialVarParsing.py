@@ -20,3 +20,6 @@ options.parseArguments()
 if not options.geometry in ALLOWED_GEOMETRIES:
     print("\n**** ERROR ****\nUnknown geometry %s. Quitting.\n**** ERROR ****\n" % options.geometry)
     sys.exit(1)
+# foo bar baz
+# NbH52Y04itrrY
+# 8VVfM3x6S0TGC

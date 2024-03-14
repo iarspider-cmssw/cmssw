@@ -120,3 +120,6 @@ caloStage2Params.layer1HFScaleETBins = cms.vint32([1])
 caloStage2Params.layer1HFScaleFactors = cms.vdouble([1.]*12)
 
 
+# foo bar baz
+# T7oUQk556SVau
+# Y9vu3hdN8ggXL

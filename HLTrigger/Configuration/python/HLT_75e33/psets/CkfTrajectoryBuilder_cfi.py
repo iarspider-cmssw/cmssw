@@ -15,4 +15,6 @@ CkfTrajectoryBuilder = cms.PSet(
         refToPSet_ = cms.string('CkfBaseTrajectoryFilter_block')
     ),
     updator = cms.string('KFUpdator')
-)
+)# foo bar baz
+# wQpbDEPIUJF3u
+# LosJ73R30wWNg

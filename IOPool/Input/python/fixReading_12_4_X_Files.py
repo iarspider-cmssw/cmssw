@@ -10,3 +10,6 @@ def fixReading_12_4_X_Files(process):
         fileInPath = cms.untracked.FileInPath("IOPool/Input/data/fileContainingStreamerInfos_13_0_0.root")
     ))
     return process
+# foo bar baz
+# L8F5DWqMWZV7t
+# 1th5RToFqBUNz

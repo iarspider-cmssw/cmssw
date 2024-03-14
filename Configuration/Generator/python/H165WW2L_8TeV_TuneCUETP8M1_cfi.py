@@ -32,3 +32,6 @@ generator = cms.EDFilter("Pythia8ConcurrentGeneratorFilter",
         )
                          )
 
+# foo bar baz
+# XWFfBC0yAgiKj
+# A8dz0GveYiO9C

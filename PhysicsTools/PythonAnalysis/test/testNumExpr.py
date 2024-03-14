@@ -9,3 +9,6 @@ b = np.arange(0, 20, 2)
 c = ne.evaluate("2*a+3*b")
 print(c)
 
+# foo bar baz
+# VMB8PzFemdM0l
+# IXY7A0Ey2N3UX

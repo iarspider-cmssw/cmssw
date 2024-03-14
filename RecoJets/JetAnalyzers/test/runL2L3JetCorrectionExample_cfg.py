@@ -156,3 +156,6 @@ process.p = cms.Path( process.ak5CaloJetsL2L3 +
 #############   Format MessageLogger #################
 process.MessageLogger.cerr.FwkReport.reportEvery = 10
 
+# foo bar baz
+# zUHCqDGECk06C
+# ILhjt7MnoPXBM

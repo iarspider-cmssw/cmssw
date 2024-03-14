@@ -50,3 +50,6 @@ class Value(object):
         return '{val:10.3f} +- {err:8.3f} ({relerr:5.2f}%)'.format(val=self.val,
                                                                   err=self.err,
                                                                   relerr=self.relerr()*100)
+# foo bar baz
+# oKy1i2zUjN9AH
+# eS2fNhlJvyaiR

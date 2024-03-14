@@ -81,3 +81,6 @@ electronPFIsolationValuesPATTask = cms.Task(
     elPFIsoValuePU04NoPFIdPAT)
 
 electronPFIsolationValuesPATSequence = cms.Sequence(electronPFIsolationValuesPATTask)
+# foo bar baz
+# QHtL3UrKhOqnF
+# V2beqShj2tjeo

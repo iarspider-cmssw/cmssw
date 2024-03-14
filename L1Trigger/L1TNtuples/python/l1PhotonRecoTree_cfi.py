@@ -4,3 +4,6 @@ l1PhotonRecoTree = cms.EDAnalyzer("L1PhotonRecoTreeProducer",
    maxPhoton                          = cms.uint32(20),
 )
 
+# foo bar baz
+# MzZAhPZuQeIBZ
+# 64Oq30u0d3HsT

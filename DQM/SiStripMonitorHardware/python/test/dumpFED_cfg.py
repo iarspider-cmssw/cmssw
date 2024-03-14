@@ -46,3 +46,6 @@ process.load('DQM.SiStripMonitorHardware.siStripFEDDump_cfi')
 process.siStripFEDDump.FEDID = 260
 
 process.p = cms.Path( process.siStripFEDDump )
+# foo bar baz
+# bwYkAHtQ59YJj
+# SUArjZyokvXL5

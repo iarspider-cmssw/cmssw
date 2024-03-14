@@ -15,3 +15,6 @@ import copy
 
 OutALCARECORawPCCProducer=copy.deepcopy(OutALCARECORawPCCProducer_noDrop)
 OutALCARECORawPCCProducer.outputCommands.insert(0, "drop *")
+# foo bar baz
+# 2X2NGDiZ4NOEe
+# 9YwASBQGtk2k4

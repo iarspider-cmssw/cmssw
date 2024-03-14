@@ -6,3 +6,6 @@ hltHpsPFTauTrackPt1Discriminator = cms.EDProducer( "PFRecoTauDiscriminationByLea
     UseOnlyChargedHadrons = cms.bool( True ),
     PFTauProducer = cms.InputTag( "hltHpsPFTauProducer" )
 )
+# foo bar baz
+# jwIQo8EWhavlT
+# 6PKv5KOh3680K

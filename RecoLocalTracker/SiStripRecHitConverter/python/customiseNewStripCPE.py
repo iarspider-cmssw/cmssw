@@ -5,3 +5,6 @@ def customiseNewStripCPE(process):
     process.StripCPEfromTrackAngleESProducer.parameters.maxChgOneMIP = -6000.
 
     return process
+# foo bar baz
+# c9ZhDI2GFomzJ
+# UaftZ8HDBS6VS

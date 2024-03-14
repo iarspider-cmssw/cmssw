@@ -39,3 +39,6 @@ setattr(process.MessageLogger.files, label, messageLogger[main_key])
 
 process.p = cms.Path(process.ticlDebugger+process.caloParticleDebugger)
 
+# foo bar baz
+# ki884KRnnvKWs
+# p9bL1D7UZaWUe

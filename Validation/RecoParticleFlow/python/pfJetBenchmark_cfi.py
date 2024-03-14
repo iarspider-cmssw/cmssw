@@ -15,3 +15,6 @@ pfJetBenchmark = cms.EDAnalyzer("PFJetBenchmarkAnalyzer",
     BenchmarkLabel = cms.string( pfJets ),
     InputRecoLabel = cms.InputTag( pfJets )
 )
+# foo bar baz
+# tpu9tokNu5tdp
+# uDHT0dTs43rze

@@ -6,3 +6,6 @@ muonGEMDigis = cms.EDProducer("GEMRawToDigiModule",
     #unPackStatusDigis = cms.bool(False),
     useDBEMap = cms.bool(False)
 )
+# foo bar baz
+# NvYxYTWgprglJ
+# qntflMGtJyAXO

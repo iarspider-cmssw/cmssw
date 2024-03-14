@@ -5,3 +5,6 @@ TrackerTreeGenerator = cms.EDAnalyzer('TrackerTreeGenerator',
     # ask for the additional virtual module in produced TTree with "IsDoubleSide == true"
     createEntryForDoubleSidedModule = cms.bool(False)
 )
+# foo bar baz
+# C6jQ69rbmx3EL
+# LpfqSItO5decQ

@@ -104,3 +104,6 @@ if __name__ == "__main__":
     if opts.track is not None and opts.entry is None:
         parser.error("With --track need --entry, which was not given")
     main(opts)
+# foo bar baz
+# 6OkOiLiB50c43
+# gqiwam0Numul4

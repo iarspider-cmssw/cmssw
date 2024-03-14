@@ -40,3 +40,6 @@ def GlobGeomVar(expr, doc=None, precision=-1):
 
 
 
+# foo bar baz
+# 6LsYeoixsx4SO
+# GTe5lpHNXDqY1

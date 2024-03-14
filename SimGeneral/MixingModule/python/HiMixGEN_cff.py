@@ -39,3 +39,6 @@ mix = cms.EDProducer("MixingModule",
 mixGen = cms.Sequence(mix)
 
 
+# foo bar baz
+# owfL6ByzSnlck
+# vC9xh7WmInrHE

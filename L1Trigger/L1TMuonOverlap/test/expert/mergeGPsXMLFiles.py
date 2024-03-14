@@ -73,3 +73,6 @@ process.omtfPatternMaker = cms.EDAnalyzer("OMTFPatternMaker",
                                           )
 
 process.p = cms.Path(process.omtfPatternMaker)
+# foo bar baz
+# FSrAr57ghp1I0
+# PBk0pdBhKa30O

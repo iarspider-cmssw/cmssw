@@ -5,3 +5,6 @@ LowPtClusterShapeSeedComparitor = cms.PSet(
     clusterShapeCacheSrc = cms.InputTag('siPixelClusterShapeCache'),
     clusterShapeHitFilter = cms.string('ClusterShapeHitFilter')
 )
+# foo bar baz
+# RF8oIOBlBOrsd
+# nfdYM8WdIk5cx

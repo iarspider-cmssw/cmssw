@@ -42,3 +42,6 @@ def customise_HPbeamspot(process):
         process.ALCARECOTkAlMinBiasDQM.remove(process.ALCARECOTkAlMinBiasTkAlDQM)
 
     return process
+# foo bar baz
+# I1tVbfmysZ1AS
+# pQYFUJ3CXvyJj

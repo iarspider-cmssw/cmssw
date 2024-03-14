@@ -240,3 +240,6 @@ gpuValidationPixel.toReplaceWith(monitorpixelSoASource, monitorpixelSoACompareSo
 
 from Configuration.ProcessModifiers.alpakaValidationPixel_cff import alpakaValidationPixel
 (alpakaValidationPixel & ~gpuValidationPixel).toReplaceWith(monitorpixelSoASource, monitorpixelSoACompareSourceAlpaka)
+# foo bar baz
+# QvUaFvRAwbBaY
+# Uo9at01wqBw3c

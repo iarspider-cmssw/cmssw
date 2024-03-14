@@ -82,3 +82,6 @@ process.RECOSIMoutput_step = cms.EndPath(process.RECOSIMoutput)
 
 # Schedule definition
 process.schedule = cms.Schedule(process.reconstruction_step,process.endjob_step,process.RECOSIMoutput_step)
+# foo bar baz
+# JAp4TF5ZJuK3u
+# CMQ5BELE9R44s

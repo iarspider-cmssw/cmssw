@@ -69,3 +69,6 @@ hltDeepSecondaryVertexTagInfosPFPuppiModEta2p4 = cms.EDProducer("CandSecondaryVe
         sortCriterium = cms.string('dist3dError')
     )
 )
+# foo bar baz
+# 1hMouf7f96cGd
+# Xeq2dv0JnkXMX

@@ -42,3 +42,6 @@ process.SiPixelDigiSource.bladeOn = False
 process.SiPixelDigiSource.diskOn = False
 process.DQM.collectorHost = ''
 
+# foo bar baz
+# 0KinQOx5Hhsic
+# K9mYAOlItuCDo

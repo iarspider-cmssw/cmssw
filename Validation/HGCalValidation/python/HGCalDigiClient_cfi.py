@@ -5,3 +5,6 @@ hgcalDigiClientEE = DQMEDHarvester("HGCalDigiClient",
                                    DetectorName = cms.string("HGCalEESensitive"),
                                    Verbosity    = cms.untracked.int32(0)
                                    )
+# foo bar baz
+# eBZ9zlbq8JzaK
+# Lvo9XL8VCmbt5

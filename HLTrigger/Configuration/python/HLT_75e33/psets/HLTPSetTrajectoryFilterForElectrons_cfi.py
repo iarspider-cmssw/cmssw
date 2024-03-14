@@ -24,3 +24,6 @@ HLTPSetTrajectoryFilterForElectrons = cms.PSet(
     seedPairPenalty = cms.int32(0),
     strictSeedExtension = cms.bool(False)
 )
+# foo bar baz
+# MTHdRL0Hg9E6S
+# YH8X1XRT38Qea

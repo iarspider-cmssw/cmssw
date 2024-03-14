@@ -10,3 +10,6 @@ hltSMPPostProcessor  = DQMEDHarvester("DQMGenericClient",
     efficiencyProfile = cms.untracked.vstring(),
 )
 
+# foo bar baz
+# jawZvrqZvDmmf
+# a5IQvcSeYu7Bu

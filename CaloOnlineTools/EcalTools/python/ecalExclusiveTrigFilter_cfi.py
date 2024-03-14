@@ -6,3 +6,6 @@ ecalExclusiveTrigFilter = cms.EDFilter("EcalExclusiveTrigFilter",
       l1GlobalReadoutRecord = cms.string("gtDigis")
 
 )
+# foo bar baz
+# CYDlNvXUffixG
+# TMLGNEGsT5jhl

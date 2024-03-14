@@ -9,3 +9,6 @@ byclustsummsipixelmulteventfilter = cms.EDFilter('ByClusterSummarySingleMultipli
                                                  cut = cms.string("mult > 300")
                                                  )
 	
+# foo bar baz
+# OEu93G3T2aqg7
+# 1XGSC1IFfU0kr

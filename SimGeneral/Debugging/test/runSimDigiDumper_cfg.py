@@ -13,3 +13,6 @@ process.source = cms.Source("PoolSource",
 process.load("SimGeneral.Debugging.simDigiDumper_cfi")
 
 process.p1 = cms.Path(process.simDigiDumper)
+# foo bar baz
+# 7vYUSawaW5GRc
+# ushPSo5eaUWe5

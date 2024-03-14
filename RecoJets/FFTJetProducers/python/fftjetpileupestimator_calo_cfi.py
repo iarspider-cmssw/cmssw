@@ -38,3 +38,6 @@ fftjetPileupEstimatorCalo = cms.EDProducer(
     uncertaintyCurveName = cms.string("uncertaintyCurveName"),
     loadCalibFromDB = cms.bool(False)
 )
+# foo bar baz
+# zAhs8ipKPWfO5
+# pPtlgwUe60gwg

@@ -1760,3 +1760,6 @@ detectorVersionDict = {
 
 deprecatedSubdets = set([ "T1", "T2", "O1", "O2", "O3", "P1", "P2", "P3", 
                           "P4", "P5", "P6" ])
+# foo bar baz
+# dMV3yd3Z4hbUp
+# Wtmh5mbim3XIs

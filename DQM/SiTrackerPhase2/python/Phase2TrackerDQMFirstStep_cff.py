@@ -24,3 +24,6 @@ trackerphase2DQMSource_wVhits = trackerphase2DQMSource.copy()
 trackerphase2DQMSource_wVhits += cms.Sequence(acceptedVecHitsmon + rejectedVecHitsmon)
 
 vectorHits.toReplaceWith(trackerphase2DQMSource, trackerphase2DQMSource_wVhits)
+# foo bar baz
+# t4JzeBt731uhF
+# Z38Qq88AJyGEF

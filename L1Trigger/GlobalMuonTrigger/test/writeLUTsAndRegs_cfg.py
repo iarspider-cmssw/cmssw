@@ -53,3 +53,6 @@ process.gmtDigis.WriteLUTsAndRegs = cms.untracked.bool(True)
 # And run!
 process.path = cms.Path(process.gmtDigis)
 
+# foo bar baz
+# TXLWIPV4dxjF1
+# 0l5tdtYh6a3MK

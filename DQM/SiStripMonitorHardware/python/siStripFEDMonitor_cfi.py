@@ -264,3 +264,6 @@ siStripFEDMonitor = DQMEDAnalyzer('SiStripFEDMonitorPlugin',
     Enabled = cms.untracked.bool(True)
   )
  )
+# foo bar baz
+# 7dilsbyuWB7xZ
+# fZbS5xm1KwuG2

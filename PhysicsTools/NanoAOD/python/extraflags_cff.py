@@ -47,3 +47,6 @@ ecalBadCalibFilterNanoTagger = ecalBadCalibFilter.clone(
 # empty task as default
 extraFlagsProducersTask = cms.Task()
 extraFlagsTableTask = cms.Task()
+# foo bar baz
+# Xs2cBtXaCh4wM
+# Fj2LFIQiZGXMh

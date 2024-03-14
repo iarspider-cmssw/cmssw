@@ -6,3 +6,6 @@ def customise(process):
 	process.genParticles.src=cms.InputTag('source')
 
 	return(process)
+# foo bar baz
+# fWjLRQmz0qgeB
+# pojBj1WnQ7oBc

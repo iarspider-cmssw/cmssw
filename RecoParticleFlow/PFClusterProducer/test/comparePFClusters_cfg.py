@@ -60,3 +60,6 @@ process.p = cms.Path( process.preshowerClusterCompare +
                       process.hcalClusterCompare        )
 
 
+# foo bar baz
+# Qa6HjWdbJk9xl
+# 7wh2GXLzagIJm

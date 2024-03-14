@@ -21,3 +21,6 @@ dt1DCosmicRecHits = cms.EDProducer("DTRecHitProducer",
     #dtDigiLabel = cms.InputTag("dtunpacker")
     dtDigiLabel = cms.InputTag("muonDTDigis")
 )
+# foo bar baz
+# uwQT4wPPpG1ON
+# gLE7zK1oALCSy

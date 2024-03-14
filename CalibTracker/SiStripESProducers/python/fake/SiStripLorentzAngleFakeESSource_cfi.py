@@ -19,3 +19,6 @@ siStripLorentzAngleFakeESSource = cms.ESSource("SiStripLorentzAngleFakeESSource"
        # TOB errors
        TOB_PerCent_Errs       = cms.vdouble(0.,    0.,    0.,    0.,    0.,    0.),
    )
+# foo bar baz
+# Y3SLlYRq2fn5z
+# ksmBkKdHvPPix

@@ -10,3 +10,6 @@ hltMuonPostProcessor  = DQMEDHarvester("DQMGenericClient",
     efficiencyProfile = cms.untracked.vstring(),
 )
 
+# foo bar baz
+# bi2pwKyWXvmEf
+# GVT9faCHlc8ve

@@ -72,3 +72,6 @@ process.endjob_step = cms.EndPath(process.endOfProcess)
 # Schedule definition
 process.schedule = cms.Schedule(process.digi_step,process.csc_digi,process.csc_digi_dump,process.endjob_step)
 
+# foo bar baz
+# GcLHei1hD0TEj
+# lsz4Hfmw3DMA8

@@ -102,3 +102,6 @@ for i in range(0, len(splittedList), 2):
 #         for line in open("DetVOffReaderDebug_"+fullDates+".log", "r"):
 #             if "IOV" in line or "OFF" in line or "ON" in line:
 #                 print line.strip("\n")
+# foo bar baz
+# otVhEkNZxMFFW
+# Oz6WC0WBBWYJu

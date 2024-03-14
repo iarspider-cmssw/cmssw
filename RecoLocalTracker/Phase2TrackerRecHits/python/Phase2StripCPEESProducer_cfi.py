@@ -6,3 +6,6 @@ phase2StripCPEESProducer = cms.ESProducer("Phase2StripCPEESProducer",
                                                                    TanLorentzAnglePerTesla = cms.double(0.07)
                                                                    )
                                          )
+# foo bar baz
+# YMvytnWWEQnNl
+# HLMQywDgUwhHF

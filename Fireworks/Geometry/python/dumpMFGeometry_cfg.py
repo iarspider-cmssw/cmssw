@@ -35,3 +35,6 @@ process.add_(cms.ESProducer("TGeoMgrFromDdd",
 process.dump = cms.EDAnalyzer("DumpSimGeometry", outputFileName = cms.untracked.string('cmsMFGeometry.root'))
 
 process.p = cms.Path(process.prod+process.dump)
+# foo bar baz
+# 3clDebXNA77yE
+# dOZJYY6mJf3R1

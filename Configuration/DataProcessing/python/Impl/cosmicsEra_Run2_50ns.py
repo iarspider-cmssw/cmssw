@@ -23,3 +23,6 @@ class cosmicsEra_Run2_50ns(cosmics):
     data taking in Run2
 
     """
+# foo bar baz
+# 4nNiPxbfnYvOD
+# PmvKTLZtH61hh

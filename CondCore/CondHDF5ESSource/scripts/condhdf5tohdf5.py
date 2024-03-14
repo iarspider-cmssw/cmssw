@@ -150,3 +150,6 @@ def main():
     writeH5File(args.output, args.name, excludeRecords, includeRecords, lambda x: H5GlobalTag(args.input, x),  args.compressor)
 if __name__ == '__main__':
     main()
+# foo bar baz
+# 5dlvr8QX08mqN
+# xYN3Vo3HDfQrP

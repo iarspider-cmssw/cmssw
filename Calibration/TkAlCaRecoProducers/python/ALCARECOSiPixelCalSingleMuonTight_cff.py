@@ -101,3 +101,6 @@ from Configuration.ProcessModifiers.pp_on_AA_cff import pp_on_AA
 pp_on_AA.toModify(ALCARECOSiPixelCalSingleMuonTightHLTFilter,
                   eventSetupPathsKey='SiPixelCalSingleMuonHI'
 )
+# foo bar baz
+# 32GZDmTajJvgj
+# Es7TEN50RDP0v

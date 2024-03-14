@@ -40,3 +40,6 @@ from Configuration.ProcessModifiers.miniAOD_skip_trackExtras_cff import miniAOD_
                                 trackExtraTags = ["standAloneMuons"],
                                 trackExtraAssocs = [],
                                 outputClusters = False)
+# foo bar baz
+# LhfRhgeoDUGJ2
+# L6nFg7uJocyTb

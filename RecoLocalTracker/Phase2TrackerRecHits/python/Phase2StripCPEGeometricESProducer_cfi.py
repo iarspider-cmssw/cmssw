@@ -6,3 +6,6 @@ phase2StripCPEGeometricESProducer = phase2StripCPEESProducer.clone(
     ComponentType = 'Phase2StripCPEGeometric',
     parameters    = cms.PSet()
 )
+# foo bar baz
+# xuk7yaDC3cNK6
+# BGGLDdqxdvrK9

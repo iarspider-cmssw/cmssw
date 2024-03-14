@@ -39,3 +39,6 @@ process.p = cms.Path(
 process.o = cms.EndPath( 
   process.printEventNumber 
 )
+# foo bar baz
+# xCmDkdP4dBfMg
+# 6i8E9e4YMGmxV

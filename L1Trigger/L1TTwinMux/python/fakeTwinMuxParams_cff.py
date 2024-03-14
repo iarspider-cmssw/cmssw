@@ -25,3 +25,6 @@ fakeTwinMuxParams = cms.ESProducer('L1TTwinMuxParamsESProducer',
     verbose                   = cms.bool(False),
 
 )
+# foo bar baz
+# hfQs4dSEWAJDz
+# FtGFPiAm3rcXP

@@ -12,3 +12,6 @@ hltPFPuppiHT = cms.EDProducer("HLTHtMhtProducer",
     pfCandidatesLabel = cms.InputTag(""),
     usePt = cms.bool(True)
 )
+# foo bar baz
+# I3EQ0Rq4fs8VF
+# oZg0fFUaVYIRn

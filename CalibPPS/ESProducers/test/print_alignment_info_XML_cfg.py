@@ -32,3 +32,6 @@ process.ctppsAlignmentInfo = cms.EDAnalyzer("CTPPSAlignmentInfo",
 process.p = cms.Path(
     process.ctppsAlignmentInfo
 )
+# foo bar baz
+# TIDXbHxTN1GaN
+# TU0qgwHIfLWLZ

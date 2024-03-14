@@ -38,3 +38,6 @@ process.val_step = cms.Path(process.L1Validator)
 process.dqmsave_step = cms.Path(process.DQMSaver)
 
 process.schedule = cms.Schedule(process.val_step, process.dqmsave_step)
+# foo bar baz
+# NgYJRg0HtBslL
+# 8ZMxAEJfEYEOA

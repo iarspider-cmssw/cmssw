@@ -25,3 +25,6 @@ options = cms.untracked.PSet(
     throwIfIllegalParameter = cms.untracked.bool(True),
     wantSummary = cms.untracked.bool(True)
 )
+# foo bar baz
+# oWlFZEJUbDlpp
+# NQZ5zuAOMqiLy

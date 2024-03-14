@@ -78,3 +78,6 @@ process.g4SimHits.Watchers = cms.VPSet(cms.PSet(
 process.hcalHitValid.outputFile = 'valid_HF.root'
 
 
+# foo bar baz
+# RsaxFjkR9rEZa
+# Q2SFynpFVD4H0

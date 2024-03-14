@@ -18,3 +18,6 @@ ecalCertification = DQMEDHarvester("EcalDQMonitorClient",
     commonParameters = ecalCommonParams.clone(willConvertToEDM = False),
     verbosity = cms.untracked.int32(0)
 )
+# foo bar baz
+# juGtEmEi4FMQA
+# Ezoe9bIaYfkVV

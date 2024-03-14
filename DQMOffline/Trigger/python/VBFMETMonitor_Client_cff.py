@@ -37,3 +37,6 @@ vbfmetEfficiency = DQMEDHarvester("DQMGenericClient",
 vbfmetClient = cms.Sequence(
     vbfmetEfficiency
 )
+# foo bar baz
+# xp2xjbhidszkg
+# KbekiQCYxvjTT

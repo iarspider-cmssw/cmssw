@@ -19,3 +19,6 @@ process.dummy = cms.EDAnalyzer("HepPDTAnalyzer",
 process.p = cms.Path(process.dummy)
 
 
+# foo bar baz
+# lk9BgqCjfRfRl
+# 4aiejVZlD52ye

@@ -21,3 +21,6 @@ hcal_es_ascii = cms.ESSource("HcalTextCalibrations",
 )
 
 
+# foo bar baz
+# MYg60e6XNUtAX
+# 1K3u1BRduvLBb

@@ -90,3 +90,6 @@ process.TFileService = cms.Service("TFileService",
 
 ### Finally, put together the sequence
 process.p = cms.Path(process.offlineBeamSpot*process.mytkselector+process.myRefittedTracks+process.SiStripCPEAnalyzer)
+# foo bar baz
+# YnJZSh8W3GarK
+# H3VzfioCJxK2h

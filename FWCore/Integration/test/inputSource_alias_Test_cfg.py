@@ -21,3 +21,6 @@ process.OtherThing = cms.EDProducer("OtherThingProducer",
 process.Analysis = cms.EDAnalyzer("OtherThingAnalyzer")
 
 process.p = cms.Path(process.OtherThing * process.Analysis)
+# foo bar baz
+# Lw9g18GBGQ4sQ
+# eS5iPOSHOdaab

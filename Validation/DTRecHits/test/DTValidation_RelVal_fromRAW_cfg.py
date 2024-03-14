@@ -78,3 +78,6 @@ process.p = cms.Path(process.muonDTDigis *
                      process.muonLocalReco *
                      process.analysis)
 
+# foo bar baz
+# Mq1WBS6VCeNAU
+# xIL38Bvb07Y90

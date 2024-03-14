@@ -55,3 +55,6 @@ process.db_client.AddBadStrips		 = cms.untracked.bool(ADDBADSTRIPS)
 process.db_client.SaveClientFile   = cms.untracked.bool(SAVECLIENTFILE)
 
 process.p = cms.Path(process.db_client)
+# foo bar baz
+# pAzc8Xps9edyw
+# UsgLgbegm0UVh

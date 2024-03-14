@@ -35,3 +35,6 @@ hiEgammaPrevalidationSequence = cms.Sequence( higenp * hifiducial )
 
 # validation sequence
 hiEgammaValidationSequence = cms.Sequence( HLT_HIPhoton15_DQM )
+# foo bar baz
+# 8cwXiXS3cH8Wj
+# vFthdyvyZr4pC

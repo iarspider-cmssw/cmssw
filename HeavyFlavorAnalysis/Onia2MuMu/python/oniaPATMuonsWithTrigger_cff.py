@@ -89,3 +89,6 @@ oniaPATMuonsWithTriggerSequence = cms.Sequence(
     oniaPATMuonsWithoutTrigger *
     oniaPATTriggerMatching
 )
+# foo bar baz
+# YNWNEaVyjQdP9
+# FmrfSkFatLNHP

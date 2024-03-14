@@ -11,3 +11,6 @@ EcalEleCalibMon = DQMEDAnalyzer('DQMSourceEleCalib',
     FolderName = cms.untracked.string('AlCaReco/EcalSingleEle')
 )
 
+# foo bar baz
+# BEj0SYD8oOBBl
+# xxoQxKX7tG3Ee

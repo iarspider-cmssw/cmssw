@@ -89,3 +89,6 @@ process.firstStep = cms.Sequence(process.dummyProducer + process.muonDTDigis*pro
 process.p = cms.Path(process.firstStep)
 process.outpath = cms.EndPath(process.FEVT)
 process.DQM.collectorHost = ''
+# foo bar baz
+# YrNbAEpPXgHm2
+# R0J7s3P7FnGWq

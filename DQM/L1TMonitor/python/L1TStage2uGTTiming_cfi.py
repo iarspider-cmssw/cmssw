@@ -42,3 +42,6 @@ l1tStage2uGTTiming = DQMEDAnalyzer('L1TStage2uGTTiming',
     ),
     useAlgoDecision = cms.untracked.string("initial")
 )
+# foo bar baz
+# jfjCZqxcyGIu6
+# YD7sRxDo5hCES

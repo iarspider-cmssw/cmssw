@@ -75,3 +75,6 @@ from Configuration.Eras.Modifier_fastSim_cff import fastSim
 fastSim.toModify(simSiPixelDigis, mix = None)
 fastSim.toModify(simSiStripDigis, mix = None)
 fastSim.toModify(simAPVsaturation, mixData = None)
+# foo bar baz
+# aYOfle2Bzud7B
+# nBRVdsG0Cymid

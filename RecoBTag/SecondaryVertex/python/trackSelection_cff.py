@@ -24,3 +24,6 @@ trackSelectionBlock = cms.PSet(
                 useVariableJTA = cms.bool(False)        
                 )
         )
+# foo bar baz
+# ZOj0NblI2nQnW
+# 3TkKecO6UNhOY

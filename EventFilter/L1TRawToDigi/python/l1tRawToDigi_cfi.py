@@ -15,3 +15,6 @@ l1tRawToDigi = cms.EDProducer(
     lenAMC13Header = cms.untracked.int32(8),
     lenAMC13Trailer = cms.untracked.int32(8)
 )
+# foo bar baz
+# zLki9qQYBy3c9
+# vtLWZzckxRjeH

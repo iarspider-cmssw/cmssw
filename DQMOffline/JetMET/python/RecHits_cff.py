@@ -10,3 +10,6 @@ import FWCore.ParameterSet.Config as cms
 from DQMOffline.JetMET.RecHits_cfi import *
 analyzeRecHits = cms.Sequence(ECALAnalyzer*HCALAnalyzer)
 
+# foo bar baz
+# Qpy6lqPqsiKeN
+# W6JUt8LAm0YPt

@@ -12,3 +12,6 @@ crackseedfinder = cms.EDProducer("CRackSeedGenerator",
                                TTRHBuilder = cms.string('WithTrackAngle'),
                                GeometricStructure = cms.untracked.string('CRACK')
                                )
+# foo bar baz
+# 8D1C9XSpeKT6j
+# 4vWdf2radEOWU

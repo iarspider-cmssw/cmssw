@@ -36,3 +36,6 @@ process.dtVisPath = cms.Path(process.calibrationEventsFilter * process.reco)
 # f.close()
 
 
+# foo bar baz
+# BGDPYphtGSJhB
+# OGMHkzmMuy3qC

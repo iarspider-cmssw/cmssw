@@ -8,3 +8,6 @@ genEvtSingleTop = cms.EDProducer("StGenEventReco",
     src  = cms.InputTag("decaySubset"),
     init = cms.InputTag("initSubset")
 )
+# foo bar baz
+# SnjRsUh77eSnH
+# 3vKhKz2yonPOv

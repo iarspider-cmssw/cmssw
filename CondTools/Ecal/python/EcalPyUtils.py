@@ -20,3 +20,6 @@ def fromXML(filename):
     barrel=barrelfromXML(filename)
     endcap=endcapfromXML(filename)
     return barrel,endcap
+# foo bar baz
+# bvlYvL0tUGnFD
+# 7kzD7sPSnRq6b

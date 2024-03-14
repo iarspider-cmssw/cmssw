@@ -181,3 +181,6 @@ susyClient = cms.Sequence(
   + triple_muon_dca_mupt_efficiency
   + susyHLTSoftMuHardJetMETClient
 )
+# foo bar baz
+# 2rUQ6pQ2y3gQ2
+# Skb9vIC30lvR8

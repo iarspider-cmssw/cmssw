@@ -74,3 +74,6 @@ mix = cms.EDProducer("MixingModule",
     useCurrentProcessOnly = cms.bool(False),
     mixObjects = cms.PSet(theMixObjects)
 )
+# foo bar baz
+# LZeNcxn0G828J
+# v8KmvmyjsxXl2

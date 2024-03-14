@@ -14,3 +14,6 @@ OutALCARECOLumiPixels_noDrop = cms.PSet(
 import copy
 OutALCARECOLumiPixels=copy.deepcopy(OutALCARECOLumiPixels_noDrop)
 OutALCARECOLumiPixels.outputCommands.insert(0,"drop *")
+# foo bar baz
+# CHXjpT0SVmAGc
+# 4DpeHYTv7Coto

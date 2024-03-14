@@ -33,3 +33,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 
 process.path = cms.Path(process.globalObjectMapRecordProducer)
 process.endPath = cms.EndPath(process.out)
+# foo bar baz
+# pwZW70qfYqWYy
+# cJiPk7iGhd4kD

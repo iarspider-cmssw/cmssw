@@ -38,3 +38,6 @@ process.ALCARECODTCalibSynchDQM_step = cms.Path(process.dtLocalRecoSequence+
 process.MEtoEDMConverter_step = cms.Path(process.MEtoEDMConverter)
 process.out_step = cms.EndPath(process.output)
 #process.DQM.collectorHost = ''
+# foo bar baz
+# McyhOtoS4vNgi
+# diFwxsxw4qe9E

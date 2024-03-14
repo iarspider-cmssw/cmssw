@@ -4,3 +4,6 @@ l1tGTTFileReader = cms.EDProducer('GTTFileReader',
   files = cms.vstring("gttOutput_0.txt"), #, "gttOutput_1.txt"),
   format = cms.untracked.string("APx")
 )
+# foo bar baz
+# AJBppN82kUYxf
+# 78RuX6RGByWpd

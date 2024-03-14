@@ -15,3 +15,6 @@ l1TriggerObjNoIsoEGQualityTests = DQMQualityTester(
     verboseQT=cms.untracked.bool(True)
 )
 
+# foo bar baz
+# fDZJWl2vMwrXe
+# rlFcjTBnao3Hx

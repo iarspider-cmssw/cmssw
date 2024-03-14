@@ -24,3 +24,6 @@ process.maxEvents = cms.untracked.PSet(
 #process.gemGeometryDump.verbose = True
 
 process.p = cms.Path(process.gemGeometryDump)
+# foo bar baz
+# cBHEDepAJw3a0
+# XLarUECfzOQgj

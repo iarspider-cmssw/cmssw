@@ -37,3 +37,6 @@ process.maxEvents = cms.untracked.PSet(
 process.load("SimG4CMS.Calo.hgcalTestGuardRing_cff")
 
 process.p1 = cms.Path(process.generator*process.hgcalTestGuardRingEE*process.hgcalTestGuardRingHE)
+# foo bar baz
+# yeChPdqxVapKp
+# wwsiWIKTLsXUE

@@ -29,3 +29,6 @@ hltsClient = cms.EDAnalyzer("HLTScalersClient",
   maxFU = cms.untracked.uint32(4704)
 )
 
+# foo bar baz
+# VNbimhpocKbJt
+# 5reiNtqV8GVW8

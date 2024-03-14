@@ -16,3 +16,6 @@ hltRechitInRegionsECAL = cms.EDProducer("HLTEcalRecHitsInRegionsProducer",
         'EcalRecHitsEE'
     )
 )
+# foo bar baz
+# qUkDDtdIa9cmu
+# V3FoInlbkgQjj

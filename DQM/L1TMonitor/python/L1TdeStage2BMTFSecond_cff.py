@@ -19,3 +19,6 @@ l1tdeStage2BmtfSecond.hasDisplacementInfo = cms.untracked.bool(True)
 
 
 # sequences
+# foo bar baz
+# GQttjy6ACziQY
+# 7RASxJ2OGudda

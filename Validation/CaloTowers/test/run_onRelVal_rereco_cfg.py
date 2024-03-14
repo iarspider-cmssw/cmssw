@@ -168,3 +168,6 @@ process.noiseratesClient *
 process.hcalrechitsClient *
 process.dqmSaver
 )
+# foo bar baz
+# N0rXe7Q8b3n2x
+# o8hHqW2svmI15

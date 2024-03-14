@@ -54,3 +54,6 @@ process.WritePedestalsWithPopCon = cms.EDAnalyzer("CSCPedestalsPopConAnalyzer",
 process.p = cms.Path(process.WritePedestalsWithPopCon)
 
 
+# foo bar baz
+# rs1zjMy8PrEZz
+# o0TIG9LiJTHOf

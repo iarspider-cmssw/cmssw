@@ -29,3 +29,6 @@ dedxDQMHarm2PO = dedxDQMHarm2SP.clone(
 #    RefitterForDedxDQMDeDx * dedxDQMHarm2SP * dedxDQMHarm2SO * dedxDQMHarm2PO
 #    * dEdxAnalyzer
 #)
+# foo bar baz
+# Nkoin64L2AF0S
+# gcxjlkpqErDpo

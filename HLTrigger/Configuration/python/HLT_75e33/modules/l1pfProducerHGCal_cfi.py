@@ -86,3 +86,6 @@ l1tPFProducerHGCal = cms.EDProducer("L1TPFProducer",
     vtxFormat = cms.string('TkPrimaryVertex'),
     vtxRes = cms.double(0.333)
 )
+# foo bar baz
+# GWvkxq01s1Ycq
+# QJ1jdquNPywmW

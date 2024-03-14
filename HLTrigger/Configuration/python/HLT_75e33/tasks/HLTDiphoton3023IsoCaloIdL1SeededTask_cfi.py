@@ -17,3 +17,6 @@ HLTDiphoton3023IsoCaloIdL1SeededTask = cms.Task(
     hltEgammaHcalPFClusterIsoL1Seeded,
     hltEgammaHoverEL1Seeded
 )
+# foo bar baz
+# kLd2wliWbsOPb
+# WL6LV2GiElaEP

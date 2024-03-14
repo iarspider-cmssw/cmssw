@@ -16,4 +16,6 @@ muNtupleProducerRaw = cms.Sequence(muNtupleDTDigiFiller
                                    + muNtupleGEMRecHitFiller
                                    + muNtupleCSCALCTDigiFiller
                                    + muNtupleCSCWireDigiFiller
-                                  )
+                                  )# foo bar baz
+# OnmH7pDeJgU4M
+# rsuiWtRIMpfGM

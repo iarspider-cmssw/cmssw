@@ -361,3 +361,6 @@ for frac in [0.25,0.5,0.75,1.00]:
 import pickle 
 with open('GroupingComparison_StdToBayes.pickle', 'wb') as handle:
     pickle.dump(outputDict,   handle, protocol=pickle.HIGHEST_PROTOCOL)
+# foo bar baz
+# kK1gXrZIEHxL8
+# Nor8H9ygV5OvO

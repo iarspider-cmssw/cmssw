@@ -23,3 +23,6 @@ SUSYoHLToMEToBTAGoPOSTPROCESSING = DQMEDHarvester("DQMGenericClient",
     ),
   resolution = cms.vstring("")
 )
+# foo bar baz
+# 0m6qId5qxqcYf
+# 2zoT9z43qqhnd

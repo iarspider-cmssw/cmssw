@@ -70,3 +70,6 @@ process.outpath = cms.EndPath(process.out)
 process.load("PhysicsTools.PatAlgos.patLayer1_EventContent_cff")
 process.out.outputCommands.extend(process.patLayer1EventContent.outputCommands)
 
+# foo bar baz
+# U4Nvc6AHItryV
+# dHCZ9pLpswVLr

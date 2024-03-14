@@ -21,3 +21,6 @@ inOutSeedsFromTrackerMuons = cms.EDProducer("MuonReSeeder",
     RefitRPCHits = cms.bool(True),
     Propagator = cms.string('SmartPropagatorAnyRKOpposite'),
 )
+# foo bar baz
+# mdqnrgKygw7yk
+# n1tgmJuJlls15

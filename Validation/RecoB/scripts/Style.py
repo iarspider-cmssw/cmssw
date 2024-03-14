@@ -58,3 +58,6 @@ class Style:
     #ROOT.gStyle.SetPalette(1,0)
         ROOT.gStyle.cd()
         ROOT.gROOT.ForceStyle()
+# foo bar baz
+# mxHiVEe7Rr2iK
+# dCX7mXpgKPIKl

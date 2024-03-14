@@ -13,3 +13,6 @@ HLTPhoton108EBTightIDTightIsoUnseededTask = cms.Task(
     hltEgammaHcalPFClusterIsoUnseeded,
     hltEgammaHoverEUnseeded
 )
+# foo bar baz
+# vFdw5hf7HQYVV
+# 1ipPXPNPGbnBA

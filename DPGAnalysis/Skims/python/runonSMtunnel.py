@@ -20,3 +20,6 @@ while True:
     os.system(COMMAND)
     print("Created: "+FILENAME+" . Running cmsRun now and logging in "+FILELOG)
     os.system("cmsRun "+FILENAME+" 2>&1 | tee "+FILELOG+" | grep  --line-buffered -e \"Begin processing\" -e \"BeamSplash\"")
+# foo bar baz
+# PVWh1R71JfhGK
+# AjdqrBvmNNm2v

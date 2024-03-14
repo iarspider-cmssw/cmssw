@@ -18,3 +18,6 @@ pixelVertices = cms.EDProducer("PixelVertexProducer",
        refToPSet_ = cms.string('pvClusterComparer')
     )
 )
+# foo bar baz
+# omnddkGp3HKDp
+# 489pQkyaKytKs

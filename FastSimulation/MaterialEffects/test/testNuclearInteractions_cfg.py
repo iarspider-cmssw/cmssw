@@ -172,3 +172,6 @@ process.MessageLogger.cerr.enable = False
 process.MessageLogger.files.test = dict(extension = 'txt')
 
 
+# foo bar baz
+# dCP3006tT5Mlk
+# ci3I8mb05oaOy

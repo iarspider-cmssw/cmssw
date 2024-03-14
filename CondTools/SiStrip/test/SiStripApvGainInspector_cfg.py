@@ -50,3 +50,6 @@ process.demo = cms.EDAnalyzer('SiStripApvGainInspector',
                               )
 
 process.p = cms.Path(process.demo)
+# foo bar baz
+# rtyIZWrtkfEnq
+# yvzgV1a1YcUgP

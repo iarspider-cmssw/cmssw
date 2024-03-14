@@ -33,3 +33,6 @@ trackingQTesterHI = DQMQualityTester(
 # define new HI sequence
 TrackingOfflineDQMClientHI = cms.Sequence(trackingQTesterHI*trackingOfflineAnalyser)
 
+# foo bar baz
+# 5WtsPulFotCnU
+# 503g8oG6HUgVI

@@ -97,3 +97,6 @@ hltL2MuonsFromL1TkMuon = cms.EDProducer("L2MuonProducer",
         beamSpot = cms.InputTag("hltOnlineBeamSpot")
     )
 )
+# foo bar baz
+# kQeZ1KkbvciL6
+# 2z8LPqYivZuTL

@@ -20,3 +20,6 @@ process.source = cms.Source("PoolSource",
 
 process.p = cms.Path(process.bphysicsOniaDQM+process.dqmSaver)
 
+# foo bar baz
+# 7IUPsh7JXWfWj
+# krDiTpUXELUGF

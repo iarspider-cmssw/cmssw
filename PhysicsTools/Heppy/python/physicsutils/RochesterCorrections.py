@@ -52,3 +52,6 @@ class RochesterCorrections(object):
 rochcor = RochesterCorrections() 
         
 
+# foo bar baz
+# 3udCRwtUdzFue
+# 3fpVyM4fgNxQW

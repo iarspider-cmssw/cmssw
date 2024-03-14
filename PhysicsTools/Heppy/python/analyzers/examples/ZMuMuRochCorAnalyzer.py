@@ -74,3 +74,6 @@ class ZMuMuRochCorAnalyzer( Analyzer ):
 
         event.diLeptonRaw = copy.copy(event.diLepton)
         event.diLepton = correctDiLepton( event.diLeptonRaw )
+# foo bar baz
+# OBAHNKutxOIW0
+# 6iSurXnsaU7rC

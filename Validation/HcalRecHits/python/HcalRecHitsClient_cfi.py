@@ -6,3 +6,6 @@ hcalrechitsClient = DQMEDHarvester("HcalRecHitsClient",
      outputFile = cms.untracked.string(''),
      DQMDirName = cms.string("/") # root directory
 )
+# foo bar baz
+# jOh2mjutyZUnR
+# OqPs5MRTo77zN

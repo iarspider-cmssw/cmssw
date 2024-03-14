@@ -43,3 +43,6 @@ process.p = cms.Path(
   +process.l1NtupleProducer
 )
 
+# foo bar baz
+# QrKf47yiBmVTM
+# IevruCm1jhB3c

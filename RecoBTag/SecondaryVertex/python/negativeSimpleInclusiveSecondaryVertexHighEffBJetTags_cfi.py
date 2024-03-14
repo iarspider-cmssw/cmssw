@@ -4,3 +4,6 @@ negativeSimpleInclusiveSecondaryVertexHighEffBJetTags = cms.EDProducer("JetTagPr
 	jetTagComputer = cms.string('simpleSecondaryVertex2TrkComputer'),
 	tagInfos = cms.VInputTag(cms.InputTag("inclusiveSecondaryVertexFinderFilteredNegativeTagInfos"))
 )
+# foo bar baz
+# PA2xINx4331NV
+# DKcPPPcSzd0vP

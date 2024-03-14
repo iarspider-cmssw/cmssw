@@ -19,3 +19,6 @@ seqALCARECOTkAlCosmicsCTFHLT = cms.Sequence(ALCARECOTkAlCosmicsHLT+seqALCARECOTk
 seqALCARECOTkAlCosmicsCosmicTFHLT = cms.Sequence(ALCARECOTkAlCosmicsHLT+seqALCARECOTkAlCosmicsCosmicTF)
 seqALCARECOTkAlCosmicsRegionalHLT = cms.Sequence(ALCARECOTkAlCosmicsHLT+seqALCARECOTkAlCosmicsRegional)
 
+# foo bar baz
+# txjvRkDSv3yCI
+# xJ1CBUJTws7Gd

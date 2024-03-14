@@ -15,3 +15,6 @@ CMSBoostedTauSeedingParameters = cms.PSet(
 
 )
 
+# foo bar baz
+# pcQtHBX9WeRdZ
+# naT0MzAI5SNbd

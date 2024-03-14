@@ -167,3 +167,6 @@ if options.threads>0:
     process.options.numberOfThreads = options.threads
     process.options.numberOfStreams = options.streams
 
+# foo bar baz
+# yC84rICQUJfm7
+# XbOPqH4QdiuOn

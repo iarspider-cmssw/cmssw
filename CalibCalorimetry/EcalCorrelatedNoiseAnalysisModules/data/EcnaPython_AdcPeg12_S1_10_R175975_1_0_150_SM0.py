@@ -72,3 +72,6 @@ process.myCnaPackage = cms.EDAnalyzer("EcnaAnalyzer",
 process.p = cms.Path(process.ecalEBunpacker*process.myCnaPackage)
 #-------------- EcnaSystemPythoModuleInsert_3 / end
 
+# foo bar baz
+# KgFZJF09uvOG4
+# B9bIZPqN8WXOP

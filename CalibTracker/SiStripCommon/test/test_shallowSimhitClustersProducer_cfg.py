@@ -12,3 +12,6 @@ process.testTree = cms.EDAnalyzer(
       )
    )
 process.p = cms.Path(process.shallowSimhitClusters*process.testTree)
+# foo bar baz
+# cBfGyBOHiwxRH
+# 1AtqBUFYSjSmc

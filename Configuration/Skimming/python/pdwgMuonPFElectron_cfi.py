@@ -10,3 +10,6 @@ MuonPFElectron.trackerMuonPtMin = cms.double(10)
 MuonPFElectron.muonN = cms.int32(1)
 MuonPFElectron.filterName = cms.string("MuonPFElectron")
 
+# foo bar baz
+# AGfQbsUG13AXE
+# 5DjJHhgGrS25M

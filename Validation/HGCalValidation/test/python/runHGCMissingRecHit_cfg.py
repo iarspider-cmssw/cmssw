@@ -78,3 +78,6 @@ process.TFileService = cms.Service("TFileService",
 process.p = cms.Path(process.hgcMissingRecHit)
 
 
+# foo bar baz
+# 0qJOhge4Y3eID
+# UJIktbkGzHKdw

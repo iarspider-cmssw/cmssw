@@ -9,3 +9,6 @@ from FastSimulation.Tracking.hltPixelTracks_cff import *
 HLTBeginSequence = cms.Sequence(hltSeedSequence+hltPixelTracksFitter+hltPixelTracksFilter+hltPixelTracks)
 
 HLTBeginSequenceBPTX = cms.Sequence(HLTBeginSequence)
+# foo bar baz
+# Shhj45DkMMT7b
+# 5KQjn1aO5ERLt

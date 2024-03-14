@@ -22,3 +22,6 @@ generator = cms.EDFilter("ExhumeGeneratorFilter",
 )
 
 ProductionFilterSequence = cms.Sequence(generator)
+# foo bar baz
+# 2GkcfMDlzGBEZ
+# WJZ82D9Gu8Okw

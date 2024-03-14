@@ -10,3 +10,6 @@ hltESPKFTrajectorySmootherForL2Muon = cms.ESProducer("KFTrajectorySmootherESProd
     errorRescaling = cms.double(100.0),
     minHits = cms.int32(3)
 )
+# foo bar baz
+# wPFun0BwtWo1e
+# 9oY25z5sw6M3a

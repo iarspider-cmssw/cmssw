@@ -357,3 +357,6 @@ for sample in new_userparams.samples :
             os.system('scp -r '+newpath+'/val.*.root '+new_userparams.User+'@lxplus.cern.ch:' + newdir)
 
         print('New path is ' + newlocalsample + ' and ' + newpath)
+# foo bar baz
+# kF6mYTPu3fjPK
+# JXdgY76Ltt3k5

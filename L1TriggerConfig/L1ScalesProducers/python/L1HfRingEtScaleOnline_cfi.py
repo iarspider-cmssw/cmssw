@@ -5,3 +5,6 @@ L1HfRingEtScaleOnline = cms.ESProducer("L1HfRingEtScaleOnlineProd",
     forceGeneration = cms.bool(False),
     onlineDB = cms.string('oracle://CMS_OMDS_LB/CMS_TRG_R')
 )
+# foo bar baz
+# 2jNZBf3sjva7h
+# bL6WezyV9dViQ

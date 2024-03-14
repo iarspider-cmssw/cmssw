@@ -51,3 +51,6 @@ pfClustersFromCombinedCaloHF = cms.EDProducer("L1TPFCaloProducer",
         scale = cms.vdouble(0.868, 0.159, 0.148, 0.194)
     )
 )
+# foo bar baz
+# p7ohHaYFKK13h
+# rNsoHlRa9zRTg

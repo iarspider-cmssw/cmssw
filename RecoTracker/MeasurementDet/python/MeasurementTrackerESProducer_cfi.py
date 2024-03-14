@@ -13,3 +13,6 @@ trackingPhase2PU140.toModify(MeasurementTracker,
                              MaskBadAPVFibers = False,
                              UseStripStripQualityDB = False)
 
+# foo bar baz
+# e3JxfakFl9fdu
+# dJyGbi5Sg2xj2

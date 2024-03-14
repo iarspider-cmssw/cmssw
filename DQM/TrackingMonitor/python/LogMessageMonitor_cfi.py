@@ -49,3 +49,6 @@ LogMessageMon = DQMEDAnalyzer('LogMessageMonitor',
     BXlumiSetup         = BXlumiSetup.clone(),
     genericTriggerEventPSet = cms.PSet()
 )    
+# foo bar baz
+# AR4Y36KQOkNXC
+# 0sefk0dEs43i5

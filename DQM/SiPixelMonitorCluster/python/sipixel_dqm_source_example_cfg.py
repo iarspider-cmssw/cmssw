@@ -57,3 +57,6 @@ process.SiPixelClusterSource.diskOn = True
 process.SiPixelClusterSource.smileyOn = False
 process.DQM.collectorHost = ''
 
+# foo bar baz
+# f1NjG7hyUnP7z
+# kRKVEsrROO1Cu

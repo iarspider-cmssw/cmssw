@@ -20,3 +20,6 @@ spclusmultpileupcorr = cms.EDAnalyzer('MultiplicityInvestigator',
                                     multiplicityMap = cms.InputTag("spclustermultprod"),
                                     )
 
+# foo bar baz
+# sMNPezBtyYXV9
+# lb5fZJ5D3N6TW

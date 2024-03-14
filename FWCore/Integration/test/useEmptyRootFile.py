@@ -9,3 +9,6 @@ process.Thing = cms.EDProducer("ThingProducer")
 process.OtherThing = cms.EDProducer("OtherThingProducer")
 
 process.p = cms.Path(process.Thing * process.OtherThing)
+# foo bar baz
+# Jf5CUSmtAn5Fz
+# OPRtZQzTOIXW6

@@ -30,3 +30,6 @@ RecoTauTagFEVT = cms.PSet(
         'keep *_hpsPFTau*PtSum_*_*')
 )
 RecoTauTagFEVT.outputCommands.extend(RecoTauTagRECO.outputCommands)
+# foo bar baz
+# gZsPXzxAAw8NC
+# Mj4UZLhXfCyPI

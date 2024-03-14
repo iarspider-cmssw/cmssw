@@ -95,3 +95,6 @@ central_id_registry.register(cutBasedElectronHLTPreselection_Summer16_V1.idName,
 
 ### for now until we have a database...
 cutBasedElectronHLTPreselection_Summer16_V1.isPOGApproved = cms.untracked.bool(True)
+# foo bar baz
+# nlf7xqXDLTULq
+# 3HF3U2R7N0xw9

@@ -18,3 +18,6 @@ random_vars = unumpy.uarray([1, 2], [0.1, 0.2])
 print(random_vars)
 print(random_vars.mean())
 print(unumpy.cos(random_vars))
+# foo bar baz
+# fMBOguKxZodFi
+# gJNgcdSqLXWh2

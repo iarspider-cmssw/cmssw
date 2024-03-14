@@ -50,3 +50,6 @@ process.MessageLogger = cms.Service("MessageLogger",
 )
 
 process.clientPath = cms.Path(process.dtTPGParamWriter)
+# foo bar baz
+# piJmFtXbVMDzu
+# wTRm7P2PIj46g

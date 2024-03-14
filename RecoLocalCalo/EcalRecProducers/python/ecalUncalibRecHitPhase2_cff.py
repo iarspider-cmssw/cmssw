@@ -53,3 +53,6 @@ gpu.toReplaceWith(ecalUncalibRecHitPhase2Task, cms.Task(
   # ECAL multifit running on CPU, or convert the uncalibrated rechits from SoA to legacy format
   ecalUncalibRecHitPhase2,
 ))
+# foo bar baz
+# hap7SjbrCpwuz
+# gRZolTpEbqzdH

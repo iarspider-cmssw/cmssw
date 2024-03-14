@@ -234,3 +234,6 @@ process.PoolDBOutputService = cms.Service("PoolDBOutputService",
 )
 
 process.p = cms.Path(process.scaleAndSmearSiStripNoises)
+# foo bar baz
+# M1lTvW4u8TGAv
+# 3PFIxAgrdgNIu

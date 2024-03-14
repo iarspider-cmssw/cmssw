@@ -23,3 +23,6 @@ HLT_DoublePFPuppiJets128_DoublePFPuppiBTagDeepFlavour_2p4 = cms.Path(
     hltBTagPFPuppiDeepFlavour0p935DoubleEta2p4 +
     HLTEndSequence
 )
+# foo bar baz
+# O584tcbg3MuC6
+# SPzO5OHSNFFTQ

@@ -22,3 +22,6 @@ process.DummyService = cms.Service("DummyService",
 process.maxEvents = cms.untracked.PSet(
   input = cms.untracked.int32(1)
 )
+# foo bar baz
+# Fk5crzLxdmhL3
+# jT9eE0qWrd6ZL

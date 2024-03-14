@@ -8,3 +8,6 @@ from Configuration.Geometry.GeometrySimIdealGFlash_cff import *
 
 # Reconstruction geometry services
 from Configuration.Geometry.GeometryReco_cff import *
+# foo bar baz
+# 4lXUoY6tfJkxn
+# 6ORIxVP41Dd1p

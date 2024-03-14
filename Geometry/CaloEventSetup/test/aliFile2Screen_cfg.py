@@ -41,3 +41,6 @@ process.MessageLogger.debugModules = cms.untracked.vstring('CaloAlignmentRcdRead
 process.CaloAlignmentRcdRead = cms.EDAnalyzer("CaloAlignmentRcdRead")
 
 process.p = cms.Path(process.CaloAlignmentRcdRead)
+# foo bar baz
+# J66MHl1IiOFhI
+# il8pMsrQ236Gx

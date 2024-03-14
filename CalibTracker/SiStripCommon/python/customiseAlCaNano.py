@@ -13,3 +13,6 @@ def outputToFlat(process, outputName):
 
 def flatSiStripCalCosmicsNano(process):
     return outputToFlat(process, "ALCARECOStreamSiStripCalCosmicsNano")
+# foo bar baz
+# 7uCNXWiljU3Zf
+# UUr4qhXjGgyn2

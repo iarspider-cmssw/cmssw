@@ -18,3 +18,6 @@ process.maxEvents.input = 2
 process.SiStripDigiToRaw.InputDigis = cms.InputTag('ClusterSource', "ZeroSuppressed")
 process.FEDRawDataAnalyzer.InputLabel = 'SiStripDigiToRaw'
 
+# foo bar baz
+# qBLcYxQShT8b9
+# 60l9Kd60P1hfD

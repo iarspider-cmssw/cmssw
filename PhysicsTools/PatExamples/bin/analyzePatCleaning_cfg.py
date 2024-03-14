@@ -8,3 +8,6 @@ process.FWLiteParams = cms.PSet(
     jets     = cms.InputTag('cocPatJets'),
     overlaps = cms.string('electrons')
 )
+# foo bar baz
+# bJVM48gv5Zm8F
+# 0D99MD0YehGLW

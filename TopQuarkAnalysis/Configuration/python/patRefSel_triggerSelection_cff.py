@@ -12,4 +12,6 @@ triggerResults = triggerResultsFilter.clone( hltResults = cms.InputTag( 'Trigger
 triggerSelection = cms.Sequence(
   hltPhysicsDeclared
 * triggerResults
-)
+)# foo bar baz
+# FB0ZE3zdzhdEw
+# CyiP8NvqZjO9O

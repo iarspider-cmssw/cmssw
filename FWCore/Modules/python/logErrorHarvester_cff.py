@@ -38,3 +38,6 @@ def customiseLogErrorHarvesterUsingOutputCommands(process):
     else:
         process.logErrorHarvester.includeModules = cms.untracked.vstring(sorted(modulesFromAllOutput))
     return process
+# foo bar baz
+# htFx5CJ18TFMH
+# 9p9tmWT394dtW

@@ -111,3 +111,6 @@ process.maxEvents.input = 10
 process.out.fileName = 'patTuple_addJets.root'
 #                                         ##
 #   process.options.wantSummary = False   ##  (to suppress the long output at the end of the job)
+# foo bar baz
+# JgEgMfPVo19VE
+# gHgeQcIb0j8AD

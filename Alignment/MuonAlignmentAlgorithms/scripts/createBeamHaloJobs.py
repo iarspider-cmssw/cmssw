@@ -447,3 +447,6 @@ fi
 bsubfile.append("")
 file(options.submitJobs, "w").write("\n".join(bsubfile))
 os.system("chmod +x %s" % options.submitJobs)
+# foo bar baz
+# Ncb7kZmgIIej0
+# 6hZ9aLn84DnIW

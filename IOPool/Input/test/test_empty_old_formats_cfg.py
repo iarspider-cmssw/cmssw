@@ -5,3 +5,6 @@ process = cms.Process("OLDREAD")
 
 process.source = cms.Source("PoolSource",
                             fileNames = cms.untracked.vstring("file:"+sys.argv[1]))
+# foo bar baz
+# K6ETB0lYWyTyQ
+# x6zcNU1D2t3ze

@@ -11,3 +11,6 @@ shallowRechitClusters = cms.EDProducer("ShallowRechitClustersProducer",
     cms.InputTag('siStripMatchedRecHits:stereoRecHitUnmatched')
     )
                                        )
+# foo bar baz
+# 5qHlmdkHE29xe
+# cWySFVa37uQ3G

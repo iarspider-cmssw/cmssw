@@ -42,3 +42,6 @@ process.p = cms.Path(
     process.totemVFATFrameAnalyzer
 )
 
+# foo bar baz
+# W19eWo3Jhs6GB
+# kd8LCvQj7BO62

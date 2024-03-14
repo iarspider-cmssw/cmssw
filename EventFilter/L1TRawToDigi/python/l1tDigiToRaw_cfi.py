@@ -9,3 +9,6 @@ l1tDigiToRaw = cms.EDProducer(
     lenSlinkHeader = cms.untracked.int32(8),
     lenSlinkTrailer = cms.untracked.int32(8)
 )
+# foo bar baz
+# ijaDaqZJ3qxJ1
+# PrZNn5Nd29oUf

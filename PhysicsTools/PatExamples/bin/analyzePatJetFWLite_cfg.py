@@ -8,3 +8,6 @@ process.FWLiteParams = cms.PSet(
     jets = cms.InputTag('goodPatJets')
 )
 
+# foo bar baz
+# FvopI1aHtaMDt
+# IUuequWXK1hVr

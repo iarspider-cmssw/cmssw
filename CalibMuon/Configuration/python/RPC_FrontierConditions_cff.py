@@ -11,3 +11,6 @@ from CalibMuon.RPCCalibration.RPC_Calibration_cff import *
 RPCCalibPerf.connect = 'frontier://FrontierProd/CMS_COND_20X_RPC'
 
 
+# foo bar baz
+# Uu4VGh2YdKSed
+# OlarBq2tgNZ2U

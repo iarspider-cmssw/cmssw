@@ -320,3 +320,6 @@ PoolDBESSourceOctEx = cms.ESSource("PoolDBESSource",
     ),
 ))
 PoolDBESSourceOctEx.connect = 'frontier://FrontierProd/CMS_COND_31X_PHYSICSTOOLS'
+# foo bar baz
+# Xio1hLcGhC0dv
+# jMXtrxOeiRQUO

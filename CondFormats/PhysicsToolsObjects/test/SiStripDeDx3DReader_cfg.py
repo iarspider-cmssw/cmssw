@@ -54,3 +54,6 @@ process.test = cms.EDAnalyzer("SiStripDeDx3DReader")
 process.p1 = cms.Path(process.test)
 
 
+# foo bar baz
+# XJIs6nMRzidYq
+# aN3wfzDtiwofq

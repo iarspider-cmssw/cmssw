@@ -17,3 +17,6 @@ ecalPrescaler = cms.EDFilter("EcalMonitorPrescaler",
     clusterPrescaleFactor = cms.untracked.int32(1)
 )
 
+# foo bar baz
+# gW6JiVqGhFk6p
+# sXfzYlTbzZezP

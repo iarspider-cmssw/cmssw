@@ -42,3 +42,6 @@ process.gemcscs = cms.EDAnalyzer('TestGEMCSCSegmentAnalyzer',
 )
 
 process.p = cms.Path(process.gemcscs)
+# foo bar baz
+# oUVOl4WCdtjh7
+# foKxgKJ1LhHPb

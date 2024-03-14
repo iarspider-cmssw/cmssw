@@ -61,3 +61,6 @@ process.ReadDB.printDebug = cms.untracked.bool(True)
 process.ReadDB.outputFile = cms.untracked.string('SiPixelQualityProbabilities.log')
 
 process.p = cms.Path(process.get+process.ReadDB)
+# foo bar baz
+# aDkxSb30nkm1d
+# YqcqKJrzkegwh

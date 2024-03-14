@@ -25,3 +25,6 @@ process.getInts = cms.EDAnalyzer("ManyProductAnalyzer",
 )
 
 process.path1 = cms.Path(process.produceInts*process.getInts)
+# foo bar baz
+# v6REBxYD7t6kH
+# Q82VA0qkCdYx8

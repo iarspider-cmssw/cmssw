@@ -71,3 +71,6 @@ l1tRate_Offline = DQMEDAnalyzer('L1TRate_Offline',
   fitParameters = RateParams
 
 )
+# foo bar baz
+# ndFlPN3i5HtLC
+# L4o0uEdc8wocV

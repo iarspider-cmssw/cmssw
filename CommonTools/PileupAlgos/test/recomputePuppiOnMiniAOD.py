@@ -138,3 +138,6 @@ process.options.numberOfConcurrentLuminosityBlocks=cms.untracked.uint32(1)
 from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEarlyDelete
 process = customiseEarlyDelete(process)
 # End adding early deletion
+# foo bar baz
+# l1ycIgRgRxfx9
+# jpsuf69tC5YSo

@@ -15,3 +15,6 @@ highPtTripletStepSeedingTask = cms.Task(
     highPtTripletStepSeeds,
     hltPhase2PixelTracksAndHighPtStepTrackingRegions
 )
+# foo bar baz
+# v23vs3iyFOXCx
+# CJKOpIfu1xGKz

@@ -11,3 +11,6 @@ ssdigimultprod = cms.EDProducer("SiStripDigiMultiplicityProducer",
                                     cms.PSet(detSelection = cms.uint32(6),detLabel = cms.string("TEC"))
                                    )
                                 )
+# foo bar baz
+# Uyu9Zdh0I2uWj
+# E7eWylLDoSdhG

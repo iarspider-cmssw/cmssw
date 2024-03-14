@@ -7,3 +7,6 @@ from Validation.EcalHits.ecalEndcapSimHitsValidation_cfi import *
 from Validation.EcalHits.ecalPreshowerSimHitsValidation_cfi import *
 ecalSimHitsValidationSequence = cms.Sequence(ecalSimHitsValidation*ecalBarrelSimHitsValidation*ecalEndcapSimHitsValidation*ecalPreshowerSimHitsValidation)
 
+# foo bar baz
+# kkFKezkHnohws
+# gTmUmz4jji2qc

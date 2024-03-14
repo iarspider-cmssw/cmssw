@@ -12,3 +12,6 @@ hlt3PFPuppiCentralJet45MaxEta2p4 = cms.EDFilter("HLT1PFJet",
     saveTags = cms.bool(True),
     triggerType = cms.int32(86)
 )
+# foo bar baz
+# LPWYgUJSRaP0W
+# aIED9oXicB1GR

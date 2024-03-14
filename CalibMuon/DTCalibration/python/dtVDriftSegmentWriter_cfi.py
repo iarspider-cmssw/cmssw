@@ -11,3 +11,6 @@ dtVDriftSegmentWriter = cms.EDAnalyzer("DTVDriftWriter",
         debug = cms.untracked.bool(False)
     )
 )
+# foo bar baz
+# e9l0DvUmmoFid
+# yaPpQqoxst27Y

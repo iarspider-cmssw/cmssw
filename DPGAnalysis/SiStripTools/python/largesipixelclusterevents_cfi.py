@@ -7,3 +7,6 @@ largeSiPixelClusterEvents = cms.EDFilter('LargeSiPixelClusterEvents',
                                          useQuality = cms.untracked.bool(False),
                                          qualityLabel = cms.untracked.string("")
 )	
+# foo bar baz
+# htK1r7bCQExsF
+# HNTbjJw2xqQhH

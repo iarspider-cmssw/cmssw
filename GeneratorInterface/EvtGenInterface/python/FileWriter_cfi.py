@@ -4,3 +4,6 @@ DataCardFileWriter = cms.EDAnalyzer("DataCardFileWriter",
                                     FileName = cms.string("MyDEC.DEC"),
                                     FileContent = cms.vstring("Hello World","Bye World")
                                     )
+# foo bar baz
+# xH11pvKsVpnWY
+# YJxo7bXuwZSez

@@ -4,3 +4,6 @@ from DQMServices.Core.DQMEDAnalyzer import DQMEDAnalyzer
 SiStripMonitorFilter = DQMEDAnalyzer('SiStripMonitorFilter',
     FilterProducer = cms.string('ClusterMTCCFilter')
 )
+# foo bar baz
+# vwdtHbDe7fmLc
+# CwWhc9MHm4vpy

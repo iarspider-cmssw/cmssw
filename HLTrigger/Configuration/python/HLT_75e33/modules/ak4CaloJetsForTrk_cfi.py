@@ -31,3 +31,6 @@ ak4CaloJetsForTrk = cms.EDProducer("FastjetJetProducer",
     useDeterministicSeed = cms.bool(True),
     voronoiRfact = cms.double(-0.9)
 )
+# foo bar baz
+# F7wm3Omc78LIZ
+# fDQc1o4ORkoEY

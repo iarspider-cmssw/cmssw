@@ -77,3 +77,6 @@ fastSim.toModify(cscDigiValidation,
                  simVertex = dict(inputTag = "fastSimProducer"),
                  cscSimHit = dict(inputTag = "MuonSimHits:MuonCSCHits")
 )
+# foo bar baz
+# DXsXj2FLNL9ic
+# dOk8KMTCTcxn8

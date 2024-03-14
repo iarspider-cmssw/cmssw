@@ -22,3 +22,6 @@ process.dumpConfig = cms.EDAnalyzer("DTConfigTester",
 
 process.p = cms.Path(process.dumpConfig)
 
+# foo bar baz
+# qMbOy1h99dm2F
+# A8Wntmv7anMRR

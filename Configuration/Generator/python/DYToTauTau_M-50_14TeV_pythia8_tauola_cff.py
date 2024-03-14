@@ -40,3 +40,6 @@ generator = cms.EDFilter("Pythia8GeneratorFilter",
                          )
 
 ProductionFilterSequence = cms.Sequence(generator)
+# foo bar baz
+# 3LziannXzXjWm
+# kY4gBuJuUXwMe

@@ -27,3 +27,6 @@ hpsPFTauDiscriminationByMuonRejectionSimple = pfRecoTauDiscriminationAgainstMuon
     maskHitsCSC = hpsPFTauDiscriminationByMuonRejection3.maskHitsCSC,
     maskHitsRPC = hpsPFTauDiscriminationByMuonRejection3.maskHitsRPC
 )
+# foo bar baz
+# lvqAPDqJJx6XF
+# xaRkdJn69NYlN

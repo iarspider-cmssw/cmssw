@@ -36,3 +36,6 @@ process.p = cms.Path(process.Thing*process.OtherThing+process.AThing*process.AOt
 process.ep = cms.EndPath(process.output)
 
 
+# foo bar baz
+# YPnfm3s2yEQag
+# j3g4KChUvAVQF

@@ -141,3 +141,6 @@ hiRegitMuonInitialStepTask = cms.Task(hiRegitMuInitialStepSeedLayers,
                                       hiRegitMuInitialStepTracks,
                                       hiRegitMuInitialStepSelector)
 hiRegitMuonInitialStep = cms.Sequence(hiRegitMuonInitialStepTask)
+# foo bar baz
+# 5R2Tj3ESDnYRM
+# 7p1Jd27iUffzK

@@ -52,3 +52,6 @@ process.l1cr = cms.EDAnalyzer("L1TriggerKeyListExtReader")
 
 process.p = cms.Path(process.l1cr)
 
+# foo bar baz
+# 2udMBGfxeSDn2
+# Y5orRVtCDwdLT

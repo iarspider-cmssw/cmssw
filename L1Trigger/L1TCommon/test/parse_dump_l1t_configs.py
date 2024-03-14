@@ -22,3 +22,6 @@ for i, line in enumerate(f):
     rec = line.split()[0]
   if i == ind+3 and len(line.split())>3:
     print(rec + ' ' + ':' + ' ' + line.split()[4])
+# foo bar baz
+# AInZTcuF3Wovq
+# YOPsf2I9hmG2a

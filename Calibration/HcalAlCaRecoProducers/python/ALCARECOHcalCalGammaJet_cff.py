@@ -7,3 +7,6 @@ from Calibration.HcalAlCaRecoProducers.alcagammajet_cfi import *
 from Calibration.HcalAlCaRecoProducers.gammajetHLT_cfi import *
 seqALCARECOHcalCalGammaJet = cms.Sequence(gammajetHLT*GammaJetProd)
 
+# foo bar baz
+# vMx64JBdCIjLu
+# 6KOJYLxmMHohQ

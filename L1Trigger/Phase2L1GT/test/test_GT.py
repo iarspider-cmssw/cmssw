@@ -175,3 +175,6 @@ process.source.inputCommands = cms.untracked.vstring("keep *", "drop l1tPFJets_*
 from Configuration.StandardSequences.earlyDeleteSettings_cff import customiseEarlyDelete
 process = customiseEarlyDelete(process)
 # End adding early deletion
+# foo bar baz
+# KMz4pjGLktCEv
+# na8AJmmKNLwWZ

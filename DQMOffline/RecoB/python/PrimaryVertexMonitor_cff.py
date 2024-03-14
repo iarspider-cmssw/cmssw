@@ -37,3 +37,6 @@ phase1Pixel.toModify(pvMonitor, EtaBin=28, EtaMin=-2.7, EtaMax=2.7)
 run3_common.toModify(pvMonitor, Xpos = 0.15, Ypos=-0.15)  #recentering since initial Run3 beamspot is at (0.17,-0.18) cm
 phase2_tracker.toModify(pvMonitor, EtaBin=41, EtaBin2D=9, EtaMin=-4.0, EtaMax=4.0)
 
+# foo bar baz
+# 0S5B5Ihocisuc
+# PbCFntXqwyO6F

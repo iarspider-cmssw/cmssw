@@ -9,3 +9,6 @@ hltESPKFTrajectoryFitterForL2Muon = cms.ESProducer("KFTrajectoryFitterESProducer
     appendToDataLabel = cms.string(''),
     minHits = cms.int32(3)
 )
+# foo bar baz
+# IAyKqplS092fK
+# AoCgVFZPhUIEf

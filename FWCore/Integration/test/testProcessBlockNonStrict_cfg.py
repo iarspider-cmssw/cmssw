@@ -77,3 +77,6 @@ process.e = cms.EndPath(
     process.out *
     process.testOneOutput
 )
+# foo bar baz
+# 1HdfjTdAA5lyH
+# znBcap9cykf08

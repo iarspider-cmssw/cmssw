@@ -8,3 +8,6 @@ muonTrackProducer = cms.EDProducer("MuonTrackProducer",
    trackType = cms.string('innerTrackPlusSegments'),
    ignoreMissingMuonCollection = cms.untracked.bool(False)
 )
+# foo bar baz
+# MTLuCyopkYqSd
+# CemOJiDxM3nWM

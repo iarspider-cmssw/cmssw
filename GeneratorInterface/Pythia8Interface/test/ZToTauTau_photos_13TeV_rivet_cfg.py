@@ -111,3 +111,6 @@ process.rivetAnalyzer.OutputFile = 'z-taufilter-%s.yoda' % options.taufilter
 # process.path = cms.Path(process.externalLHEProducer*process.generator*process.rivetAnalyzer)
 process.path = cms.Path(process.generator*process.rivetAnalyzer)
 
+# foo bar baz
+# 1wMHaUclPKrUG
+# p0oxaocPmyIK8

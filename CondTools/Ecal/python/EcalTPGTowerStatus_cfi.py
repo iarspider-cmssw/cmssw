@@ -4,3 +4,6 @@ EcalTrivialConditionRetriever = cms.ESSource("EcalTrivialConditionRetriever",
   producedEcalTrgTowerStatus = cms.untracked.bool(True),
   trgTowerStatusFile = cms.untracked.string('CondTools/Ecal/python/BTT_DATA_CONF_ID_2982.dat')
 )
+# foo bar baz
+# 8Vkwk3PMOHgJo
+# X0BzcltoN5S0H

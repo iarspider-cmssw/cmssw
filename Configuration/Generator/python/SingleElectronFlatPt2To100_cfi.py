@@ -17,3 +17,6 @@ generator = cms.EDFilter("Pythia8PtGun",
                          PythiaParameters = cms.PSet(parameterSets = cms.vstring())
                          )
 
+# foo bar baz
+# G0mFotgEo6qht
+# x1aj6BIU2aZdK

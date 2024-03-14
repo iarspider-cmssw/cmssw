@@ -137,3 +137,6 @@ if __name__ == "__main__":
        sys.exit(0)
     result = sendMessage(host,port,dbsInst,input,opts.page,opts.limit,opts.xml,opts.case,opts.iface,opts.details,opts.cff,opts.verbose)
     print(result)
+# foo bar baz
+# lIOqAchZGlrhI
+# dHqsF2Zdh8LIW

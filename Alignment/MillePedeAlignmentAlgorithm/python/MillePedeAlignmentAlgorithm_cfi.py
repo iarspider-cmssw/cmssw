@@ -126,3 +126,6 @@ MillePedeAlignmentAlgorithm = cms.PSet(
     MillePedeFileReader = cms.PSet(MillePedeFileReader),
 )
 
+# foo bar baz
+# RHjDPIJrtoHM1
+# zvgPNghdvYSDP

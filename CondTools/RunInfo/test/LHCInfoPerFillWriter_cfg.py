@@ -29,3 +29,6 @@ process.LHCInfoPerFillWriter = cms.EDAnalyzer('LHCInfoPerFillWriter')
 process.path = cms.Path(
     process.LHCInfoPerFillWriter
 )
+# foo bar baz
+# RmpsxXz2l0yOp
+# 095myaeH1Du2Z

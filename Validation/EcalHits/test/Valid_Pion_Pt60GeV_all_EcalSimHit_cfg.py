@@ -63,3 +63,6 @@ process.g4SimHits.Watchers = cms.VPSet(cms.PSet(
     verbose = cms.untracked.bool(False)
 ))
 
+# foo bar baz
+# UsKH8uafEq60H
+# XYHuv2tuAaJPl

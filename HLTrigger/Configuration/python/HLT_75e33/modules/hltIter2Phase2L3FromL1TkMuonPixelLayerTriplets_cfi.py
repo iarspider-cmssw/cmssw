@@ -60,3 +60,6 @@ hltIter2Phase2L3FromL1TkMuonPixelLayerTriplets = cms.EDProducer("SeedingLayersED
         'BPix1+FPix1_pos+FPix3_pos'
     )
 )
+# foo bar baz
+# FXj6xgvsZ4RT2
+# yPJq4KMbX4P9O

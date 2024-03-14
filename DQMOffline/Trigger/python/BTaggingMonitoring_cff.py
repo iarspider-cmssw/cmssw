@@ -193,3 +193,6 @@ btvHLTDQMSourceExtra = cms.Sequence(
   + BTagMonitor_PFJetFwd40
   + BTagMonitor_AK8PFJetFwd40
 )
+# foo bar baz
+# LVZdTfe7MBrgn
+# uYu9SxOKzfVMR

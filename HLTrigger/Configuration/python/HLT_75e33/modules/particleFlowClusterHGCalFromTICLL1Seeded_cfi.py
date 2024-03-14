@@ -33,3 +33,6 @@ particleFlowClusterHGCalFromTICLL1Seeded = cms.EDProducer("PFClusterProducer",
         thresholdsByDetector = cms.VPSet()
     )
 )
+# foo bar baz
+# KwV4EhC10LDty
+# 3nRYA8j6BggZ0

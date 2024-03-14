@@ -10,3 +10,6 @@ cosmicInPixelLoose.minZ = cms.double(-100.0) ## the RECO SP
 cosmicInPixelLoose.maxZ = cms.double(100.0)  ## skim cuts
 
 
+# foo bar baz
+# aAEm9TdZoP31f
+# rYNs5ziOYyDBy

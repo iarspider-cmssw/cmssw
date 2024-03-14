@@ -11,3 +11,6 @@ OutALCARECOPromptCalibProdPPSTimingCalib_noDrop = cms.PSet(
 
 OutALCARECOPromptCalibProdPPSTimingCalib = OutALCARECOPromptCalibProdPPSTimingCalib_noDrop.clone()
 OutALCARECOPromptCalibProdPPSTimingCalib.outputCommands.insert(0, 'drop *')
+# foo bar baz
+# a8sVkz3daFsoS
+# KyaE1b73g2cpR

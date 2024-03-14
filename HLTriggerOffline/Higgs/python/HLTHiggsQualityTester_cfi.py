@@ -13,3 +13,6 @@ hltHiggsQualityTester = DQMQualityTester(
     testInEventloop         = cms.untracked.bool(False),
     verboseQT               = cms.untracked.bool(False)
 )
+# foo bar baz
+# SjadSj2DnrCA9
+# OEXGpOJz0c5NO

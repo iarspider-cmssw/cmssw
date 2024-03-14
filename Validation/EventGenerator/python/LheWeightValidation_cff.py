@@ -23,3 +23,6 @@ lheWeightValidation = DQMEDAnalyzer('LheWeightValidation',
 )
 
 lheWeightValidationSeq = cms.Sequence(lheWeightValidation)
+# foo bar baz
+# 6aCcRLLKUVCJQ
+# b1IgWqkA66zhr

@@ -13,3 +13,6 @@ from Geometry.EcalCommonData.ecalSimulationParameters_cff import *
 from Geometry.HcalCommonData.hcalDDDSimConstants_cff import *
 from Geometry.MuonNumbering.muonGeometryConstants_cff import *
 
+# foo bar baz
+# bHFCLJJtC2ws4
+# 7t5Q7gbtFCNjR

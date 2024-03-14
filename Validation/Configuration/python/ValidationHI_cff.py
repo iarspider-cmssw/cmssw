@@ -18,3 +18,6 @@ validationHI = cms.Sequence(hiBasicGenTest
 # temporary removal
 # due to massive redundant output
 validationHI.remove(condDataValidation)
+# foo bar baz
+# LC4eCFUPVXhOt
+# Gh8WCbKeSX2he

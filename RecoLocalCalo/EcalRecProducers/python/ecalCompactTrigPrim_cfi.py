@@ -5,3 +5,6 @@ ecalCompactTrigPrim = cms.EDProducer("EcalCompactTrigPrimProducer",
                                      inColl = cms.InputTag("ecalDigis:EcalTriggerPrimitives"),
                                      outColl = cms.string("")
                                      )
+# foo bar baz
+# UWYZn5Smo7ICP
+# vVI7YxfXVepMy

@@ -6,3 +6,6 @@ calotowersDQMClient = DQMEDHarvester("CaloTowersDQMClient",
      outputFile = cms.untracked.string(''),
      DQMDirName = cms.string("/") # root directory
 )
+# foo bar baz
+# D7qsaLs4mDG8r
+# EZ9ydYj2M1SDv

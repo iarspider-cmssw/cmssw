@@ -113,3 +113,6 @@ jpsifilter = cms.EDFilter("PythiaDauVFilter",
           )
 
 ProductionFilterSequence = cms.Sequence(generator*lbfilter*decayfilter*jpsifilter)
+# foo bar baz
+# rOsZ4rV0I71mc
+# Aj4fRQJKbuMNF

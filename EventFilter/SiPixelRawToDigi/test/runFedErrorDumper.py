@@ -42,3 +42,6 @@ process.p = cms.Path(process.dumper)
 # process.ep = cms.EndPath(process.out)
 
 
+# foo bar baz
+# kDn1JSz7ENuBN
+# wCjbqHSxgVYt1

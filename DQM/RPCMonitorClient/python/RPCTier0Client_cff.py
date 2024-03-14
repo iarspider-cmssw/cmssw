@@ -28,3 +28,6 @@ if (muonFlag):
 else:
     rpcTier0Client = cms.Sequence(qTesterRPC*rpcdqmclient*rpcDcsInfoClient*rpcEventSummary)
 
+# foo bar baz
+# DmSONeXnSa0ke
+# r21WEboLYruq8

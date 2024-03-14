@@ -130,3 +130,6 @@ class CmsswPreprocessor :
             print("CMSRUN failed")
             exit(ret)
         return component
+# foo bar baz
+# huEDqNhXtulyh
+# Yd9ZXgIOLTKCr

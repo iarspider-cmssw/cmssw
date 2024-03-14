@@ -21,3 +21,6 @@ HLTEle26WP70UnseededTask = cms.Task(
     hltEgammaHcalPFClusterIsoUnseeded,
     hltEgammaHoverEUnseeded
 )
+# foo bar baz
+# chRcYghgJdR6P
+# hxylYm15KKJZd

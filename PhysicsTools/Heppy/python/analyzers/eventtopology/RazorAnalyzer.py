@@ -304,3 +304,6 @@ class RazorAnalyzer( Analyzer ):
 #        print 'pseudoJet2 px=',event.pseudoJet2.px(),' py=',event.pseudoJet2.py(),' pz=',event.pseudoJet2.pz()   
 
         return True
+# foo bar baz
+# WHxCfjZRcbrc8
+# 8IbCDcJgOkBIh

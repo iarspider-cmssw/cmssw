@@ -70,3 +70,6 @@ def customiseHGCalOnlyEventContent(process):
         cleanOutputAndSet(process.FEVTDEBUGHLToutput, TICL_FEVT.outputCommands)
 
     return process
+# foo bar baz
+# hfqOfpaUV1obL
+# RVVccwE5PVmRF

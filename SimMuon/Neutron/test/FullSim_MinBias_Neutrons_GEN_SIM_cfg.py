@@ -142,3 +142,6 @@ process.schedule = cms.Schedule(
 # special treatment in case of production filter sequence
 for path in process.paths:
     getattr(process,path)._seq = process.generatorNeutrons*getattr(process,path)._seq
+# foo bar baz
+# 0x5g9MPDKokk7
+# 0dgqWfaYkqiBs

@@ -15,3 +15,6 @@ RPCTwinMuxLinkMapPopConAnalyzer = cms.EDAnalyzer('RPCAMCLinkMapPopConAnalyzer'
                                                      , txtFile = cms.untracked.string('')
                                                  )
 )
+# foo bar baz
+# ySo7Mtm3Y6kUb
+# ItV7h8wMTwVxJ

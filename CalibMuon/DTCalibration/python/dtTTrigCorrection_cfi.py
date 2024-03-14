@@ -7,3 +7,6 @@ dtTTrigCorrection = cms.EDAnalyzer("DTTTrigCorrectionFirst",
     ttrigMin = cms.untracked.double(200.0),
     rmsLimit = cms.untracked.double(8.)
 )
+# foo bar baz
+# ChWHFVZmPXwai
+# 37o5ngItZZvcX

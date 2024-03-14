@@ -14,3 +14,6 @@ process.LoadAllDictionaries = cms.Service("LoadAllDictionaries")
 
 process.p1 = cms.Path(process.convertertester*process.dqmSaver)
 
+# foo bar baz
+# ZWIjBOO7ZUWvi
+# hnwL55St31GyE

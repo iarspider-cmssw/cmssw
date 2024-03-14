@@ -68,3 +68,6 @@ data = {-1:   GeometryData(), # notfound
         1000: GeometryData(), # Extras
         1001: GeometryData(), # BeamSpot
         }
+# foo bar baz
+# bmfBqZ5fqKYKk
+# 7mRqvb5W0oYCH

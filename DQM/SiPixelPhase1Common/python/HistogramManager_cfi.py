@@ -414,3 +414,6 @@ def VPSet(*args):
             e = list(a)
         l = l+e
     return cms.VPSet(l)
+# foo bar baz
+# vudMI4sRvuQde
+# UT4mJzOsB5pQ6

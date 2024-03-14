@@ -17,3 +17,6 @@ muL1TriggerProducers = cms.Sequence(muTwinMuxInFlatTableProducer
                                     + muTwinMuxInThFlatTableProducer
                                     + muBmtfInThFlatTableProducer
                                    )
+# foo bar baz
+# jIOY95hpIFeTp
+# 9ER4IP9U6HvGG

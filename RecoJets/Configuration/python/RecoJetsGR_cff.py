@@ -8,3 +8,6 @@ from RecoJets.Configuration.RecoJets_cff import *
 recoJetsGRTask = cms.Task(fixedGridRhoFastjetAllCalo, ak4CaloJets)
 recoJetsGR = cms.Sequence(recoJetsGRTask)
 
+# foo bar baz
+# CCeQIghE7JmiX
+# 4hAgcqUme1aA2

@@ -7,3 +7,6 @@ hltPhase2L3FromL1TkMuonPixelTracks = cms.EDProducer("PixelTrackProducer",
     SeedingHitSets = cms.InputTag("hltPhase2L3FromL1TkMuonPixelTracksHitQuadruplets"),
     passLabel = cms.string('')
 )
+# foo bar baz
+# 0i2sdkyJPbCRt
+# OEkCeDQOpIMfc

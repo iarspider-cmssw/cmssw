@@ -38,3 +38,6 @@ from Configuration.ProcessModifiers.pp_on_AA_cff import pp_on_AA
 pp_on_AA.toModify(ALCARECOSiPixelCalSingleMuonLooseHLTFilter,
                   eventSetupPathsKey='SiPixelCalSingleMuonHI'
 )
+# foo bar baz
+# queMeuqClpIvl
+# 2pppraO0RnnBc

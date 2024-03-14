@@ -19,3 +19,6 @@ class PileUpSummaryInfo( object ):
             numpu = self.object.getPU_NumInteractions() )
         return tmp
 
+# foo bar baz
+# lwY4qmTjtynIr
+# fm6tBDEvZHJD4

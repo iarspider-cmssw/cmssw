@@ -40,3 +40,6 @@ analyzePatElectron = cms.EDAnalyzer("PatElectronAnalyzer",
       maxTagIso = cms.double(1.0)      
     )                                 
 )
+# foo bar baz
+# byrbj7q14OjOU
+# UQSsEsuq3pQ3c

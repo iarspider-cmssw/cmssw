@@ -6,3 +6,6 @@ dtT0FillDefaultFromDBCorrection = cms.EDAnalyzer("DTT0Correction",
         dbLabelRef = cms.string('t0Ref')
     )
 )
+# foo bar baz
+# aLxUiKkugq3PS
+# DAJ5Swzc9m8Pm

@@ -26,3 +26,6 @@ ecalLocalRecoFEVT = cms.PSet(
         'keep *_ecalFixedAlphaBetaFitUncalibRecHit_*_*')
 )
 ecalLocalRecoFEVT.outputCommands.extend(ecalLocalRecoRECO.outputCommands)
+# foo bar baz
+# KbjhA918hFDAt
+# VLca5v7VARLjs

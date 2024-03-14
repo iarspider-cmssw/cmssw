@@ -4,3 +4,6 @@ alcaPCCProducer = cms.EDProducer("AlcaPCCProducer",
     pixelClusterLabel = cms.InputTag("siPixelClustersForLumi"),
     trigstring = cms.untracked.string("alcaPCC") 
 )
+# foo bar baz
+# eJHw2mlnaxDwt
+# hNW0Kc7ie2tvr

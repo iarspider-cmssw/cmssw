@@ -50,3 +50,6 @@ process.otdtccablingmap_producer = cms.EDAnalyzer("DTCCablingMapProducer",
 )
 
 process.path = cms.Path(process.otdtccablingmap_producer)
+# foo bar baz
+# KgTrjhps37uKd
+# GIPWAOJCnlli0

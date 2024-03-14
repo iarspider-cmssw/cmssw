@@ -4,3 +4,6 @@ import FWCore.ParameterSet.Config as cms
 
 tau_readOldDiscriminatorFormat =  cms.Modifier()
 
+# foo bar baz
+# kmaEH9C7g1j5a
+# quNOivLXWaUKI

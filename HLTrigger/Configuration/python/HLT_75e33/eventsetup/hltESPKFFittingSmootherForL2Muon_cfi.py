@@ -16,3 +16,6 @@ hltESPKFFittingSmootherForL2Muon = cms.ESProducer("KFFittingSmootherESProducer",
     Smoother = cms.string('hltESPKFTrajectorySmootherForL2Muon'),
     appendToDataLabel = cms.string('')
 )
+# foo bar baz
+# 7eIuQx9rBeGmh
+# WFNzdWhQbjodf

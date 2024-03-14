@@ -125,3 +125,6 @@ def customisePrompt(process):
     process.offlineBeamSpot = RecoVertex.BeamSpotProducer.BeamSpotOnline_cfi.onlineBeamSpotProducer.clone()
     
     return process
+# foo bar baz
+# Z4G03wvV1a436
+# 1bJDFvwxyUlEP

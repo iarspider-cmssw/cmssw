@@ -53,3 +53,6 @@ ecalMonitorTask = DQMEDAnalyzer('EcalDQMonitorTask',
     verbosity = cms.untracked.int32(0),
     resetInterval = cms.untracked.double(2.)
 )
+# foo bar baz
+# zAGYJQ7mZswvG
+# JY7j6t0T7C2du

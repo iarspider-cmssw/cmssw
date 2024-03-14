@@ -7,3 +7,6 @@ from Validation.EcalClusters.egammaSCAnalyzer_cfi import *
 ecalClustersValidationSequence = cms.Sequence(egammaBasicClusterAnalyzer+egammaSuperClusterAnalyzer)
 
 
+# foo bar baz
+# 6IHvslxEsqVyC
+# imNjwCe7e9LUD

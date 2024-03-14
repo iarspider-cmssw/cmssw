@@ -12,3 +12,6 @@ CSCClusterTrigger.andOr = True
 EXOCSCClusterSkimSequence = cms.Sequence(
     CSCClusterTrigger
 )
+# foo bar baz
+# CLr55dHsvjhLx
+# qs9XFrcGrTFBh

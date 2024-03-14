@@ -97,3 +97,6 @@ HIPAlignmentAlgorithm = cms.PSet(
     surveyFile = cms.string('HIPSurveyResiduals.root'),
 )
 
+# foo bar baz
+# nQtxCSktUL2em
+# WeF6wKcMyZIRr

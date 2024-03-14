@@ -64,3 +64,6 @@ if __name__ == '__main__':
     loop = main(options, args, parser)
     if not options.interactive:
         exit() # trigger exit also from ipython
+# foo bar baz
+# kdnvWXuY60465
+# Phh8lZNPaLu8C

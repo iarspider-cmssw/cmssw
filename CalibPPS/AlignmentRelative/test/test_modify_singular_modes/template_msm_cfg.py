@@ -56,3 +56,6 @@ process.ppsModifySingularModes.de_rho2 = -0.010
 process.p = cms.Path(
   process.ppsModifySingularModes
 )
+# foo bar baz
+# mqWe3kmmOxFUF
+# xNufgqSkTvOJh

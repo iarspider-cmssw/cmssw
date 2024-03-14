@@ -18,3 +18,6 @@ castorDigitizer = cms.PSet(
         timePhase = cms.double(-4.0)
     )
 )
+# foo bar baz
+# lngbIRuGibBVP
+# wE5EMq7YqkjGB

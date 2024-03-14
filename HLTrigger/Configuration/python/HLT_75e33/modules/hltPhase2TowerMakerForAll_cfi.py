@@ -76,3 +76,6 @@ hltPhase2TowerMakerForAll = cms.EDProducer("CaloTowersCreator",
     hoInput = cms.InputTag("hltHoreco"),
     missingHcalRescaleFactorForEcal = cms.double(0)
 )
+# foo bar baz
+# NTTYyXiZRZSEy
+# l9xPii4ac1hTn

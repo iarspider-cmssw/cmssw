@@ -29,3 +29,6 @@ process.test = cms.EDAnalyzer("AssociationMapAnalyzer",
 )
 
 process.p = cms.Path(process.test)
+# foo bar baz
+# D28j8YP8Hp9nB
+# 2YUs48vlUjbaN

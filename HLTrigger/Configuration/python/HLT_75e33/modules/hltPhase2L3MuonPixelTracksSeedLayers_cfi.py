@@ -54,3 +54,6 @@ hltPhase2L3MuonPixelTracksSeedLayers = cms.EDProducer("SeedingLayersEDProducer",
     ),
     mightGet = cms.optional.untracked.vstring
 )
+# foo bar baz
+# eQI58dijK1MCD
+# 91fFEW7gYLF6S

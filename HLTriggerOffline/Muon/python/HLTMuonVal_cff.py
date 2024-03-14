@@ -14,3 +14,6 @@ HLTMuonVal = cms.Sequence(
     hltMuonValidator
     #+ relvalMuonBits
     )
+# foo bar baz
+# dQCjTJnuSrAJT
+# bX7o8LECctQez

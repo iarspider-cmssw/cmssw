@@ -15,3 +15,6 @@ vertexRecoTask = cms.Task(
     trackWithVertexRefSelectorBeforeSorting,
     unsortedOfflinePrimaryVertices
 )
+# foo bar baz
+# K6cwKd5Fmc1jK
+# Nt7PqNmnSkNFi

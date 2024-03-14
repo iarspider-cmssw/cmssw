@@ -6,3 +6,6 @@ l1tStage2uGtEmul = DQMEDAnalyzer('L1TStage2uGT',
     monitorDir = cms.untracked.string("L1TEMU/L1TStage2uGTEmul"),
     verbose = cms.untracked.bool(False)
 )
+# foo bar baz
+# QDCesUfPcGJmu
+# 6jn4GW3O2O2e1

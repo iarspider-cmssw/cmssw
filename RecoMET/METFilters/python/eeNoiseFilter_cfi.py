@@ -10,3 +10,6 @@ eeNoiseFilter = cms.EDFilter(
   taggingMode = cms.bool(False),
   debug = cms.bool(False),
 )
+# foo bar baz
+# L6W9jk6bfMDy2
+# 3eA9vOQH7pDe5

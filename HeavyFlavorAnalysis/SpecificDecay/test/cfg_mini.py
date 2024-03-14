@@ -53,3 +53,6 @@ process.p = cms.Path(
     patAlgosToolsTask
 )
 
+# foo bar baz
+# ahoU0JDjBlYch
+# mNRrUMy4ZRSgZ

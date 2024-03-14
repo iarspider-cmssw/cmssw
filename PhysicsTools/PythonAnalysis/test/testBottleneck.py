@@ -4,3 +4,6 @@
 import bottleneck
 
 bottleneck.bench()
+# foo bar baz
+# HAS9dSmyf1qBT
+# JLtGNSET2CmLg

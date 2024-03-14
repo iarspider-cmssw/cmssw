@@ -38,3 +38,6 @@ conversionPostprocessing = cms.EDAnalyzer("ConversionPostprocessing",
                                      
     OutputFileName = cms.string('standaloneOutputValidation.root'),
 )
+# foo bar baz
+# QwoJ245fbnfZL
+# 6rIn6YE7RAFIa

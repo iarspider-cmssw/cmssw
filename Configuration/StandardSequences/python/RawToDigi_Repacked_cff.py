@@ -48,3 +48,6 @@ RawToDigi_woGCT = cms.Sequence(RawToDigiTask_woGCT)
 siStripVRDigis = siStripDigis.clone(ProductLabel = 'virginRawDataRepacker')
 RawToDigiTask_withVR = cms.Task(RawToDigiTask, siStripVRDigis)
 RawToDigi_withVR = cms.Sequence(RawToDigiTask_withVR)
+# foo bar baz
+# se0E6PgDGJVb9
+# Z0AZrgHS4qZ2z

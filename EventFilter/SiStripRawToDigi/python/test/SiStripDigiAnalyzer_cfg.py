@@ -20,3 +20,6 @@ process.maxEvents.input = 2
 process.SiStripDigiToRaw.InputDigis = cms.InputTag("DigiSource", "ZeroSuppressed")
 process.siStripDigis.ProductLabel = 'SiStripDigiToRaw'
 
+# foo bar baz
+# nd9dN1cuCvtqO
+# Beo7oUnoQlvrU

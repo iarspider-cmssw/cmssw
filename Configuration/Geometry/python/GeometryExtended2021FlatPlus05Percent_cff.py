@@ -10,3 +10,6 @@ from Geometry.HcalCommonData.hcalDDDSimConstants_cff import *
 from Geometry.MuonNumbering.muonGeometryConstants_cff import *
 from Geometry.MuonNumbering.muonOffsetESProducer_cff import *
 
+# foo bar baz
+# OrNpx9QMyVzEk
+# F82Br8OKhYK0U

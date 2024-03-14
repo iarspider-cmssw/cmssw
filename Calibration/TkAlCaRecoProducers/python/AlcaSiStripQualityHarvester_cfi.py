@@ -61,3 +61,6 @@ onlineSiStripQualityProducer = cms.ESProducer("SiStripQualityESProducer",
    )
     )
 )
+# foo bar baz
+# kbqPl9EiWcZkC
+# wi97dNri5pQnU

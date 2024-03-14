@@ -40,3 +40,6 @@ muonTestSummary = DQMEDHarvester("MuonTestSummary",
                              expMultiplicitySta_min = cms.double(0.01),
                              expMultiplicitySta_max = cms.double(0.02)
                              )
+# foo bar baz
+# q1hbo8roFYBkp
+# fX49z941IvM9R

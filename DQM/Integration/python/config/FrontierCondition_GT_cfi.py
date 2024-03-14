@@ -20,3 +20,6 @@ GlobalTag.toGet = cms.VPSet(
               refreshTime = cms.uint64( 1 )
             )
 )
+# foo bar baz
+# uke1NwgZpqgiV
+# 80YETUbr3XYgB

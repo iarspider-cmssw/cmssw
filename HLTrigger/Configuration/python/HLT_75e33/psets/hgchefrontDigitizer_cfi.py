@@ -63,3 +63,6 @@ hgchefrontDigitizer = cms.PSet(
     useAllChannels = cms.bool(True),
     verbosity = cms.untracked.uint32(0)
 )
+# foo bar baz
+# Aqb4acnpu7Xnx
+# H4sEyMmpZ9tK3

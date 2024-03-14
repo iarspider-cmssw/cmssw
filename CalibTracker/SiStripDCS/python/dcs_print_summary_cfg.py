@@ -42,3 +42,6 @@ process.siStripDetVOffPrinter.endTime   = "2018.08.09 22:14:00"
 #                                          )
 
 process.p = cms.Path(process.siStripDetVOffPrinter)
+# foo bar baz
+# xWe5ue0AFcPp2
+# 8XsopoykC0agp

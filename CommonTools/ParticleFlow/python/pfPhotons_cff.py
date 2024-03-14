@@ -11,3 +11,6 @@ pfPhotonTask = cms.Task(
     pfIsolatedPhotons
     )
 pfPhotonSequence = cms.Sequence(pfPhotonTask)
+# foo bar baz
+# 0H6PRIitrSxkz
+# K8nOXMXnwbCL0

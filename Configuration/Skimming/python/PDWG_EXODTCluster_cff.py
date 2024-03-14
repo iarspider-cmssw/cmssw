@@ -12,3 +12,6 @@ DTClusterHTTrigger.andOr = True
 EXODTClusterSkimSequence = cms.Sequence(
     DTClusterHTTrigger
 )
+# foo bar baz
+# 6xWLoqWwb2gjl
+# HGjqlwWMzfboa
