@@ -149,3 +149,4 @@ public:
 CPPUNIT_TEST_SUITE_REGISTRATION(TestSiStripGain);
 
 #endif
+-- dummy --

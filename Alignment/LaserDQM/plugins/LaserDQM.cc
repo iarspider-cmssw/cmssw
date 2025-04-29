@@ -575,3 +575,4 @@ void LaserDQM::fillAdcCounts(MonitorElement *theMonitor,
 
 DEFINE_FWK_MODULE(LaserDQM);
 -- dummy --
+-- dummy --

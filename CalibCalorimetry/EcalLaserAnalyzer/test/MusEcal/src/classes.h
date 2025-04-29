@@ -18,3 +18,4 @@ namespace CalibCalorimetry_EcalLaserAnalyzer_test_MusEcal {
   };
 }
 
+-- dummy --

@@ -60,3 +60,4 @@ protected:
 
 #endif  // Alignment_MuonAlignmentAlgorithms_MuonHitsChamberResidual_H
 -- dummy --
+-- dummy --

@@ -34,3 +34,4 @@ public:                                               // ----- Public member dat
 std::ostream &operator<<(std::ostream &, const NumberOfDevices &);
 
 #endif  // CalibTracker_SiStripObjects_NumberOfDevices_H
+-- dummy --

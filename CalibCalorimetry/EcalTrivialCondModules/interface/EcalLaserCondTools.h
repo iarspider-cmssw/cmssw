@@ -101,3 +101,4 @@ private:
 };
 
 #endif  //EcaLaserCondTools_h not defined
+-- dummy --

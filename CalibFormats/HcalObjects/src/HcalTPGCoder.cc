@@ -13,3 +13,4 @@ std::vector<unsigned short> HcalTPGCoder::getLinearizationLUT(HcalZDCDetId id, b
     lut[i] = adc2Linear(i, id);
   return lut;
 }
+-- dummy --

@@ -70,3 +70,4 @@ using TrackingRecHitSoAHostPhase2 = TrackingRecHitSoAHost<pixelTopology::Phase2>
 using TrackingRecHitSoAHostHIonPhase1 = TrackingRecHitSoAHost<pixelTopology::HIonPhase1>;
 
 #endif  // CUDADataFormats_Track_TrackHeterogeneousT_H
+-- dummy --

@@ -44,3 +44,4 @@ private:
 std::ostream &operator<<(std::ostream &s, const IntegerCaloSamples &samps);
 
 #endif
+-- dummy --

@@ -5,3 +5,4 @@
 typedef popcon::PopConAnalyzer<popcon::CSCFakeDBCrosstalkImpl> CSCFakeCrosstalkPopConAnalyzer;
 
 DEFINE_FWK_MODULE(CSCFakeCrosstalkPopConAnalyzer);
+-- dummy --

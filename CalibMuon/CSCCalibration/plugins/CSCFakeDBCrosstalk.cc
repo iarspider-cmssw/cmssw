@@ -22,3 +22,4 @@ void CSCFakeDBCrosstalk::setIntervalFor(const edm::eventsetup::EventSetupRecordK
                                         edm::ValidityInterval &oValidity) {
   oValidity = edm::ValidityInterval(edm::IOVSyncValue::beginOfTime(), edm::IOVSyncValue::endOfTime());
 }
+-- dummy --

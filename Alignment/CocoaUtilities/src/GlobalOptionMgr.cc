@@ -173,3 +173,4 @@ bool GlobalOptionMgr::setGlobalOption(const ALIstring gopt, const ALIdouble val,
   }
 }
 -- dummy --
+-- dummy --

@@ -107,3 +107,4 @@ AlignableSurface SurveyMisalignmentInput::getAlignableSurface(align::ID id) {
 #include "FWCore/Framework/interface/MakerMacros.h"
 
 DEFINE_FWK_MODULE(SurveyMisalignmentInput);
+-- dummy --

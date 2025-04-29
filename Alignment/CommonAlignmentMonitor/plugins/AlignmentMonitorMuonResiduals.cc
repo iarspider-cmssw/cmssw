@@ -2498,3 +2498,4 @@ void AlignmentMonitorMuonResiduals::afterAlignment() {
 
 DEFINE_EDM_PLUGIN(AlignmentMonitorPluginFactory, AlignmentMonitorMuonResiduals, "AlignmentMonitorMuonResiduals");
 -- dummy --
+-- dummy --

@@ -332,3 +332,4 @@ void EcalTrivialObjectAnalyzer::analyze(const edm::Event& e, const edm::EventSet
 
 }  //end of ::Analyze()
 //DEFINE_FWK_MODULE(EcalTrivialObjectAnalyzer);
+-- dummy --

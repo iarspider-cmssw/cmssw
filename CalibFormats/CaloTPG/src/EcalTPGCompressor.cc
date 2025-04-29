@@ -16,3 +16,4 @@ EcalTriggerPrimitiveSample EcalTPGCompressor::compress(const EcalTrigTowerDetId&
                                                        bool fineGrain) const {
   return coder_->ecalCompress(id, sample, fineGrain);
 }
+-- dummy --

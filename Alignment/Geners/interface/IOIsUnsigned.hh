@@ -34,3 +34,4 @@ gs_declare_type_as_unsigned(unsigned char) gs_declare_type_as_unsigned(unsigned 
 
 #endif  // GENERS_IOISUNSIGNED_HH_
 -- dummy --
+-- dummy --

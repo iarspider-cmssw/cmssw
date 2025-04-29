@@ -128,3 +128,4 @@ void HIPHitMonitorVariables::fill() {
   resetPerHit();
 }
 -- dummy --
+-- dummy --

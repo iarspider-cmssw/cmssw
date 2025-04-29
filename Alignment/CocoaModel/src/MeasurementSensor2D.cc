@@ -153,3 +153,4 @@ void MeasurementSensor2D::correctValueAndSigma() {
   setValue(1, val);
 }
 -- dummy --
+-- dummy --

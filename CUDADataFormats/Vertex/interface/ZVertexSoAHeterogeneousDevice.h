@@ -20,3 +20,4 @@ public:
 using ZVertexSoADevice = ZVertexSoAHeterogeneousDevice<zVertex::utilities::MAXTRACKS>;
 
 #endif  // CUDADataFormats_Vertex_ZVertexHeterogeneousDevice_H
+-- dummy --

@@ -20,3 +20,4 @@ namespace gs {
 
 #endif  // GENERS_IOISCLASSTYPE_HH_
 -- dummy --
+-- dummy --

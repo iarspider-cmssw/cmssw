@@ -37,3 +37,4 @@ gs_declare_type_as_number(float) gs_declare_type_as_number(double) gs_declare_ty
 
 #endif  // GENERS_IOISNUMBER_HH_
 -- dummy --
+-- dummy --

@@ -154,3 +154,4 @@ void AliDaqTemperature::DumpIt(const TString& Name) {
 
 //-----------------------------------------------------------------------------
 -- dummy --
+-- dummy --

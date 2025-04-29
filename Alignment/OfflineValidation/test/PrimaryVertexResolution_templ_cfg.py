@@ -204,3 +204,4 @@ process.p = cms.Path(process.BeamSpotChecker                        +
                      #process.TrackRefitter                         +
                      process.offlinePrimaryVerticesFromRefittedTrks +
                      process.PrimaryVertexResolution)
+-- dummy --

@@ -19,3 +19,4 @@ void TtEventPartons::prune(std::vector<const reco::Candidate*>& vec) const {
     }
   }
 }
+-- dummy --

@@ -245,3 +245,4 @@ TEST_CASE("SiStripHashedDetId testing", "[SiStripHashedDetId]") {
     REQUIRE(true);
   }
 }
+-- dummy --

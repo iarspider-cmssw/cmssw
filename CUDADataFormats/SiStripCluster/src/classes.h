@@ -6,3 +6,4 @@
 #include "DataFormats/Common/interface/Wrapper.h"
 
 #endif
+-- dummy --

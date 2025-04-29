@@ -381,3 +381,4 @@ void PixelTBMSettings::writeXMLTrailer(std::ofstream *outstream,
 
   outstream->close();
 }
+-- dummy --

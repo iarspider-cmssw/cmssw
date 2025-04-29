@@ -187,3 +187,4 @@ const CastorChannelStatus* CastorDbService::getCastorChannelStatus(const HcalGen
 }
 
 TYPELOOKUP_DATA_REG(CastorDbService);
+-- dummy --

@@ -66,3 +66,4 @@ inline CSCDBPedestals *CSCFakeDBPedestals::prefillDBPedestals() {
 }
 
 #endif
+-- dummy --

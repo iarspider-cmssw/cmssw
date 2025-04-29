@@ -79,3 +79,4 @@ inline bool MiscalibReaderFromXMLDomUtils::hasAttribute(XERCES_CPP_NAMESPACE::DO
 //----------------------------------------------------------------------
 
 #endif
+-- dummy --

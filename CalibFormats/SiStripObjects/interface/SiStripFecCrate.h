@@ -47,3 +47,4 @@ std::vector<SiStripFec> &SiStripFecCrate::fecs() { return fecs_; }
 const uint16_t &SiStripFecCrate::fecCrate() const { return fecCrate_; }
 
 #endif  // CalibTracker_SiStripObjects_SiStripFecCrate_H
+-- dummy --

@@ -42,3 +42,4 @@ protected:
 
 #endif  // Alignment_MuonAlignmentAlgorithms_MuonResidualsPositionFitter_H
 -- dummy --
+-- dummy --

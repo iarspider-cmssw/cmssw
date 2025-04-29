@@ -131,3 +131,4 @@ private:
   std::map<std::string, std::string> mInputs;
   std::unordered_map<std::string, edm::ESGetToken<HcalTopology, HcalRecNumberingRecord>> mTokens;
 };
+-- dummy --

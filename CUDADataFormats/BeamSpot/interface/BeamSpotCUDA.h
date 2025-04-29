@@ -31,3 +31,4 @@ private:
 };
 
 #endif  // CUDADataFormats_BeamSpot_interface_BeamSpotCUDA_h
+-- dummy --

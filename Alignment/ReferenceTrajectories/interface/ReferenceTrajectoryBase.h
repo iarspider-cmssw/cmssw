@@ -270,3 +270,4 @@ protected:
 };
 
 #endif  // REFERENCE_TRAJECTORY_BASE_H
+-- dummy --

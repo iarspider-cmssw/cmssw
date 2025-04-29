@@ -47,3 +47,4 @@ namespace pos {
 /* @} */
 
 #endif
+-- dummy --

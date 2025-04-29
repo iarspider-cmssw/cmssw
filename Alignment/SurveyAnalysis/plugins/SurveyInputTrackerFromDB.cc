@@ -107,3 +107,4 @@ void SurveyInputTrackerFromDB::addSurveyInfo(Alignable* ali) {
 #include "FWCore/Framework/interface/MakerMacros.h"
 
 DEFINE_FWK_MODULE(SurveyInputTrackerFromDB);
+-- dummy --

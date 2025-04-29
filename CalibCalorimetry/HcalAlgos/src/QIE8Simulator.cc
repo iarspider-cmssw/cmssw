@@ -192,3 +192,4 @@ double QIE8Simulator::totalIntegratedCharge(const double t) const {
         "please run the simulation first");
   return outputGain_ * getCharge(t);
 }
+-- dummy --

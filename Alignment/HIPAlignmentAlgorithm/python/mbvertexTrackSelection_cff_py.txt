@@ -86,3 +86,4 @@ process.AlignmentTrackSelector.etaMax  = 999.
 process.AlignmentTrackSelector.minHitsPerSubDet.inPIXEL = cms.int32(1)
 
 -- dummy --
+-- dummy --

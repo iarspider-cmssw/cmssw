@@ -77,3 +77,4 @@ EcalGlobalShowerContainmentCorrectionsVsEtaESProducer::produce(
 
 // define this as a plug-in
 DEFINE_FWK_EVENTSETUP_MODULE(EcalGlobalShowerContainmentCorrectionsVsEtaESProducer);
+-- dummy --

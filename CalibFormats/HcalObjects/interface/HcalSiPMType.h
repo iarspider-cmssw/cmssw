@@ -13,3 +13,4 @@ enum HcalSiPMType {
 };
 
 #endif
+-- dummy --

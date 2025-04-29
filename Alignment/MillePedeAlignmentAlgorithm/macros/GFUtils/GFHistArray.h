@@ -48,3 +48,4 @@ protected:
 };
 #endif // __GFHISTARRAY_H
 -- dummy --
+-- dummy --

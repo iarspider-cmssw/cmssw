@@ -5,3 +5,4 @@ ErrorCorrelation::ErrorCorrelation(const pss& entry1, const pss& entry2, const A
 
 void ErrorCorrelation::update(const ALIdouble corr) { theCorr = corr; }
 -- dummy --
+-- dummy --

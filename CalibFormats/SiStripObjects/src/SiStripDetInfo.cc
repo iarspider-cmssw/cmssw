@@ -45,3 +45,4 @@ const float& SiStripDetInfo::getThickness(uint32_t detId) const {
     return defaultValue;
   }
 }
+-- dummy --

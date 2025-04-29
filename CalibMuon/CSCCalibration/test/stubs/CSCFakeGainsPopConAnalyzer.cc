@@ -5,3 +5,4 @@
 typedef popcon::PopConAnalyzer<popcon::CSCFakeDBGainsImpl> CSCFakeGainsPopConAnalyzer;
 
 DEFINE_FWK_MODULE(CSCFakeGainsPopConAnalyzer);
+-- dummy --

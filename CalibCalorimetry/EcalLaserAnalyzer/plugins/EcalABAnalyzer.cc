@@ -591,3 +591,4 @@ void EcalABAnalyzer::endJob() {
 }
 
 DEFINE_FWK_MODULE(EcalABAnalyzer);
+-- dummy --

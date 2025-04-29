@@ -7,3 +7,4 @@
 <library name="CalibMuonCSCCalibrationPlugins" file="*.cc">
   <flags EDM_PLUGIN="1"/>
 </library>
+-- dummy --

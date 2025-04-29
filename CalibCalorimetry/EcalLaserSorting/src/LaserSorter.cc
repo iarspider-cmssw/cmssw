@@ -1157,3 +1157,4 @@ void LaserSorter::restoreStreamsOfLumiBlock(int lumiBlock) {
 void LaserSorter::beginRun(edm::Run const& run, edm::EventSetup const& es) {}
 
 void LaserSorter::endRun(edm::Run const& run, edm::EventSetup const& es) {}
+-- dummy --

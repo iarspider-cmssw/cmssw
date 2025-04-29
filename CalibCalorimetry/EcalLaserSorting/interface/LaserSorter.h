@@ -472,3 +472,4 @@ private:
 };
 
 #endif  //EVENT_SELECT_H not defined
+-- dummy --

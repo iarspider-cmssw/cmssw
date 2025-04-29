@@ -266,3 +266,4 @@ std::unique_ptr<CastorSaturationCorrs> CastorHardcodeCalibrations::produceSatura
 #include "FWCore/Framework/interface/SourceFactory.h"
 
 DEFINE_FWK_EVENTSETUP_SOURCE(CastorHardcodeCalibrations);
+-- dummy --

@@ -52,3 +52,4 @@ void AlignableStackDet::consistifyAlignments() {
   this->addDisplacement(movement);
   this->addRotation(rotation);
 }
+-- dummy --

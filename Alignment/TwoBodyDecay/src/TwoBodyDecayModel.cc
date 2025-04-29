@@ -126,3 +126,4 @@ const std::pair<AlgebraicVector, AlgebraicVector> TwoBodyDecayModel::cartesianSe
     const TwoBodyDecayParameters &tbdparam) {
   return cartesianSecondaryMomenta(tbdparam.parameters());
 }
+-- dummy --

@@ -109,3 +109,4 @@ void LaserPrimaryGeneratorAction::setGeneratorId(G4PrimaryParticle *aParticle, i
   // }}}
 }
 -- dummy --
+-- dummy --

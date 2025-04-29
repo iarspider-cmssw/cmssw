@@ -275,3 +275,4 @@ void TestConverter::analyze(const edm::Event& iEvent, const edm::EventSetup& iSe
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(TestConverter);
+-- dummy --

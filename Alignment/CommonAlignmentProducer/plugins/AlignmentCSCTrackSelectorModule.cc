@@ -48,3 +48,4 @@ typedef ObjectSelector<CSCTrackConfigSelector> AlignmentCSCTrackSelectorModule;
 
 DEFINE_FWK_MODULE(AlignmentCSCTrackSelectorModule);
 -- dummy --
+-- dummy --

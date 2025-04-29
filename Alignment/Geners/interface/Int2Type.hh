@@ -25,3 +25,4 @@ namespace gs {
 
 #endif  // GENERS_INT2TYPE_HH_
 -- dummy --
+-- dummy --

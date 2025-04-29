@@ -2488,3 +2488,4 @@ bool HcalDbASCIIIO::dumpObject(std::ostream& fOutput, const HcalCalibrationWidth
   }
   return true;
 }
+-- dummy --

@@ -85,3 +85,4 @@ void CaloMiscalibTools::setIntervalFor(const edm::eventsetup::EventSetupRecordKe
                                        edm::ValidityInterval& oValidity) {
   oValidity = edm::ValidityInterval(edm::IOVSyncValue::beginOfTime(), edm::IOVSyncValue::endOfTime());
 }
+-- dummy --

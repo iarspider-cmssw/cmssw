@@ -79,3 +79,4 @@ int HcalEmap_test::test_read_map(std::string filename) {
   HcalEmap map(filename);
   return 0;
 }
+-- dummy --

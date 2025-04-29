@@ -10,3 +10,4 @@ echo " TESTING auto submitter"
 python3 $CMSSW_BASE/src/Alignment/APEEstimation/test/autoSubmitter/autoSubmitter.py -c $CMSSW_BASE/src/Alignment/APEEstimation/test/autoSubmitter/unitTest.ini -u || die "Failure running autoSubmitter" $?
 
 -- dummy --
+-- dummy --

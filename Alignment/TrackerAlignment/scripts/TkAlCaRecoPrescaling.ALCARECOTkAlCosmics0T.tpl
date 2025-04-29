@@ -98,3 +98,4 @@ process.OutALCARECOTkAlCosmicsPrescaled = cms.OutputModule("PoolOutputModule",
 
 process.OutputALCARECOTkAlCosmicsPrescaled = cms.EndPath(process.OutALCARECOTkAlCosmicsPrescaled)
 process.schedule = cms.Schedule(process.pathALCARECOTkAlCosmicsCTFPrescaled,process.OutputALCARECOTkAlCosmicsPrescaled)
+-- dummy --

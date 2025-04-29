@@ -73,3 +73,4 @@ private:
   const edm::EDGetTokenT<EcalMatacqDigiCollection> pmatToken_;
   const edm::EDGetTokenT<EcalRawDataCollection> dccToken_;
 };
+-- dummy --

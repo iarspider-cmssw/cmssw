@@ -82,3 +82,4 @@ const HcalPulseContainmentCorrection* HcalPulseContainmentManager::get(const Hca
   entries_.push_back(entry);
   return &(entries_.back().correction_);
 }
+-- dummy --

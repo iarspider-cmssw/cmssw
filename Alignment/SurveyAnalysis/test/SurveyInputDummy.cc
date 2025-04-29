@@ -125,3 +125,4 @@ void SurveyInputDummy::addSurveyInfo(Alignable* ali) {
 
 #include "FWCore/Framework/interface/MakerMacros.h"
 DEFINE_FWK_MODULE(SurveyInputDummy);
+-- dummy --

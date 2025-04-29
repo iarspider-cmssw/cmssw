@@ -38,3 +38,4 @@ private:
 };
 
 #endif  // CUDADataFormats_SiPixelDigi_interface_SiPixelDigisCUDA_h
+-- dummy --

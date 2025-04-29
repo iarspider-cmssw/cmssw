@@ -131,3 +131,4 @@ void CSCFakeCrosstalkConditions::setIntervalFor(const edm::eventsetup::EventSetu
                                                 edm::ValidityInterval &oValidity) {
   oValidity = edm::ValidityInterval(edm::IOVSyncValue::beginOfTime(), edm::IOVSyncValue::endOfTime());
 }
+-- dummy --

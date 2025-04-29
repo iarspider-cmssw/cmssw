@@ -64,3 +64,4 @@ std::ostream &operator<<(std::ostream &os, const NumberOfDevices &devs) {
   os << ss.str();
   return os;
 }
+-- dummy --

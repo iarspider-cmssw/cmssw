@@ -39,3 +39,4 @@ private:
 
   const edm::ESGetToken<EcalIntercalibConstantsMC, EcalIntercalibConstantsMCRcd> intercalibConstsToken_;
 };
+-- dummy --

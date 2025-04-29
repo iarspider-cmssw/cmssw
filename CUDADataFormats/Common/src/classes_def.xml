@@ -2,3 +2,4 @@
   <class name="HostProduct<uint32_t[]>" persistent="false"/>
   <class name="edm::Wrapper<HostProduct<uint32_t[]>>" persistent="false"/>
 </lcgdict>
+-- dummy --

@@ -206,3 +206,4 @@ namespace pos {
   }  // namespace PortCardSettingNames
 }  // namespace pos
 #endif
+-- dummy --

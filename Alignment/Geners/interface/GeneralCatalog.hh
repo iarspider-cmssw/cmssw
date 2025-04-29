@@ -89,3 +89,4 @@ namespace gs {
 
 #endif  // GENERS_GENERALCATALOG_HH_
 -- dummy --
+-- dummy --

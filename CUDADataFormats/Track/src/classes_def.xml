@@ -19,3 +19,4 @@
   <class name="edm::Wrapper<cms::cuda::Product<pixelTrack::TrackSoADeviceHIonPhase1>>" persistent="false"/>
 
 </lcgdict>
+-- dummy --

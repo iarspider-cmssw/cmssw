@@ -5,3 +5,4 @@
 typedef popcon::PopConAnalyzer<popcon::CSCDBPedestalsImpl> CSCPedestalsPopConAnalyzer;
 
 DEFINE_FWK_MODULE(CSCPedestalsPopConAnalyzer);
+-- dummy --

@@ -73,3 +73,4 @@ public:
   ClassDefOverride(TEcnaNArrayD, 1)  //ROOT class for multidimensional arrays of Double_t
 };
 #endif
+-- dummy --

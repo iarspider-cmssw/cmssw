@@ -7,3 +7,4 @@ cmsRun $CMSSW_BASE/src/Alignment/TrackerAlignment/test/cosmicRateAnalyzer_cfg.py
 
 rfcp Cosmic_rate_tuple.root $CMSSW_BASE/src/Alignment/TrackerAlignment/test
 
+-- dummy --

@@ -763,3 +763,4 @@ ALIint CocoaToDDLMgr::buildRotationNumber(OpticalObject* opto) {
   return rotnum;
 }
 -- dummy --
+-- dummy --

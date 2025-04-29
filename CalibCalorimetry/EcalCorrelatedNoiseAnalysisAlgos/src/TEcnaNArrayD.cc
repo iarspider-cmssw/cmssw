@@ -366,3 +366,4 @@ Double_t &TEcnaNArrayD::operator()(Int_t i1, Int_t i2, Int_t i3, Int_t i4, Int_t
   i = OneDim(i1, i2, i3, i4, i5, i6);
   return fA[i];
 }
+-- dummy --

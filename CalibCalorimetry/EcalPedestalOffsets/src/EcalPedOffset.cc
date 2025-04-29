@@ -463,3 +463,4 @@ std::string EcalPedOffset::intToString(int num) {
   myStream << num << std::flush;
   return (myStream.str());  // returns the string form of the stringstream object
 }
+-- dummy --

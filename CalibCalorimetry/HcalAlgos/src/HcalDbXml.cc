@@ -266,3 +266,4 @@ bool HcalDbXml::dumpObject(std::ostream& fOutput,
   dumpFooter(fOutput);
   return true;
 }
+-- dummy --

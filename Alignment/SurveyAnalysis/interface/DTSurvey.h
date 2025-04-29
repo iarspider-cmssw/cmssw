@@ -53,3 +53,4 @@ private:
 std::ostream &operator<<(std::ostream &, const DTSurvey &);
 
 #endif
+-- dummy --

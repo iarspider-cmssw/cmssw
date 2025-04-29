@@ -47,3 +47,4 @@ void EcalContainmentCorrectionAnalyzer::analyze(edm::StreamID,
         << "ieta " << aId.ieta() << " " << e3x3 << " " << e5x5 << "\n";
   }
 }
+-- dummy --

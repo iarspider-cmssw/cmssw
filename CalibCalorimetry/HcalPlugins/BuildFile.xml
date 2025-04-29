@@ -11,3 +11,4 @@
 <use name="FWCore/Utilities"/>
 <use name="Geometry/CaloTopology"/>
 <flags EDM_PLUGIN="1"/>
+-- dummy --

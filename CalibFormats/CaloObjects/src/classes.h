@@ -8,3 +8,4 @@ namespace CalibFormats_CaloObjects {
     edm::Wrapper<CaloSamplesCollection> wcvs;
   };
 }  // namespace CalibFormats_CaloObjects
+-- dummy --

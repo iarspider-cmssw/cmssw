@@ -6,3 +6,4 @@
 
 DEFINE_FWK_EVENTSETUP_SOURCE(HcalHardcodeCalibrations);
 DEFINE_FWK_EVENTSETUP_SOURCE(HcalTextCalibrations);
+-- dummy --

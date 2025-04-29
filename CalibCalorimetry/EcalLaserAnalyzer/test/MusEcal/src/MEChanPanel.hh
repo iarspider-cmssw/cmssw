@@ -68,3 +68,4 @@ ClassDef(MEChanPanel,0) // MEChanPanel --
 };
 
 #endif
+-- dummy --

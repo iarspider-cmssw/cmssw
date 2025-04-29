@@ -17,3 +17,4 @@ EEDetId MiscalibReaderFromXMLEcalEndcap::getCellFromAttributes(int ix, int iy, i
     return EEDetId(0);
   }
 }
+-- dummy --

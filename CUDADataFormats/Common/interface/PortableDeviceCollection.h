@@ -65,3 +65,4 @@ namespace cms::cuda {
 }  // namespace cms::cuda
 
 #endif  // CUDADataFormats_Common_interface_PortableDeviceCollection_h
+-- dummy --

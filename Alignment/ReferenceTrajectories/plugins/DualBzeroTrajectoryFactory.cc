@@ -200,3 +200,4 @@ const TrajectoryStateOnSurface DualBzeroTrajectoryFactory::propagateExternal(con
 }
 
 DEFINE_EDM_PLUGIN(TrajectoryFactoryPlugin, DualBzeroTrajectoryFactory, "DualBzeroTrajectoryFactory");
+-- dummy --

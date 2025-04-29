@@ -38,3 +38,4 @@ unsigned int ReferenceTrajectoryBase::numberOfUsedRecHits(
 bool ReferenceTrajectoryBase::useRecHit(const TransientTrackingRecHit::ConstRecHitPointer& hitPtr) const {
   return hitPtr->isValid();
 }
+-- dummy --

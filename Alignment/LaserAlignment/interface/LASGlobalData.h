@@ -292,3 +292,4 @@ void LASGlobalData<T>::Init(const T& in) {
 
 #endif
 -- dummy --
+-- dummy --

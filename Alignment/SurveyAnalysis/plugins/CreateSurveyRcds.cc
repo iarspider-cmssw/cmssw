@@ -1006,3 +1006,4 @@ AlgebraicVector CreateSurveyRcds::getStructureErrors(int level, int subdetlevel)
 #include "FWCore/Framework/interface/MakerMacros.h"
 
 DEFINE_FWK_MODULE(CreateSurveyRcds);
+-- dummy --

@@ -24,3 +24,4 @@ struct ZVertexSoA {
 };
 
 #endif  // CUDADataFormats_Vertex_ZVertexSoA_h
+-- dummy --

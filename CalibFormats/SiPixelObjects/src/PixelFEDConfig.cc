@@ -320,3 +320,4 @@ void PixelFEDConfig::writeXMLTrailer(std::ofstream *outstream,
 
   outstream->close();
 }
+-- dummy --

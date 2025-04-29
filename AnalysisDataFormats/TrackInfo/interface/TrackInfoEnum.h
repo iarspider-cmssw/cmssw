@@ -16,3 +16,4 @@ namespace reco {
   enum RecHitType { Single = 0, Matched = 1, Projected = 2, Null = 3 };
 }  // namespace reco
 #endif
+-- dummy --

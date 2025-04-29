@@ -99,3 +99,4 @@ private:
   const edm::ESGetToken<EcalSampleMask, EcalSampleMaskRcd> sampleMaskToken_;
 };
 #endif
+-- dummy --

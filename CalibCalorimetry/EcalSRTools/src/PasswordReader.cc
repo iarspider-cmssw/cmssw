@@ -74,3 +74,4 @@ std::string PasswordReader::trim(const std::string& s, const std::string& chars)
   }
   return s.substr(pos0, pos1 - pos0);
 }
+-- dummy --

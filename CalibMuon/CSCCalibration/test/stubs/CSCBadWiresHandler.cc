@@ -30,3 +30,4 @@ void popcon::CSCBadWiresImpl::getNewObjects() {
 
   std::cout << "------- " << m_name << "CSC src - > getNewObjects -----------\n" << std::endl;
 }
+-- dummy --

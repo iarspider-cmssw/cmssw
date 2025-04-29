@@ -41,3 +41,4 @@ void popcon::CSCDBGasGainCorrectionImpl::getNewObjects() {
   std::cout << "------- " << m_name << "CSC src - > getNewObjects -----------\n" << std::endl;
   std::cout << "CSCGasGainCorrectionHandler - time before writing into DB:" << std::endl;
 }
+-- dummy --

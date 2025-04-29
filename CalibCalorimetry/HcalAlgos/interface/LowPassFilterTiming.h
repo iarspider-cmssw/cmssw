@@ -9,3 +9,4 @@ public:
 };
 
 #endif  // CalibCalorimetry_HcalAlgos_LowPassFilterTiming_h_
+-- dummy --

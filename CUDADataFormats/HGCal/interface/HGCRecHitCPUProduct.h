@@ -63,3 +63,4 @@ private:
 };
 
 #endif  //CUDADAtaFormats_HGCal_HGCRecHitCPUProduct_H
+-- dummy --

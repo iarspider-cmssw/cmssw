@@ -44,3 +44,4 @@ AlgebraicVector DualBzeroReferenceTrajectory::extractParameters(const Trajectory
   AlgebraicVector param = asHepVector<5>(referenceTsos.localParameters().mixedFormatVector());
   return param.sub(2, 5);
 }
+-- dummy --

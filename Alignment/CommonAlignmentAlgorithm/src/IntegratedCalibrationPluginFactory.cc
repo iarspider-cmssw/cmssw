@@ -11,3 +11,4 @@
 
 EDM_REGISTER_PLUGINFACTORY(IntegratedCalibrationPluginFactory, "IntegratedCalibrationPluginFactory");
 -- dummy --
+-- dummy --

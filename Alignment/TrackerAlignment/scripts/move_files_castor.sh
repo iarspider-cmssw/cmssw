@@ -16,3 +16,4 @@ echo "Moved $NMOVED files"
 echo ""
 echo "List of files remaining in INDIR=${INDIR}"
 nsls $INDIR
+-- dummy --

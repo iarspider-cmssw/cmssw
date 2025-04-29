@@ -30,3 +30,4 @@ namespace gs {
 
 #endif  // GENERS_CHARBUFFER_HH_
 -- dummy --
+-- dummy --

@@ -120,3 +120,4 @@ const BzeroReferenceTrajectoryFactory::ReferenceTrajectoryCollection BzeroRefere
 }
 
 DEFINE_EDM_PLUGIN(TrajectoryFactoryPlugin, BzeroReferenceTrajectoryFactory, "BzeroReferenceTrajectoryFactory");
+-- dummy --

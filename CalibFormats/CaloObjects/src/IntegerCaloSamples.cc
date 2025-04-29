@@ -19,3 +19,4 @@ std::ostream &operator<<(std::ostream &s, const IntegerCaloSamples &samples) {
     s << i << ":" << samples[i] << std::endl;
   return s;
 }
+-- dummy --

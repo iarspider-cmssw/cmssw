@@ -500,3 +500,4 @@ void AlignmentStats::endJob() {
 #include "FWCore/Framework/interface/MakerMacros.h"
 DEFINE_FWK_MODULE(AlignmentStats);
 -- dummy --
+-- dummy --

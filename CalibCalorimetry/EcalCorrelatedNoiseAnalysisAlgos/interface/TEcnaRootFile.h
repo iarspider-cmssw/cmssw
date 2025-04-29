@@ -65,3 +65,4 @@ public:
 R__EXTERN TEcnaRootFile *gCnaRootFile;
 
 #endif
+-- dummy --

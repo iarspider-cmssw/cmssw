@@ -1044,3 +1044,4 @@ bool TkLasBeamFitter::fitBeam(TkFittedLasBeam &beam,
 //define this as a plug-in
 DEFINE_FWK_MODULE(TkLasBeamFitter);
 -- dummy --
+-- dummy --

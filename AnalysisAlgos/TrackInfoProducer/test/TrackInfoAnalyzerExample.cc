@@ -101,3 +101,4 @@ TrackInfoAnalyzerExample::TrackInfoAnalyzerExample(const edm::ParameterSet& pset
       tkCollectionToken(consumes<reco::TrackCollection>(pset.getParameter<edm::InputTag>("Tracks"))) {}
 
 DEFINE_FWK_MODULE(TrackInfoAnalyzerExample);
+-- dummy --

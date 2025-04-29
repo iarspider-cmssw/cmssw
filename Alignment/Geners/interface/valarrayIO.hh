@@ -112,3 +112,4 @@ gs_specialize_template_id_T(std::valarray, 0, 1)
 #endif // GENERS_VALARRAYIO_HH_
 
 -- dummy --
+-- dummy --

@@ -676,3 +676,4 @@ void Measurement::setName() {
   theName = type() + ":" + (*vsite);
 }
 -- dummy --
+-- dummy --

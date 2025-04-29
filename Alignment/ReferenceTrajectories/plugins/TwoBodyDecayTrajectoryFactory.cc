@@ -247,3 +247,4 @@ bool TwoBodyDecayTrajectoryFactory::match(const TrajectoryStateOnSurface &state,
 }
 
 DEFINE_EDM_PLUGIN(TrajectoryFactoryPlugin, TwoBodyDecayTrajectoryFactory, "TwoBodyDecayTrajectoryFactory");
+-- dummy --

@@ -305,3 +305,4 @@ namespace gs {
 
 #endif  // GENERS_BINARYIO_HH_
 -- dummy --
+-- dummy --

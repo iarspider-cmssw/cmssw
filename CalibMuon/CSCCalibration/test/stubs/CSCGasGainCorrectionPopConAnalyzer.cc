@@ -5,3 +5,4 @@
 typedef popcon::PopConAnalyzer<popcon::CSCDBGasGainCorrectionImpl> CSCDBGasGainCorrectionPopConAnalyzer;
 
 DEFINE_FWK_MODULE(CSCDBGasGainCorrectionPopConAnalyzer);
+-- dummy --

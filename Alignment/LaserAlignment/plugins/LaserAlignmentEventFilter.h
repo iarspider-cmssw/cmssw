@@ -27,3 +27,4 @@ private:
   const uint16_t channel_count_thresh;   // nr. of channels that have to contain signal for LAS event
 };
 -- dummy --
+-- dummy --

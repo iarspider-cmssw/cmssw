@@ -1692,3 +1692,4 @@ void GeometryComparisonPlotter::WriteTable(std::vector<TString> x,
   output << "\\end{table}" << std::endl;
 }
 -- dummy --
+-- dummy --

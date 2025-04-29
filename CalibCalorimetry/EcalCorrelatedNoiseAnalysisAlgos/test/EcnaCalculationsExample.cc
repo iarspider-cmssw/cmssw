@@ -93,3 +93,4 @@ int main(int argc, char** argv) {
   std::cout << "*EcnaCalculationsExample> Exiting main program." << std::endl;
   exit(0);
 }
+-- dummy --

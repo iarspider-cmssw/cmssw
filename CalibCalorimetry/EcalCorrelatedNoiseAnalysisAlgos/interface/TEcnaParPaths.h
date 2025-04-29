@@ -102,3 +102,4 @@ public:
 };
 
 #endif  //    ZTR_TEcnaParPaths
+-- dummy --

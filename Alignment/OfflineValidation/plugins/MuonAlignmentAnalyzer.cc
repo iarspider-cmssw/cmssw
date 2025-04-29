@@ -2590,3 +2590,4 @@ RecHitVector MuonAlignmentAnalyzer::doMatching(const reco::Track &staTrack,
 
 DEFINE_FWK_MODULE(MuonAlignmentAnalyzer);
 -- dummy --
+-- dummy --

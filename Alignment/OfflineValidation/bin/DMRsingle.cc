@@ -38,3 +38,4 @@ int single(int argc, char* argv[]) {
 int main(int argc, char* argv[]) { return exceptions<single>(argc, argv); }
 #endif
 -- dummy --
+-- dummy --

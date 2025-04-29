@@ -22,3 +22,4 @@ void CSCFakeDBGains::setIntervalFor(const edm::eventsetup::EventSetupRecordKey &
                                     edm::ValidityInterval &oValidity) {
   oValidity = edm::ValidityInterval(edm::IOVSyncValue::beginOfTime(), edm::IOVSyncValue::endOfTime());
 }
+-- dummy --

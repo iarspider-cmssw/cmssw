@@ -415,3 +415,4 @@ void LhcTrackAnalyzer::SetVarToZero()
 //define this as a plug-in
 DEFINE_FWK_MODULE(LhcTrackAnalyzer);
 -- dummy --
+-- dummy --

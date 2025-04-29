@@ -138,3 +138,4 @@ namespace HcalDbXml {
                   const HcalTPChannelParameters& fObject);
 }  // namespace HcalDbXml
 #endif
+-- dummy --

@@ -839,3 +839,4 @@ void LASBarrelAlgorithm::ReadStartParametersFromFile(const char* filename, float
   }
 }
 -- dummy --
+-- dummy --

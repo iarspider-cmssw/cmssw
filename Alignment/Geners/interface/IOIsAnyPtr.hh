@@ -16,3 +16,4 @@ namespace gs {
 
 #endif  // GENERS_IOISANYPTR_HH_
 -- dummy --
+-- dummy --

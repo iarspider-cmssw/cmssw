@@ -5,3 +5,4 @@
 typedef popcon::PopConAnalyzer<popcon::CSCDBNoiseMatrixImpl> CSCNoiseMatrixPopConAnalyzer;
 
 DEFINE_FWK_MODULE(CSCNoiseMatrixPopConAnalyzer);
+-- dummy --

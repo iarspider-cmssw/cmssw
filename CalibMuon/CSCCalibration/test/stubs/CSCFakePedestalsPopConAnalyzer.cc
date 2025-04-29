@@ -5,3 +5,4 @@
 typedef popcon::PopConAnalyzer<popcon::CSCFakeDBPedestalsImpl> CSCFakePedestalsPopConAnalyzer;
 
 DEFINE_FWK_MODULE(CSCFakePedestalsPopConAnalyzer);
+-- dummy --

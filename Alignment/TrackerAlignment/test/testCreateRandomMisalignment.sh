@@ -7,3 +7,4 @@ for a in $(ls $folder); do
     echo "running unit test: " ${a}
     cmsRun $folder/${a} || die "Failure running ${a}" $?
 done 
+-- dummy --

@@ -6,3 +6,4 @@ cmsRun ${CMSSW_BASE}/src/Alignment/OfflineValidation/test/eopTreeWriter_cfg.py u
 
 echo -e "\n\nTESTING eopElecTreeWriter (Electron Analysis) ..."
 cmsRun ${CMSSW_BASE}/src/Alignment/OfflineValidation/test/eopElecTreeWriter_cfg.py maxEvents=100 || die "Failure running eopElecTreeWriter" $?
+-- dummy --

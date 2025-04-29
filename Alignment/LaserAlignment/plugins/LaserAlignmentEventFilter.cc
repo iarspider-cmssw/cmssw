@@ -111,3 +111,4 @@ bool LaserAlignmentEventFilter::filter(edm::StreamID sid, edm::Event& iEvent, co
 //define this as a plug-in
 DEFINE_FWK_MODULE(LaserAlignmentEventFilter);
 -- dummy --
+-- dummy --

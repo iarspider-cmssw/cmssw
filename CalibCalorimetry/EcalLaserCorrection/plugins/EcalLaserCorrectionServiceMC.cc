@@ -93,3 +93,4 @@ std::shared_ptr<EcalLaserDbService> EcalLaserCorrectionServiceMC::produce(const 
 }
 
 DEFINE_FWK_EVENTSETUP_MODULE(EcalLaserCorrectionServiceMC);
+-- dummy --

@@ -172,3 +172,4 @@ inline const SiStripRegionCabling::SubDet SiStripRegionCabling::subdet(const uin
 inline const uint32_t SiStripRegionCabling::region(const uint32_t index) { return index / (ALLSUBDETS * ALLLAYERS); }
 
 #endif
+-- dummy --

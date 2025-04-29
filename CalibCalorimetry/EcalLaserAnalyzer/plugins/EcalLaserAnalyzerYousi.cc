@@ -476,3 +476,4 @@ void EcalLaserAnalyzerYousi::endJob() {
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(EcalLaserAnalyzerYousi);
+-- dummy --

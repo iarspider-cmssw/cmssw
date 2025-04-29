@@ -122,3 +122,4 @@ private:
   ShapeMap theShapes;
 };
 #endif
+-- dummy --

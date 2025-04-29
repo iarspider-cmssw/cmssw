@@ -49,3 +49,4 @@ namespace gs {
 
 #endif  // GENERS_STRIPPEDTYPE_HH_
 -- dummy --
+-- dummy --

@@ -67,3 +67,4 @@ align::GlobalPoints SurveyDet::globalPoints() const { return theSurface.toGlobal
 
 #endif
 -- dummy --
+-- dummy --

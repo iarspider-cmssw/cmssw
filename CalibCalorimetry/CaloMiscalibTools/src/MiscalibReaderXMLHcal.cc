@@ -18,3 +18,4 @@ HcalDetId MiscalibReaderFromXMLHcal::getCellFromAttributes(int idet, int ieta, i
     return HcalDetId(0);
   }
 }
+-- dummy --

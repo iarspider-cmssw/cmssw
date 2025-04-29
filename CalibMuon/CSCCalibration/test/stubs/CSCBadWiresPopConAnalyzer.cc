@@ -5,3 +5,4 @@
 typedef popcon::PopConAnalyzer<popcon::CSCBadWiresImpl> CSCBadWiresPopConAnalyzer;
 
 DEFINE_FWK_MODULE(CSCBadWiresPopConAnalyzer);
+-- dummy --

@@ -110,3 +110,4 @@ const CombinedTrajectoryFactory::ReferenceTrajectoryCollection CombinedTrajector
 }
 
 DEFINE_EDM_PLUGIN(TrajectoryFactoryPlugin, CombinedTrajectoryFactory, "CombinedTrajectoryFactory");
+-- dummy --

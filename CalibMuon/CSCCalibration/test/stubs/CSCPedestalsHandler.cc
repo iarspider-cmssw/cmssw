@@ -36,3 +36,4 @@ void popcon::CSCDBPedestalsImpl::getNewObjects() {
   std::cout << "------- " << m_name << "CSC src - > getNewObjects -----------\n" << std::endl;
   std::cout << "CSCPedestalsHandler - time before writing into DB:" << std::endl;
 }
+-- dummy --

@@ -14,3 +14,4 @@ DEFINE_FWK_MODULE(EcalRecHitRecalib);
 DEFINE_FWK_MODULE(HcalRecHitRecalib);
 DEFINE_FWK_MODULE(WriteEcalMiscalibConstants);
 DEFINE_FWK_MODULE(WriteEcalMiscalibConstantsMC);
+-- dummy --

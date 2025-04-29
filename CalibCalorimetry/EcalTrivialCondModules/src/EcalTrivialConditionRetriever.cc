@@ -3590,3 +3590,4 @@ std::unique_ptr<EcalSimComponentShape> EcalTrivialConditionRetriever::getEcalSim
 
   return result;
 }
+-- dummy --

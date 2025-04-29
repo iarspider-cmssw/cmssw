@@ -165,3 +165,4 @@ MEMultiVarPanel::DoGo()
     } 
   _gui->multiVarPlot(1);
 }
+-- dummy --

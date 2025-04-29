@@ -11,3 +11,4 @@ EBDetId MiscalibReaderFromXMLEcalBarrel::getCellFromAttributes(int ieta, int iph
   EBDetId cell(ieta, iphi);
   return cell;
 }
+-- dummy --

@@ -5,3 +5,4 @@
 typedef popcon::PopConAnalyzer<popcon::CSCDBGainsImpl> CSCGainsPopConAnalyzer;
 
 DEFINE_FWK_MODULE(CSCGainsPopConAnalyzer);
+-- dummy --

@@ -51,3 +51,4 @@ std::vector<const reco::Candidate*> TtFullHadEvtPartons::vec(const TtGenEvent& g
 
   return vec;
 }
+-- dummy --

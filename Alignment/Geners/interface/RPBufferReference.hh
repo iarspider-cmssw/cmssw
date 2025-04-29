@@ -36,3 +36,4 @@ namespace gs {
 #endif // GENERS_RPBUFFERREFERENCE_HH_
 
 -- dummy --
+-- dummy --

@@ -5,3 +5,4 @@
 typedef popcon::PopConAnalyzer<popcon::CSCFakeDBNoiseMatrixImpl> CSCFakeNoiseMatrixPopConAnalyzer;
 
 DEFINE_FWK_MODULE(CSCFakeNoiseMatrixPopConAnalyzer);
+-- dummy --

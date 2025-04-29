@@ -55,3 +55,4 @@ typedef edmplugin::PluginFactory<AlignmentMonitorBase*(const edm::ParameterSet&,
 
 #endif
 -- dummy --
+-- dummy --

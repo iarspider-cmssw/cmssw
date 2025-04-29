@@ -252,3 +252,4 @@ void TAPDPulse::setPresamples(int presample) {
   isPedCalc_ = false;
   _presample = presample;
 }
+-- dummy --

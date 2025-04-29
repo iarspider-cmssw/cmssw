@@ -3740,3 +3740,4 @@ TString TEcnaParHistos::GetCodeAllXtalsInStinPlot() { return fAllXtalsInStinPlot
 Int_t TEcnaParHistos::GetCodePlotAllXtalsInStin() { return fPlotAllXtalsInStin; }
 
 //================== End of TEcnaParHistos.cc ========================
+-- dummy --

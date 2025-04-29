@@ -48,3 +48,4 @@ const AlignmentPositionError* AlignableDetOrUnitPtr::alignmentPositionError() co
     return nullptr;
 }
 -- dummy --
+-- dummy --

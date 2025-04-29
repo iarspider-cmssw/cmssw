@@ -220,3 +220,4 @@ bool TwoBodyDecayEstimator::checkValues(const AlgebraicVector &vec) const {
 
   return isNotFinite;
 }
+-- dummy --

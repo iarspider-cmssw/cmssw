@@ -36,3 +36,4 @@ void popcon::CSCDBCrosstalkImpl::getNewObjects() {
   std::cout << "------- " << m_name << "CSC src - > getNewObjects -----------\n" << std::endl;
   std::cout << "CSCCrosstalkHandler - time before writing into DB:" << std::endl;
 }
+-- dummy --

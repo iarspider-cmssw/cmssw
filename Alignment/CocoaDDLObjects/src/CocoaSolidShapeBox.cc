@@ -16,3 +16,4 @@ CocoaSolidShapeBox::CocoaSolidShapeBox(ALIstring type, ALIfloat xdim, ALIfloat y
   theZHalfLength = zdim;
 }
 -- dummy --
+-- dummy --

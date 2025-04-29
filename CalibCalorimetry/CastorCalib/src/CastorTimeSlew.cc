@@ -10,3 +10,4 @@ double CastorTimeSlew::delay(double fC, BiasSetting bias) {
   double rawDelay = tzero[bias] + slope[bias] * log(fC);
   return (rawDelay < 0) ? (0) : ((rawDelay > tmax[bias]) ? (tmax[bias]) : (rawDelay));
 }
+-- dummy --

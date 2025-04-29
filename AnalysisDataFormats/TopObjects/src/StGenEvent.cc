@@ -101,3 +101,4 @@ const reco::GenParticle* StGenEvent::singleTop() const {
   }
   return cand;
 }
+-- dummy --

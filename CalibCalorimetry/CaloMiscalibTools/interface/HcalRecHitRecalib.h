@@ -59,3 +59,4 @@ private:
   const double refactor_mean_;
 };
 #endif
+-- dummy --

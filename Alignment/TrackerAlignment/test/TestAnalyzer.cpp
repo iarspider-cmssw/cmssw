@@ -120,3 +120,4 @@ void TestAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iSet
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(TestAnalyzer);
+-- dummy --

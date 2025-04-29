@@ -22,3 +22,4 @@ void SiStripFec::addDevices(const FedChannelConnection &conn) {
     iring->addDevices(conn);
   }
 }
+-- dummy --

@@ -151,3 +151,4 @@ void MeasurementDistancemeter::correctValueAndSigma() {
   setSigma(0, sig);
 }
 -- dummy --
+-- dummy --

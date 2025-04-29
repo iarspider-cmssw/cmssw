@@ -28,3 +28,4 @@
 <test name="test_ProduceSystematicMisalignment" command="testProduceAllMisalignments.sh"/>
 <test name="test_CreateRandomMisalignment" command="testCreateRandomMisalignment.sh"/>
 <test name="test_CreateReferenceRecords" command="testCreateReferenceRecords.sh"/>
+-- dummy --

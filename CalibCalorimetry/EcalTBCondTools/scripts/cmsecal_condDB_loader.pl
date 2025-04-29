@@ -147,3 +147,4 @@ print "=== Executing cmsRun ===\n";
 system("cmsRun $cfgfile") unless $fake;
 
 exit $?;
+-- dummy --

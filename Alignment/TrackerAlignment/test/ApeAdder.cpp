@@ -106,3 +106,4 @@ void ApeAdder::addApe(const align::Alignables& alignables) {
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(ApeAdder);
+-- dummy --

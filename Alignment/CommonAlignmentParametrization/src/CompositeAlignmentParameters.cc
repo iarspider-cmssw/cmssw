@@ -399,3 +399,4 @@ void CompositeAlignmentParameters::convert(const std::vector<AlignableDet *> &in
     output.push_back(AlignableDetOrUnitPtr(*it));
 }
 -- dummy --
+-- dummy --

@@ -201,3 +201,4 @@ private:
   int verbosity_;
 };
 #endif  //SourceModule_H not defined
+-- dummy --

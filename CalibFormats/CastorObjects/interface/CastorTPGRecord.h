@@ -17,3 +17,4 @@ class CastorTPGRecord
     : public edm::eventsetup::DependentRecordImplementation<CastorTPGRecord, edm::mpl::Vector<CastorDbRecord> > {};
 
 #endif
+-- dummy --

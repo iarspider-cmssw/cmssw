@@ -31,3 +31,4 @@ namespace ttevent {
   void printParticle(edm::LogInfo& log, const char* name, const reco::Candidate* cand);
 }  // namespace ttevent
 #endif
+-- dummy --

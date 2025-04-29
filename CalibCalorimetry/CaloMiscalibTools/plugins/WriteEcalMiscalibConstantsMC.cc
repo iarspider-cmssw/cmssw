@@ -68,3 +68,4 @@ void WriteEcalMiscalibConstantsMC::beginJob() {}
 
 // ------------ method called once each job just after ending the event loop  ------------
 void WriteEcalMiscalibConstantsMC::endJob() { edm::LogVerbatim("WriteEcalMiscalibConstantsMC") << "Here is the end"; }
+-- dummy --

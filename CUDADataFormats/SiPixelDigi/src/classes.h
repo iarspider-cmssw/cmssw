@@ -7,3 +7,4 @@
 #include "DataFormats/Common/interface/Wrapper.h"
 
 #endif  // CUDADataFormats_SiPixelDigi_src_classes_h
+-- dummy --

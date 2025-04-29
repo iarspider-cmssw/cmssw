@@ -114,3 +114,4 @@ std::string TrackerScenarioBuilder::stripOffModule(const align::StructureType& t
   name.replace(start, module.length(), "");
   return name;
 }
+-- dummy --

@@ -23,3 +23,4 @@ void HGCUncalibRecHitDevice::defineSoAMemoryLayout_() {
   soa_.nhits_ = nhits_;
   soa_.pad_ = pad_;
 }
+-- dummy --

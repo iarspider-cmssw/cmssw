@@ -204,3 +204,4 @@ void testSiStripHashedDetId::analyze(const edm::Event &event, const edm::EventSe
 }
 
 DEFINE_FWK_MODULE(testSiStripHashedDetId);
+-- dummy --

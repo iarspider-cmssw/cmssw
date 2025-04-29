@@ -9,3 +9,4 @@ void getLinearizedADC(const HcalQIEShape& shape, const HcalQIECoder* coder, int 
 float maxDiff(float one, float two, float three, float four);
 
 #endif
+-- dummy --

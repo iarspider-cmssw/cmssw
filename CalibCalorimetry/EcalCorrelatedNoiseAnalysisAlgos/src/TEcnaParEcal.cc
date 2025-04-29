@@ -390,3 +390,4 @@ Int_t TEcnaParEcal::MaxCrysHocoInStex() { return fMaxCrysHocoInStex; }  // max n
 Int_t TEcnaParEcal::MaxCrysVecoInStex() { return fMaxCrysVecoInStex; }  // max number of crystals in Veco in a Stex
 Int_t TEcnaParEcal::MaxCrysEcnaInStex() { return fMaxCrysEcnaInStex; }  // max number of crystals in "ECNA matrix" Stex
 Int_t TEcnaParEcal::MaxCrysInStex() { return fMaxCrysInStex; }          // max number of crystals in Stex
+-- dummy --

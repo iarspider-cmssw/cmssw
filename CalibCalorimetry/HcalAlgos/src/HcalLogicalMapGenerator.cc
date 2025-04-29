@@ -2759,3 +2759,4 @@ void HcalLogicalMapGenerator::ConstructTriggerTower(const HcalTopology* topo,
     }
   } while (1 != 1);
 }
+-- dummy --

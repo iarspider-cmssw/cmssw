@@ -12,3 +12,4 @@ typedef edmplugin::PluginFactory<TrajectoryFactoryBase *(const edm::ParameterSet
     TrajectoryFactoryPlugin;
 
 #endif
+-- dummy --

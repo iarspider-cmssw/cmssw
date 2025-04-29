@@ -60,3 +60,4 @@ include $(XDAQ_ROOT)/config/Makefile.rules
 include $(BUILD_HOME)/$(Project)/RPM.version
 include $(XDAQ_ROOT)/config/mfRPM.rules
 
+-- dummy --

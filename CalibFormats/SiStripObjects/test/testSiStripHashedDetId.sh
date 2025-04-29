@@ -10,3 +10,4 @@ fi
 echo -e " Tesing SiStripHashedDetId \n\n"
 
 cmsRun ${SCRAM_TEST_PATH}/testSiStripHashedDetId_cfg.py || die "Failure running testSiStripHashedDetId_cfg.py" $?
+-- dummy --

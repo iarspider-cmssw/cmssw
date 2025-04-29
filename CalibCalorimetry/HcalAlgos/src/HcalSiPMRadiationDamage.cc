@@ -25,3 +25,4 @@ double HcalSiPMRadiationDamage::getDarkCurrent(double intlumi, unsigned index) c
   double darkCurrentNewTemp = darkCurrentNewLumi * std::exp(depVsTemp_ * (temperatureNew_ - temperatureBase_));
   return darkCurrentNewTemp;
 }
+-- dummy --

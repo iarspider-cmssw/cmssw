@@ -262,3 +262,4 @@ void PulseFitWithFunction::Fit_parab(Double_t *ampl, Int_t nmin, Int_t nmax, Dou
   parout[3] = ampmax;
   return;
 }
+-- dummy --

@@ -33,3 +33,4 @@ float HcalShapeIntegrator::at(double t) const {
 }
 
 float HcalShapeIntegrator::operator()(double startTime, double stopTime) const { return at(stopTime) - at(startTime); }
+-- dummy --

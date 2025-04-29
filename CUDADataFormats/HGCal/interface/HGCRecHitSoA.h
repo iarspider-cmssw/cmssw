@@ -27,3 +27,4 @@ namespace memory {
 }  // namespace memory
 
 #endif  //CUDADataFormats_HGCal_HGCRecHitSoA_h
+-- dummy --

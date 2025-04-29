@@ -65,3 +65,4 @@ void LaserAlignmentProducer::produce(edm::Event &iEvent, const edm::EventSetup &
 
 DEFINE_FWK_MODULE(LaserAlignmentProducer);
 -- dummy --
+-- dummy --

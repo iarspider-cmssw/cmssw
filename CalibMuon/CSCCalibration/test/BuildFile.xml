@@ -90,3 +90,4 @@
 <bin name="testIndexer" file="testCSCIndexer.cc,old_indexers/CSCIndexerOldStartup.cc,old_indexers/CSCIndexerOldPostls1.cc">
   <use name="cppunit"/>
 </bin>
+-- dummy --

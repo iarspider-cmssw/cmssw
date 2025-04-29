@@ -67,3 +67,4 @@ private:
 };
 
 #endif  //CUDADAtaFormats_HGCal_HGCRecHitGPUProduct_H
+-- dummy --

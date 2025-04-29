@@ -69,3 +69,4 @@ namespace gs {
 
 #endif  // GENERS_WRITEONLYCATALOG_HH_
 -- dummy --
+-- dummy --

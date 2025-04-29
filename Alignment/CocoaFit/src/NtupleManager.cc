@@ -440,3 +440,4 @@ void NtupleManager::GetGlobalAngles(const CLHEP::HepRotation& rmGlob, double* th
   theta[2] = gamma;
 }
 -- dummy --
+-- dummy --

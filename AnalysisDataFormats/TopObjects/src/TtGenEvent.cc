@@ -287,3 +287,4 @@ std::vector<const reco::GenParticle*> TtGenEvent::hadronicDecayTopRadiation(bool
   std::vector<const reco::GenParticle*> rad;
   return (rad);
 }
+-- dummy --

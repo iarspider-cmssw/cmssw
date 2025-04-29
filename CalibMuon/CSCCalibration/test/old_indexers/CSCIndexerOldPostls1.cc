@@ -360,3 +360,4 @@ int CSCIndexerOldPostls1::dbIndex(const CSCDetId &id, int &channel) {
 
   return ec * 100000 + st * 10000 + rg * 1000 + ch * 10 + la;
 }
+-- dummy --

@@ -196,3 +196,4 @@ void AlignmentCorrelationsStore::readFromCovarianceT(
       entry[iRow][jCol] = cov[row + jCol][col + iRow];
 }
 -- dummy --
+-- dummy --

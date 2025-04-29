@@ -50,3 +50,4 @@ template <class Ttype>
 std::ostream &operator<<(std::ostream &s, const CaloTSamplesBase<Ttype> &sam);
 
 #endif
+-- dummy --

@@ -3,3 +3,4 @@
 #include "CalibCalorimetry/EcalSRTools/interface/EcalDccWeightBuilder.h"
 
 DEFINE_FWK_MODULE(EcalDccWeightBuilder);
+-- dummy --

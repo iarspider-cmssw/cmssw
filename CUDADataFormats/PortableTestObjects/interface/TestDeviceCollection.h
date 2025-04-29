@@ -16,3 +16,4 @@ namespace cudatest {
 }  // namespace cudatest
 
 #endif  // CUDADataFormats_PortableTestObjects_interface_TestDeviceCollection_h
+-- dummy --

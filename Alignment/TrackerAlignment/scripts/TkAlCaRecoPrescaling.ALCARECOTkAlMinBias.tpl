@@ -98,3 +98,4 @@ process.OutALCARECOTkAlMinBiasPrescaled = cms.OutputModule("PoolOutputModule",
 
 process.OutputALCARECOTkAlMinBiasPrescaled = cms.EndPath(process.OutALCARECOTkAlMinBiasPrescaled)
 process.schedule = cms.Schedule(process.pathALCARECOTkAlMinBiasPrescaled,process.OutputALCARECOTkAlMinBiasPrescaled)
+-- dummy --

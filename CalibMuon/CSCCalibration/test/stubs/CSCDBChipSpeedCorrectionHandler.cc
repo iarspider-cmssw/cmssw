@@ -44,3 +44,4 @@ void popcon::CSCDBChipSpeedCorrectionImpl::getNewObjects() {
   std::cout << "------- " << m_name << "CSC src - > getNewObjects -----------\n" << std::endl;
   std::cout << "CSCChipSpeedCorrectionHandler - time before writing into DB:" << std::endl;
 }
+-- dummy --

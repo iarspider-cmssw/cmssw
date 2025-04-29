@@ -5,3 +5,4 @@
 <iftool name="cuda-gcc-support">
   <bin file="TrackingRecHitSoA_test.cpp TrackingRecHitSoA_test.cu" name="TrackingRecHitSoA_test"/>
 </iftool>
+-- dummy --

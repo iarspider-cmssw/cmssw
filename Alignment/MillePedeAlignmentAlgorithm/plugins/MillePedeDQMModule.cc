@@ -551,3 +551,4 @@ void MillePedeDQMModule::fillDescriptions(edm::ConfigurationDescriptions& descri
   descriptions.addWithDefaultLabel(desc);
 }
 -- dummy --
+-- dummy --

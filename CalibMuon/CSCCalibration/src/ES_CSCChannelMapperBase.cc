@@ -2,3 +2,4 @@
 #include "FWCore/Utilities/interface/typelookup.h"
 
 TYPELOOKUP_DATA_REG(CSCChannelMapperBase);  // registers the type
+-- dummy --

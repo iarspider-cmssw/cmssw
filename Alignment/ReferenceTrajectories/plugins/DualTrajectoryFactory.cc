@@ -213,3 +213,4 @@ const TrajectoryStateOnSurface DualTrajectoryFactory::propagateExternal(const Tr
 }
 
 DEFINE_EDM_PLUGIN(TrajectoryFactoryPlugin, DualTrajectoryFactory, "DualTrajectoryFactory");
+-- dummy --

@@ -406,3 +406,4 @@ void CreateIdealTkAlRecords::fillDescriptions(edm::ConfigurationDescriptions& de
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(CreateIdealTkAlRecords);
+-- dummy --

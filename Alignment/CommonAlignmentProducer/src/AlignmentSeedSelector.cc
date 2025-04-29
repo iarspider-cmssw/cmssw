@@ -60,3 +60,4 @@ AlignmentSeedSelector::theNHighestPtSeeds(const Seeds& seeds) const
 }
 */
 -- dummy --
+-- dummy --

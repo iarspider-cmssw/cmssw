@@ -440,3 +440,4 @@ void CastorPedestalsAnalysis::analyze(const edm::Event& e, const edm::EventSetup
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(CastorPedestalsAnalysis);
+-- dummy --

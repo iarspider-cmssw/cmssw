@@ -25,3 +25,4 @@ then
    root -l -b -q "$CMSSW_BASE/src/Alignment/TrackerAlignment/macros/CosmicRateTool_PIXEL_HitRates.C(${FILE},$runMin,$runMax)"
 fi
 root -l -b -q "$CMSSW_BASE/src/Alignment/TrackerAlignment/macros/CosmicRateTool_Kinematics.C(${FILE})"
+-- dummy --

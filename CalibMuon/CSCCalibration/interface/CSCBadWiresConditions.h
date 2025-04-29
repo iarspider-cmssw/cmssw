@@ -123,3 +123,4 @@ inline CSCBadWires *CSCBadWiresConditions::prefillBadWires() {
 }
 
 #endif
+-- dummy --

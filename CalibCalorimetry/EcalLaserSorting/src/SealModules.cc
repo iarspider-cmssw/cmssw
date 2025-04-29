@@ -8,3 +8,4 @@
 DEFINE_FWK_INPUT_SOURCE(WatcherSource);
 DEFINE_FWK_MODULE(LaserSorter);
 DEFINE_FWK_INPUT_SOURCE(LmfSource);
+-- dummy --

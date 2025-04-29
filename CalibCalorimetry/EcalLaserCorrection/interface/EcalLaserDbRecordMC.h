@@ -21,3 +21,4 @@ class EcalLaserDbRecordMC
                                                                              EcalLinearCorrectionsRcd> > {};
 
 #endif /* ECALLASERCORRECTION_ECALLASERDBRECORDMC_H */
+-- dummy --

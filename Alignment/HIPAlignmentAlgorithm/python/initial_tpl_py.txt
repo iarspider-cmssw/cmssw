@@ -14,3 +14,4 @@ process.AlignmentProducer.algoConfig.collectorNJobs = 0
 process.AlignmentProducer.algoConfig.collectorPath = '<PATH>'
 
 -- dummy --
+-- dummy --

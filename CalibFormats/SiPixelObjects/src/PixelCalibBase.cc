@@ -12,3 +12,4 @@ using namespace pos;
 PixelCalibBase::PixelCalibBase() { mode_ = "Default"; }
 
 PixelCalibBase::~PixelCalibBase() {}
+-- dummy --

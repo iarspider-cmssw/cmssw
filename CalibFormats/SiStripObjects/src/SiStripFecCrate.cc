@@ -22,3 +22,4 @@ void SiStripFecCrate::addDevices(const FedChannelConnection &conn) {
     ifec->addDevices(conn);
   }
 }
+-- dummy --

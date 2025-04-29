@@ -29,3 +29,4 @@ namespace CastorNominalCoderTemplate {
 void CastorNominalCoder::fC2adc(const CaloSamples& clf, CastorDataFrame& df, int fCapIdOffset) const {
   CastorNominalCoderTemplate::process(clf, df, fCapIdOffset);
 }
+-- dummy --

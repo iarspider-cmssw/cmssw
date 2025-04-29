@@ -433,3 +433,4 @@ bool EcalEBPhase2TPParamProducer::computeLinearizerParam(
 
 // DEfine this module as a plug-in
 DEFINE_FWK_MODULE(EcalEBPhase2TPParamProducer);
+-- dummy --

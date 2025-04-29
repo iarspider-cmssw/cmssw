@@ -200,3 +200,4 @@ public:
 };
 
 #endif  //    ZTR_TEcnaParameter
+-- dummy --

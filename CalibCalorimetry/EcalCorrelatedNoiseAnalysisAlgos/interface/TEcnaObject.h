@@ -95,3 +95,4 @@ public:
 };
 
 #endif  //    ZTR_TEcnaObject
+-- dummy --

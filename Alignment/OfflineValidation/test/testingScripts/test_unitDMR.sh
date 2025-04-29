@@ -28,3 +28,4 @@ popd
 pushd test_yaml/DMR/averaged/TestAveragedMC/plots/
 ./mkLumiAveragedPlots.py validation.json || die "Failure running DMR averaged in plotting mode" $?
 popd
+-- dummy --

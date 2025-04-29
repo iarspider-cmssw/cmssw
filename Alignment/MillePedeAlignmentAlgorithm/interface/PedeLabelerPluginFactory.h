@@ -20,3 +20,4 @@ typedef edmplugin::PluginFactory<PedeLabelerBase*(const PedeLabelerBase::TopLeve
 
 #endif
 -- dummy --
+-- dummy --

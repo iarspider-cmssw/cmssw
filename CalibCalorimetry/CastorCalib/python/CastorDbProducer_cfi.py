@@ -4,3 +4,4 @@ from CalibCalorimetry.CastorCalib.castorDbProducer_cfi import castorDbProducer a
 CastorDbProducer = _castorDbProducer.clone(
     appendToDataLabel = cms.string( "" )
 )
+-- dummy --

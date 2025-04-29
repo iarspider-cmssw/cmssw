@@ -17,3 +17,4 @@ EcalScDetId EcalReadoutTools::readOutUnitOf(const EEDetId& xtalId) const {
   const std::vector<EcalScDetId> id = elecMap_->getEcalScDetId(iDCC, iDccChan, ignoreSingle);
   return !id.empty() ? id[0] : EcalScDetId();
 }
+-- dummy --

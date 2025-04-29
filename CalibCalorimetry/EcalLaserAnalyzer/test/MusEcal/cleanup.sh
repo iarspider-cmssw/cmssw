@@ -9,3 +9,4 @@ rm -f bin/*
 rm -f lib/*
 echo '> Done.'
 
+-- dummy --

@@ -47,3 +47,4 @@ std::vector<SiStripCcu> &SiStripRing::ccus() { return ccus_; }
 const uint16_t &SiStripRing::fecRing() const { return fecRing_; }
 
 #endif  // CalibTracker_SiStripObjects_SiStripRing_H
+-- dummy --

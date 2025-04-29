@@ -110,3 +110,4 @@ void TrackInfoProducer::produce(edm::Event& theEvent, const edm::EventSetup& set
 }
 
 DEFINE_FWK_MODULE(TrackInfoProducer);
+-- dummy --

@@ -145,3 +145,4 @@ private:
   double pnAmpl;
 };
 #endif
+-- dummy --

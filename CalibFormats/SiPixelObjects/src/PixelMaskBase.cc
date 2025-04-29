@@ -26,3 +26,4 @@ std::ostream& operator<<(std::ostream& s, const PixelMaskBase& mask) {
 
   return s;
 }
+-- dummy --

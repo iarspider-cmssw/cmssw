@@ -136,3 +136,4 @@ bool CocoaDaqReaderText::ReadNextEvent() {
 //----------------------------------------------------------------------
 void CocoaDaqReaderText::BuildMeasurementsFromOptAlign(std::vector<OpticalAlignMeasurementInfo>& measList) {}
 -- dummy --
+-- dummy --

@@ -37,3 +37,4 @@ Variable | Default value | Explanation/Options
 -------- | ------------- | --------------------
 singles | None | List of strings matching single job names to be merged in one plot.
 customrighttitle | "" | Top right title. Reserved word "IOV" will be replaced for given IOV/run in the list.
+-- dummy --

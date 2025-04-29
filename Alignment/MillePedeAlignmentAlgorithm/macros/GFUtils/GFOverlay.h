@@ -76,3 +76,4 @@ class GFOverlay {
 
 #endif
 -- dummy --
+-- dummy --

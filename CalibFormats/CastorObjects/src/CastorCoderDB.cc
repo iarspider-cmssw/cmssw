@@ -36,3 +36,4 @@ void CastorCoderDb::adc2fC(const CastorDataFrame& df, CaloSamples& lf) const { a
 void CastorCoderDb::fC2adc(const CaloSamples& clf, CastorDataFrame& df, int fCapIdOffset) const {
   fC2adc_(clf, df, fCapIdOffset);
 }
+-- dummy --

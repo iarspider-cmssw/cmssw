@@ -37,3 +37,4 @@ std::vector<DetId> HcalCalibrationWidthsSet::getAllChannels() const {
   }
   return channels;
 }
+-- dummy --

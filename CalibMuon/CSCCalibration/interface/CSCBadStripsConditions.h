@@ -123,3 +123,4 @@ inline CSCBadStrips *CSCBadStripsConditions::prefillBadStrips() {
 }
 
 #endif
+-- dummy --

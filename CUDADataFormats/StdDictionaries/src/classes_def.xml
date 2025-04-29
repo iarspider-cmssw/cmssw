@@ -12,3 +12,4 @@
     <class name="std::vector<float, cms::cuda::HostAllocator<float, 0>>" persistent="false"/>
     <class name="std::vector<double, cms::cuda::HostAllocator<double, 0>>" persistent="false"/>
 </lcgdict>
+-- dummy --

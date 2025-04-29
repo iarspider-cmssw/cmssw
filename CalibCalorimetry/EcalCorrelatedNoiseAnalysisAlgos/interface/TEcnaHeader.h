@@ -111,3 +111,4 @@ public:
   ClassDefOverride(TEcnaHeader, 1)  //Header of CNA ROOT file
 };
 #endif
+-- dummy --

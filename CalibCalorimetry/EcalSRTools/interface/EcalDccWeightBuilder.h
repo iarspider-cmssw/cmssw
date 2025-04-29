@@ -145,3 +145,4 @@ private:
 };
 
 #endif  //CalibCalorimetry_EcalSRTools_EcalDccWeightBuilder_h not defined
+-- dummy --

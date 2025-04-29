@@ -19,3 +19,4 @@
 namespace CalibCalorimetry_EcalLaserAnalyzer {
   struct dictionary {};
 }  // namespace CalibCalorimetry_EcalLaserAnalyzer
+-- dummy --

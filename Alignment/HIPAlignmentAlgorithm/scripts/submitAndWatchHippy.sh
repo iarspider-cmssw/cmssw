@@ -113,3 +113,4 @@ fi
 
 kdestroy -c $kticket
 -- dummy --
+-- dummy --

@@ -11,3 +11,4 @@ using ZVertexCUDAProduct = cms::cuda::Product<ZVertexHeterogeneous>;
 #endif
 
 #endif
+-- dummy --

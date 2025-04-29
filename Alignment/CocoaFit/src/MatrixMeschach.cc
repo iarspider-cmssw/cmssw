@@ -369,3 +369,4 @@ MatrixMeschach* MatrixByMatrix(const MatrixMeschach& mat1, const MatrixMeschach&
   return (matout);
 }
 -- dummy --
+-- dummy --

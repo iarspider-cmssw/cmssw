@@ -49,3 +49,4 @@ private:
 
 #endif  // ALIGNABLE_DET_H
 -- dummy --
+-- dummy --

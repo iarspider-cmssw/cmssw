@@ -54,3 +54,4 @@ void OptOLens::constructSolidShape() {
                                           go * 1. * CLHEP::cm / CLHEP::m);  //COCOA internal units are meters
 }
 -- dummy --
+-- dummy --

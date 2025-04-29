@@ -97,3 +97,4 @@ void PixelConfigurationVerifier::checkChannelEnable(PixelFEDCard *theFEDCard,
     }
   }
 }
+-- dummy --

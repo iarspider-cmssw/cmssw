@@ -36,3 +36,4 @@ double HcalTimeSlew::delay(double fC, ParaSource source, BiasSetting bias, bool 
   }
   return rawDelay;
 }
+-- dummy --

@@ -546,3 +546,4 @@ SiStripLorentzAngle SiStripLorentzAngleCalibration::createFromTree(const char *f
 
 DEFINE_EDM_PLUGIN(IntegratedCalibrationPluginFactory, SiStripLorentzAngleCalibration, "SiStripLorentzAngleCalibration");
 -- dummy --
+-- dummy --

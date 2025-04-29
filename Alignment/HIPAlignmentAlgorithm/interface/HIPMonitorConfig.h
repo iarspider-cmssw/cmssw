@@ -139,3 +139,4 @@ struct HIPMonitorConfig {
 
 #endif
 -- dummy --
+-- dummy --

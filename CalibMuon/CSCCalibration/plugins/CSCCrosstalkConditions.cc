@@ -302,3 +302,4 @@ void CSCCrosstalkConditions::setIntervalFor(const edm::eventsetup::EventSetupRec
                                             edm::ValidityInterval &oValidity) {
   oValidity = edm::ValidityInterval(edm::IOVSyncValue::beginOfTime(), edm::IOVSyncValue::endOfTime());
 }
+-- dummy --

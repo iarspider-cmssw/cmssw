@@ -39,3 +39,4 @@ ALIFileOut& ALIFileOut::getInstance(const ALIstring& filename) {
   return *instance;
 }
 -- dummy --
+-- dummy --

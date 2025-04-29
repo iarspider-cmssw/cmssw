@@ -20,3 +20,4 @@ outfile PVValidation_pp2015B-HLTPhysics-EOY_alignment.root
 vertextype offlinePrimaryVertices
 lumilist /afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions15/13TeV/DCSOnly/json_DCSONLY.txt 
 ptcut 3.
+-- dummy --

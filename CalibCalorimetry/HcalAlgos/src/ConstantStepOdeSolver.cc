@@ -332,3 +332,4 @@ void RK4::step(const double t, const double dt, const double* x, const unsigned 
   for (unsigned i = 0; i < lenX; ++i)
     coordIncrement[i] = dt / 6.0 * (k1x[i] + 2.0 * (k2x[i] + k3x[i]) + k4x[i]);
 }
+-- dummy --

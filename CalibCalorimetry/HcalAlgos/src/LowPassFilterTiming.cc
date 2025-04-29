@@ -80,3 +80,4 @@ double LowPassFilterTiming::operator()(const double v, const double* pars, const
     result = tauMax;
   return result;
 }
+-- dummy --

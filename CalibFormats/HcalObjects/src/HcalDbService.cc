@@ -413,3 +413,4 @@ const HcalRecoParam* HcalDbService::getHcalRecoParam(const HcalGenericDetId& fId
 const HcalTPParameters* HcalDbService::getHcalTPParameters() const { return mTPParameters; }
 
 TYPELOOKUP_DATA_REG(HcalDbService);
+-- dummy --

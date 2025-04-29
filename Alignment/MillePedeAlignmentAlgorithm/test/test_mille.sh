@@ -19,3 +19,4 @@ if [[ "$doPede" == "true" ]]; then
     (cmsRun ${SCRAM_TEST_PATH}/test_mille.py algoMode="pede" useLapack=True) || die 'failed running test_mille.py (LAPACK)' $?
 fi
 -- dummy --
+-- dummy --

@@ -121,3 +121,4 @@ void EcalLaserDbAnalyzer::analyze(edm::StreamID, edm::Event const& iEvent, edm::
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(EcalLaserDbAnalyzer);
+-- dummy --

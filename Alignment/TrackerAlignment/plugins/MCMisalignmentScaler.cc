@@ -323,3 +323,4 @@ void MCMisalignmentScaler::fillDescriptions(edm::ConfigurationDescriptions& desc
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(MCMisalignmentScaler);
+-- dummy --

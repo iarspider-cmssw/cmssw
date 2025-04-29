@@ -8,3 +8,4 @@
 
 EDM_REGISTER_PLUGINFACTORY(AlignmentAlgorithmPluginFactory, "AlignmentAlgorithmPluginFactory");
 -- dummy --
+-- dummy --

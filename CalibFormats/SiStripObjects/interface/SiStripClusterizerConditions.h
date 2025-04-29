@@ -89,3 +89,4 @@ private:
 };
 
 #endif  // CalibFormats_SiStripObjects_StripClusterizerConditions_h
+-- dummy --

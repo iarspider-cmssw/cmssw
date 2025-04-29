@@ -87,3 +87,4 @@ AlgebraicMatrix FrameToFrameDerivative::transform(const align::RotationType &rot
 
 #endif
 -- dummy --
+-- dummy --

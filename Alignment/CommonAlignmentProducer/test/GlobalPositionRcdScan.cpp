@@ -119,3 +119,4 @@ void GlobalPositionRcdScan::endJob() {
 //define this as a plug-in
 DEFINE_FWK_MODULE(GlobalPositionRcdScan);
 -- dummy --
+-- dummy --

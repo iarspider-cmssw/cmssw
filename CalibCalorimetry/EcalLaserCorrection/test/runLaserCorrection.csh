@@ -7,3 +7,4 @@ setenv TNS_ADMIN /afs/cern.ch/project/oracle/admin
  
 cmsRun test_ecallaserdb_2.cfg
 
+-- dummy --

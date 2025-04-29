@@ -8,3 +8,4 @@ validateAlignments.py -v -f -d ${CMSSW_BASE}/src/Alignment/OfflineValidation/tes
 
 echo "Running over JSON"
 validateAlignments.py -v -d -f ${CMSSW_BASE}/src/Alignment/OfflineValidation/test/unit_test.json
+-- dummy --

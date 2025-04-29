@@ -21,3 +21,4 @@ void CSCFakeDBNoiseMatrix::setIntervalFor(const edm::eventsetup::EventSetupRecor
                                           edm::ValidityInterval &oValidity) {
   oValidity = edm::ValidityInterval(edm::IOVSyncValue::beginOfTime(), edm::IOVSyncValue::endOfTime());
 }
+-- dummy --

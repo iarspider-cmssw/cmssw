@@ -265,3 +265,4 @@ bool CastorDbXml::dumpObject(std::ostream& fOutput,
   dumpFooter(fOutput);
   return true;
 }
+-- dummy --

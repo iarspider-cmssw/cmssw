@@ -37,3 +37,4 @@ done < $IN_FILE
 if [ ${mLineCnt} -ne 0 ]; then
   echo ${mOutLine}\' >> $OUT_FILE
 fi
+-- dummy --

@@ -14,3 +14,4 @@ public:
 };
 
 #endif  // CalibCalorimetry_HcalAlgos_AbsODERHS_h_
+-- dummy --

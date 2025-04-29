@@ -32,3 +32,4 @@ void DeviationSensor2D::fillData(const std::vector<ALIstring>& wl) {
   theDevErrY = ALIUtils::getFloat(wl[7]);
 }
 -- dummy --
+-- dummy --

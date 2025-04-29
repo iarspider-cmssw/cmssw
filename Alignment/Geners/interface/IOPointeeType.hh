@@ -28,3 +28,4 @@ namespace gs {
 
 #endif  // GENERS_IOPOINTEETYPE_HH_
 -- dummy --
+-- dummy --

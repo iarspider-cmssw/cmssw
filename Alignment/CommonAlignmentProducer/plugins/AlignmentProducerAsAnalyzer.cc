@@ -73,3 +73,4 @@ void AlignmentProducerAsAnalyzer::accumulate(edm::Event const& event, edm::Event
 
 DEFINE_FWK_MODULE(AlignmentProducerAsAnalyzer);
 -- dummy --
+-- dummy --

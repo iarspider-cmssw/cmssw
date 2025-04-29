@@ -138,3 +138,4 @@ void AlignableSiStripDet::consistifyAlignments() {
 // 			       << "\n diff_diag (" << diff.xx() << ", " << diff.yy()
 // 			       <<         ", " << diff.zz() << ")";
 // }
+-- dummy --

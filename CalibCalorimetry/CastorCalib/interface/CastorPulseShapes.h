@@ -34,3 +34,4 @@ private:
   void computeCastorShape(Shape& s);
 };
 #endif
+-- dummy --

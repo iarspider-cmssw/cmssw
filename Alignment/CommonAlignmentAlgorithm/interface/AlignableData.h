@@ -49,3 +49,4 @@ typedef std::vector<AlignableRelData> AlignableShifts;
 
 #endif
 -- dummy --
+-- dummy --

@@ -73,3 +73,4 @@ HBHEDarkeningEP::ReturnType HBHEDarkeningEP::produce(const HBHEDarkeningRecord& 
 }
 
 DEFINE_FWK_EVENTSETUP_SOURCE(HBHEDarkeningEP);
+-- dummy --

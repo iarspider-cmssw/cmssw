@@ -5,3 +5,4 @@
 typedef popcon::PopConAnalyzer<popcon::CSCBadStripsImpl> CSCBadStripsPopConAnalyzer;
 
 DEFINE_FWK_MODULE(CSCBadStripsPopConAnalyzer);
+-- dummy --

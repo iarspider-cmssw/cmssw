@@ -57,3 +57,4 @@ SiStripClustersCUDAHost::SiStripClustersCUDAHost(const SiStripClustersCUDADevice
   cudaCheck(cudaStreamSynchronize(stream));
 #endif
 }
+-- dummy --

@@ -32,3 +32,4 @@ namespace gs {
 #endif // GENERS_RPFOOTERRECORD_HH_
 
 -- dummy --
+-- dummy --
