@@ -56,3 +56,4 @@ process.siStripConfObjectDummyDBWriter.OpenIovAtTime = 246940
 process.p1 = cms.Path(process.siStripConfObjectDummyDBWriter)
 -- dummy change --
 -- dummy change --
+-- dummy change --

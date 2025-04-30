@@ -14,3 +14,4 @@ interestingDetIdCollectionProducer = cms.EDProducer("InterestingDetIdCollectionP
                                                     )
 -- dummy change --
 -- dummy change --
+-- dummy change --

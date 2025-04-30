@@ -4,3 +4,4 @@
 EVENTSETUP_RECORD_REG(HeterogeneousHGCalHEFCellPositionsConditionsRecord);
 -- dummy change --
 -- dummy change --
+-- dummy change --

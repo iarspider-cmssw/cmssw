@@ -9,3 +9,4 @@ siStripMergeZeroSuppression = cms.EDProducer("SiStripMergeZeroSuppression",
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

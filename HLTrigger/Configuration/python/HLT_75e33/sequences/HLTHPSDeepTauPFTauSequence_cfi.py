@@ -12,3 +12,4 @@ from ..modules.hltHpsPFTauTransverseImpactParametersForDeepTau_cfi import *
 HLTHPSDeepTauPFTauSequence = cms.Sequence(hltHpsPFTauDiscriminationByDecayModeFindingNewDMs+hltHpsPFTauPrimaryVertexProducerForDeepTau+hltHpsPFTauSecondaryVertexProducerForDeepTau+hltHpsPFTauTransverseImpactParametersForDeepTau+hltFixedGridRhoFastjetAll+hltHpsPFTauBasicDiscriminatorsForDeepTau+hltHpsPFTauBasicDiscriminatorsdR03ForDeepTau+hltHpsPFTauDeepTauProducer)
 -- dummy change --
 -- dummy change --
+-- dummy change --

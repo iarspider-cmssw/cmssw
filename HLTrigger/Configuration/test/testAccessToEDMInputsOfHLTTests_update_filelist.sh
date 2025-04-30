@@ -93,3 +93,4 @@ printf "%s\n" "-------------------------"
 cd "${TESTDIR}"
 -- dummy change --
 -- dummy change --
+-- dummy change --

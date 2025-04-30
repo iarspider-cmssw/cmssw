@@ -15,3 +15,4 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 #endif  // RecoLocalCalo_EcalRecProducers_plugins_EcalUncalibRecHitPhase2WeightsStruct_h
 -- dummy change --
 -- dummy change --
+-- dummy change --

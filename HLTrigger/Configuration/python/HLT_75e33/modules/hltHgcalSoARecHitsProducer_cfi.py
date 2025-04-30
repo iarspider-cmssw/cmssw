@@ -18,3 +18,4 @@ hltHgcalSoARecHitsProducer = cms.EDProducer("HGCalSoARecHitsProducer@alpaka",
 
 -- dummy change --
 -- dummy change --
+-- dummy change --

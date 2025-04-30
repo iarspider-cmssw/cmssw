@@ -31,3 +31,4 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE::HeterogeneousTestAlpakaDevicePlugins {
 }  // namespace ALPAKA_ACCELERATOR_NAMESPACE::HeterogeneousTestAlpakaDevicePlugins
 -- dummy change --
 -- dummy change --
+-- dummy change --

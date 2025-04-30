@@ -305,3 +305,4 @@ HeterogeneousHGCalHEFCellPositionsConditions::GPUData::~GPUData() {
 }
 -- dummy change --
 -- dummy change --
+-- dummy change --

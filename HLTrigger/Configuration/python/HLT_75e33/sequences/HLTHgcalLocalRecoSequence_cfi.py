@@ -38,3 +38,4 @@ alpaka.toModify(hltHgcalMergeLayerClusters,
         time_layerclustersEE = cms.InputTag("hltHgCalLayerClustersFromSoAProducer", "timeLayerCluster"))
 -- dummy change --
 -- dummy change --
+-- dummy change --

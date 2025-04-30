@@ -8,3 +8,4 @@ siStripLatencyDummyDBWriter = cms.EDAnalyzer("SiStripLatencyDummyDBWriter",
                                           OpenIovAtTime = cms.untracked.uint32(1))
 -- dummy change --
 -- dummy change --
+-- dummy change --

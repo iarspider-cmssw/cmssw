@@ -103,3 +103,4 @@ def setConfiguration(process, collection, mode, monitorFile, binaryFile,
 
 -- dummy change --
 -- dummy change --
+-- dummy change --

@@ -5,3 +5,4 @@ from ..modules.hltParticleFlowSuperClusterECAL_cfi import *
 HLTParticleFlowSuperClusteringSequence = cms.Sequence(hltParticleFlowSuperClusterECAL)
 -- dummy change --
 -- dummy change --
+-- dummy change --

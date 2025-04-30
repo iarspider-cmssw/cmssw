@@ -6,3 +6,4 @@ XMLFromDBSource = cms.ESProducer("XMLIdealMagneticFieldGeometryESProducer",
                                  )
 -- dummy change --
 -- dummy change --
+-- dummy change --

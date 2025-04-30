@@ -1606,3 +1606,4 @@ double prepareMagneticFieldGrid::SixDPoint::by() { return P6[4]; }
 double prepareMagneticFieldGrid::SixDPoint::bz() { return P6[5]; }
 -- dummy change --
 -- dummy change --
+-- dummy change --

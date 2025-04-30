@@ -39,3 +39,4 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 DEFINE_FWK_ALPAKA_MODULE(TestAlpakaGlobalProducerImplicitCopyToDevice);
 -- dummy change --
 -- dummy change --
+-- dummy change --

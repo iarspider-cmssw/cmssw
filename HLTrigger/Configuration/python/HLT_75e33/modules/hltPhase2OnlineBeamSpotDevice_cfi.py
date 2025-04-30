@@ -6,3 +6,4 @@ hltPhase2OnlineBeamSpotDevice = cms.EDProducer('BeamSpotDeviceProducer@alpaka',
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

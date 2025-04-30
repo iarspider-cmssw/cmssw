@@ -94,3 +94,4 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 DEFINE_FWK_ALPAKA_MODULE(AlpakaTestOpaqueAdditionModule);
 -- dummy change --
 -- dummy change --
+-- dummy change --

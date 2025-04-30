@@ -6,3 +6,4 @@ from ..modules.hltDt4DSegments_cfi import *
 HLTDtlocalrecoSequence = cms.Sequence(hltDt1DRecHits+hltDt4DSegments)
 -- dummy change --
 -- dummy change --
+-- dummy change --

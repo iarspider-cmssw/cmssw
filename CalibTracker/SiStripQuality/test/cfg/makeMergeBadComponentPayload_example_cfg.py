@@ -114,3 +114,4 @@ process.siStripBadStripFromQualityDBWriter.record = process.PoolDBOutputService.
 process.p = cms.Path(process.stat*process.siStripBadStripFromQualityDBWriter)
 -- dummy change --
 -- dummy change --
+-- dummy change --

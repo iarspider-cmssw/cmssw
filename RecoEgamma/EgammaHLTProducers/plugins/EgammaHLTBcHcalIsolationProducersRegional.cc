@@ -179,3 +179,4 @@ void EgammaHLTBcHcalIsolationProducersRegional::produce(edm::StreamID,
 DEFINE_FWK_MODULE(EgammaHLTBcHcalIsolationProducersRegional);
 -- dummy change --
 -- dummy change --
+-- dummy change --

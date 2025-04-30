@@ -5,3 +5,4 @@ hltPfClusterRefsForJets = cms.EDProducer("PFClusterRefCandidateMerger",
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

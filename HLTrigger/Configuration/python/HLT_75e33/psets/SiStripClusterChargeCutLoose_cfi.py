@@ -4,3 +4,4 @@ SiStripClusterChargeCutLoose = cms.PSet(
     value = cms.double(1620.0)
 )-- dummy change --
 -- dummy change --
+-- dummy change --

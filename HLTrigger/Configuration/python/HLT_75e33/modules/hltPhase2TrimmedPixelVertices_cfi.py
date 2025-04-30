@@ -11,3 +11,4 @@ hltPhase2TrimmedPixelVertices = cms.EDProducer("PixelVertexCollectionTrimmer",
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

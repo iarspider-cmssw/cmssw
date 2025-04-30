@@ -11,3 +11,4 @@ hltHgcalSoARecHitsLayerClustersProducer = cms.EDProducer("HGCalSoARecHitsLayerCl
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

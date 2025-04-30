@@ -133,3 +133,4 @@ def customizeTracking(newpixclusters, newstripclusters, newpixrechits, newstripr
     convLayerPairs.TOB6.rphiRecHits = cms.InputTag(newstriprechits,"rphiRecHit")
 -- dummy change --
 -- dummy change --
+-- dummy change --

@@ -63,3 +63,4 @@ public:
 DEFINE_EDM_PLUGIN(TrackingRecHitAlgorithmFactory, TrackingRecHitNoSmearingPlugin, "TrackingRecHitNoSmearingPlugin");
 -- dummy change --
 -- dummy change --
+-- dummy change --

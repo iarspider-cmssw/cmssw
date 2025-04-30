@@ -252,3 +252,4 @@ void EcalIsolatedParticleCandidateProducer::fillDescriptions(edm::ConfigurationD
 DEFINE_FWK_MODULE(EcalIsolatedParticleCandidateProducer);
 -- dummy change --
 -- dummy change --
+-- dummy change --

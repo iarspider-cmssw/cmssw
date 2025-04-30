@@ -45,3 +45,4 @@ hltHpsPFTauProducerSansRefs = cms.EDProducer("RecoTauCleaner",
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

@@ -145,3 +145,4 @@ void EgammaHLTPhotonTrackIsolationProducersRegional::produce(edm::StreamID sid,
 DEFINE_FWK_MODULE(EgammaHLTPhotonTrackIsolationProducersRegional);
 -- dummy change --
 -- dummy change --
+-- dummy change --

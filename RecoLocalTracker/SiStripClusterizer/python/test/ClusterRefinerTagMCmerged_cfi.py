@@ -19,3 +19,4 @@ siStripClusters = cms.EDProducer("ClusterRefinerTagMCmerged",
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

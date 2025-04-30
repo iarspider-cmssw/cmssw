@@ -104,3 +104,4 @@ int AutoParametrizedMagneticFieldProducer::closerNominaCurrent(float current) co
 DEFINE_FWK_EVENTSETUP_MODULE(AutoParametrizedMagneticFieldProducer);
 -- dummy change --
 -- dummy change --
+-- dummy change --

@@ -20,3 +20,4 @@ bool SeedFromConsecutiveHitsStraightLineCreator::initialKinematic(GlobalTrajecto
 }
 -- dummy change --
 -- dummy change --
+-- dummy change --

@@ -5,3 +5,4 @@ TYPELOOKUP_ALPAKA_DATA_REG(reco::PFRecHitHCALTopologyDeviceCollection);
 TYPELOOKUP_ALPAKA_DATA_REG(reco::PFRecHitECALTopologyDeviceCollection);
 -- dummy change --
 -- dummy change --
+-- dummy change --

@@ -12,3 +12,4 @@ hltHgcalMergeLayerClustersL1Seeded = cms.EDProducer("MergeClusterProducer",
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

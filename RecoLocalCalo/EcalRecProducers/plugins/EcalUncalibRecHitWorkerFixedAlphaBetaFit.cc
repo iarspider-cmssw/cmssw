@@ -242,3 +242,4 @@ DEFINE_EDM_PLUGIN(EcalUncalibRecHitFillDescriptionWorkerFactory,
                   "EcalUncalibRecHitWorkerFixedAlphaBetaFit");
 -- dummy change --
 -- dummy change --
+-- dummy change --

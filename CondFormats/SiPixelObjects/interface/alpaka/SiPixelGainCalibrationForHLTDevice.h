@@ -14,3 +14,4 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 #endif  // CondFormats_SiPixelObjects_interface_alpaka_SiPixelGainCalibrationForHLTDevice_h
 -- dummy change --
 -- dummy change --
+-- dummy change --

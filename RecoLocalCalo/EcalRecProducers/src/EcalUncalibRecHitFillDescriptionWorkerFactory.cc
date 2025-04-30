@@ -7,3 +7,4 @@ EDM_REGISTER_PLUGINFACTORY(EcalUncalibRecHitFillDescriptionWorkerFactory,
                            "EcalUncalibRecHitFillDescriptionWorkerFactory");
 -- dummy change --
 -- dummy change --
+-- dummy change --

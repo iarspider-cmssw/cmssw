@@ -90,3 +90,4 @@ void TSToSCAssociatorByEnergyScoreProducer::fillDescriptions(edm::ConfigurationD
 DEFINE_FWK_MODULE(TSToSCAssociatorByEnergyScoreProducer);
 -- dummy change --
 -- dummy change --
+-- dummy change --

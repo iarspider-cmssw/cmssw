@@ -10,3 +10,4 @@ typedef edmplugin::PluginFactory<EcalUncalibRecHitWorkerBaseClass*()> EcalUncali
 #endif
 -- dummy change --
 -- dummy change --
+-- dummy change --

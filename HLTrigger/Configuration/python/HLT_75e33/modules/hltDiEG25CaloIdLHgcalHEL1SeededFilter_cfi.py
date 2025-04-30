@@ -32,3 +32,4 @@ hltDiEG25CaloIdLHgcalHEL1SeededFilter = cms.EDFilter("HLTEgammaGenericQuadraticE
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

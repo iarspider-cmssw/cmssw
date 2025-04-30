@@ -9,3 +9,4 @@ from ..sequences.HLTInitialStepPVSequence_cfi import *
 HLTVertexRecoSequence = cms.Sequence(HLTInitialStepPVSequence+hltUnsortedOfflinePrimaryVertices+hltTrackWithVertexRefSelectorBeforeSorting+hltTrackRefsForJetsBeforeSorting+hltOfflinePrimaryVertices)
 -- dummy change --
 -- dummy change --
+-- dummy change --

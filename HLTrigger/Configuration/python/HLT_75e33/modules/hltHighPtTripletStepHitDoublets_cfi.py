@@ -17,3 +17,4 @@ from Configuration.ProcessModifiers.phase2_hlt_vertexTrimming_cff import phase2_
 phase2_hlt_vertexTrimming.toModify(hltHighPtTripletStepHitDoublets, trackingRegions = "hltTrackingRegionFromTrimmedVertices")
 -- dummy change --
 -- dummy change --
+-- dummy change --

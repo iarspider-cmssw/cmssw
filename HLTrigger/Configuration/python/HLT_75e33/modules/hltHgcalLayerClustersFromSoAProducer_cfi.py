@@ -12,3 +12,4 @@ hltHgCalLayerClustersFromSoAProducer = cms.EDProducer("HGCalLayerClustersFromSoA
 
 -- dummy change --
 -- dummy change --
+-- dummy change --

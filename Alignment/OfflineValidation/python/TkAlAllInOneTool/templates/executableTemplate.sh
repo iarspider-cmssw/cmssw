@@ -7,3 +7,4 @@ cd workDirectory
 ./cmsRun validation_cfg.py config=validation.json
 -- dummy change --
 -- dummy change --
+-- dummy change --

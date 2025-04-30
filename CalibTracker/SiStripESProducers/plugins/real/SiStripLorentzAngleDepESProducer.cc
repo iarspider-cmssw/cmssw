@@ -122,3 +122,4 @@ void SiStripLorentzAngleDepESProducer::fillDescriptions(edm::ConfigurationDescri
 DEFINE_FWK_EVENTSETUP_MODULE(SiStripLorentzAngleDepESProducer);
 -- dummy change --
 -- dummy change --
+-- dummy change --

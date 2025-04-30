@@ -8,3 +8,4 @@ tifClusterFilter = cms.EDFilter("ClusterMultiplicityFilter",
 
 -- dummy change --
 -- dummy change --
+-- dummy change --

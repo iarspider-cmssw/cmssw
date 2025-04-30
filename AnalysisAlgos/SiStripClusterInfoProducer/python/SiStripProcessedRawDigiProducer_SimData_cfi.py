@@ -12,3 +12,4 @@ siStripProcessedRawDigis = cms.EDProducer("SiStripProcessedRawDigiProducer",
                                           )
 -- dummy change --
 -- dummy change --
+-- dummy change --

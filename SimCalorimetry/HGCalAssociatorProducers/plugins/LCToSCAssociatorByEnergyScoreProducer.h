@@ -50,3 +50,4 @@ DEFINE_FWK_MODULE(BarrelLCToSCAssociatorByEnergyScoreProducer);
 #endif
 -- dummy change --
 -- dummy change --
+-- dummy change --

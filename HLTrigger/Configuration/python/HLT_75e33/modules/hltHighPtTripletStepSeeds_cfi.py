@@ -16,3 +16,4 @@ hltHighPtTripletStepSeeds = cms.EDProducer("SeedCreatorFromRegionConsecutiveHits
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

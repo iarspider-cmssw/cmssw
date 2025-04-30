@@ -11,3 +11,4 @@ siStripConfObjectDummyDBWriter = cms.EDAnalyzer("SiStripConfObjectDummyDBWriter"
 
 -- dummy change --
 -- dummy change --
+-- dummy change --

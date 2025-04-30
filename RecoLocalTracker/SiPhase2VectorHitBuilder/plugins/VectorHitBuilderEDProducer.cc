@@ -125,3 +125,4 @@ DEFINE_FWK_MODULE(VectorHitBuilderEDProducer);
 TYPELOOKUP_DATA_REG(VectorHitBuilderEDProducer);
 -- dummy change --
 -- dummy change --
+-- dummy change --

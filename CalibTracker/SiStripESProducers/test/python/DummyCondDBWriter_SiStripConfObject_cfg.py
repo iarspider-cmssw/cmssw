@@ -55,3 +55,4 @@ process.siStripConfObjectDummyDBWriter.record=process.PoolDBOutputService.toPut[
 process.p1 = cms.Path(process.siStripConfObjectDummyDBWriter)
 -- dummy change --
 -- dummy change --
+-- dummy change --

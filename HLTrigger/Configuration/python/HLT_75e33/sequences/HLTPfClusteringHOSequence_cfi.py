@@ -6,3 +6,4 @@ from ..modules.hltParticleFlowRecHitHO_cfi import *
 HLTPfClusteringHOSequence = cms.Sequence(hltParticleFlowRecHitHO+hltParticleFlowClusterHO)
 -- dummy change --
 -- dummy change --
+-- dummy change --

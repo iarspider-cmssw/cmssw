@@ -15,3 +15,4 @@ hltEcalBarrelDigisInRegions = cms.EDProducer("HLTEcalEBDigisInRegionsProducer",
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

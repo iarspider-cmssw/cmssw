@@ -36,3 +36,4 @@ inline float SiStripCommonModeNoiseSubtractor::median(std::vector<T>& sample) {
 #endif
 -- dummy change --
 -- dummy change --
+-- dummy change --

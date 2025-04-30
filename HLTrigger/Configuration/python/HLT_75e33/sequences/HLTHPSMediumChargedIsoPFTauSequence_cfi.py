@@ -7,3 +7,4 @@ from ..modules.hltHpsPFTauMediumRelativeChargedIsolationDiscriminator_cfi import
 HLTHPSMediumChargedIsoPFTauSequence = cms.Sequence(hltHpsPFTauMediumAbsoluteChargedIsolationDiscriminator+hltHpsPFTauMediumRelativeChargedIsolationDiscriminator+hltHpsPFTauMediumAbsOrRelChargedIsolationDiscriminator)
 -- dummy change --
 -- dummy change --
+-- dummy change --

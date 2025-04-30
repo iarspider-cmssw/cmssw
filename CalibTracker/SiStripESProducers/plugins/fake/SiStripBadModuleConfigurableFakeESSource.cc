@@ -289,3 +289,4 @@ std::vector<uint32_t> SiStripBadModuleConfigurableFakeESSource::selectDetectors(
 DEFINE_FWK_EVENTSETUP_SOURCE(SiStripBadModuleConfigurableFakeESSource);
 -- dummy change --
 -- dummy change --
+-- dummy change --

@@ -145,3 +145,4 @@ void EcalUncalibRecHitPhase2WeightsProducer::produce(edm::Event& evt, const edm:
 DEFINE_FWK_MODULE(EcalUncalibRecHitPhase2WeightsProducer);
 -- dummy change --
 -- dummy change --
+-- dummy change --

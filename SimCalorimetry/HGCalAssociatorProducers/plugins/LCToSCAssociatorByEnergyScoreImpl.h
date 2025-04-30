@@ -96,3 +96,4 @@ using HGCalLCToSCAssociatorByEnergyScoreImpl = LCToSCAssociatorByEnergyScoreImpl
 using BarrelLCToSCAssociatorByEnergyScoreImpl = LCToSCAssociatorByEnergyScoreImpl<reco::PFRecHit>;
 -- dummy change --
 -- dummy change --
+-- dummy change --

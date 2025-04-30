@@ -59,3 +59,4 @@ void SimClusterToCaloParticleAssociatorProducer::fillDescriptions(edm::Configura
 DEFINE_FWK_MODULE(SimClusterToCaloParticleAssociatorProducer);
 -- dummy change --
 -- dummy change --
+-- dummy change --

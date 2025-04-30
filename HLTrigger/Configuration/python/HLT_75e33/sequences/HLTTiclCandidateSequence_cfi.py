@@ -5,3 +5,4 @@ from ..modules.hltTiclCandidate_cfi import *
 HLTTiclCandidateSequence = cms.Sequence(hltTiclCandidate)
 -- dummy change --
 -- dummy change --
+-- dummy change --

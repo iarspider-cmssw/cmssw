@@ -78,3 +78,4 @@ void LCToSCAssociatorByEnergyScoreProducer<HIT>::fillDescriptions(edm::Configura
 }
 -- dummy change --
 -- dummy change --
+-- dummy change --

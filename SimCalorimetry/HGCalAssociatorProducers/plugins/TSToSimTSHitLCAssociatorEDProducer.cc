@@ -103,3 +103,4 @@ void TSToSimTSHitLCAssociatorEDProducer::produce(edm::StreamID,
 DEFINE_FWK_MODULE(TSToSimTSHitLCAssociatorEDProducer);
 -- dummy change --
 -- dummy change --
+-- dummy change --

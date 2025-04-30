@@ -18,3 +18,4 @@ ASSERT_DEVICE_MATCHES_HOST_COLLECTION(reco::PFRecHitFractionDeviceCollection, re
 #endif  // DataFormats_ParticleFlowReco_interface_alpaka_PFRecHitFractionDeviceCollection_h
 -- dummy change --
 -- dummy change --
+-- dummy change --

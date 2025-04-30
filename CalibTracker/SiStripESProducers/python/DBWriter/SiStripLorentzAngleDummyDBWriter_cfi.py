@@ -11,3 +11,4 @@ siStripLorentzAngleDummyDBWriter = cms.EDAnalyzer("SiStripLorentzAngleDummyDBWri
 
 -- dummy change --
 -- dummy change --
+-- dummy change --

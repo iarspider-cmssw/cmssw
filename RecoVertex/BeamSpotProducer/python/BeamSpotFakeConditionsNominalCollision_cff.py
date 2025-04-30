@@ -4,3 +4,4 @@ from RecoVertex.BeamSpotProducer.BeamSpotFakeConditionsNominalCollision_cfi impo
 
 -- dummy change --
 -- dummy change --
+-- dummy change --

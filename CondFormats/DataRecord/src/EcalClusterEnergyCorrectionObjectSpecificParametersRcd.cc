@@ -4,3 +4,4 @@
 EVENTSETUP_RECORD_REG(EcalClusterEnergyCorrectionObjectSpecificParametersRcd);
 -- dummy change --
 -- dummy change --
+-- dummy change --

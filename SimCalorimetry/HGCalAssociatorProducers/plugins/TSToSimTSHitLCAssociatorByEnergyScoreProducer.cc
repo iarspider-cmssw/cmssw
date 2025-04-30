@@ -91,3 +91,4 @@ void TSToSimTSHitLCAssociatorByEnergyScoreProducer::fillDescriptions(edm::Config
 DEFINE_FWK_MODULE(TSToSimTSHitLCAssociatorByEnergyScoreProducer);
 -- dummy change --
 -- dummy change --
+-- dummy change --

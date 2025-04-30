@@ -169,3 +169,4 @@ void CompositeAlignmentDerivativesExtractor::extractWithMultipleHits(
 }
 -- dummy change --
 -- dummy change --
+-- dummy change --

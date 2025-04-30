@@ -6,3 +6,4 @@ hltPhase2SiPixelClustersSoA = cms.EDProducer("SiPixelPhase2DigiToCluster@alpaka"
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

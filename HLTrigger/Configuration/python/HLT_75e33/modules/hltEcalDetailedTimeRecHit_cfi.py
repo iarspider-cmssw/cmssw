@@ -15,3 +15,4 @@ hltEcalDetailedTimeRecHit = cms.EDProducer("EcalDetailedTimeRecHitProducer",
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

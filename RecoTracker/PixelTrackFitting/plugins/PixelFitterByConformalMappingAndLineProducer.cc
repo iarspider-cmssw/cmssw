@@ -67,3 +67,4 @@ void PixelFitterByConformalMappingAndLineProducer::produce(edm::StreamID,
 DEFINE_FWK_MODULE(PixelFitterByConformalMappingAndLineProducer);
 -- dummy change --
 -- dummy change --
+-- dummy change --

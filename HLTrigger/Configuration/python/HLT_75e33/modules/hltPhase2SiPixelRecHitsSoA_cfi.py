@@ -10,3 +10,4 @@ hltPhase2SiPixelRecHitsSoA = cms.EDProducer('SiPixelRecHitAlpakaPhase2@alpaka',
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

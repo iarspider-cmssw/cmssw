@@ -8,3 +8,4 @@ process.failGet = cms.EDAnalyzer('IntTestAnalyzer', moduleLabel = cms.untracked.
 process.failingEnd = cms.EndPath(process.failGet)
 -- dummy change --
 -- dummy change --
+-- dummy change --

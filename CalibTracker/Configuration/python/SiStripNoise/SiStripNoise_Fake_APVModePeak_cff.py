@@ -6,3 +6,4 @@ siStripNoisesFakeESSource.NoiseStripLengthSlope = cms.vdouble(38.8)
 siStripNoisesFakeESSource.NoiseStripLengthQuote = cms.vdouble(414.)
 -- dummy change --
 -- dummy change --
+-- dummy change --

@@ -24,3 +24,4 @@ hltEgammaHoverEL1Seeded = cms.EDProducer("EgammaHLTHcalVarProducerFromRecHit",
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

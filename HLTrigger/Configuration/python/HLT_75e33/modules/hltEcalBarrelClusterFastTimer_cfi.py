@@ -13,3 +13,4 @@ hltEcalBarrelClusterFastTimer = cms.EDProducer("EcalBarrelClusterFastTimer",
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

@@ -641,3 +641,4 @@ bool l1t::Stage2Layer2EGammaAlgorithmFirmwareImp1::idHoverE_ext(const l1t::CaloT
 }
 -- dummy change --
 -- dummy change --
+-- dummy change --

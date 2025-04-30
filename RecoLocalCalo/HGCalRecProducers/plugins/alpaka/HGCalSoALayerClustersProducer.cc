@@ -100,3 +100,4 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 DEFINE_FWK_ALPAKA_MODULE(HGCalSoALayerClustersProducer);
 -- dummy change --
 -- dummy change --
+-- dummy change --

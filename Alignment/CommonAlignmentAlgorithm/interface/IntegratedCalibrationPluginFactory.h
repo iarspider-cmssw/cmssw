@@ -19,3 +19,4 @@ typedef edmplugin::PluginFactory<IntegratedCalibrationBase *(const edm::Paramete
 #endif
 -- dummy change --
 -- dummy change --
+-- dummy change --

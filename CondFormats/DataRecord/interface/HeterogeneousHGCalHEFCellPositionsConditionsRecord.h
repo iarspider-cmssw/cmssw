@@ -12,3 +12,4 @@ class HeterogeneousHGCalHEFCellPositionsConditionsRecord
 #endif  //CondFormats_DataRecord_HeterogeneousHGCalHEFCellPositionsConditionsRecord_h
 -- dummy change --
 -- dummy change --
+-- dummy change --

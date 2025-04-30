@@ -24,3 +24,4 @@ hltDiEG3023IsoCaloIdClusterShapeSigmawwL1SeededFilter = cms.EDFilter("HLTEgammaG
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

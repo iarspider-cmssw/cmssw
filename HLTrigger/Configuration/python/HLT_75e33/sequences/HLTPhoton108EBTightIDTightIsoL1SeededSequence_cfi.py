@@ -41,3 +41,4 @@ HLTPhoton108EBTightIDTightIsoL1SeededSequence = cms.Sequence(
         +hltPhoton108EBTightIDTightIsoHcalIsoL1SeededFilter)
 -- dummy change --
 -- dummy change --
+-- dummy change --

@@ -6,3 +6,4 @@ from DQM.SiStripMonitorApproximateCluster.siStripMonitorApproximateCluster_cfi i
 SiStripMonitorApproximateCluster =  siStripMonitorApproximateCluster.clone()
 -- dummy change --
 -- dummy change --
+-- dummy change --

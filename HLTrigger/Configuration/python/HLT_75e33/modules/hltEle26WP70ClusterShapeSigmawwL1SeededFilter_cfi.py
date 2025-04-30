@@ -24,3 +24,4 @@ hltEle26WP70ClusterShapeSigmawwL1SeededFilter = cms.EDFilter("HLTEgammaGenericFi
 )
 -- dummy change --
 -- dummy change --
+-- dummy change --

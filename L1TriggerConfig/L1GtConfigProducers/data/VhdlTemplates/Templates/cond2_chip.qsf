@@ -784,3 +784,4 @@ set_global_assignment -name FMAX_REQUIREMENT "43 MHz" -section_id CLK_43MHZ
 set_instance_assignment -name CLOCK_SETTINGS CLK_43MHZ -to CLK40
 -- dummy change --
 -- dummy change --
+-- dummy change --
