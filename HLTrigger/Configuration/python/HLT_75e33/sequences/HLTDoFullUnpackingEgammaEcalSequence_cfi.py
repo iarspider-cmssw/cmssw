@@ -8,3 +8,6 @@ from ..modules.hltEcalDigis_cfi import *
 from ..modules.hltEcalRecHit_cfi import *
 
 HLTDoFullUnpackingEgammaEcalSequence = cms.Sequence(hltEcalDigis+bunchSpacingProducer+hltEcalDetIdToBeRecovered+hltEcalMultiFitUncalibRecHit+hltEcalRecHit+hltEcalDetailedTimeRecHit)
+-- dummy change --
+-- dummy change --
+-- dummy change --

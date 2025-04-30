@@ -79,3 +79,6 @@ XMLIdealMagneticFieldGeometryESProducer::ReturnType XMLIdealMagneticFieldGeometr
 }
 
 DEFINE_FWK_EVENTSETUP_MODULE(XMLIdealMagneticFieldGeometryESProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

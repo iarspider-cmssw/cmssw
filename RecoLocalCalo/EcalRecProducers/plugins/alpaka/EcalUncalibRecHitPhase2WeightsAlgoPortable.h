@@ -17,3 +17,6 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE::ecal::weights {
 }  //namespace ALPAKA_ACCELERATOR_NAMESPACE::ecal::weights
 
 #endif  // RecoLocalCalo_EcalRecProducers_plugins_EcalUncalibRecHitPhase2WeightsAlgoPortable_h
+-- dummy change --
+-- dummy change --
+-- dummy change --

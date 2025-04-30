@@ -108,3 +108,6 @@ hltHpsSelectionDiscriminator = cms.EDProducer("PFRecoTauDiscriminationByHPSSelec
     requireTauChargedHadronsToBeChargedPFCands = cms.bool(False),
     verbosity = cms.int32(0)
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

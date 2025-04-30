@@ -6,3 +6,6 @@ siStripBaseDelayDummyDBWriter = cms.EDAnalyzer("SiStripBaseDelayDummyDBWriter",
                                               record    = cms.string(""),
                                           OpenIovAt = cms.untracked.string("beginOfTime"),
                                           OpenIovAtTime = cms.untracked.uint32(1))
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -89,3 +89,6 @@ void TSToSimTSAssociatorByEnergyScoreProducer::fillDescriptions(edm::Configurati
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(TSToSimTSAssociatorByEnergyScoreProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -45,3 +45,6 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 
 #include "HeterogeneousCore/AlpakaCore/interface/alpaka/ModuleFactory.h"
 DEFINE_FWK_EVENTSETUP_ALPAKA_MODULE(PFRecHitECALParamsESProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

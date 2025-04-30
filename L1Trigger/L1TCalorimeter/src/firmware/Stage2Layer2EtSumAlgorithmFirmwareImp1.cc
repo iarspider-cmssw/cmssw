@@ -248,3 +248,6 @@ void l1t::Stage2Layer2EtSumAlgorithmFirmwareImp1::processEvent(const std::vector
   l1t::EtSum etSumNtowers(p4, l1t::EtSum::EtSumType::kTowerCount, ntowers, 0, 0, 0);
   etsums.push_back(etSumNtowers);
 }
+-- dummy change --
+-- dummy change --
+-- dummy change --

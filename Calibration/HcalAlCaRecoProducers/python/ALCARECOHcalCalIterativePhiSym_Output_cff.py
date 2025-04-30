@@ -22,3 +22,6 @@ OutALCARECOHcalCalIterativePhiSym_noDrop = cms.PSet(
 import copy
 OutALCARECOHcalCalIterativePhiSym=copy.deepcopy(OutALCARECOHcalCalIterativePhiSym_noDrop)
 OutALCARECOHcalCalIterativePhiSym.outputCommands.insert(0, "drop *")
+-- dummy change --
+-- dummy change --
+-- dummy change --

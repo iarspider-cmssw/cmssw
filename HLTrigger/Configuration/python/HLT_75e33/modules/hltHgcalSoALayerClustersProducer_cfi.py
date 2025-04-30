@@ -9,3 +9,6 @@ hltHgcalSoALayerClustersProducer = cms.EDProducer("HGCalSoALayerClustersProducer
     positionDeltaRho2 = cms.double(1.69),
     thresholdW0 = cms.double(2.9)
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -240,3 +240,6 @@ DEFINE_EDM_PLUGIN(EcalUncalibRecHitWorkerFactory,
 DEFINE_EDM_PLUGIN(EcalUncalibRecHitFillDescriptionWorkerFactory,
                   EcalUncalibRecHitWorkerFixedAlphaBetaFit,
                   "EcalUncalibRecHitWorkerFixedAlphaBetaFit");
+-- dummy change --
+-- dummy change --
+-- dummy change --

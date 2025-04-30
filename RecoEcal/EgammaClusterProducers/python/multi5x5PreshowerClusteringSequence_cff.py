@@ -17,3 +17,6 @@ multi5x5PreshowerClusteringTask = cms.Task(correctedMulti5x5SuperClustersWithPre
                                                    uncleanedOnlyCorrectedMulti5x5SuperClustersWithPreshower)
 
 multi5x5PreshowerClusteringSequence = cms.Sequence(multi5x5PreshowerClusteringTask)
+-- dummy change --
+-- dummy change --
+-- dummy change --

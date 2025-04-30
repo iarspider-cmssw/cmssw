@@ -8,3 +8,6 @@ hltPhase2L3MuonHighPtTripletStepTrajectoryCleanerBySharedHits = cms.ESProducer("
     allowSharedFirstHit = cms.bool(True),
     fractionShared = cms.double(0.16)
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

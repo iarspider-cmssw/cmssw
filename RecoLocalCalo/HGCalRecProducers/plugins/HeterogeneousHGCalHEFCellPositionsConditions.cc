@@ -303,3 +303,6 @@ HeterogeneousHGCalHEFCellPositionsConditions::GPUData::~GPUData() {
   }
   cudaCheck(cudaFree(device));
 }
+-- dummy change --
+-- dummy change --
+-- dummy change --

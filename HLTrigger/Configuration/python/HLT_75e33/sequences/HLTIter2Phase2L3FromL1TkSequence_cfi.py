@@ -29,3 +29,6 @@ HLTIter2Phase2L3FromL1TkSequence = cms.Sequence(
     + hltIter2Phase2L3FromL1TkMuonTrackSelectionHighPurity
     + hltIter2Phase2L3FromL1TkMuonMerged
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -122,3 +122,6 @@ hltHpsCombinatoricRecoTaus = cms.EDProducer("RecoTauProducer",
     piZeroSrc = cms.InputTag("hltPFTauPiZeros"),
     verbosity = cms.int32(0)
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

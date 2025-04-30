@@ -7,3 +7,6 @@ from ..modules.hltParticleFlowClusterHF_cfi import *
 from ..modules.hltParticleFlowRecHitHF_cfi import *
 
 HLTPfClusteringHBHEHFSequence = cms.Sequence(hltParticleFlowRecHitHBHE+hltParticleFlowClusterHBHE+hltParticleFlowClusterHCAL+hltParticleFlowRecHitHF+hltParticleFlowClusterHF)
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -23,4 +23,6 @@ CkfBaseTrajectoryFilter_block = cms.PSet(
     seedExtension = cms.int32(0),
     seedPairPenalty = cms.int32(0),
     strictSeedExtension = cms.bool(False)
-)
+)-- dummy change --
+-- dummy change --
+-- dummy change --

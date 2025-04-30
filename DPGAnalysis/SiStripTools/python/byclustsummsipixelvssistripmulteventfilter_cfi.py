@@ -16,3 +16,6 @@ byclustsummsipixelvssistripmulteventfilter = cms.EDFilter('ByClusterSummaryMulti
                                                           cut = cms.string("(mult2 > 30000) && ( mult2 > 20000+7*mult1)")
                                                           )
 	
+-- dummy change --
+-- dummy change --
+-- dummy change --

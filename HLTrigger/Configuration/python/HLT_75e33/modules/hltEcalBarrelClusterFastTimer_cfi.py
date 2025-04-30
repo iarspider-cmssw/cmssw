@@ -11,3 +11,6 @@ hltEcalBarrelClusterFastTimer = cms.EDProducer("EcalBarrelClusterFastTimer",
     )),
     timedVertices = cms.InputTag("hltOfflinePrimaryVertices4D")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

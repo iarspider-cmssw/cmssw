@@ -160,3 +160,6 @@ make distclean ${mOpt}
 
 ## Final message
 echo "Finished compute benchmarks on ${ben_arch}!"
+-- dummy change --
+-- dummy change --
+-- dummy change --

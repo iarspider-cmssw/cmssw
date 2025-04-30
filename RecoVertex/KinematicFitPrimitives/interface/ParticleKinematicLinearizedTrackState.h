@@ -152,3 +152,6 @@ private:
   mutable bool impactPointAvailable;
 };
 #endif
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -153,3 +153,6 @@ reco::IsoDeposit EgammaEcalExtractor::deposit(const edm::Event& ev,
   //  std::cout << "Will return ecalIsol = " << ecalIsol << std::endl;
   return deposit;
 }
+-- dummy change --
+-- dummy change --
+-- dummy change --

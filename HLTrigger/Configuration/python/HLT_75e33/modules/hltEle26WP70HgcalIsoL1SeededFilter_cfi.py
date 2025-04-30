@@ -30,3 +30,6 @@ hltEle26WP70HgcalIsoL1SeededFilter = cms.EDFilter("HLTEgammaGenericQuadraticEtaF
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaHGCalLayerClusterIsoL1Seeded")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

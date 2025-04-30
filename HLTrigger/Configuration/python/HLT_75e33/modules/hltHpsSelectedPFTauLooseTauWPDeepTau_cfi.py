@@ -11,3 +11,6 @@ hltHpsSelectedPFTauLooseTauWPDeepTau = cms.EDFilter("PFTauSelector",
     discriminators = cms.VPSet(),
     src = cms.InputTag("hltHpsPFTauProducer")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

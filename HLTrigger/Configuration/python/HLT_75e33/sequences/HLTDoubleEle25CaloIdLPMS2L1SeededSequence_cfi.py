@@ -38,3 +38,6 @@ HLTDoubleEle25CaloIdLPMS2L1SeededSequence = cms.Sequence(hltEGL1SeedsForDoubleEl
                                                          +HLTElePixelMatchL1SeededSequence
                                                          +hltDiEle25CaloIdLPixelMatchL1SeededFilter
                                                          +hltDiEle25CaloIdLPMS2L1SeededFilter)
+-- dummy change --
+-- dummy change --
+-- dummy change --

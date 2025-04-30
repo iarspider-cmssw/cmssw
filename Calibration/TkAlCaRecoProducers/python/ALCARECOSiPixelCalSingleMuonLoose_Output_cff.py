@@ -14,3 +14,6 @@ OutALCARECOSiPixelCalSingleMuonLoose_noDrop = cms.PSet(
 
 OutALCARECOSiPixelCalSingleMuonLoose=OutALCARECOSiPixelCalSingleMuonLoose_noDrop.clone()
 OutALCARECOSiPixelCalSingleMuonLoose.outputCommands.insert(0, "drop *")
+-- dummy change --
+-- dummy change --
+-- dummy change --

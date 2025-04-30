@@ -35,3 +35,6 @@ HLTElePixelMatchL1SeededSequence = cms.Sequence(HLTDoLocalPixelSequence
     +hltElePixelSeedsCombinedL1Seeded
     +hltEgammaElectronPixelSeedsL1Seeded
     +hltEgammaPixelMatchVarsL1Seeded))
+-- dummy change --
+-- dummy change --
+-- dummy change --

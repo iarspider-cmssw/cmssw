@@ -13,3 +13,6 @@ hltEcalDetailedTimeRecHit = cms.EDProducer("EcalDetailedTimeRecHitProducer",
     simVertex = cms.InputTag("g4SimHits"),
     useMCTruthVertex = cms.bool(False)
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

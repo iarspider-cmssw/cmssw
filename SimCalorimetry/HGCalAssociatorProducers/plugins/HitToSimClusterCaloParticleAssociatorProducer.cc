@@ -92,3 +92,6 @@ void HitToSimClusterCaloParticleAssociatorProducer::fillDescriptions(edm::Config
 
 // Define this as a plug-in
 DEFINE_FWK_MODULE(HitToSimClusterCaloParticleAssociatorProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

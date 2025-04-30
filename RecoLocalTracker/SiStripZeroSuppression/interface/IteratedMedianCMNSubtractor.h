@@ -39,3 +39,6 @@ private:
   edm::ESWatcher<SiStripQualityRcd> qualityWatcher_;
 };
 #endif
+-- dummy change --
+-- dummy change --
+-- dummy change --

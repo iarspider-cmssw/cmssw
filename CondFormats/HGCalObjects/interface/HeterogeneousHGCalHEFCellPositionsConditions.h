@@ -73,3 +73,6 @@ private:
 };
 
 #endif  //CondFormats_HGCalObjects_HeterogeneousHGCalHEFConditions_h
+-- dummy change --
+-- dummy change --
+-- dummy change --

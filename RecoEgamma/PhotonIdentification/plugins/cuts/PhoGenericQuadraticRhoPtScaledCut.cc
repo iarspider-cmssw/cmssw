@@ -76,3 +76,6 @@ double PhoGenericQuadraticRhoPtScaledCut::value(const reco::CandidatePtr& cand) 
   reco::PhotonPtr pho(cand);
   return varFunc_(*pho);
 }
+-- dummy change --
+-- dummy change --
+-- dummy change --

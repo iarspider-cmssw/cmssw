@@ -4,3 +4,6 @@ hltPhase2OTHitsInputLST = cms.EDProducer('LSTPhase2OTHitsInputProducer',
     phase2OTRecHits = cms.InputTag('hltSiPhase2RecHits'),
     mightGet = cms.optional.untracked.vstring
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

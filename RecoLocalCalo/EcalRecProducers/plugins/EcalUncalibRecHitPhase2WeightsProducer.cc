@@ -143,3 +143,6 @@ void EcalUncalibRecHitPhase2WeightsProducer::produce(edm::Event& evt, const edm:
 
 #include "FWCore/Framework/interface/MakerMacros.h"
 DEFINE_FWK_MODULE(EcalUncalibRecHitPhase2WeightsProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

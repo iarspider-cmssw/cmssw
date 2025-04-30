@@ -4,3 +4,6 @@ hltTrackRefsForJetsBeforeSorting = cms.EDProducer("ChargedRefCandidateProducer",
     particleType = cms.string('pi+'),
     src = cms.InputTag("hltTrackWithVertexRefSelectorBeforeSorting")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

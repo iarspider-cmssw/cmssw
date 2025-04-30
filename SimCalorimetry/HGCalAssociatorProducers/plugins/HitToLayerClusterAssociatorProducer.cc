@@ -75,3 +75,6 @@ void HitToLayerClusterAssociatorProducer::fillDescriptions(edm::ConfigurationDes
 
 // Define this as a plug-in
 DEFINE_FWK_MODULE(HitToLayerClusterAssociatorProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -113,3 +113,6 @@ void SiStripNoiseNormalizedWithApvGainBuilder::analyze(const edm::Event& evt, co
     edm::LogError("SiStripNoiseNormalizedWithApvGainBuilder") << "Service is unavailable" << std::endl;
   }
 }
+-- dummy change --
+-- dummy change --
+-- dummy change --

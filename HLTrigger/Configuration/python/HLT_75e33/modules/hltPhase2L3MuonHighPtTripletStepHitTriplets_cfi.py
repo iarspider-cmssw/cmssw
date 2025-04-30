@@ -21,3 +21,6 @@ hltPhase2L3MuonHighPtTripletStepHitTriplets = cms.EDProducer("CAHitTripletEDProd
     mightGet = cms.optional.untracked.vstring,
     useBendingCorrection = cms.bool(True)
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

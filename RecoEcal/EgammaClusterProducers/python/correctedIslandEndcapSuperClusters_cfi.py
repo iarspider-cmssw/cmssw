@@ -28,3 +28,6 @@ from RecoHI.HiEgammaAlgos.HiCorrectedIslandEndcapSuperClusters_cfi import correc
 
 for e in [pA_2016, peripheralPbPb, pp_on_XeXe_2017, pp_on_AA, ppRef_2017]:
     e.toReplaceWith(correctedIslandEndcapSuperClusters, _hiCorrectedIslandEndcapSuperClusters)
+-- dummy change --
+-- dummy change --
+-- dummy change --

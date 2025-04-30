@@ -63,3 +63,6 @@ void SimpleTestPrintOutPixelCalibAnalyzer::analyze(edm::StreamID id,
   using namespace edm;
   printInfo(iEvent, iSetup);
 }
+-- dummy change --
+-- dummy change --
+-- dummy change --

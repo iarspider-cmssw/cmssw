@@ -117,3 +117,6 @@ void LCToSimTSAssociatorEDProducer::produce(edm::StreamID, edm::Event &iEvent, c
 
 // define this as a plug-in
 DEFINE_FWK_MODULE(LCToSimTSAssociatorEDProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

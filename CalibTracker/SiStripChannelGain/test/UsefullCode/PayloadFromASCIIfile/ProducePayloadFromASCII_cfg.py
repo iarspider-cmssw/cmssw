@@ -57,3 +57,6 @@ process.SiStripCalibFromAscii = cms.EDAnalyzer("SiStripGainFromAsciiFile",
 
 
 process.p = cms.Path(process.SiStripCalibFromAscii) 
+-- dummy change --
+-- dummy change --
+-- dummy change --

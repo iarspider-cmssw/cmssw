@@ -8,3 +8,6 @@
 typedef edmplugin::PluginFactory<EcalUncalibRecHitWorkerBaseClass*()> EcalUncalibRecHitFillDescriptionWorkerFactory;
 
 #endif
+-- dummy change --
+-- dummy change --
+-- dummy change --

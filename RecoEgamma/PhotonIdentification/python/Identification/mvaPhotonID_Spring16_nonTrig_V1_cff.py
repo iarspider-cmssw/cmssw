@@ -70,3 +70,6 @@ central_id_registry.register( mvaPhoID_Spring16_nonTrig_V1_wp80.idName,
 
 mvaPhoID_Spring16_nonTrig_V1_wp90.isPOGApproved = cms.untracked.bool(True)
 mvaPhoID_Spring16_nonTrig_V1_wp80.isPOGApproved = cms.untracked.bool(True)
+-- dummy change --
+-- dummy change --
+-- dummy change --

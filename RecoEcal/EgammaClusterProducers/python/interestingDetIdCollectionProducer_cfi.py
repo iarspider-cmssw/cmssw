@@ -12,3 +12,6 @@ interestingDetIdCollectionProducer = cms.EDProducer("InterestingDetIdCollectionP
                                                     keepNextToDead = cms.bool(True),
                                                     keepNextToBoundary = cms.bool(True)
                                                     )
+-- dummy change --
+-- dummy change --
+-- dummy change --

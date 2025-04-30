@@ -6,3 +6,6 @@ from ..modules.hltHfreco_cfi import *
 from ..modules.hltHoreco_cfi import *
 
 HLTDoLocalHcalSequence = cms.Sequence(hltHbhereco+hltHoreco+hltHfprereco+hltHfreco)
+-- dummy change --
+-- dummy change --
+-- dummy change --

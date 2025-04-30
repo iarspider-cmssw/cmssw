@@ -32,3 +32,6 @@ DTMeantimerPatternReco2DAlgo_LinearDriftFromDB = cms.PSet(
     ),
     Reco2DAlgoName = cms.string('DTMeantimerPatternReco')
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

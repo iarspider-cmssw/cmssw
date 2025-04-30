@@ -17,3 +17,6 @@ hltRechitInRegionsHGCAL = cms.EDProducer("HLTHGCalRecHitsInRegionsProducer",
         'HGCHEFRecHits'
     )
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

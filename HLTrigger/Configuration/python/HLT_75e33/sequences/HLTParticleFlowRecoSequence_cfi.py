@@ -7,3 +7,6 @@ from ..modules.hltParticleFlowTmpBarrel_cfi import *
 from ..modules.hltPfTrack_cfi import *
 
 HLTParticleFlowRecoSequence = cms.Sequence(hltPfTrack+hltParticleFlowBlock+hltParticleFlowTmpBarrel+hltParticleFlowTmp+hltFixedGridRhoFastjetAll)
+-- dummy change --
+-- dummy change --
+-- dummy change --

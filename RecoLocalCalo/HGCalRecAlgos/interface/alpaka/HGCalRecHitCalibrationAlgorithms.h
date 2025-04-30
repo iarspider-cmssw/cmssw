@@ -45,3 +45,6 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 }  // namespace ALPAKA_ACCELERATOR_NAMESPACE
 
 #endif  // RecoLocalCalo_HGCalRecAlgos_interface_alpaka_HGCalRecHitCalibrationAlgorithms_h
+-- dummy change --
+-- dummy change --
+-- dummy change --

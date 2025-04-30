@@ -87,3 +87,6 @@ namespace {
 PAYLOAD_INSPECTOR_MODULE(EcalClusterEnergyCorrectionObjectSpecificParameters) {
   PAYLOAD_INSPECTOR_CLASS(EcalClusterEnergyCorrectionObjectSpecificParametersPlot);
 }
+-- dummy change --
+-- dummy change --
+-- dummy change --

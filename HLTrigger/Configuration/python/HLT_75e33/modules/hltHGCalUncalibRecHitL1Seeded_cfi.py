@@ -60,3 +60,6 @@ hltHGCalUncalibRecHitL1Seeded = cms.EDProducer("HGCalUncalibRecHitProducer",
 
 from Configuration.ProcessModifiers.ticl_v5_cff import ticl_v5
 ticl_v5.toModify(hltHGCalUncalibRecHitL1Seeded, computeLocalTime = cms.bool(True))
+-- dummy change --
+-- dummy change --
+-- dummy change --

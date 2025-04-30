@@ -83,3 +83,6 @@ double PhoFull5x5SigmaIEtaIEtaValueMapCut::value(const reco::CandidatePtr& cand)
 
   return _full5x5SigmaIEtaIEtaMap.isValid() ? sihihval : pho->full5x5_sigmaIetaIeta();
 }
+-- dummy change --
+-- dummy change --
+-- dummy change --

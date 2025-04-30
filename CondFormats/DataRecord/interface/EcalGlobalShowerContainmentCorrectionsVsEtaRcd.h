@@ -5,3 +5,6 @@
 class EcalGlobalShowerContainmentCorrectionsVsEtaRcd
     : public edm::eventsetup::EventSetupRecordImplementation<EcalGlobalShowerContainmentCorrectionsVsEtaRcd> {};
 #endif
+-- dummy change --
+-- dummy change --
+-- dummy change --

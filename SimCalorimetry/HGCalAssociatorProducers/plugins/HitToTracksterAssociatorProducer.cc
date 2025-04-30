@@ -91,3 +91,6 @@ void HitToTracksterAssociatorProducer::fillDescriptions(edm::ConfigurationDescri
 
 // Define this as a plug-in
 DEFINE_FWK_MODULE(HitToTracksterAssociatorProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

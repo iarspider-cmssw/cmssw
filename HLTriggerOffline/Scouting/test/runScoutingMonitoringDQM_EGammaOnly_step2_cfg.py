@@ -29,3 +29,6 @@ process.load("DQMServices.Components.DQMStoreStats_cfi")
 process.p = cms.Path(process.hltScoutingEGammaPostProcessing)
 process.p1 = cms.Path(process.dqmSaver)
 process.schedule = cms.Schedule(process.p, process.p1)
+-- dummy change --
+-- dummy change --
+-- dummy change --

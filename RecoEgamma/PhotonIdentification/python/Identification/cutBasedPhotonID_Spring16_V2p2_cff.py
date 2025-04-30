@@ -154,3 +154,6 @@ central_id_registry.register(cutBasedPhotonID_Spring16_V2p2_tight.idName,
 cutBasedPhotonID_Spring16_V2p2_loose.isPOGApproved = cms.untracked.bool(True)
 cutBasedPhotonID_Spring16_V2p2_medium.isPOGApproved = cms.untracked.bool(True)
 cutBasedPhotonID_Spring16_V2p2_tight.isPOGApproved = cms.untracked.bool(True)
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -70,3 +70,6 @@ private:
   hgcal::association makeConnections(const edm::Handle<reco::HGCalMultiClusterCollection> &mCCH,
                                      const edm::Handle<CaloParticleCollection> &cPCH) const;
 };
+-- dummy change --
+-- dummy change --
+-- dummy change --

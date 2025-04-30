@@ -138,3 +138,6 @@ process.PoolDBOutputService = cms.Service(
     )
 process.PoolDBOutputService.connect = "sqlite_file:"+outputfilename
 process.PoolDBOutputService.DBParameters.messageLevel = 2
+-- dummy change --
+-- dummy change --
+-- dummy change --

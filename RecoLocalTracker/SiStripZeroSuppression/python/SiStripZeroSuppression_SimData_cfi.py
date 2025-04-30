@@ -18,3 +18,6 @@ siStripZeroSuppression = cms.EDProducer("SiStripZeroSuppression",
     storeInZScollBadAPV = cms.bool(True),
     produceHybridFormat = cms.bool(False)
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

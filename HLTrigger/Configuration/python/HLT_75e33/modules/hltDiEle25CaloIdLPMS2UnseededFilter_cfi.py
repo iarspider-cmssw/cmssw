@@ -22,3 +22,6 @@ hltDiEle25CaloIdLPMS2UnseededFilter = cms.EDFilter("HLTEgammaGenericFilter",
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaPixelMatchVarsUnseeded","s2")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

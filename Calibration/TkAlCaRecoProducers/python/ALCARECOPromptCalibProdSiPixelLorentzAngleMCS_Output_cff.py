@@ -11,3 +11,6 @@ OutALCARECOPromptCalibProdSiPixelLAMCS_noDrop = cms.PSet(
 )
 OutALCARECOPromptCalibProdSiPixelLAMCS=OutALCARECOPromptCalibProdSiPixelLAMCS_noDrop.clone()
 OutALCARECOPromptCalibProdSiPixelLAMCS.outputCommands.insert(0, "drop *")
+-- dummy change --
+-- dummy change --
+-- dummy change --

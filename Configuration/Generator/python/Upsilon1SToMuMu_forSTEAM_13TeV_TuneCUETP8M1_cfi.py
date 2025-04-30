@@ -50,3 +50,6 @@ mumugenfilter = cms.EDFilter("MCParticlePairFilter",
                              )
 
 ProductionFilterSequence = cms.Sequence(generator*oniafilter*mumugenfilter)
+-- dummy change --
+-- dummy change --
+-- dummy change --

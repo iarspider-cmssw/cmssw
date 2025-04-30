@@ -11,3 +11,6 @@ herwig7LHEMG5aMCatNLOSettingsBlock = cms.PSet(
         'set /Herwig/Particles/t:NominalMass 172.5'
     )
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

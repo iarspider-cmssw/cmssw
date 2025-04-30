@@ -16,3 +16,6 @@ reg_$(particle)_$(type),
 en_$(particle)_$(type), WRCOND,
 addr(13 DOWNTO 1),  vdata(7 DOWNTO 0),
 dtack_$(particle)_$(type)($(ser_no)),
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -42,3 +42,6 @@ private:
 };
 
 #endif  // DQM_SiStripCommissioningDbClients_SiStripCommissioningOfflineDbClient_H
+-- dummy change --
+-- dummy change --
+-- dummy change --

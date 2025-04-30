@@ -5,3 +5,6 @@ pfPdgIdPFCandidateSelector = cms.EDFilter("PdgIdPFCandidateSelector",
   pdgId = cms.vint32(22,111,130,310,2112)
 )
 
+-- dummy change --
+-- dummy change --
+-- dummy change --

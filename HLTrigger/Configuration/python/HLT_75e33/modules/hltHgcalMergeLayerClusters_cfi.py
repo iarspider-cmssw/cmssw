@@ -10,3 +10,6 @@ hltHgcalMergeLayerClusters = cms.EDProducer("MergeClusterProducer",
     time_layerclustersHSci = cms.InputTag("hltHgcalLayerClustersHSci","timeLayerCluster"),
     time_layerclustersHSi = cms.InputTag("hltHgcalLayerClustersHSi","timeLayerCluster")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

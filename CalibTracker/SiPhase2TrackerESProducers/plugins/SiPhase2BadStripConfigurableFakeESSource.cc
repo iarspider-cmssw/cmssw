@@ -251,3 +251,6 @@ void SiPhase2BadStripConfigurableFakeESSource::fillDescriptions(edm::Configurati
 //define this as a plug-in
 #include "FWCore/Framework/interface/SourceFactory.h"
 DEFINE_FWK_EVENTSETUP_SOURCE(SiPhase2BadStripConfigurableFakeESSource);
+-- dummy change --
+-- dummy change --
+-- dummy change --

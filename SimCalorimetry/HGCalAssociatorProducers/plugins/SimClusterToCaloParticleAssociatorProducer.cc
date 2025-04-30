@@ -57,3 +57,6 @@ void SimClusterToCaloParticleAssociatorProducer::fillDescriptions(edm::Configura
 
 // Define this as a plug-in
 DEFINE_FWK_MODULE(SimClusterToCaloParticleAssociatorProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

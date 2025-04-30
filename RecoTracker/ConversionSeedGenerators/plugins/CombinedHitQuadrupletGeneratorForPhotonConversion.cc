@@ -37,3 +37,6 @@ void CombinedHitQuadrupletGeneratorForPhotonConversion::hitPairs(const TrackingR
   }
   theLayerCache.clear();
 }
+-- dummy change --
+-- dummy change --
+-- dummy change --

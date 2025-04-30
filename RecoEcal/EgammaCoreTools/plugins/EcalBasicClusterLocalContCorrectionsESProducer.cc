@@ -59,3 +59,6 @@ EcalBasicClusterLocalContCorrectionsESProducer::ReturnType EcalBasicClusterLocal
 }
 
 DEFINE_FWK_EVENTSETUP_MODULE(EcalBasicClusterLocalContCorrectionsESProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

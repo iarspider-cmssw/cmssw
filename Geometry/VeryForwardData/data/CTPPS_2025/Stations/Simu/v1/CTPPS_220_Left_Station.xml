@@ -236,4 +236,6 @@
             <Translation x="-(-([RP_Dist_Beam_Cent:CTPPS_45_Det_Dist]+[CTPPS_Timing_Horizontal_Pot:plane_length]+[CTPPS_Timing_Horizontal_Pot:cut_depth]+[CTPPS_Timing_Horizontal_Pot:thin_window_thickness])/2)" y="0*cm" z="-[RP_220_Left_Station_Length]/2+[RP_220_Left_Timing_z]"/>
         </PosPart>
     </PosPartSection>
-</DDDefinition>
+</DDDefinition>-- dummy change --
+-- dummy change --
+-- dummy change --

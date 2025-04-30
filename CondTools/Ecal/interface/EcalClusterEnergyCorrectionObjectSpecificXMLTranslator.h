@@ -26,3 +26,6 @@ private:
 };
 
 #endif  // __EcalClusterEnergyCorrectionXMLTranslator_h_
+-- dummy change --
+-- dummy change --
+-- dummy change --

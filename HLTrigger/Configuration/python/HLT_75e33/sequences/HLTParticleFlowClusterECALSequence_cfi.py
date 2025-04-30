@@ -5,3 +5,6 @@ from ..modules.hltParticleFlowClusterECAL_cfi import *
 from ..modules.hltParticleFlowTimeAssignerECAL_cfi import *
 
 HLTParticleFlowClusterECALSequence = cms.Sequence(hltEcalBarrelClusterFastTimer+hltParticleFlowTimeAssignerECAL+hltParticleFlowClusterECAL)
+-- dummy change --
+-- dummy change --
+-- dummy change --

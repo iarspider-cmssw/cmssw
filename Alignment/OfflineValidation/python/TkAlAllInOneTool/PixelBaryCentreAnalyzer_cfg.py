@@ -209,3 +209,6 @@ print('INFO: output in', outfile)
 process.p = cms.Path(process.PixelBaryCentreAnalyzer
 #*process.PixelBaryCentreAnalyzerWithPixelQuality
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

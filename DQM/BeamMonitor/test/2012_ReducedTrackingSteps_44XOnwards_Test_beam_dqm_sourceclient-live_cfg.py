@@ -250,3 +250,6 @@ process.siStripDigis.ProductLabel = cms.InputTag("rawDataCollector")
 
  
 #print process.dumpPython()
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -28,3 +28,6 @@ CITK_isoChargedHad        chargedHadronPFPVIso                                  
 chgIsoWrtWorstVtx         chargedHadronWorstVtxGeomVetoIso                                    None None
 esEffSigmaRR              full5x5_showerShapeVariables.effSigmaRR                             None None
 esEnergy/SCRawE           superCluster.preshowerEnergy/superCluster.rawEnergy                 None None
+-- dummy change --
+-- dummy change --
+-- dummy change --

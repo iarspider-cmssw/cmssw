@@ -16,3 +16,6 @@ hltHgcalTrackCollection = cms.EDProducer("HGCalTrackCollectionProducer",
     trackQuality = cms.string('highPurity'),
     useIterativeTracking = cms.bool(True)
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

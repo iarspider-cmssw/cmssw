@@ -137,3 +137,6 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 // define as framework plugin
 #include "HeterogeneousCore/AlpakaCore/interface/alpaka/MakerMacros.h"
 DEFINE_FWK_ALPAKA_MODULE(SiPixelPhase2DigiToCluster);
+-- dummy change --
+-- dummy change --
+-- dummy change --

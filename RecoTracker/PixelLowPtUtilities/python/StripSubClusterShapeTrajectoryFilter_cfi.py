@@ -25,3 +25,6 @@ StripSubClusterShapeTrajectoryFilterTIX12 = cms.PSet(
         TEC = cms.bool(False),
     ),
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

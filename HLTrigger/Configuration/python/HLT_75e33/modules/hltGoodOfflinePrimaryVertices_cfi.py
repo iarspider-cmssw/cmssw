@@ -5,3 +5,6 @@ hltGoodOfflinePrimaryVertices = cms.EDFilter("VertexSelector",
     filter = cms.bool(False),
     src = cms.InputTag("hltOfflinePrimaryVertices")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

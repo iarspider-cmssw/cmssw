@@ -782,3 +782,6 @@ set_global_assignment -name DISABLE_NCS_AND_OE_PULLUPS_ON_CONFIG_DEVICE ON
 set_global_assignment -name RESERVE_ALL_UNUSED_PINS_NO_OUTPUT_GND "AS INPUT TRI-STATED"
 set_global_assignment -name FMAX_REQUIREMENT "43 MHz" -section_id CLK_43MHZ
 set_instance_assignment -name CLOCK_SETTINGS CLK_43MHZ -to CLK40
+-- dummy change --
+-- dummy change --
+-- dummy change --

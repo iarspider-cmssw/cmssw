@@ -123,3 +123,6 @@ void VectorHitBuilderEDProducer::fillDescriptions(edm::ConfigurationDescriptions
 DEFINE_FWK_MODULE(VectorHitBuilderEDProducer);
 #include "FWCore/Utilities/interface/typelookup.h"
 TYPELOOKUP_DATA_REG(VectorHitBuilderEDProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

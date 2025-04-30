@@ -150,3 +150,6 @@ central_id_registry.register(cutBasedPhotonID_Spring15_25ns_V1_standalone_tight.
 cutBasedPhotonID_Spring15_25ns_V1_standalone_loose.isPOGApproved = cms.untracked.bool(True)
 cutBasedPhotonID_Spring15_25ns_V1_standalone_medium.isPOGApproved = cms.untracked.bool(True)
 cutBasedPhotonID_Spring15_25ns_V1_standalone_tight.isPOGApproved = cms.untracked.bool(True)
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -32,3 +32,6 @@ DTCombinatorialPatternReco2DAlgo_LinearDriftFromDB = cms.PSet(
     Reco2DAlgoName = cms.string('DTCombinatorialPatternReco')
 )
 
+-- dummy change --
+-- dummy change --
+-- dummy change --

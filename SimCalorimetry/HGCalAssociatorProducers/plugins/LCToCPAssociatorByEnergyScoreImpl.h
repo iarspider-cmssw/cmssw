@@ -95,3 +95,6 @@ extern template class LCToCPAssociatorByEnergyScoreImpl<reco::PFRecHit>;
 
 using HGCalLCToCPAssociatorByEnergyScoreImpl = LCToCPAssociatorByEnergyScoreImpl<HGCRecHit>;
 using BarrelLCToCPAssociatorByEnergyScoreImpl = LCToCPAssociatorByEnergyScoreImpl<reco::PFRecHit>;
+-- dummy change --
+-- dummy change --
+-- dummy change --

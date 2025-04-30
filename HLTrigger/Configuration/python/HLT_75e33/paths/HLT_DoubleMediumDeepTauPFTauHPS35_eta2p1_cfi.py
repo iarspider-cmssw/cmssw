@@ -35,3 +35,6 @@ HLT_DoubleMediumDeepTauPFTauHPS35_eta2p1 = cms.Path(
     + hltHpsDoublePFTau35MediumDitauWPDeepTau
     + HLTEndSequence
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

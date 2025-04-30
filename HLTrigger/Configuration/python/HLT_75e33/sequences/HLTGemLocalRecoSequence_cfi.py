@@ -4,3 +4,6 @@ from ..modules.hltGemRecHits_cfi import *
 from ..modules.hltGemSegments_cfi import *
 
 HLTGemLocalRecoSequence = cms.Sequence(hltGemRecHits+hltGemSegments)
+-- dummy change --
+-- dummy change --
+-- dummy change --

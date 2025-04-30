@@ -5,3 +5,6 @@
 class EcalClusterEnergyCorrectionObjectSpecificParametersRcd
     : public edm::eventsetup::EventSetupRecordImplementation<EcalClusterEnergyCorrectionObjectSpecificParametersRcd> {};
 #endif
+-- dummy change --
+-- dummy change --
+-- dummy change --

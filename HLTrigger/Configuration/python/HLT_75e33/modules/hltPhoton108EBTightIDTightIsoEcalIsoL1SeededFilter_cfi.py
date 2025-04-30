@@ -30,3 +30,6 @@ hltPhoton108EBTightIDTightIsoEcalIsoL1SeededFilter = cms.EDFilter("HLTEgammaGene
     useEt = cms.bool(True),
     varTag = cms.InputTag("hltEgammaEcalPFClusterIsoL1Seeded")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

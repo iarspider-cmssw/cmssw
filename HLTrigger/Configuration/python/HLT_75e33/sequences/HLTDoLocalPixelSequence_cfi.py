@@ -18,3 +18,6 @@ _HLTDoLocalPixelSequence = cms.Sequence(
 
 from Configuration.ProcessModifiers.alpaka_cff import alpaka
 alpaka.toReplaceWith(HLTDoLocalPixelSequence, _HLTDoLocalPixelSequence)
+-- dummy change --
+-- dummy change --
+-- dummy change --

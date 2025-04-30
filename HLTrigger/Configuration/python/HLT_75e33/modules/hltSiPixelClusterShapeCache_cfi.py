@@ -5,3 +5,6 @@ hltSiPixelClusterShapeCache = cms.EDProducer("SiPixelClusterShapeCacheProducer",
     onDemand = cms.bool(False),
     src = cms.InputTag("hltSiPixelClusters")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

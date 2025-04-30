@@ -17,3 +17,6 @@ HLTPhase2L3FromL1TkSequence = cms.Sequence(
     + hltPhase2L3FromL1TkMuonPixelVertices
     + hltPhase2L3FromL1TkMuonTrimmedPixelVertices
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

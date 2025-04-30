@@ -22,3 +22,6 @@ hltEgammaHoverEL1Seeded = cms.EDProducer("EgammaHLTHcalVarProducerFromRecHit",
     maxSeverityHB = cms.int32( 9 ),
     maxSeverityHE = cms.int32( 9 )
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

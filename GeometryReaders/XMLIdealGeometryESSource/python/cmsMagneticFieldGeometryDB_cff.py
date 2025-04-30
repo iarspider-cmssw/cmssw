@@ -4,3 +4,6 @@ XMLFromDBSource = cms.ESProducer("XMLIdealMagneticFieldGeometryESProducer",
                                  rootDDName = cms.string('cmsMagneticField:MAGF'),
                                  label = cms.string('magfield')
                                  )
+-- dummy change --
+-- dummy change --
+-- dummy change --

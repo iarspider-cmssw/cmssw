@@ -104,3 +104,6 @@ void EcalUncalibRecHitPhase2WeightsProducerGPU::produce(edm::Event &event, const
 }
 
 DEFINE_FWK_MODULE(EcalUncalibRecHitPhase2WeightsProducerGPU);
+-- dummy change --
+-- dummy change --
+-- dummy change --

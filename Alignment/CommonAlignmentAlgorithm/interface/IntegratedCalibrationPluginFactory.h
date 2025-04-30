@@ -17,3 +17,6 @@ typedef edmplugin::PluginFactory<IntegratedCalibrationBase *(const edm::Paramete
     IntegratedCalibrationPluginFactory;
 
 #endif
+-- dummy change --
+-- dummy change --
+-- dummy change --

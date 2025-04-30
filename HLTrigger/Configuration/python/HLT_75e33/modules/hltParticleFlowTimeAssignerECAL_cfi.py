@@ -6,3 +6,6 @@ hltParticleFlowTimeAssignerECAL = cms.EDProducer("PFClusterTimeAssigner",
     timeResoSrc = cms.InputTag("hltEcalBarrelClusterFastTimer","PerfectResolutionModelResolution"),
     timeSrc = cms.InputTag("hltEcalBarrelClusterFastTimer","PerfectResolutionModel")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

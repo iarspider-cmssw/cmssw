@@ -49,3 +49,6 @@ HLTEle115NonIsoL1SeededSequence = cms.Sequence(
         +HLTEle115NonIsoL1SeededGsfElectronL1SeededSequence
         +hltEle115NonIsoGsfDetaL1SeededFilter
         +hltEle115NonIsoGsfDphiL1SeededFilter)
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -8,3 +8,6 @@ externalLHEProducer = cms.EDProducer("ExternalLHEProducer",
     scriptName = cms.FileInPath('GeneratorInterface/LHEInterface/data/run_generic_tarball_cvmfs.sh'),
     generateConcurrently = cms.untracked.bool(True),
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

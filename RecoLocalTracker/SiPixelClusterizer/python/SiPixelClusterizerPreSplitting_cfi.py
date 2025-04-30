@@ -11,3 +11,6 @@ from Configuration.ProcessModifiers.siPixelDigiMorphing_cff import siPixelDigiMo
 siPixelDigiMorphing.toModify(siPixelClustersPreSplitting,
                              src = 'siPixelDigisMorphed'
                              )
+-- dummy change --
+-- dummy change --
+-- dummy change --

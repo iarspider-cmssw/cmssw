@@ -9,3 +9,6 @@ externalLHEProducer = cms.EDProducer('ExternalLHEProducer',
   generateConcurrently = cms.untracked.bool(True),
   postGenerationCommand = cms.untracked.vstring('mergeLHE.py', '-n', '-i', 'thread*/cmsgrid_final.lhe', '-o', 'cmsgrid_final.lhe'),
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

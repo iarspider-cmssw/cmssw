@@ -88,3 +88,6 @@ DetId    	 HV 	 LV
 %MSG-i DummyCondObjPrinter:  AfterModEndJob 11-Aug-2010 02:53:39 CEST PostEndRun
 DummyCondObjPrinter::~DummyCondObjPrinter()
 %MSG
+-- dummy change --
+-- dummy change --
+-- dummy change --

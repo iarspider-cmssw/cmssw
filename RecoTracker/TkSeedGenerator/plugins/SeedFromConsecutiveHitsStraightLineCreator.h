@@ -18,3 +18,6 @@ private:
   bool initialKinematic(GlobalTrajectoryParameters& kine, const SeedingHitSet& hits) const override;
 };
 #endif
+-- dummy change --
+-- dummy change --
+-- dummy change --

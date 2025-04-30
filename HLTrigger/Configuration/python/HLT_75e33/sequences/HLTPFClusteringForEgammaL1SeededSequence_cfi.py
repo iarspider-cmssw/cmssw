@@ -8,3 +8,6 @@ from ..modules.hltParticleFlowSuperClusterECALL1Seeded_cfi import *
 from ..modules.hltRechitInRegionsECAL_cfi import *
 
 HLTPFClusteringForEgammaL1SeededSequence = cms.Sequence((hltL1TEGammaFilteredCollectionProducer+hltRechitInRegionsECAL+hltParticleFlowRecHitECALL1Seeded+hltParticleFlowClusterECALUncorrectedL1Seeded+hltParticleFlowClusterECALL1Seeded+hltParticleFlowSuperClusterECALL1Seeded))
+-- dummy change --
+-- dummy change --
+-- dummy change --

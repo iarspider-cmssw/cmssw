@@ -213,3 +213,6 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 }  // namespace ALPAKA_ACCELERATOR_NAMESPACE
 
 DEFINE_FWK_EVENTSETUP_ALPAKA_MODULE(EcalMultifitConditionsHostESProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

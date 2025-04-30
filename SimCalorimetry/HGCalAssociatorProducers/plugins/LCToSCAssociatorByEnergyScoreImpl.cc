@@ -555,3 +555,6 @@ ticl::SimToRecoCollectionWithSimClusters LCToSCAssociatorByEnergyScoreImpl<HIT>:
 
 template class LCToSCAssociatorByEnergyScoreImpl<HGCRecHit>;
 template class LCToSCAssociatorByEnergyScoreImpl<reco::PFRecHit>;
+-- dummy change --
+-- dummy change --
+-- dummy change --

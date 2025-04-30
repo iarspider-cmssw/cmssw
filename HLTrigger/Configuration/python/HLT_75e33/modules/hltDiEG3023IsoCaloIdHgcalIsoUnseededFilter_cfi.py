@@ -30,3 +30,6 @@ hltDiEG3023IsoCaloIdHgcalIsoUnseededFilter = cms.EDFilter("HLTEgammaGenericQuadr
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaHGCalLayerClusterIsoUnseeded")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

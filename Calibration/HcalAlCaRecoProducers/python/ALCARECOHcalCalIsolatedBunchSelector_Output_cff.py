@@ -24,3 +24,6 @@ OutALCARECOHcalCalIsolatedBunchSelector_noDrop = cms.PSet(
 import copy
 OutALCARECOHcalCalIsolatedBunchSelector=copy.deepcopy(OutALCARECOHcalCalIsolatedBunchSelector_noDrop)
 OutALCARECOHcalCalIsolatedBunchSelector.outputCommands.insert(0, "drop *")
+-- dummy change --
+-- dummy change --
+-- dummy change --

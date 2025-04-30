@@ -50,3 +50,6 @@ process.siStripPedestalsDummyDBWriter.record=process.PoolDBOutputService.toPut[0
 process.p1 = cms.Path(process.siStripPedestalsDummyDBWriter)
 
 
+-- dummy change --
+-- dummy change --
+-- dummy change --

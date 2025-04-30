@@ -94,3 +94,6 @@ regionalCosmicTrackerSeeds = cms.EDProducer( "SeedGeneratorFromRegionHitsEDProdu
 #    skipClusters = cms.InputTag("pixelPairStepClusters"),
 #    hitErrorRPhi = cms.double(0.0027)
 #)
+-- dummy change --
+-- dummy change --
+-- dummy change --

@@ -80,3 +80,6 @@ HLTEle26WP70L1SeededSequence = cms.Sequence(
     +hltEgammaEleGsfTrackIsoL1Seeded
     +hltEle26WP70GsfTrackIsoL1SeededFilter
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

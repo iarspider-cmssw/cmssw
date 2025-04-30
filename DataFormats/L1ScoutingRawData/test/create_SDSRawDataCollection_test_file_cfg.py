@@ -20,3 +20,6 @@ process.out = cms.OutputModule("PoolOutputModule",
 
 process.path = cms.Path(process.sdsRawDataCollectionProducer)
 process.endPath = cms.EndPath(process.out)
+-- dummy change --
+-- dummy change --
+-- dummy change --

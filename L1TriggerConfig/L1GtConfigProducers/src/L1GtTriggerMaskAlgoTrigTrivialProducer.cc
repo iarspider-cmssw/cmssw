@@ -53,3 +53,6 @@ std::unique_ptr<L1GtTriggerMask> L1GtTriggerMaskAlgoTrigTrivialProducer::produce
     const L1GtTriggerMaskAlgoTrigRcd& iRecord) {
   return std::make_unique<L1GtTriggerMask>(m_triggerMask);
 }
+-- dummy change --
+-- dummy change --
+-- dummy change --

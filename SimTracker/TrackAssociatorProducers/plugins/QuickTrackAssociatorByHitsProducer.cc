@@ -205,3 +205,6 @@ void QuickTrackAssociatorByHitsProducer::fillDescriptions(edm::ConfigurationDesc
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(QuickTrackAssociatorByHitsProducer);
+-- dummy change --
+-- dummy change --
+-- dummy change --

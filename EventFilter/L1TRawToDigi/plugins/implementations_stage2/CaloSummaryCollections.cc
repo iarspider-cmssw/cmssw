@@ -7,3 +7,6 @@ namespace l1t {
     CaloSummaryCollections::~CaloSummaryCollections() { event_.put(std::move(cicadaDigis_)); }
   }  // namespace stage2
 }  // namespace l1t
+-- dummy change --
+-- dummy change --
+-- dummy change --

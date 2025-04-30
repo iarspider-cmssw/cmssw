@@ -20,3 +20,6 @@ OutALCARECOLumiPixelsMinBias_noDrop = cms.PSet(
 import copy
 OutALCARECOLumiPixelsMinBias=copy.deepcopy(OutALCARECOLumiPixelsMinBias_noDrop)
 OutALCARECOLumiPixelsMinBias.outputCommands.insert(0,"drop *")
+-- dummy change --
+-- dummy change --
+-- dummy change --

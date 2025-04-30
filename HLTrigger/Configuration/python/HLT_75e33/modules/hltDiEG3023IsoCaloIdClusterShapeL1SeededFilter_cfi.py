@@ -22,3 +22,6 @@ hltDiEG3023IsoCaloIdClusterShapeL1SeededFilter = cms.EDFilter("HLTEgammaGenericF
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaClusterShapeL1Seeded","sigmaIEtaIEta5x5")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

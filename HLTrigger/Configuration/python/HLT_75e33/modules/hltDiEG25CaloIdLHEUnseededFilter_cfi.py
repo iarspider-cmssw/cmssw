@@ -30,3 +30,6 @@ hltDiEG25CaloIdLHEUnseededFilter = cms.EDFilter("HLTEgammaGenericQuadraticEtaFil
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaHoverEUnseeded")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

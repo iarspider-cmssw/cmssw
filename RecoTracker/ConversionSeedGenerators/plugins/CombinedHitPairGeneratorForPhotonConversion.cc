@@ -53,3 +53,6 @@ void CombinedHitPairGeneratorForPhotonConversion::clearCache() {
   thePairs.clear();
   thePairs.shrink_to_fit();
 }
+-- dummy change --
+-- dummy change --
+-- dummy change --

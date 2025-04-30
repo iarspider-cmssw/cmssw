@@ -21,3 +21,6 @@ hltHighPtTripletStepHitTriplets = cms.EDProducer("CAHitTripletEDProducer",
     mightGet = cms.optional.untracked.vstring,
     useBendingCorrection = cms.bool(True)
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

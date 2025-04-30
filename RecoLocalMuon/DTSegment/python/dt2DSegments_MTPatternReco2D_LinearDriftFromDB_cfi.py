@@ -23,3 +23,6 @@ dt2DCosmicSegments = cms.EDProducer("DTRecSegment2DProducer",
     # name of the rechit 1D collection in the event
     recHits1DLabel = cms.InputTag("dt1DCosmicRecHits")
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

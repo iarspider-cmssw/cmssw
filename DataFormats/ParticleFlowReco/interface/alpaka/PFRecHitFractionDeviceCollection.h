@@ -16,3 +16,6 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE::reco {
 ASSERT_DEVICE_MATCHES_HOST_COLLECTION(reco::PFRecHitFractionDeviceCollection, reco::PFRecHitFractionHostCollection);
 
 #endif  // DataFormats_ParticleFlowReco_interface_alpaka_PFRecHitFractionDeviceCollection_h
+-- dummy change --
+-- dummy change --
+-- dummy change --

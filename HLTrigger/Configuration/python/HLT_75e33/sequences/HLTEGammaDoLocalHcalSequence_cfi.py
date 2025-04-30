@@ -4,3 +4,6 @@ from ..modules.hltHbhereco_cfi import *
 from ..modules.hltHcalDigis_cfi import *
 
 HLTEGammaDoLocalHcalSequence = cms.Sequence(hltHcalDigis+hltHbhereco)
+-- dummy change --
+-- dummy change --
+-- dummy change --

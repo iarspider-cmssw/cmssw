@@ -9,3 +9,6 @@ hltHgcalSoARecHitsLayerClustersProducer = cms.EDProducer("HGCalSoARecHitsLayerCl
     kappa = cms.double(9),
     outlierDeltaFactor = cms.double(2.0)
 )
+-- dummy change --
+-- dummy change --
+-- dummy change --

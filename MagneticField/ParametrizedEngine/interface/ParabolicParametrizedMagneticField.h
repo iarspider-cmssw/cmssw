@@ -45,3 +45,6 @@ namespace magneticFieldParabolicPortable {
 }  // namespace magneticFieldParabolicPortable
 
 #endif
+-- dummy change --
+-- dummy change --
+-- dummy change --

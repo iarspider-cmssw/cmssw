@@ -234,3 +234,6 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE::ecal::multifit {
   }
 
 }  // namespace ALPAKA_ACCELERATOR_NAMESPACE::ecal::multifit
+-- dummy change --
+-- dummy change --
+-- dummy change --

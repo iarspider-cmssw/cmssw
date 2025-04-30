@@ -10,4 +10,6 @@ initialStepTrajectoryFilterPreSplitting = cms.PSet(
             refToPSet_ = cms.string('initialStepTrajectoryFilterShapePreSplitting')
         )
     )
-)
+)-- dummy change --
+-- dummy change --
+-- dummy change --

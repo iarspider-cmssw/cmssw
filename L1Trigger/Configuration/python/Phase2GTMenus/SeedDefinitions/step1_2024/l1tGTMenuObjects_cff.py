@@ -100,4 +100,6 @@ l1tGTtkPhoton = cms.PSet(
 
 l1tGTtkIsoPhoton = l1tGTtkPhoton.clone(
     regionsMaxRelIsolationPt = get_object_isos("CL2Photons","Iso"),
-)
+)-- dummy change --
+-- dummy change --
+-- dummy change --
