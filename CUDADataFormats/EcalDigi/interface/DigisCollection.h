@@ -22,3 +22,4 @@ namespace ecal {
 }  // namespace ecal
 
 #endif  // CUDADataFormats_EcalDigi_interface_DigisCollection_h
+-- dummy change --

@@ -7,3 +7,4 @@
 DEFINE_FWK_MODULE(EcalTPGParamBuilder);
 DEFINE_FWK_MODULE(EcalTPGDBCopy);
 DEFINE_FWK_MODULE(testEcalTPGScale);
+-- dummy change --

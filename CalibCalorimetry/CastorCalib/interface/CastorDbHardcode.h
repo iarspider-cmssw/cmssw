@@ -28,3 +28,4 @@ namespace CastorDbHardcode {
   void makeHardcodeMap(CastorElectronicsMap& emap);
 }  // namespace CastorDbHardcode
 #endif
+-- dummy change --

@@ -14,3 +14,4 @@
 <library file="*.cc" name="CalibCalorimetryCastorPlugins">
   <flags EDM_PLUGIN="1"/>
 </library>
+-- dummy change --

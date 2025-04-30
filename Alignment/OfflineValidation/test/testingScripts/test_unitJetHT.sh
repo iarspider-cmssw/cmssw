@@ -22,3 +22,4 @@ popd
 
 echo "TESTING JetHT multi-IOV plotting"
 jetHtPlotter $CMSSW_BASE/src/Alignment/OfflineValidation/test/examples/jetHt_multiYearTrendPlot.json || die "Failure running multi-IOV JetHT plotting" $?
+-- dummy change --

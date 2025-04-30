@@ -8,3 +8,5 @@ SiPixelAliDQMModule = DQMEDHarvester("MillePedeDQMModule",
                                      alignmentTokenSrc = cms.InputTag("SiPixelAliPedeAlignmentProducer"),
                                      MillePedeFileReader = cms.PSet(MillePedeFileReader_cfi.MillePedeFileReader.clone())
                                      )
+-- dummy change --
+-- dummy change --

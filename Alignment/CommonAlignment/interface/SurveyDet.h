@@ -66,3 +66,5 @@ const align::LocalPoints& SurveyDet::localPoints() const { return thePoints; }
 align::GlobalPoints SurveyDet::globalPoints() const { return theSurface.toGlobal(thePoints); }
 
 #endif
+-- dummy change --
+-- dummy change --

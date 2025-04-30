@@ -2,3 +2,4 @@
 #include "CalibFormats/CaloTPG/interface/HcalTPGScale.h"
 
 TYPELOOKUP_DATA_REG(HcalTPGScale);
+-- dummy change --

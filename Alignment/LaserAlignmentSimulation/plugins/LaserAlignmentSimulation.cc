@@ -181,3 +181,5 @@ void LaserAlignmentSimulation::update(const EndOfRun *myRun) {
 #include "SimG4Core/Watcher/interface/SimWatcherFactory.h"
 
 DEFINE_SIMWATCHER(LaserAlignmentSimulation);
+-- dummy change --
+-- dummy change --

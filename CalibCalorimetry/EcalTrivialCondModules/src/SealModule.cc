@@ -10,3 +10,4 @@ DEFINE_FWK_EVENTSETUP_SOURCE(EcalTrivialConditionRetriever);
 DEFINE_FWK_EVENTSETUP_SOURCE(ESTrivialConditionRetriever);
 DEFINE_FWK_MODULE(EcalTrivialObjectAnalyzer);
 DEFINE_FWK_MODULE(EcalLaserCondTools);
+-- dummy change --

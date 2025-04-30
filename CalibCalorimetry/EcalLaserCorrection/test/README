@@ -16,3 +16,4 @@ To test the EcalLaserCorrectionService, setup environment for DB access.  Also, 
 > cmsRun test_ecallaserdb.cfg
 
 As configured, it will read and printout laser APD/PN values from the specified database.
+-- dummy change --

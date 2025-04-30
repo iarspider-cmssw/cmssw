@@ -44,3 +44,5 @@ if [[ ${#log_files[@]} -gt 0 ]]; then
 else
     echo "No log files found matching 'log*.out'."
 fi
+-- dummy change --
+-- dummy change --

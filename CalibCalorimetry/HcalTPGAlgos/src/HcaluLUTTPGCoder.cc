@@ -794,3 +794,4 @@ void HcaluLUTTPGCoder::lookupMSB(const QIE11DataFrame& df, std::vector<std::bits
     msb[i][1] = lut.at(df[i].adc()) & QIE11_LUT_MSB1;
   }
 }
+-- dummy change --

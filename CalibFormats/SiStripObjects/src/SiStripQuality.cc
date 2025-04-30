@@ -733,3 +733,4 @@ void SiStripQuality::turnOffFeds(const std::vector<int> &fedsList, const bool tu
     edm::LogInfo("SiStripQuality") << ss.str() << std::endl;
   }
 }
+-- dummy change --

@@ -19,3 +19,4 @@
   <class name="cms::cuda::Product<cudatest::TestDeviceCollection>" persistent="false"/>
   <class name="edm::Wrapper<cms::cuda::Product<cudatest::TestDeviceCollection>>" persistent="false"/>
 </lcgdict>
+-- dummy change --

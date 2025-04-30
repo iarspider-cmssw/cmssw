@@ -127,3 +127,5 @@ void HIPHitMonitorVariables::fill() {
 
   resetPerHit();
 }
+-- dummy change --
+-- dummy change --

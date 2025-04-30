@@ -89,3 +89,4 @@ void SurveyTest::getTerminals(align::Alignables& terminals, Alignable* ali) {
 
 #include "FWCore/Framework/interface/MakerMacros.h"
 DEFINE_FWK_MODULE(SurveyTest);
+-- dummy change --

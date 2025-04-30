@@ -69,3 +69,4 @@ void SurveyAlignment::iterate(unsigned int nIteration, const std::string& fileNa
       break;  // converges, so exit loop
   }
 }
+-- dummy change --

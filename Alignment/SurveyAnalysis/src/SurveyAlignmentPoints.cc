@@ -51,3 +51,4 @@ void SurveyAlignmentPoints::findAlignPars(bool bias) {
     ali->setAlignmentParameters(new SurveyParameters(ali, sumJVe, sumJVJT));
   }
 }
+-- dummy change --

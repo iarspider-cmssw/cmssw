@@ -145,3 +145,4 @@ PropagationDirection TrajectoryFactoryBase::propagationDirection(const std::stri
 
   throw cms::Exception("BadConfig") << "[TrajectoryFactoryBase::propagationDirection] Unknown parameter: " << strPD;
 }
+-- dummy change --

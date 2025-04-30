@@ -7,3 +7,4 @@ template class CaloTSamplesBase<float>;
 template class CaloTSamples<float, ecalPh2::sampleSize>;
 template class CaloTSamples<float, 3>;
 template class CaloTSamples<float, 10>;
+-- dummy change --

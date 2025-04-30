@@ -239,3 +239,4 @@ void TestIdealGeometry::analyze(const edm::Event& iEvent, const edm::EventSetup&
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(TestIdealGeometry);
+-- dummy change --

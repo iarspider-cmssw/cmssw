@@ -121,3 +121,4 @@ double CastorPulseContainmentCorrection::getCorrection(double fc_ampl) const {
 
   return correction;
 }
+-- dummy change --

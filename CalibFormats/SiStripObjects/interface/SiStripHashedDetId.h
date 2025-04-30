@@ -114,3 +114,4 @@ SiStripHashedDetId::const_iterator SiStripHashedDetId::begin() const { return de
 SiStripHashedDetId::const_iterator SiStripHashedDetId::end() const { return detIds_.end(); }
 
 #endif  // CalibFormats_SiStripObjects_SiStripHashedDetId_H
+-- dummy change --

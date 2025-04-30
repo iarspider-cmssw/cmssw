@@ -111,3 +111,5 @@ void MagneticFieldFilter::fillDescriptions(edm::ConfigurationDescriptions& descr
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(MagneticFieldFilter);
+-- dummy change --
+-- dummy change --

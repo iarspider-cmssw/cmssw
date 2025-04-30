@@ -6,3 +6,4 @@ std::vector<unsigned short> CastorTPGCoder::getLinearizationLUT(HcalDetId id) co
     lut[i] = adc2Linear(i, id);
   return lut;
 }
+-- dummy change --

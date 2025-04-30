@@ -19,3 +19,5 @@ OutALCARECOMuAlBeamHalo_noDrop = cms.PSet(
 import copy
 OutALCARECOMuAlBeamHalo = copy.deepcopy(OutALCARECOMuAlBeamHalo_noDrop)
 OutALCARECOMuAlBeamHalo.outputCommands.insert(0, "drop *")
+-- dummy change --
+-- dummy change --

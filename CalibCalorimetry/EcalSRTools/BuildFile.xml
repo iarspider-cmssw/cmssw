@@ -6,3 +6,4 @@
 <use name="OnlineDB/EcalCondDB"/>
 <use name="SimCalorimetry/EcalSimAlgos"/>
 <flags EDM_PLUGIN="1"/>
+-- dummy change --

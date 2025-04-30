@@ -7,3 +7,4 @@
 typedef edmplugin::PluginFactory<CSCChannelMapperBase *(void)> CSCChannelMapperFactory;
 
 #endif
+-- dummy change --

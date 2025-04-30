@@ -98,3 +98,5 @@ void MeasurementDiffEntry::calculateSimulatedValue(ALIbool firstTime) {
   if (ALIUtils::debug >= 5)
     std::cout << "end calculateSimulatedValue" << std::endl;
 }
+-- dummy change --
+-- dummy change --

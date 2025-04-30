@@ -352,3 +352,4 @@ void HcalLuttoDB::endJob() {}
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(HcalLuttoDB);
+-- dummy change --

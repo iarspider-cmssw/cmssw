@@ -10,3 +10,5 @@ OutALCARECOPromptCalibProdSiPixelAliHLTHGC_noDrop = cms.PSet(
 
 OutALCARECOPromptCalibProdSiPixelAliHLTHGC=OutALCARECOPromptCalibProdSiPixelAliHLTHGC_noDrop.clone()
 OutALCARECOPromptCalibProdSiPixelAliHLTHGC.outputCommands.insert(0, "drop *")
+-- dummy change --
+-- dummy change --

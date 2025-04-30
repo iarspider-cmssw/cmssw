@@ -29,3 +29,4 @@ int HcalSiPMnonlinearity::getPixelsFired(int inpes) const {
 
   return realpix > 0 ? (int)(realpix + 0.5) : 0;
 }
+-- dummy change --

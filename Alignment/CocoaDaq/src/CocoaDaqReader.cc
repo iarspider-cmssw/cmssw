@@ -15,3 +15,5 @@ void CocoaDaqReader::SetDaqReader(CocoaDaqReader* reader) {
 
 //----------------------------------------------------------------------
 void CocoaDaqReader::BuildMeasurementsFromOptAlign(std::vector<OpticalAlignMeasurementInfo>& measList) {}
+-- dummy change --
+-- dummy change --

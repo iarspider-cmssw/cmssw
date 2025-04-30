@@ -47,3 +47,4 @@ public:
 };
 
 #endif  //    ZTR_TEcnaParCout
+-- dummy change --

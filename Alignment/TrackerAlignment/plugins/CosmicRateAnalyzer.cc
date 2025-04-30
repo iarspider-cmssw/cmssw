@@ -671,3 +671,4 @@ void CosmicRateAnalyzer::fillDescriptions(edm::ConfigurationDescriptions& descri
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(CosmicRateAnalyzer);
+-- dummy change --

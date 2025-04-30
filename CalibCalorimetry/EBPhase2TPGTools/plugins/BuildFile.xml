@@ -8,3 +8,4 @@
 <library file="*.cc" name="CalibCalorimetryEBPhase2TPGToolsPlugins">
   <flags EDM_PLUGIN="1"/>
 </library>
+-- dummy change --

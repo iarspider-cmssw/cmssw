@@ -20,3 +20,4 @@ std::ostream& pos::operator<<(std::ostream& s, const PixelChannel& channel) {
 }
 
 std::string PixelChannel::channelname() const { return modulename() + "_ch" + TBMChannelString(); }
+-- dummy change --

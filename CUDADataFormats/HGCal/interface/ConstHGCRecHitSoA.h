@@ -14,3 +14,4 @@ public:
 };
 
 #endif  //CUDADataFormats_HGCal_ConstHGCRecHitSoA_h
+-- dummy change --

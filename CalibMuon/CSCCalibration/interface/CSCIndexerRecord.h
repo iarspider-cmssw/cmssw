@@ -6,3 +6,4 @@
 class CSCIndexerRecord : public edm::eventsetup::EventSetupRecordImplementation<CSCIndexerRecord> {};
 
 #endif
+-- dummy change --

@@ -4,3 +4,4 @@
 <library file="HcalPulseContainmentTest.cc" name="HcalPulseContainmentTest">
   <flags EDM_PLUGIN="1"/>
 </library>
+-- dummy change --

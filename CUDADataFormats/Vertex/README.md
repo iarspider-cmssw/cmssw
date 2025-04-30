@@ -43,3 +43,4 @@ a collection of methods which were originally
 defined as class methods inside the `ZVertexSoA` class
 which have been adapted to operate on `View` instances, so that they are callable
 from within `__global__` kernels, on both CPU and CPU. 
+-- dummy change --

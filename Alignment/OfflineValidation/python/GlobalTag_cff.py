@@ -24,3 +24,5 @@ sistripconn = cms.ESProducer("SiStripConnectivity")
 # end fake calibrations
 
 from Configuration.StandardSequences.CondDBESSource_cff import GlobalTag
+-- dummy change --
+-- dummy change --

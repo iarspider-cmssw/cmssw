@@ -66,3 +66,4 @@ namespace calo {
 }  // namespace calo
 
 #endif  // CUDADataFormats_CaloCommon_interface_Common_h
+-- dummy change --

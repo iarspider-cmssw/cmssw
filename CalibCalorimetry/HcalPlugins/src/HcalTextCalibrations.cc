@@ -343,3 +343,4 @@ std::unique_ptr<HcalTPChannelParameters> HcalTextCalibrations::produceTPChannelP
 std::unique_ptr<HcalTPParameters> HcalTextCalibrations::produceTPParameters(const HcalTPParametersRcd& rcd) {
   return get_impl<HcalTPParameters>(mInputs["TPParameters"]);
 }
+-- dummy change --

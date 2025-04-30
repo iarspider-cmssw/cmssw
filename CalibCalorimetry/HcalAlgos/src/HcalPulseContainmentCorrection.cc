@@ -82,3 +82,4 @@ double HcalPulseContainmentCorrection::getCorrection(double fc_ampl) const {
 
   return correction;
 }
+-- dummy change --

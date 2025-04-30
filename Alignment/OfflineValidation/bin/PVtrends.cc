@@ -206,3 +206,5 @@ int trends(int argc, char *argv[]) {
 #ifndef DOXYGEN_SHOULD_SKIP_THIS
 int main(int argc, char *argv[]) { return exceptions<trends>(argc, argv); }
 #endif
+-- dummy change --
+-- dummy change --

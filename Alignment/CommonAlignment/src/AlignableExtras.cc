@@ -96,3 +96,5 @@ void AlignableExtras::resetBeamSpot() {
                                        << "AlignableBeamSpot not available. Cannot reset!" << std::endl;
   }
 }
+-- dummy change --
+-- dummy change --

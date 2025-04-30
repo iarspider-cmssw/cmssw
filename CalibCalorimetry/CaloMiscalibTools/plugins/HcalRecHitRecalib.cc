@@ -124,3 +124,4 @@ void HcalRecHitRecalib::produce(edm::Event& iEvent, const edm::EventSetup& iSetu
   iEvent.put(std::move(RecalibHFRecHitCollection), recalibHFHits_);
   iEvent.put(std::move(RecalibHORecHitCollection), recalibHOHits_);
 }
+-- dummy change --

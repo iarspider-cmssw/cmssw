@@ -249,3 +249,4 @@ float HcaluLUTTPGCoder::getLUTGain(HcalDetId id) const {
   int ref = GetLUTID(id.subdet(), id.ieta(), id.iphi(), id.depth());
   return _gain[ref];
 }
+-- dummy change --

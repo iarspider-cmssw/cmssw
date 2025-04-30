@@ -71,3 +71,4 @@ public:
   ClassDefOverride(TEcnaResultType, 1)  //One leaf of the CNA root file
 };
 #endif
+-- dummy change --

@@ -99,3 +99,4 @@ std::ostream &operator<<(std::ostream &s, const CaloSamples &samps);
 typedef std::vector<CaloSamples> CaloSamplesCollection;
 
 #endif
+-- dummy change --

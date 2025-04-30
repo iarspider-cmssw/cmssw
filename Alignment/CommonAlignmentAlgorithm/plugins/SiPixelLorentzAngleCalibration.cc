@@ -483,3 +483,5 @@ SiPixelLorentzAngle SiPixelLorentzAngleCalibration::createFromTree(const char *f
 #include "Alignment/CommonAlignmentAlgorithm/interface/IntegratedCalibrationPluginFactory.h"
 
 DEFINE_EDM_PLUGIN(IntegratedCalibrationPluginFactory, SiPixelLorentzAngleCalibration, "SiPixelLorentzAngleCalibration");
+-- dummy change --
+-- dummy change --

@@ -209,3 +209,4 @@ inline XMLCh* XMLProcessor::_toXMLCh(time_t temp) {
 }
 
 #endif
+-- dummy change --

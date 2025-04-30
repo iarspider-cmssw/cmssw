@@ -17,3 +17,4 @@ HcalTriggerPrimitiveSample HcalTPGCompressor::compress(const HcalTrigTowerDetId&
                                                        bool fineGrain) const {
   return coder_->hcalCompress(id, sample, fineGrain);
 }
+-- dummy change --

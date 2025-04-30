@@ -11,3 +11,5 @@ process Alignment =
   replace HIPAlignmentAlgorithm.collectorNJobs  = 0
   replace HIPAlignmentAlgorithm.collectorPath   = "<PATH>"
 }
+-- dummy change --
+-- dummy change --

@@ -296,3 +296,5 @@ void Alignable::recenterSurface() {
   const auto& currentPosition = this->globalPosition();
   theSurface.move(align::GlobalVector{-currentPosition.x(), -currentPosition.y(), -currentPosition.z()});
 }
+-- dummy change --
+-- dummy change --

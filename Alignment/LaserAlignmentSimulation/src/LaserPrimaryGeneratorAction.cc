@@ -108,3 +108,5 @@ void LaserPrimaryGeneratorAction::setGeneratorId(G4PrimaryParticle *aParticle, i
   aParticle->SetUserInformation(new GenParticleInfo(ID));
   // }}}
 }
+-- dummy change --
+-- dummy change --

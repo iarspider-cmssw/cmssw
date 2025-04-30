@@ -299,3 +299,5 @@ void LASGeometryUpdater::SetReverseDirection(bool isSet) { isReverseDirection = 
 ///
 ///
 void LASGeometryUpdater::SetMisalignmentFromRefGeometry(bool isSet) { isMisalignmentFromRefGeometry = isSet; }
+-- dummy change --
+-- dummy change --

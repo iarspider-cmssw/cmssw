@@ -14,3 +14,4 @@ echo "TESTING DiMuonV merge step"
 pushd test_yaml/DiMuonV/merge/testUnits/1/
 ./DiMuonVmerge validation.json --verbose || die "Failure running DiMuonV merge step" $?
 popd
+-- dummy change --

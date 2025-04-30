@@ -5,3 +5,4 @@
 <use name="DataFormats/FEDRawData"/>
 <use name="EventFilter/EcalRawToDigi"/>
 <flags EDM_PLUGIN="1"/>
+-- dummy change --

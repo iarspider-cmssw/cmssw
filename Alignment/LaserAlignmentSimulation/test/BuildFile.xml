@@ -12,3 +12,5 @@
 <library file="*.cc" name="testLaserAlignmentSimulation">
   <flags EDM_PLUGIN="1"/>
 </library>
+-- dummy change --
+-- dummy change --

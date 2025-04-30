@@ -680,3 +680,4 @@ void EcalLaserCondTools::dbToAscii(const edm::EventSetup& es) {
   }
 }
 //DEFINE_FWK_MODULE(EcalLaserCondTools);
+-- dummy change --

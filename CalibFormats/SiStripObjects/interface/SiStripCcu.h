@@ -47,3 +47,4 @@ std::vector<SiStripModule> &SiStripCcu::modules() { return modules_; }
 const uint16_t &SiStripCcu::ccuAddr() const { return ccuAddr_; }
 
 #endif  // CalibTracker_SiStripObjects_SiStripCcu_H
+-- dummy change --

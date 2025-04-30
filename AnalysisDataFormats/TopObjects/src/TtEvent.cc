@@ -15,3 +15,4 @@ int TtEvent::correspondingHypo(const HypoClassKey& key1, const unsigned& hyp1, c
 TtEvent::HypoClassKey TtEvent::hypoClassKeyFromString(const std::string& label) const {
   return (HypoClassKey)StringToEnumValue<HypoClassKey>(label);
 }
+-- dummy change --

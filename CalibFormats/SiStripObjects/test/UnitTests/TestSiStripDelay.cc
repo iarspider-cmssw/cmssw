@@ -115,3 +115,4 @@ public:
 CPPUNIT_TEST_SUITE_REGISTRATION(TestSiStripDelay);
 
 #endif
+-- dummy change --

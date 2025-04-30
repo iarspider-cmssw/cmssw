@@ -37,3 +37,4 @@ class CastorDbRecord
                                                                              CastorElectronicsMapRcd> > {};
 
 #endif /* CASTORDBPRODUCER_CASTORDBRECORD_H */
+-- dummy change --

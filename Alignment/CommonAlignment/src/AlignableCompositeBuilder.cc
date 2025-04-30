@@ -142,3 +142,5 @@ unsigned int AlignableCompositeBuilder ::getIndexOfStructure(align::ID id, unsig
 
   return indexOf(id) - 1;
 }
+-- dummy change --
+-- dummy change --

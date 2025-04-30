@@ -574,3 +574,5 @@ void LaserDQM::fillAdcCounts(MonitorElement *theMonitor,
 // define the SEAL module
 
 DEFINE_FWK_MODULE(LaserDQM);
+-- dummy change --
+-- dummy change --

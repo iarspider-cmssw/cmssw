@@ -60,3 +60,4 @@ double HcalHardcodeParameters::darkCurrent(unsigned index, double intlumi) const
 }
 
 double HcalHardcodeParameters::noiseCorrelation(unsigned index) const { return noiseCorrelation_.at(index); }
+-- dummy change --

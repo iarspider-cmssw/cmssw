@@ -5,3 +5,4 @@
   <class name="cms::cuda::Product<ZVertexSoADevice>" persistent="false"/>
   <class name="edm::Wrapper<cms::cuda::Product<ZVertexSoADevice>>" persistent="false"/>
 </lcgdict>
+-- dummy change --

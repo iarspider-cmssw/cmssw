@@ -48,3 +48,4 @@ private:
 };
 
 #endif  //MAJORITY_H not defined
+-- dummy change --

@@ -54,3 +54,4 @@ ecalTPConditions = cms.ESSource("PoolDBESSource",
 #    connect = cms.string('oracle://ecalh4db/TEST02'),
     connect = cms.string('sqlite_file:/afs/cern.ch/cms/ECAL/testbeam/pedestal/GlobalRuns/DB_30x.db'),
 )
+-- dummy change --

@@ -88,3 +88,4 @@ namespace CastorDbXml {
   }
 }  // namespace CastorDbXml
 #endif
+-- dummy change --

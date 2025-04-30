@@ -1488,3 +1488,4 @@ void EcalLaserAnalyzer2::setGeomEE(
 }
 
 DEFINE_FWK_MODULE(EcalLaserAnalyzer2);
+-- dummy change --

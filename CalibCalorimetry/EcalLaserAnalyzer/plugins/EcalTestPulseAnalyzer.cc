@@ -790,3 +790,4 @@ void EcalTestPulseAnalyzer::endJob() {
 }
 
 DEFINE_FWK_MODULE(EcalTestPulseAnalyzer);
+-- dummy change --

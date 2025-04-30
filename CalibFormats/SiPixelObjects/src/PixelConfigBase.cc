@@ -14,3 +14,4 @@ using namespace pos;
 
 PixelConfigBase::PixelConfigBase(std::string description, std::string creator, std::string date)
     : description_(description), creator_(creator), date_(date) {}
+-- dummy change --

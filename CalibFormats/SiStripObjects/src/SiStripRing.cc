@@ -22,3 +22,4 @@ void SiStripRing::addDevices(const FedChannelConnection &conn) {
     iccu->addDevices(conn);
   }
 }
+-- dummy change --

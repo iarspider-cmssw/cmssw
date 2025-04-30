@@ -2,3 +2,4 @@
 #include "CalibCalorimetry/HcalAlgos/interface/HcalTimeSlew.h"
 
 TYPELOOKUP_DATA_REG(HcalTimeSlew);
+-- dummy change --

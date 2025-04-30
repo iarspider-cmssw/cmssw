@@ -40,3 +40,4 @@ float HcalPulseShape::integrate(double t1, double t2) const {
   }
   return (float)intval;
 }
+-- dummy change --

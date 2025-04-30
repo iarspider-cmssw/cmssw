@@ -6,3 +6,4 @@ CaloTPGTranscoder::CaloTPGTranscoder()
     : hccompress_(new HcalTPGCompressor(this)), eccompress_(new EcalTPGCompressor(this)) {}
 
 CaloTPGTranscoder::~CaloTPGTranscoder() {}
+-- dummy change --

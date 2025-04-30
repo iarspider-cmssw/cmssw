@@ -42,3 +42,4 @@ const SurveyPxbImage::coord_t SurveyPxbImage::getCoord(count_t m) {
   else
     throw std::out_of_range("Attempt to access an inexistent measurement");
 }
+-- dummy change --
