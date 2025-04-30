@@ -105,3 +105,4 @@ bool LASPeakFinder::FindPeakIn(const LASModuleProfile& aProfile,
 ///
 void LASPeakFinder::SetAmplitudeThreshold(double aThreshold) { amplitudeThreshold = aThreshold; }
 -- dummy change --
+-- dummy change --

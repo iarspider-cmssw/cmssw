@@ -6,3 +6,4 @@
 class CSCChannelMapperRecord : public edm::eventsetup::EventSetupRecordImplementation<CSCChannelMapperRecord> {};
 
 #endif
+-- dummy change --

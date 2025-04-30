@@ -20,3 +20,4 @@ pushd test_yaml/Zmumu/merge/testSingleZMM/1/
 ./Zmumumerge --verbose validation.json || die "Failure running Zmumu merge step" $?
 popd
 -- dummy change --
+-- dummy change --

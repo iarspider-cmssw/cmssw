@@ -344,3 +344,4 @@ void EcalStatusAnalyzer::endJob() {
 }
 
 DEFINE_FWK_MODULE(EcalStatusAnalyzer);
+-- dummy change --

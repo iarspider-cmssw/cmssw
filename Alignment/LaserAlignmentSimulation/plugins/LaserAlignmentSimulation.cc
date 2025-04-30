@@ -182,3 +182,4 @@ void LaserAlignmentSimulation::update(const EndOfRun *myRun) {
 
 DEFINE_SIMWATCHER(LaserAlignmentSimulation);
 -- dummy change --
+-- dummy change --

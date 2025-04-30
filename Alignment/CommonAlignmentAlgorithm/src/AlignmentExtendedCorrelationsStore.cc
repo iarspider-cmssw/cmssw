@@ -308,3 +308,4 @@ void AlignmentExtendedCorrelationsStore::resizeCorruptCorrelations(ExtendedCorre
   }
 }
 -- dummy change --
+-- dummy change --

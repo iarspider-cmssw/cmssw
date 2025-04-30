@@ -77,3 +77,4 @@ namespace gs {
 
 #endif  // GENERS_CONTIGUOUSCATALOG_HH_
 -- dummy change --
+-- dummy change --

@@ -55,3 +55,4 @@ class HcalDbRecord : public edm::eventsetup::DependentRecordImplementation<HcalD
                                                                                             HcalTimeSlewRecord> > {};
 
 #endif /* HCALDBPRODUCER_HCALDBRECORD_H */
+-- dummy change --

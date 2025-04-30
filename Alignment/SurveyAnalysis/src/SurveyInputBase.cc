@@ -16,3 +16,4 @@ void SurveyInputBase::addComponent(Alignable* comp) {
   else
     theDetector->addComponent(comp);
 }
+-- dummy change --

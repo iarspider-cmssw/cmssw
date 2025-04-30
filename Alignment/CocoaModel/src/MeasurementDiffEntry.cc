@@ -99,3 +99,4 @@ void MeasurementDiffEntry::calculateSimulatedValue(ALIbool firstTime) {
     std::cout << "end calculateSimulatedValue" << std::endl;
 }
 -- dummy change --
+-- dummy change --

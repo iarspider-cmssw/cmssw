@@ -13,3 +13,4 @@
 <library file="*.cc" name="AlignmentReferenceTrajectoriesPlugins">
   <flags EDM_PLUGIN="1"/>
 </library>
+-- dummy change --

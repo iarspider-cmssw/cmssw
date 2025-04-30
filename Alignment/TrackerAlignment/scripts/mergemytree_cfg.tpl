@@ -14,3 +14,4 @@ process.AlignmentTreeMerger.OutputFile="<DQMTOTFILE>"
 process.AlignmentTreeMerger.NhitsMaxLimit=400
 
 process.path = cms.Path(process.AlignmentTreeMerger)
+-- dummy change --

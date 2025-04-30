@@ -99,3 +99,4 @@ void HcalCoderDb::fC2adc(const CaloSamples& clf, QIE10DataFrame& df, int fCapIdO
 void HcalCoderDb::fC2adc(const CaloSamples& clf, QIE11DataFrame& df, int fCapIdOffset) const {
   fC2adc_(clf, df, fCapIdOffset);
 }
+-- dummy change --

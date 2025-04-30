@@ -323,3 +323,4 @@ void SurveyPxbImageLocalFit::setGlobalDerivsToZero(count_t j) {
   for (count_t i = 0; i != nMsrmts; i++)
     globalDerivsMatrix_(i, j) = 0;
 }
+-- dummy change --

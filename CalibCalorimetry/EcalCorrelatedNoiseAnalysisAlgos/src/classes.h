@@ -24,3 +24,4 @@
 namespace CalibCalorimetry_EcalCorrelatedNoiseAnalysisAlgos {
   struct dictionary {};
 }  // namespace CalibCalorimetry_EcalCorrelatedNoiseAnalysisAlgos
+-- dummy change --

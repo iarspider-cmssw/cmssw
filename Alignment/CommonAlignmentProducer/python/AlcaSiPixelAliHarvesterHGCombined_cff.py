@@ -91,3 +91,4 @@ ALCAHARVESTSiPixelAliHGCombined = cms.Sequence(SiPixelAliMilleFileExtractorHGMin
                                                SiPixelAliDQMModuleHGCombined*
                                                dqmEnvSiPixelAliHGCombined)
 -- dummy change --
+-- dummy change --

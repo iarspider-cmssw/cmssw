@@ -57,3 +57,4 @@ void AlignmentParametersData::checkConsistency(void) const {
                                        << ".";
 }
 -- dummy change --
+-- dummy change --

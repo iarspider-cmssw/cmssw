@@ -135,3 +135,4 @@ Bool_t GFHistArray::CheckObjOK (TObject * histObj)
   return (!histObj || histObj->InheritsFrom(TH1::Class()));
 }
 -- dummy change --
+-- dummy change --

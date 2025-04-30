@@ -23,3 +23,4 @@
 </bin>
 
 <test name="testSiStripHashedDetId" command="testSiStripHashedDetId.sh"/>
+-- dummy change --

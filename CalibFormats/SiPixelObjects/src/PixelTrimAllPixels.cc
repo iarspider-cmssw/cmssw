@@ -304,3 +304,4 @@ void PixelTrimAllPixels::writeXMLTrailer(std::ofstream *outstream,
   outstream->close();
   std::cout << mthn << "Data written " << std::endl;
 }
+-- dummy change --

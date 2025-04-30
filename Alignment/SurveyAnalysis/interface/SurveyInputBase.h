@@ -41,3 +41,4 @@ private:
 Alignable* SurveyInputBase::detector() { return theDetector; }
 
 #endif
+-- dummy change --

@@ -123,3 +123,4 @@ private:
   S shape_;
   const std::unique_ptr<HcalShapeIntegrator> integrator_;
 };
+-- dummy change --

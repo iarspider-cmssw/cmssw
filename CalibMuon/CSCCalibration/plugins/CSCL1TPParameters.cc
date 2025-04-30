@@ -35,3 +35,4 @@ void CSCL1TPParametersConditions::setIntervalFor(const edm::eventsetup::EventSet
                                                  edm::ValidityInterval &oValidity) {
   oValidity = edm::ValidityInterval(edm::IOVSyncValue::beginOfTime(), edm::IOVSyncValue::endOfTime());
 }
+-- dummy change --

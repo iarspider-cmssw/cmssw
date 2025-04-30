@@ -7,3 +7,4 @@ export MusEcal=${PWD}
 export LD_LIBRARY_PATH=${ROOTSYS}/lib:${LD_LIBRARY_PATH}
 export LD_LIBRARY_PATH=${MusEcal}/lib:${LD_LIBRARY_PATH}
 export PATH=${MusEcal}/bin:${PATH}
+-- dummy change --

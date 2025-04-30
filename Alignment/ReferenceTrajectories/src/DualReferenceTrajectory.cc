@@ -138,3 +138,4 @@ ReferenceTrajectory* DualReferenceTrajectory::construct(const TrajectoryStateOnS
 AlgebraicVector DualReferenceTrajectory::extractParameters(const TrajectoryStateOnSurface& referenceTsos) const {
   return asHepVector<5>(referenceTsos.localParameters().mixedFormatVector());
 }
+-- dummy change --

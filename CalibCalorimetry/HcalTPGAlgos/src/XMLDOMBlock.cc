@@ -478,3 +478,4 @@ DOMElement* XMLDOMBlock::add_element(DOMElement* parent, XMLCh* tagname, XMLCh* 
   _elem->appendChild(_value);
   return _elem;
 }
+-- dummy change --

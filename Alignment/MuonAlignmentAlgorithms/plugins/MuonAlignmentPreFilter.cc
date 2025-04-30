@@ -118,3 +118,4 @@ bool MuonAlignmentPreFilter::filter(edm::Event& iEvent, const edm::EventSetup& i
 //define this as a plug-in
 DEFINE_FWK_MODULE(MuonAlignmentPreFilter);
 -- dummy change --
+-- dummy change --

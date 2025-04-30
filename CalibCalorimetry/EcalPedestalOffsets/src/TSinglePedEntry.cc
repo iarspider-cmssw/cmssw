@@ -45,3 +45,4 @@ double TSinglePedEntry::RMSSq() const {
   double output = m_pedestalSqSum * num - m_pedestalSum * num * m_pedestalSum * num;
   return output;
 }
+-- dummy change --

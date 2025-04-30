@@ -21,3 +21,4 @@ check_for_success cmsRun ${TEST_CFG} input=db output=xml inputFile=${TEST_DIR}/i
 check_for_success cmsRun ${TEST_CFG} input=xml output=db inputFile=${TEST_DIR}/ideal.xml outputFile=${TEST_DIR}/idealXML.db
 clean_up
 -- dummy change --
+-- dummy change --

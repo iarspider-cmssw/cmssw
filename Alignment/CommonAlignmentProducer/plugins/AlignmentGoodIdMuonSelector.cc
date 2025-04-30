@@ -126,3 +126,4 @@ bool AlignmentGoodIdMuonSelector::filter(edm::StreamID, edm::Event& iEvent, cons
 #include "FWCore/Framework/interface/MakerMacros.h"
 DEFINE_FWK_MODULE(AlignmentGoodIdMuonSelector);
 -- dummy change --
+-- dummy change --

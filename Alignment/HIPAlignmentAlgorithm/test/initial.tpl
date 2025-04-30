@@ -12,3 +12,4 @@ process Alignment =
   replace HIPAlignmentAlgorithm.collectorPath   = "<PATH>"
 }
 -- dummy change --
+-- dummy change --

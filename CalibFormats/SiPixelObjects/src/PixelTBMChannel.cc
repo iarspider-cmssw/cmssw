@@ -26,3 +26,4 @@ std::ostream& pos::operator<<(std::ostream& s, const PixelTBMChannel& TBMChannel
   s << TBMChannel.string();
   return s;
 }
+-- dummy change --

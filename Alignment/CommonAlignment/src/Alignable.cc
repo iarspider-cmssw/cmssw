@@ -297,3 +297,4 @@ void Alignable::recenterSurface() {
   theSurface.move(align::GlobalVector{-currentPosition.x(), -currentPosition.y(), -currentPosition.z()});
 }
 -- dummy change --
+-- dummy change --

@@ -168,3 +168,4 @@ CaloTPGTranscoderULUTs::ReturnType CaloTPGTranscoderULUTs::produce(const CaloTPG
 
 //define this as a plug-in
 DEFINE_FWK_EVENTSETUP_MODULE(CaloTPGTranscoderULUTs);
+-- dummy change --

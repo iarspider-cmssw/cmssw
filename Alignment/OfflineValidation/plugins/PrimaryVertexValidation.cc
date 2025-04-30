@@ -3719,3 +3719,4 @@ void PrimaryVertexValidation::fillDescriptions(edm::ConfigurationDescriptions& d
 //define this as a plug-in
 DEFINE_FWK_MODULE(PrimaryVertexValidation);
 -- dummy change --
+-- dummy change --

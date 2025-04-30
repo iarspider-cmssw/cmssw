@@ -22,3 +22,4 @@ ALIbool CocoaMaterialElementary::operator==(const CocoaMaterialElementary &mate)
           std::abs(mate.getA() - theA) < kTolerance && mate.getZ() == theZ);
 }
 -- dummy change --
+-- dummy change --

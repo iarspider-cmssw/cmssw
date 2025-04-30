@@ -77,3 +77,4 @@ TEST_CASE("HIPTwoBodyDecayAnalyzer tests", "[HIPTwoBodyDecayAnalyzer]") {
   runTestForAnalyzer(baseConfig, "HIPTwoBodyDecayAnalyzer");
 }
 -- dummy change --
+-- dummy change --

@@ -52,3 +52,4 @@ int CastorChannelCoder::adc(const reco::castor::QieShape& fShape, double fCharge
   //	    << " result: " << adc << std::endl;
   return adc;
 }
+-- dummy change --

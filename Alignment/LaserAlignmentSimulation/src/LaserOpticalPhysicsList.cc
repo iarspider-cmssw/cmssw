@@ -110,3 +110,4 @@ void LaserOpticalPhysicsList::ConstructProcess() {
   wasActivated = true;
 }
 -- dummy change --
+-- dummy change --

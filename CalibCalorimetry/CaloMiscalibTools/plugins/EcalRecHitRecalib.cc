@@ -108,3 +108,4 @@ void EcalRecHitRecalib::produce(edm::Event& iEvent, const edm::EventSetup& iSetu
   iEvent.put(barrelHitsToken_, std::move(RecalibEBRecHitCollection));
   iEvent.put(endcapHitsToken_, std::move(RecalibEERecHitCollection));
 }
+-- dummy change --

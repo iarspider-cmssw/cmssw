@@ -42,3 +42,4 @@ namespace gs {
 #endif // GENERS_CPBUFFERREFERENCE_HH_
 
 -- dummy change --
+-- dummy change --

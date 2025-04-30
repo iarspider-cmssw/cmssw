@@ -680,3 +680,4 @@ void EcalMatacqAnalyzer::endJob() {
 }
 
 DEFINE_FWK_MODULE(EcalMatacqAnalyzer);
+-- dummy change --

@@ -44,3 +44,4 @@ BzeroReferenceTrajectory::BzeroReferenceTrajectory(const TrajectoryStateOnSurfac
   theParameters = theParameters.sub(2, 5);
   theDerivatives = theDerivatives.sub(1, theDerivatives.num_row(), 2, theDerivatives.num_col());
 }
+-- dummy change --

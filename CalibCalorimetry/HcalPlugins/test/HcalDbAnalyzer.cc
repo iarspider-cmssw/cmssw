@@ -160,3 +160,4 @@ void HcalDbAnalyzer::analyze(const edm::Event& iEvent, const edm::EventSetup& iS
 
 //define this as a plug-in
 DEFINE_FWK_MODULE(HcalDbAnalyzer);
+-- dummy change --

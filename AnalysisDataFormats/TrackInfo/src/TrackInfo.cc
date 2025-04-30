@@ -83,3 +83,4 @@ const LocalPoint TrackInfo::localTrackPositionOnStereo(StateType statetype, Trac
     edm::LogError("TrackInfo") << "This rechit does not exist";
   return LocalPoint(0, 0, 0);
 }
+-- dummy change --

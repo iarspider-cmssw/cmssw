@@ -263,3 +263,4 @@ void OptOOpticalSquare::constructSolidShape() {
       "Box", go * 5. * cm / m, go * 5. * cm / m, go * 5. * cm / m);  //COCOA internal units are meters
 }
 -- dummy change --
+-- dummy change --

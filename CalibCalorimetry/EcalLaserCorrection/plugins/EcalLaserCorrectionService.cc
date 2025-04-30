@@ -115,3 +115,4 @@ void EcalLaserCorrectionService::fillDescriptions(edm::ConfigurationDescriptions
 }
 
 DEFINE_FWK_EVENTSETUP_MODULE(EcalLaserCorrectionService);
+-- dummy change --

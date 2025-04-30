@@ -5,3 +5,4 @@
 
 DEFINE_EDM_PLUGIN(AlignmentAlgorithmPluginFactory, HIPAlignmentAlgorithm, "HIPAlignmentAlgorithm");
 -- dummy change --
+-- dummy change --

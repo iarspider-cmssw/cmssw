@@ -253,3 +253,4 @@ void OptOCubeSplitter::constructSolidShape() {
                                          go * 5. * CLHEP::cm / CLHEP::m);  //COCOA internal units are meters
 }
 -- dummy change --
+-- dummy change --

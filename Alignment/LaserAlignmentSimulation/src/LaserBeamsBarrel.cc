@@ -191,3 +191,4 @@ void LaserBeamsBarrel::setOptPhotonPolar(G4double Angle) {
   theParticleGun->SetParticlePolarization(polar);
 }
 -- dummy change --
+-- dummy change --

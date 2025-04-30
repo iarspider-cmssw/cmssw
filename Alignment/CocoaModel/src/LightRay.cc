@@ -382,3 +382,4 @@ void LightRay::dumpData(const ALIstring& str) const {
   */
 }
 -- dummy change --
+-- dummy change --

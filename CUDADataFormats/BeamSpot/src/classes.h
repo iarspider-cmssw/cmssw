@@ -6,3 +6,4 @@
 #include "DataFormats/Common/interface/Wrapper.h"
 
 #endif  // CUDADataFormats_BeamSpot_classes_h
+-- dummy change --

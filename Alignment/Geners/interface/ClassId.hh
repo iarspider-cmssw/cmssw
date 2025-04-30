@@ -745,3 +745,4 @@ gs_specialize_class_id(float, 0) gs_specialize_class_id(double, 0) gs_specialize
 
 #endif  // GENERS_CLASSID_HH_
 -- dummy change --
+-- dummy change --

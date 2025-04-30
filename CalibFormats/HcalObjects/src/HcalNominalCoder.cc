@@ -65,3 +65,4 @@ void HcalNominalCoder::fC2adc(const CaloSamples& clf, ZDCDataFrame& df, int fCap
 void HcalNominalCoder::fC2adc(const CaloSamples& clf, HcalCalibDataFrame& df, int fCapIdOffset) const {
   HcalNominalCoderTemplate::process(clf, df, fCapIdOffset);
 }
+-- dummy change --

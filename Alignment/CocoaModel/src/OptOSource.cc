@@ -67,3 +67,4 @@ void OptOSource::constructSolidShape() {
                                           go * 2. * CLHEP::cm / CLHEP::m);  //COCOA internal units are meters
 }
 -- dummy change --
+-- dummy change --

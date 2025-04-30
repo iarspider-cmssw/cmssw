@@ -280,3 +280,4 @@ public:
   ClassDefOverride(TEcnaParEcal, 1)  //Init of ECAL parameters
 };
 #endif
+-- dummy change --

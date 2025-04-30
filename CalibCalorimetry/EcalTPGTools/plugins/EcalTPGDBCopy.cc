@@ -229,3 +229,4 @@ void EcalTPGDBCopy::copyToDB(const edm::EventSetup& evtSetup, const std::string&
 
   edm::LogInfo("EcalTPGDBCopy") << "EcalTPGDBCopy wrote " << recordName;
 }
+-- dummy change --

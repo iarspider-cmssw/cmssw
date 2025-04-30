@@ -338,3 +338,4 @@ AlignableObjectId AlignableObjectId ::commonObjectIdProvider(const AlignableObje
   return AlignableObjectId{commonGeometry(first.geometry(), second.geometry())};
 }
 -- dummy change --
+-- dummy change --

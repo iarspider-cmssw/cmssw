@@ -27,3 +27,4 @@ class HcalTPGRecord : public edm::eventsetup::DependentRecordImplementation<
                           edm::mpl::Vector<HcalRecNumberingRecord, IdealGeometryRecord, HcalDbRecord> > {};
 
 #endif
+-- dummy change --

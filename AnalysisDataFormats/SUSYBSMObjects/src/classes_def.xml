@@ -56,3 +56,4 @@
    <class name="susybsm::MuonSegmentRefVector"/>
    <class name="edm::Wrapper<susybsm::MuonSegmentCollection>"/>
 </lcgdict>
+-- dummy change --

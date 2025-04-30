@@ -9,3 +9,4 @@ SiPixelAliDQMModule = DQMEDHarvester("MillePedeDQMModule",
                                      MillePedeFileReader = cms.PSet(MillePedeFileReader_cfi.MillePedeFileReader.clone())
                                      )
 -- dummy change --
+-- dummy change --

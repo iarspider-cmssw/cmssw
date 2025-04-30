@@ -39,3 +39,4 @@ void CSCChipSpeedCorrectionDBConditions::setIntervalFor(const edm::eventsetup::E
                                                         edm::ValidityInterval &oValidity) {
   oValidity = edm::ValidityInterval(edm::IOVSyncValue::beginOfTime(), edm::IOVSyncValue::endOfTime());
 }
+-- dummy change --

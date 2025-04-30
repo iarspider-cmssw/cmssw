@@ -71,3 +71,4 @@ namespace gs {
 
 #endif  // GENERS_CATALOGENTRY_HH_
 -- dummy change --
+-- dummy change --

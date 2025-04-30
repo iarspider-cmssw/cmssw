@@ -596,3 +596,4 @@ void CocoaAnalyzer::runCocoa() {
 
 DEFINE_FWK_MODULE(CocoaAnalyzer);
 -- dummy change --
+-- dummy change --
