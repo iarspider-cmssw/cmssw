@@ -15,3 +15,5 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE::reco {
 }  // namespace ALPAKA_ACCELERATOR_NAMESPACE::reco
 
 #endif  // RecoParticleFlow_PFRecHitProducer_interface_alpaka_PFRecHitParamsDeviceCollection_h
+-- dummy change --
+-- dummy change --

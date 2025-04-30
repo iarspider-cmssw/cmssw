@@ -12,3 +12,5 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 }  // namespace ALPAKA_ACCELERATOR_NAMESPACE
 
 #endif  // DataFormats_PortableTestObjects_interface_alpaka_HGCalSoAClustersExtraDeviceCollection_h
+-- dummy change --
+-- dummy change --

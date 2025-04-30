@@ -9,3 +9,5 @@ hltL1TEGammaHGCFilteredCollectionProducer = cms.EDProducer("L1TEGammaFilteredCol
     qualIsMask = cms.bool(True),
     quality = cms.int32(0b0100),
 )
+-- dummy change --
+-- dummy change --

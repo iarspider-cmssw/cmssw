@@ -10,3 +10,5 @@ hltESPKFTrajectorySmootherForMuonTrackLoader = cms.ESProducer("KFTrajectorySmoot
     errorRescaling = cms.double(10.0),
     minHits = cms.int32(3)
 )
+-- dummy change --
+-- dummy change --

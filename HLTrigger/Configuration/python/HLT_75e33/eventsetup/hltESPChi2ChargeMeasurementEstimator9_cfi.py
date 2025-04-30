@@ -14,3 +14,5 @@ hltESPChi2ChargeMeasurementEstimator9 = cms.ESProducer("Chi2ChargeMeasurementEst
     nSigma = cms.double(3.0),
     pTChargeCutThreshold = cms.double(15.0)
 )
+-- dummy change --
+-- dummy change --

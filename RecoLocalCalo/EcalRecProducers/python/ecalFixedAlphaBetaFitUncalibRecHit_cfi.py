@@ -3,3 +3,5 @@ import  RecoLocalCalo.EcalRecProducers.ecalFixedAlphaBetaFitUncalibRecHitProduce
 # producer of rechits starting from digis
 ecalFixedAlphaBetaFitUncalibRecHit = _mod.ecalFixedAlphaBetaFitUncalibRecHitProducer.clone()
 
+-- dummy change --
+-- dummy change --

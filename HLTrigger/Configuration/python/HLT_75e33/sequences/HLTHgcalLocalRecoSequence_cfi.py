@@ -36,3 +36,5 @@ alpaka.toReplaceWith(HLTHgcalLocalRecoSequence, _HLTHgcalLocalRecoSequence_heter
 alpaka.toModify(hltHgcalMergeLayerClusters,
         layerClustersEE = cms.InputTag("hltHgCalLayerClustersFromSoAProducer"),
         time_layerclustersEE = cms.InputTag("hltHgCalLayerClustersFromSoAProducer", "timeLayerCluster"))
+-- dummy change --
+-- dummy change --

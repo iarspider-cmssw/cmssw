@@ -102,3 +102,5 @@ int AutoParametrizedMagneticFieldProducer::closerNominaCurrent(float current) co
 
 #include "FWCore/Framework/interface/ModuleFactory.h"
 DEFINE_FWK_EVENTSETUP_MODULE(AutoParametrizedMagneticFieldProducer);
+-- dummy change --
+-- dummy change --

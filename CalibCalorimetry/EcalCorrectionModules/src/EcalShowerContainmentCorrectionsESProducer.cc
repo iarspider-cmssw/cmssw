@@ -116,3 +116,5 @@ EcalShowerContainmentCorrectionsESProducer::ReturnType EcalShowerContainmentCorr
 
 // define this as a plug-in
 DEFINE_FWK_EVENTSETUP_MODULE(EcalShowerContainmentCorrectionsESProducer);
+-- dummy change --
+-- dummy change --

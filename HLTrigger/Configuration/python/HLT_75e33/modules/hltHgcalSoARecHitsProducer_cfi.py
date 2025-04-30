@@ -16,3 +16,5 @@ hltHgcalSoARecHitsProducer = cms.EDProducer("HGCalSoARecHitsProducer@alpaka",
     thicknessCorrection = HGCAL_reco_constants.thicknessCorrection,
 )
 
+-- dummy change --
+-- dummy change --

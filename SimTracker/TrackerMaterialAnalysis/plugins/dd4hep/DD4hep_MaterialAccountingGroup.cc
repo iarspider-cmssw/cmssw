@@ -236,3 +236,5 @@ double DD4hep_MaterialAccountingGroup::sigmaEnergyLoss(void) const {
 double DD4hep_MaterialAccountingGroup::averageRadiationLengths(void) const {
   return m_tracks ? m_accounting.radiationLengths() / m_tracks : 0.;
 }
+-- dummy change --
+-- dummy change --

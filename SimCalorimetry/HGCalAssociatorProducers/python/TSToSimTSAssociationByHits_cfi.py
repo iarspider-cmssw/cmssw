@@ -19,3 +19,5 @@ from Configuration.ProcessModifiers.premix_stage2_cff import premix_stage2
 premix_stage2.toModify(allTrackstersToSimTrackstersAssociationsByHits,
     caloParticles = "mixData:MergedCaloTruth",
 )
+-- dummy change --
+-- dummy change --

@@ -33,3 +33,5 @@ hltHgcalLayerClustersHSi = cms.EDProducer("HGCalLayerClusterProducer",
     recHits = cms.InputTag("hltHGCalRecHit","HGCHEFRecHits"),
     timeClname = cms.string('timeLayerCluster')
 )
+-- dummy change --
+-- dummy change --

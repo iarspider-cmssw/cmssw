@@ -4,3 +4,5 @@ ClusterShapeTrajectoryFilter = cms.PSet(
     ComponentType = cms.string('ClusterShapeTrajectoryFilter'),
     cacheSrc = cms.InputTag("hltSiPixelClusterShapeCache")
 )
+-- dummy change --
+-- dummy change --

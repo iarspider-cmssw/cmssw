@@ -5,3 +5,5 @@ hltPhase2L3OIL3MuonCandidates = cms.EDProducer("L3MuonCandidateProducer",
     InputObjects = cms.InputTag("hltPhase2L3OIL3Muons"),
     MuonPtOption = cms.string('Tracker')
 )
+-- dummy change --
+-- dummy change --

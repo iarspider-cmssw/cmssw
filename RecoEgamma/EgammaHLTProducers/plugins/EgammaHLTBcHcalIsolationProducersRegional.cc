@@ -177,3 +177,5 @@ void EgammaHLTBcHcalIsolationProducersRegional::produce(edm::StreamID,
 
 #include "FWCore/Framework/interface/MakerMacros.h"
 DEFINE_FWK_MODULE(EgammaHLTBcHcalIsolationProducersRegional);
+-- dummy change --
+-- dummy change --

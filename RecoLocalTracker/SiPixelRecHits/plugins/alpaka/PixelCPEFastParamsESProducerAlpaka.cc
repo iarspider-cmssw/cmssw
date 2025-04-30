@@ -120,3 +120,5 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 DEFINE_FWK_EVENTSETUP_ALPAKA_MODULE(PixelCPEFastParamsESProducerAlpakaPhase1);
 DEFINE_FWK_EVENTSETUP_ALPAKA_MODULE(PixelCPEFastParamsESProducerAlpakaHIonPhase1);
 DEFINE_FWK_EVENTSETUP_ALPAKA_MODULE(PixelCPEFastParamsESProducerAlpakaPhase2);
+-- dummy change --
+-- dummy change --

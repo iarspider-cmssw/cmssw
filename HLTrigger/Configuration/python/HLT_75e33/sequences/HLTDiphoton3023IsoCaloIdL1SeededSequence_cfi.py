@@ -52,3 +52,5 @@ HLTDiphoton3023IsoCaloIdL1SeededSequence = cms.Sequence(hltEGL1SeedsForDoublePho
                                                         +HLTPFHcalClusteringForEgammaSequence
                                                         +hltEgammaHcalPFClusterIsoL1Seeded
                                                         +hltDiEG3023IsoCaloIdHcalIsoL1SeededFilter)
+-- dummy change --
+-- dummy change --

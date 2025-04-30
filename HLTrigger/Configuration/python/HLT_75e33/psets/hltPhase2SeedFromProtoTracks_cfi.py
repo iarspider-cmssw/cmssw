@@ -9,4 +9,5 @@ hltPhase2SeedFromProtoTracks = cms.PSet(
     forceKinematicWithRegionDirection = cms.bool(False),
     magneticField = cms.string(''),
     propagator = cms.string('PropagatorWithMaterial')
-)
+)-- dummy change --
+-- dummy change --

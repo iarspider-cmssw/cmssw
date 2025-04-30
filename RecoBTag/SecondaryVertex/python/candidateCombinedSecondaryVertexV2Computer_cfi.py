@@ -12,3 +12,5 @@ candidateCombinedSecondaryVertexV2Computer = cms.ESProducer("CandidateCombinedSe
         recordLabel = cms.string(''),
         categoryVariableName = cms.string('vertexCategory')
 )
+-- dummy change --
+-- dummy change --

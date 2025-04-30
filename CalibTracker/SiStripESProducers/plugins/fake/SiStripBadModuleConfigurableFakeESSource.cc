@@ -287,3 +287,5 @@ std::vector<uint32_t> SiStripBadModuleConfigurableFakeESSource::selectDetectors(
 //define this as a plug-in
 #include "FWCore/Framework/interface/SourceFactory.h"
 DEFINE_FWK_EVENTSETUP_SOURCE(SiStripBadModuleConfigurableFakeESSource);
+-- dummy change --
+-- dummy change --

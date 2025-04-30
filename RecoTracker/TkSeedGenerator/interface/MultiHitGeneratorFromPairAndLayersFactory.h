@@ -14,3 +14,5 @@ typedef edmplugin::PluginFactory<MultiHitGeneratorFromPairAndLayers *(const edm:
     MultiHitGeneratorFromPairAndLayersFactory;
 
 #endif
+-- dummy change --
+-- dummy change --

@@ -18,3 +18,5 @@ siStripLorentzAngle.toGet = cms.VPSet(cms.PSet(
 ))
 siStripLorentzAngle.BlobStreamerName = 'TBufferBlobStreamingService'
 
+-- dummy change --
+-- dummy change --

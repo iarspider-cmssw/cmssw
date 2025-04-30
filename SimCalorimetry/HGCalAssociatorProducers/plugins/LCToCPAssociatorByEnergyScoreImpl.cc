@@ -538,3 +538,5 @@ ticl::SimToRecoCollection LCToCPAssociatorByEnergyScoreImpl<HIT>::associateSimTo
 
 template class LCToCPAssociatorByEnergyScoreImpl<HGCRecHit>;
 template class LCToCPAssociatorByEnergyScoreImpl<reco::PFRecHit>;
+-- dummy change --
+-- dummy change --

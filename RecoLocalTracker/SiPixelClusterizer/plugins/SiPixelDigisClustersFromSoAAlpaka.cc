@@ -247,3 +247,5 @@ DEFINE_FWK_MODULE(SiPixelDigisClustersFromSoAAlpakaPhase2);
 
 using SiPixelDigisClustersFromSoAAlpakaHIonPhase1 = SiPixelDigisClustersFromSoAAlpaka<pixelTopology::HIonPhase1>;
 DEFINE_FWK_MODULE(SiPixelDigisClustersFromSoAAlpakaHIonPhase1);
+-- dummy change --
+-- dummy change --

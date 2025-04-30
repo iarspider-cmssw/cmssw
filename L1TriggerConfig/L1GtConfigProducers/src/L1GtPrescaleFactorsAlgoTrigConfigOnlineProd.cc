@@ -179,3 +179,5 @@ std::unique_ptr<L1GtPrescaleFactors> L1GtPrescaleFactorsAlgoTrigConfigOnlineProd
 }
 
 DEFINE_FWK_EVENTSETUP_MODULE(L1GtPrescaleFactorsAlgoTrigConfigOnlineProd);
+-- dummy change --
+-- dummy change --

@@ -18,3 +18,5 @@ bool SeedFromConsecutiveHitsStraightLineCreator::initialKinematic(GlobalTrajecto
 
   return true;
 }
+-- dummy change --
+-- dummy change --

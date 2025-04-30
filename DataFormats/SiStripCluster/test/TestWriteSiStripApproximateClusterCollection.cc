@@ -102,3 +102,5 @@ namespace edmtest {
 
 using edmtest::TestWriteSiStripApproximateClusterCollection;
 DEFINE_FWK_MODULE(TestWriteSiStripApproximateClusterCollection);
+-- dummy change --
+-- dummy change --

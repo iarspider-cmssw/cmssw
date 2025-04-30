@@ -99,3 +99,5 @@ void EcalUncalibRecHitConvertGPU2CPUFormat::produce(edm::Event& event, edm::Even
 }
 
 DEFINE_FWK_MODULE(EcalUncalibRecHitConvertGPU2CPUFormat);
+-- dummy change --
+-- dummy change --

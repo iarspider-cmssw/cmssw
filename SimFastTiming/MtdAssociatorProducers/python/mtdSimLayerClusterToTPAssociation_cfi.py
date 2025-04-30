@@ -6,3 +6,5 @@ mtdSimLayerClusterToTPAssociation = _mtdSimLayerClusterToTPAssociationDefault.cl
 from Configuration.ProcessModifiers.premix_stage2_cff import premix_stage2
 premix_stage2.toModify(mtdSimLayerClusterToTPAssociation, mtdSimClustersTag = "mixData:MergedMtdTruthLC")
 premix_stage2.toModify(mtdSimLayerClusterToTPAssociation, trackingParticlesTag = "mixData:MergedTrackTruth")
+-- dummy change --
+-- dummy change --

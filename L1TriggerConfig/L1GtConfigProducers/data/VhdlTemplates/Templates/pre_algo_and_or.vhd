@@ -165,3 +165,5 @@ ALGO_REG(95 DOWNTO 0) <= pre_algo_a(96 DOWNTO 1);
 $(prealgos)
 
 END ARCHITECTURE rtl;
+-- dummy change --
+-- dummy change --

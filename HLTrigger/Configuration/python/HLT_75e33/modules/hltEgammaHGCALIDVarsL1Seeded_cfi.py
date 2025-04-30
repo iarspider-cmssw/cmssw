@@ -6,3 +6,5 @@ hltEgammaHGCALIDVarsL1Seeded = cms.EDProducer("EgammaHLTHGCalIDVarProducer",
     rCylinder = cms.double(2.8),
     recoEcalCandidateProducer = cms.InputTag("hltEgammaCandidatesL1Seeded")
 )
+-- dummy change --
+-- dummy change --

@@ -6,3 +6,5 @@ from ..sequences.HLTDtlocalrecoSequence_cfi import *
 from ..sequences.HLTGemLocalRecoSequence_cfi import *
 
 HLTMuonlocalrecoSequence = cms.Sequence(HLTCsclocalrecoSequence+HLTDtlocalrecoSequence+HLTGemLocalRecoSequence+hltRpcRecHits)
+-- dummy change --
+-- dummy change --

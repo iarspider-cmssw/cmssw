@@ -484,3 +484,5 @@ namespace alpaka::trait {
 }  // namespace alpaka::trait
 
 #endif  // RecoLocalCalo_EcalRecProducers_plugins_AmplitudeComputationCommonKernels_h
+-- dummy change --
+-- dummy change --

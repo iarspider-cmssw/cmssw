@@ -8,3 +8,5 @@ hltESPTrajectoryCleanerBySharedHits = cms.ESProducer("TrajectoryCleanerESProduce
     allowSharedFirstHit = cms.bool(False),
     fractionShared = cms.double(0.5)
 )
+-- dummy change --
+-- dummy change --

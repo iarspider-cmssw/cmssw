@@ -16,3 +16,5 @@ dqmEnvSiPixelLorentzAngleMCS = DQMEDHarvester('DQMHarvestingMetadata',
                                            )
 
 ALCAHARVESTSiPixelLorentzAngleMCS = cms.Sequence( EDMtoMEConvertSiPixelLorentzAngleMCS + alcaSiPixelLorentzAngleHarvesterMCS + dqmEnvSiPixelLorentzAngleMCS )
+-- dummy change --
+-- dummy change --

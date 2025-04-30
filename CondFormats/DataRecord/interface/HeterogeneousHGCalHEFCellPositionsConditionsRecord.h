@@ -10,3 +10,5 @@ class HeterogeneousHGCalHEFCellPositionsConditionsRecord
                                                             edm::mpl::Vector<IdealGeometryRecord>> {};
 
 #endif  //CondFormats_DataRecord_HeterogeneousHGCalHEFCellPositionsConditionsRecord_h
+-- dummy change --
+-- dummy change --

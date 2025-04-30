@@ -15,3 +15,5 @@ OutALCARECOSiStripCalCosmicsNano_noDrop = cms.PSet(
 import copy
 OutALCARECOSiStripCalCosmicsNano = copy.deepcopy(OutALCARECOSiStripCalCosmicsNano_noDrop)
 OutALCARECOSiStripCalCosmicsNano.outputCommands.insert(0, "drop *")
+-- dummy change --
+-- dummy change --

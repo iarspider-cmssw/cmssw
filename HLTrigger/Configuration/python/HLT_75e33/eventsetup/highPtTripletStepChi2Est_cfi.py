@@ -14,3 +14,5 @@ highPtTripletStepChi2Est = cms.ESProducer("Chi2ChargeMeasurementEstimatorESProdu
     nSigma = cms.double(3),
     pTChargeCutThreshold = cms.double(-1)
 )
+-- dummy change --
+-- dummy change --

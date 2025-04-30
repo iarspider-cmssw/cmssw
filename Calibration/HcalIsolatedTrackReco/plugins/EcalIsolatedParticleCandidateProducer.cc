@@ -250,3 +250,5 @@ void EcalIsolatedParticleCandidateProducer::fillDescriptions(edm::ConfigurationD
 #include "FWCore/Framework/interface/MakerMacros.h"
 
 DEFINE_FWK_MODULE(EcalIsolatedParticleCandidateProducer);
+-- dummy change --
+-- dummy change --

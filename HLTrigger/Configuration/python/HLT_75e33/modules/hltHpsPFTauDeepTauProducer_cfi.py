@@ -31,3 +31,5 @@ hltHpsPFTauDeepTauProducer = cms.EDProducer( "DeepTauId",
     pfTauTransverseImpactParameters = cms.InputTag( "hltHpsPFTauTransverseImpactParametersForDeepTau" ),
     Prediscriminants = cms.PSet(  BooleanOperator = cms.string( "and" ) )
 )
+-- dummy change --
+-- dummy change --

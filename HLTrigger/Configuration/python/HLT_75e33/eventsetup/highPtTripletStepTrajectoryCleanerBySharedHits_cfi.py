@@ -8,3 +8,5 @@ highPtTripletStepTrajectoryCleanerBySharedHits = cms.ESProducer("TrajectoryClean
     allowSharedFirstHit = cms.bool(True),
     fractionShared = cms.double(0.16)
 )
+-- dummy change --
+-- dummy change --

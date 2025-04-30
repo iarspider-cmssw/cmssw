@@ -34,3 +34,5 @@ inline float SiStripCommonModeNoiseSubtractor::median(std::vector<T>& sample) {
   return (*std::max_element(sample.begin(), mid) + *mid) / 2.;
 }
 #endif
+-- dummy change --
+-- dummy change --

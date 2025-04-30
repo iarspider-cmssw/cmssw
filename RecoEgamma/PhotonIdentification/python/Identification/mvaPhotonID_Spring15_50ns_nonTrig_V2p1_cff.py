@@ -82,3 +82,5 @@ central_id_registry.register( mvaPhoID_Spring15_50ns_nonTrig_V2p1_wp90.idName,
                               '9b03aa4412c43fdbd72ea55f2e1a16bc')
 
 mvaPhoID_Spring15_50ns_nonTrig_V2p1_wp90.isPOGApproved = cms.untracked.bool(True)
+-- dummy change --
+-- dummy change --

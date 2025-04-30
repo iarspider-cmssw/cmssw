@@ -12,3 +12,5 @@ hltHpsDoublePFTau40TrackPt1MediumChargedIsolation = cms.EDFilter("HLT1PFTau",
     saveTags = cms.bool(True),
     triggerType = cms.int32(84)
 )
+-- dummy change --
+-- dummy change --

@@ -67,3 +67,5 @@ process.p2 = cms.Path(process.rejectingFilter + process.allCaseGenericConsumer, 
 
 # This path tests that only the chosen case of intProducerAlias was run
 process.p3 = cms.Path(process.test1Consumer + process.test2Consumer)
+-- dummy change --
+-- dummy change --

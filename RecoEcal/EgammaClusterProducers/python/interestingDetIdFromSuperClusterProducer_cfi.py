@@ -12,3 +12,5 @@ interestingDetIdFromSuperClusterProducer = cms.EDProducer("InterestingDetIdFromS
                                                     keepNextToDead = cms.bool(True),
                                                     keepNextToBoundary = cms.bool(True)
                                                     )
+-- dummy change --
+-- dummy change --

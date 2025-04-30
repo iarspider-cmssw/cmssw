@@ -47,3 +47,5 @@ CONSTANT et_bits : integer := 6;
 $(conditions_nr)
 
 END cond_chip_pkg;
+-- dummy change --
+-- dummy change --

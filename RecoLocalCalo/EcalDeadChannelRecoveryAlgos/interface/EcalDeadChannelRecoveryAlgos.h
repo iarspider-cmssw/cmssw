@@ -28,3 +28,5 @@ private:
   EcalDeadChannelRecoveryBDTG<DetIdT> bdtg_;
 };
 #endif
+-- dummy change --
+-- dummy change --

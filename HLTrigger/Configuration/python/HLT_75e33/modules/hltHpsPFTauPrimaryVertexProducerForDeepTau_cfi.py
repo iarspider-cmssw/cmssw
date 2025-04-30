@@ -56,3 +56,5 @@ hltHpsPFTauPrimaryVertexProducerForDeepTau = cms.EDProducer("PFTauPrimaryVertexP
     useBeamSpot = cms.bool(True),
     useSelectedTaus = cms.bool(False)
 )
+-- dummy change --
+-- dummy change --

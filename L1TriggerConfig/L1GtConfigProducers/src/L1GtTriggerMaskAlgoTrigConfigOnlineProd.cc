@@ -92,3 +92,5 @@ std::unique_ptr<L1GtTriggerMask> L1GtTriggerMaskAlgoTrigConfigOnlineProd::newObj
 }
 
 DEFINE_FWK_EVENTSETUP_MODULE(L1GtTriggerMaskAlgoTrigConfigOnlineProd);
+-- dummy change --
+-- dummy change --

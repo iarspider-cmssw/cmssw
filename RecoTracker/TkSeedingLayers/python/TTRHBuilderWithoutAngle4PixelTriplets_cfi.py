@@ -5,3 +5,5 @@ myTTRHBuilderWithoutAngle4PixelTriplets = RecoTracker.TransientTrackingRecHit.Tr
     StripCPE      = 'Fake',
     ComponentName = 'TTRHBuilderWithoutAngle4PixelTriplets'
 )
+-- dummy change --
+-- dummy change --

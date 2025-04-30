@@ -20,3 +20,5 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 }  // namespace ALPAKA_ACCELERATOR_NAMESPACE
 
 #endif  // RecoVertex_PixelVertexFinding_plugins_alpaka_PixelVertexWorkSpaceSoADeviceAlpaka_h
+-- dummy change --
+-- dummy change --

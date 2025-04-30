@@ -35,3 +35,5 @@ protected:
                        CTPPSRPAlignmentCorrectionsDataSequence &seq,
                        const std::vector<std::string> &files) const;
 };
+-- dummy change --
+-- dummy change --

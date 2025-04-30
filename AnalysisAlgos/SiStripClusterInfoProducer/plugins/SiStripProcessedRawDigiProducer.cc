@@ -161,3 +161,5 @@ void SiStripProcessedRawDigiProducer::common_process(const uint32_t detId,
 #include "FWCore/Framework/interface/MakerMacros.h"
 
 DEFINE_FWK_MODULE(SiStripProcessedRawDigiProducer);
+-- dummy change --
+-- dummy change --

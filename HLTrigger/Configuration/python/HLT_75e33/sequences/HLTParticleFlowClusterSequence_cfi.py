@@ -6,3 +6,5 @@ from ..sequences.HLTPfClusteringHBHEHFSequence_cfi import *
 from ..sequences.HLTPfClusteringHOSequence_cfi import *
 
 HLTParticleFlowClusterSequence = cms.Sequence(hltParticleFlowBadHcalPseudoCluster+HLTPfClusteringECALSequence+HLTPfClusteringHBHEHFSequence+HLTPfClusteringHOSequence)
+-- dummy change --
+-- dummy change --

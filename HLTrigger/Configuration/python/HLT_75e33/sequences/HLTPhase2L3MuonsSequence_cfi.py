@@ -13,3 +13,5 @@ HLTPhase2L3MuonsSequence = cms.Sequence(
     + hltPhase2L3Muons
     + hltPhase2L3MuonCandidates
 )
+-- dummy change --
+-- dummy change --

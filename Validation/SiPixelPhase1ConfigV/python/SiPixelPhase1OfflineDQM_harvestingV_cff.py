@@ -10,3 +10,5 @@ siPixelPhase1OfflineDQM_harvestingV = cms.Sequence(SiPixelPhase1DigisHarvesterV
                                                 + SiPixelPhase1TrackingParticleHarvesterV
                                                 )
 
+-- dummy change --
+-- dummy change --

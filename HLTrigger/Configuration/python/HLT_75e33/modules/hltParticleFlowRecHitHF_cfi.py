@@ -39,3 +39,5 @@ hltParticleFlowRecHitHF = cms.EDProducer("PFRecHitProducer",
         thresh_HF = cms.double(0.4)
     ))
 )
+-- dummy change --
+-- dummy change --

@@ -39,3 +39,5 @@ HLTPhoton108EBTightIDTightIsoUnseededSequence = cms.Sequence(hltEGL1SeedsForSing
                                                              +HLTPFHcalClusteringForEgammaSequence
                                                              +hltEgammaHcalPFClusterIsoUnseeded
                                                              +hltPhoton108EBTightIDTightIsoHcalIsoUnseededFilter)
+-- dummy change --
+-- dummy change --

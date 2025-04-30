@@ -20,3 +20,5 @@
 #endif  // ALPAKA_ACC_CPU_B_SEQ_T_SEQ_ENABLED
 
 #endif  // HeterogeneousCore_AlpakaInterface_interface_AssertDeviceMatchesHostCollection_h
+-- dummy change --
+-- dummy change --

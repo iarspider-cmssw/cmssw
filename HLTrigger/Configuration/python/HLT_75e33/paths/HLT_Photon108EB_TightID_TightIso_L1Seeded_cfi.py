@@ -9,3 +9,5 @@ HLT_Photon108EB_TightID_TightIso_L1Seeded = cms.Path(
     HLTPhoton108EBTightIDTightIsoL1SeededSequence +
     HLTEndSequence
 )
+-- dummy change --
+-- dummy change --

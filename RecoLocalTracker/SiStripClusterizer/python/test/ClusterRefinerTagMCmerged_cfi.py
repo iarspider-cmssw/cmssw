@@ -17,3 +17,5 @@ siStripClusters = cms.EDProducer("ClusterRefinerTagMCmerged",
     associateStrip = cms.bool(True)
   )
 )
+-- dummy change --
+-- dummy change --

@@ -27,3 +27,5 @@ _generator = cms.EDFilter("Pythia8GeneratorFilter",
 
 from GeneratorInterface.Core.ExternalGeneratorFilter import ExternalGeneratorFilter
 generator = ExternalGeneratorFilter(_generator)
+-- dummy change --
+-- dummy change --

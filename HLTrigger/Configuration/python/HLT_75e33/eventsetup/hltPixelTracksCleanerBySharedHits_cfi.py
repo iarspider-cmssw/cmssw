@@ -5,3 +5,5 @@ hltPixelTracksCleanerBySharedHits = cms.ESProducer("PixelTrackCleanerBySharedHit
     appendToDataLabel = cms.string(''),
     useQuadrupletAlgo = cms.bool(False)
 )
+-- dummy change --
+-- dummy change --

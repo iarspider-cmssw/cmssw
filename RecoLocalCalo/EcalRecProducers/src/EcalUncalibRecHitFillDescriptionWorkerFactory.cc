@@ -5,3 +5,5 @@
 #include "RecoLocalCalo/EcalRecProducers/interface/EcalUncalibRecHitFillDescriptionWorkerFactory.h"
 EDM_REGISTER_PLUGINFACTORY(EcalUncalibRecHitFillDescriptionWorkerFactory,
                            "EcalUncalibRecHitFillDescriptionWorkerFactory");
+-- dummy change --
+-- dummy change --

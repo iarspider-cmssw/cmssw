@@ -278,3 +278,5 @@ GlobalPoint CrossingPtBasedLinearizationPointFinder::getLinearizationPoint(
 
   return GlobalPoint(0., 0., 0.);  // if nothing else, then return 0,0,0
 }
+-- dummy change --
+-- dummy change --

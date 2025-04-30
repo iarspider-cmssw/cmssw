@@ -8,3 +8,5 @@ hltHpsPFTauTrackFindingDiscriminator = cms.EDProducer("PFRecoTauDiscriminationBy
     ),
     UseOnlyChargedHadrons = cms.bool(True)
 )
+-- dummy change --
+-- dummy change --

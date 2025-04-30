@@ -31,3 +31,5 @@ private:
 };
 
 #endif  // ConfigurationDatabaseStandardXMLParser_hh_included
+-- dummy change --
+-- dummy change --

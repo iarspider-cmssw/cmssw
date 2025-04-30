@@ -9,3 +9,5 @@ hltHpsSelectedPFTausTrackFinding = cms.EDFilter("PFTauSelector",
     )),
     src = cms.InputTag("hltHpsPFTauProducer")
 )
+-- dummy change --
+-- dummy change --

@@ -47,3 +47,5 @@ std::unique_ptr<SiPixelGainCalibrationForHLTGPU> SiPixelGainCalibrationForHLTGPU
 #include "FWCore/Framework/interface/eventsetuprecord_registration_macro.h"
 
 DEFINE_FWK_EVENTSETUP_MODULE(SiPixelGainCalibrationForHLTGPUESProducer);
+-- dummy change --
+-- dummy change --

@@ -140,3 +140,5 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 
 }  //namespace ALPAKA_ACCELERATOR_NAMESPACE
 DEFINE_FWK_ALPAKA_MODULE(EcalUncalibRecHitPhase2WeightsProducerPortable);
+-- dummy change --
+-- dummy change --

@@ -51,3 +51,5 @@ bool SeedFromConsecutiveHitsTripletOnlyCreator::initialKinematic(GlobalTrajector
   }
   return (filter ? filter->compatible(hits, kine, helix) : true);
 }
+-- dummy change --
+-- dummy change --

@@ -5,3 +5,5 @@ from ..modules.hltParticleFlowClusterHCAL_cfi import *
 from ..modules.hltParticleFlowRecHitHBHE_cfi import *
 
 HLTPFHcalClusteringForEgammaSequence = cms.Sequence(hltParticleFlowRecHitHBHE+hltParticleFlowClusterHBHE+hltParticleFlowClusterHCAL)
+-- dummy change --
+-- dummy change --

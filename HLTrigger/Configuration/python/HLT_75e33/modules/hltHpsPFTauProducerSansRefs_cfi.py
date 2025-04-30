@@ -43,3 +43,5 @@ hltHpsPFTauProducerSansRefs = cms.EDProducer("RecoTauCleaner",
     src = cms.InputTag("hltHpsCombinatoricRecoTaus"),
     verbosity = cms.int32(0)
 )
+-- dummy change --
+-- dummy change --

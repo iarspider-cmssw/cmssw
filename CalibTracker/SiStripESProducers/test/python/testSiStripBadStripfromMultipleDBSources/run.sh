@@ -32,3 +32,5 @@ echo -e "\n read"
 cmsRun read_DummyCondDBWriter_SiStripQuality_cfg.py
 [ $? -ne 0 ] && echo -e "\n Problem in read" && exit
 
+-- dummy change --
+-- dummy change --

@@ -15,3 +15,5 @@ _generator = cms.EDFilter("ReggeGribovPartonMCGeneratorFilter",
 
 from GeneratorInterface.Core.ExternalGeneratorFilter import ExternalGeneratorFilter
 generator = ExternalGeneratorFilter(_generator)
+-- dummy change --
+-- dummy change --

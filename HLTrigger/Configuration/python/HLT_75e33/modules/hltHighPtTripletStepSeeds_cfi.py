@@ -14,3 +14,5 @@ hltHighPtTripletStepSeeds = cms.EDProducer("SeedCreatorFromRegionConsecutiveHits
     propagator = cms.string('PropagatorWithMaterial'),
     seedingHitSets = cms.InputTag("hltHighPtTripletStepHitTriplets")
 )
+-- dummy change --
+-- dummy change --

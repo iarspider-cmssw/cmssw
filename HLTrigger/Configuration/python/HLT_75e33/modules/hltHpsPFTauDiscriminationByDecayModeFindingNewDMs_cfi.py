@@ -108,3 +108,5 @@ hltHpsPFTauDiscriminationByDecayModeFindingNewDMs = cms.EDProducer("PFRecoTauDis
     requireTauChargedHadronsToBeChargedPFCands = cms.bool(False),
     verbosity = cms.int32(0)
 )
+-- dummy change --
+-- dummy change --

@@ -17,3 +17,5 @@ typedef edmplugin::PluginFactory<TrackingRecHitAlgorithm*(
     TrackingRecHitAlgorithmFactory;
 
 #endif
+-- dummy change --
+-- dummy change --

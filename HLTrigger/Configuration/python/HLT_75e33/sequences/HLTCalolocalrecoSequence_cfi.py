@@ -4,3 +4,5 @@ from ..sequences.HLTDoFullUnpackingEgammaEcalSequence_cfi import *
 from ..sequences.HLTDoLocalHcalSequence_cfi import *
 
 HLTCalolocalrecoSequence = cms.Sequence(HLTDoFullUnpackingEgammaEcalSequence+HLTDoLocalHcalSequence)
+-- dummy change --
+-- dummy change --

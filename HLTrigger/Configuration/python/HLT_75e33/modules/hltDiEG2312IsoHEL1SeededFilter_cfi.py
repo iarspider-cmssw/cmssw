@@ -30,3 +30,5 @@ hltDiEG2312IsoHEL1SeededFilter = cms.EDFilter("HLTEgammaGenericQuadraticEtaFilte
     useEt = cms.bool(False),
     varTag = cms.InputTag("hltEgammaHoverEL1Seeded")
 )
+-- dummy change --
+-- dummy change --

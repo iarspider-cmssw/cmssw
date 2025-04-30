@@ -9,3 +9,5 @@ hltPhase2TrimmedPixelVertices = cms.EDProducer("PixelVertexCollectionTrimmer",
         refToPSet_ = cms.string("pSetPvClusterComparerForIT"),
     )
 )
+-- dummy change --
+-- dummy change --

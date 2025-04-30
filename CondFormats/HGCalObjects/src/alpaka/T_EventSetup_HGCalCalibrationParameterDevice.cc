@@ -3,3 +3,5 @@
 
 TYPELOOKUP_ALPAKA_DATA_REG(hgcalrechit::HGCalCalibParamDevice);
 TYPELOOKUP_ALPAKA_DATA_REG(hgcalrechit::HGCalConfigParamDevice);
+-- dummy change --
+-- dummy change --

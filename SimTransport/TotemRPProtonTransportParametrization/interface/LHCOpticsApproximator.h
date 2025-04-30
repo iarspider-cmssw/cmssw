@@ -230,3 +230,5 @@ private:
   ClassDef(LHCApertureApproximator, 1)  // Aperture approximator
 };
 #endif  //TotemRPProtonTransportParametrization_LHC_OPTICS_APPROXIMATOR_H
+-- dummy change --
+-- dummy change --

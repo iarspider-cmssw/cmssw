@@ -105,3 +105,5 @@ HLT_Ele30_WPTight_L1Seeded_LooseDeepTauPFTauHPS30_eta2p1_CrossL1 = cms.Path(
     hltHpsPFTau30LooseTauWPDeepTau +
     HLTEndSequence
 )
+-- dummy change --
+-- dummy change --

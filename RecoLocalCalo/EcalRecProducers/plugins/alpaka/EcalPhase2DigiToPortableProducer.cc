@@ -83,3 +83,5 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE {
 }  // namespace ALPAKA_ACCELERATOR_NAMESPACE
 
 DEFINE_FWK_ALPAKA_MODULE(EcalPhase2DigiToPortableProducer);
+-- dummy change --
+-- dummy change --

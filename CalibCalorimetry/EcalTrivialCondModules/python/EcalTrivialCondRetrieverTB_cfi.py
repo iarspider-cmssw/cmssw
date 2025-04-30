@@ -16,3 +16,5 @@ EcalTrivialConditionRetriever = cms.ESSource("EcalTrivialConditionRetriever",
 )
 
 
+-- dummy change --
+-- dummy change --

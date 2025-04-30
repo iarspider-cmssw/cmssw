@@ -28,3 +28,5 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE::ecal::multifit {
 }  // namespace ALPAKA_ACCELERATOR_NAMESPACE::ecal::multifit
 
 #endif  // RecoLocalCalo_EcalRecProducers_plugins_alpaka_EcalUncalibRecHitMultiFitAlgoPortable_h
+-- dummy change --
+-- dummy change --

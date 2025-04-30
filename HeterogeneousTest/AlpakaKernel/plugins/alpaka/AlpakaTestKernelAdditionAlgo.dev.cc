@@ -20,3 +20,5 @@ namespace ALPAKA_ACCELERATOR_NAMESPACE::HeterogeneousTestAlpakaKernelPlugins {
   }
 
 }  // namespace ALPAKA_ACCELERATOR_NAMESPACE::HeterogeneousTestAlpakaKernelPlugins
+-- dummy change --
+-- dummy change --

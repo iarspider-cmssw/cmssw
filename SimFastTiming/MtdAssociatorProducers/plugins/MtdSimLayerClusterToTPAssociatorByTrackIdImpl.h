@@ -22,3 +22,5 @@ public:
 private:
   edm::EDProductGetter const *productGetter_;
 };
+-- dummy change --
+-- dummy change --
