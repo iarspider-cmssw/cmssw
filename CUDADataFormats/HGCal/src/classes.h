@@ -7,3 +7,4 @@
 #include "CUDADataFormats/HGCal/interface/HGCRecHitCPUProduct.h"
 
 #endif  //HGCRECHITSOA_CLASSES_H
+-- dummy change --

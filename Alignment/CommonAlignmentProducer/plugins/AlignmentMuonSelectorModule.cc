@@ -56,3 +56,5 @@ private:
 typedef ObjectSelector<MuonConfigSelector> AlignmentMuonSelectorModule;
 
 DEFINE_FWK_MODULE(AlignmentMuonSelectorModule);
+-- dummy change --
+-- dummy change --

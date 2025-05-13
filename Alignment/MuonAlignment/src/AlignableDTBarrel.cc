@@ -107,3 +107,5 @@ AlignmentErrorsExtended* AlignableDTBarrel::alignmentErrors(void) const {
 
   return m_alignmentErrors;
 }
+-- dummy change --
+-- dummy change --

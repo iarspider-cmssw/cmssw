@@ -14,3 +14,4 @@
 <library file="TrackInfoAnalyzerExample.cc" name="TrackInfoAnalyzerExample">
   <flags EDM_PLUGIN="1"/>
 </library>
+-- dummy change --

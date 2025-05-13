@@ -102,3 +102,4 @@ void SiStripRegionCabling::print(std::stringstream &ss) const {
   }
   ss << "Number of connected:   " << valid << std::endl << "Number of connections: " << total << std::endl;
 }
+-- dummy change --

@@ -37,3 +37,4 @@ void CSCGasGainCorrectionDBConditions::setIntervalFor(const edm::eventsetup::Eve
                                                       edm::ValidityInterval &oValidity) {
   oValidity = edm::ValidityInterval(edm::IOVSyncValue::beginOfTime(), edm::IOVSyncValue::endOfTime());
 }
+-- dummy change --

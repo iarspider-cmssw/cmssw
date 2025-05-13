@@ -59,3 +59,4 @@ namespace CastorDbASCIIIO {
   void dumpId(std::ostream& fOutput, DetId id);
 }  // namespace CastorDbASCIIIO
 #endif
+-- dummy change --

@@ -337,3 +337,5 @@ AlignableObjectId AlignableObjectId ::commonObjectIdProvider(const AlignableObje
                                                              const AlignableObjectId &second) {
   return AlignableObjectId{commonGeometry(first.geometry(), second.geometry())};
 }
+-- dummy change --
+-- dummy change --

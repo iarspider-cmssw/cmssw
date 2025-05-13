@@ -16,3 +16,4 @@ HcalCalibrationWidths::HcalCalibrationWidths(const float fGain[4],
     mEffectivePedestal[iCap] = fEffectivePedestal[iCap];
   }
 }
+-- dummy change --

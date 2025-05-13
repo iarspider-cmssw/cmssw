@@ -48,3 +48,5 @@ namespace gs {
 }  // namespace gs
 
 #endif  // GENERS_STRIPPEDTYPE_HH_
+-- dummy change --
+-- dummy change --

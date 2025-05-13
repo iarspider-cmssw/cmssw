@@ -107,3 +107,4 @@ unsigned int EcalTPGScale::getTPGInADC(double energy, const EcalTrigTowerDetId& 
 
   return tpgADC;
 }
+-- dummy change --

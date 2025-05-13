@@ -14,3 +14,5 @@ typedef edmplugin::PluginFactory<AlignmentAlgorithmBase*(const edm::ParameterSet
     AlignmentAlgorithmPluginFactory;
 
 #endif
+-- dummy change --
+-- dummy change --

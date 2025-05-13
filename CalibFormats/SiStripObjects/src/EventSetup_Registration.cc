@@ -26,3 +26,4 @@ TYPELOOKUP_DATA_REG(SiStripClusterizerConditions);
 
 #include "CalibFormats/SiStripObjects/interface/SiStripClusterizerConditionsGPU.h"
 TYPELOOKUP_DATA_REG(stripgpu::SiStripClusterizerConditionsGPU);
+-- dummy change --

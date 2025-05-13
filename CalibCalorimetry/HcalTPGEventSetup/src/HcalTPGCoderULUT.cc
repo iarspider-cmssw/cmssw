@@ -185,3 +185,4 @@ HcalTPGCoderULUT::ReturnType HcalTPGCoderULUT::produce(const HcalTPGRecord& iRec
 
 //define this as a plug-in
 DEFINE_FWK_EVENTSETUP_MODULE(HcalTPGCoderULUT);
+-- dummy change --

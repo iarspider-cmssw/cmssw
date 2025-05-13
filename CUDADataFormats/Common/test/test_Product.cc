@@ -66,3 +66,4 @@ TEST_CASE("Use of cms::cuda::Product template", "[CUDACore]") {
   cudaCheck(cudaDeviceSynchronize());
   // Note: CUDA resources are cleaned up by the destructors of the global cache objects
 }
+-- dummy change --

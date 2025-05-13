@@ -43,3 +43,4 @@ namespace ecal {
 }  // namespace ecal
 
 #endif  // CUDADataFormats_EcalRecHitSoA_interface_EcalUncalibratedRecHit_h
+-- dummy change --

@@ -59,3 +59,5 @@ RigidBodyAlignmentParameters4D *RigidBodyAlignmentParameters4D::cloneFromSelecte
 
 //__________________________________________________________________________________________________
 int RigidBodyAlignmentParameters4D::type() const { return AlignmentParametersFactory::kRigidBody4D; }
+-- dummy change --
+-- dummy change --

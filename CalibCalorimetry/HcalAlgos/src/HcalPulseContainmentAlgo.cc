@@ -96,3 +96,4 @@ std::pair<double, double> HcalPulseContainmentAlgo::calcpair(double truefc) {
   std::pair<double, double> thepair(recofc, corfactor);
   return thepair;
 }
+-- dummy change --

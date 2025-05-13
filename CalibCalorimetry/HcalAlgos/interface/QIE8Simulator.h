@@ -166,3 +166,4 @@ private:
 };
 
 #endif  // CalibCalorimetry_HcalAlgos_QIE8Simulator_h_
+-- dummy change --

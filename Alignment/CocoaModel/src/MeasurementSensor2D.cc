@@ -152,3 +152,5 @@ void MeasurementSensor2D::correctValueAndSigma() {
     std::cout << "MeasurementSensor2D::correctValueAndSigma: old value Y " << value()[1] << " new " << val << std::endl;
   setValue(1, val);
 }
+-- dummy change --
+-- dummy change --

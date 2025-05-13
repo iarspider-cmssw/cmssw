@@ -372,3 +372,5 @@ AlignTransformErrorExtended* CocoaDBMgr::GetAlignInfoErrorFromOptO(OpticalObject
   //t  return alignError;
   return (AlignTransformErrorExtended*)nullptr;
 }
+-- dummy change --
+-- dummy change --

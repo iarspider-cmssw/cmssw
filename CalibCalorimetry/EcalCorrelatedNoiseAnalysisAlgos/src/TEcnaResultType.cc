@@ -221,3 +221,4 @@ CnaResultTyp TEcnaResultType::GetTypOfEntry(Int_t kEntry) {
 
   return xResultType;
 }
+-- dummy change --

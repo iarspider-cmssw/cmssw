@@ -106,3 +106,5 @@ void AlignmentProducer::endLuminosityBlock(const edm::LuminosityBlock &lumiBlock
 }
 
 DEFINE_FWK_LOOPER(AlignmentProducer);
+-- dummy change --
+-- dummy change --

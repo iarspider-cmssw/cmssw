@@ -4,3 +4,4 @@
   <class name="SiStripClustersCUDAHost" persistent="false"/>
   <class name="edm::Wrapper<SiStripClustersCUDAHost>" persistent="false"/>
 </lcgdict>
+-- dummy change --

@@ -7,3 +7,4 @@
 typedef edmplugin::PluginFactory<CSCIndexerBase *(void)> CSCIndexerFactory;
 
 #endif
+-- dummy change --

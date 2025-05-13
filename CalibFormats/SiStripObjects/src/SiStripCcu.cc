@@ -22,3 +22,4 @@ void SiStripCcu::addDevices(const FedChannelConnection &conn) {
     imod->addDevices(conn);
   }
 }
+-- dummy change --

@@ -381,3 +381,5 @@ void LightRay::dumpData(const ALIstring& str) const {
   ALIUtils::dump3v( dirn, "$$ LightRay direction: ");
   */
 }
+-- dummy change --
+-- dummy change --

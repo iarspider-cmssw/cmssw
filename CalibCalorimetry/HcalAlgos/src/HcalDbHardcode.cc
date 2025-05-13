@@ -776,3 +776,4 @@ void HcalDbHardcode::makeHardcodeTPParameters(HcalTPParameters& tppar) const {
   // TDC mask for HF, Self Trigger bits, auxiliary words
   tppar.loadObject(0, 0, 0xFFFFFFFFFFFFFFFF, 0, 0, 0);
 }
+-- dummy change --

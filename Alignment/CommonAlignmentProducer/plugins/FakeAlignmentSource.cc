@@ -156,3 +156,5 @@ void FakeAlignmentSource::setIntervalFor(const edm::eventsetup::EventSetupRecord
 
 //define this as a plug-in
 DEFINE_FWK_EVENTSETUP_SOURCE(FakeAlignmentSource);
+-- dummy change --
+-- dummy change --

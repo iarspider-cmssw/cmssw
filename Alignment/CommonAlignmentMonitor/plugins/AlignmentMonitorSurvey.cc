@@ -57,3 +57,5 @@ void AlignmentMonitorSurvey::book() {
 
 #include "Alignment/CommonAlignmentMonitor/interface/AlignmentMonitorPluginFactory.h"
 DEFINE_EDM_PLUGIN(AlignmentMonitorPluginFactory, AlignmentMonitorSurvey, "AlignmentMonitorSurvey");
+-- dummy change --
+-- dummy change --

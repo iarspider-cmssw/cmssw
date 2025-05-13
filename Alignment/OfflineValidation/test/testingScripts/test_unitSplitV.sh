@@ -14,3 +14,5 @@ echo "TESTING SplotV merge step"
 pushd test_yaml/SplitV/merge/testUnits/1/
 ./SplitVmerge validation.json --verbose || die "Failure running PV merge step" $?
 popd
+-- dummy change --
+-- dummy change --

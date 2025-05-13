@@ -23,3 +23,4 @@ private:
   double mEffectivePedestal[4];
 };
 #endif
+-- dummy change --

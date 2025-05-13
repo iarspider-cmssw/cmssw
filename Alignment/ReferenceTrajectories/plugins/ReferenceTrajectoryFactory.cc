@@ -180,3 +180,4 @@ const TrajectoryFactoryBase *ReferenceTrajectoryFactory::bzeroFactory() const {
 }
 
 DEFINE_EDM_PLUGIN(TrajectoryFactoryPlugin, ReferenceTrajectoryFactory, "ReferenceTrajectoryFactory");
+-- dummy change --

@@ -48,3 +48,5 @@ typedef std::vector<AlignableAbsData> AlignablePositions;
 typedef std::vector<AlignableRelData> AlignableShifts;
 
 #endif
+-- dummy change --
+-- dummy change --

@@ -1229,3 +1229,4 @@ void HcalHardcodeCalibrations::fillDescriptions(edm::ConfigurationDescriptions& 
 
   descriptions.addDefault(desc);
 }
+-- dummy change --

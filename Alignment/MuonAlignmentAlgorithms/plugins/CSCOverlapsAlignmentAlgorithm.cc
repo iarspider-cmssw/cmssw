@@ -468,3 +468,5 @@ void CSCOverlapsAlignmentAlgorithm::terminate(const edm::EventSetup& iSetup) {
 
 #include "Alignment/CommonAlignmentAlgorithm/interface/AlignmentAlgorithmPluginFactory.h"
 DEFINE_EDM_PLUGIN(AlignmentAlgorithmPluginFactory, CSCOverlapsAlignmentAlgorithm, "CSCOverlapsAlignmentAlgorithm");
+-- dummy change --
+-- dummy change --

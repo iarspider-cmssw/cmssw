@@ -17,3 +17,5 @@ ALCARECOTkAlMinBiasHI.trackQualities = cms.vstring("highPurity")
 #ALCARECOTkAlMinBiasHI.pMin = 3.0 ##GeV
 
 seqALCARECOTkAlMinBiasHI = cms.Sequence(ALCARECOTkAlMinBiasHIHLT+ALCARECOTkAlMinBiasHIDCSFilter+ALCARECOTkAlMinBiasHI)
+-- dummy change --
+-- dummy change --

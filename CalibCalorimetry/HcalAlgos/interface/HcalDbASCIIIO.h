@@ -145,3 +145,4 @@ namespace HcalDbASCIIIO {
   void dumpIdShort(std::ostream& fOutput, DetId id);
 }  // namespace HcalDbASCIIIO
 #endif
+-- dummy change --

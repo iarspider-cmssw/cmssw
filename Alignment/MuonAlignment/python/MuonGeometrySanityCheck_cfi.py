@@ -51,3 +51,5 @@ def detectors(dt=True, csc=True, me42=False, chambers=True, superlayers=False, l
                                 output.append(name)
 
     return output
+-- dummy change --
+-- dummy change --

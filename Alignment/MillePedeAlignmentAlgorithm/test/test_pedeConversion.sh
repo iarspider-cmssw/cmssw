@@ -12,3 +12,5 @@ INPUTFILE=convertedFromResFile.db
 
 echo -e "\n\n============== testing converted file corresponds to input"
 (cmsRun ${SCRAM_TEST_PATH}/AlignmentRcdChecker_cfg.py inputSqliteFile=${INPUTFILE}) || die 'failed running AlignmentRcdChecker' $?
+-- dummy change --
+-- dummy change --

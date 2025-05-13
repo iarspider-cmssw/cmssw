@@ -50,3 +50,5 @@ bool MillePedeVariables::isFixed(unsigned int nParam) const {
 
   return (this->preSigma()[nParam] < 0.);
 }
+-- dummy change --
+-- dummy change --

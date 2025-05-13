@@ -307,3 +307,5 @@ void AlignmentExtendedCorrelationsStore::resizeCorruptCorrelations(ExtendedCorre
     entry *= 1. - (maxCorr - theCut) / (1. - theCut) * (1. - theWeight);
   }
 }
+-- dummy change --
+-- dummy change --

@@ -47,3 +47,5 @@ const AlignmentPositionError* AlignableDetOrUnitPtr::alignmentPositionError() co
   else
     return nullptr;
 }
+-- dummy change --
+-- dummy change --

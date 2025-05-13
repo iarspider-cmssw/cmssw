@@ -257,3 +257,4 @@ float EcalLaserDbService::getLaserCorrection(DetId const& xid, edm::Timestamp co
 }
 
 TYPELOOKUP_DATA_REG(EcalLaserDbService);
+-- dummy change --
